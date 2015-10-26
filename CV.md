@@ -1,7 +1,7 @@
 #Education
 - 2011 | MLIS. Library and Information Studies, Florida State University
 - 2009 | M.A. American and Florida Studies, Florida State University.  
-Thesis: Music Scenes in America: Gainesville, Florida as a Case Study for Historicizing Subculture
+  - Thesis: Music Scenes in America: Gainesville, Florida as a Case Study for Historicizing Subculture
 - 2006 | B.A. Humanities, Florida State University
 
 #Employment
@@ -42,7 +42,7 @@ Florida State University
 
 - Evolving in common: Creating mutually supportive relationships between libraries and the digital humanities. Vandegrift, M., & Varner, S. Journal of Library Administration, 53(1), 67-78. http://pid.emory.edu/ark:/25593/cwzbf 
 
-- This article was also included in Make it New? A dh+lib Mini Series. Roxann Shirazi, Sarah Potvin, & Zach Coble (Eds.), Online: DH+Lib (ACRL). http://acrl.ala.org/dh/2013/06/28/make-it-new-a-dhlib-mini-series-the-ebook/ 
+  - This article was also included in Make it New? A dh+lib Mini Series. Roxann Shirazi, Sarah Potvin, & Zach Coble (Eds.), Online: DH+Lib (ACRL). http://acrl.ala.org/dh/2013/06/28/make-it-new-a-dhlib-mini-series-the-ebook/ 
 
 - AHAGate: In Retrospect. Invited summary of responses to the American Historical Association’s statement about Theses and Dissertations. https://micahvandegrift.wordpress.com/2013/08/15/ahagate-in-retrospect/ 
 
