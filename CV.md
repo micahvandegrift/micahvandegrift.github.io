@@ -19,14 +19,14 @@ Florida State University
 - 2014 | Visiting Scholar, Columbia University Libraries, Center for Digital Research and Scholarship
 - 2013 | Mover and Shaker (Community Builder), Library Journal
 
-#Research Institute Involvement
-- Triangle Scholarly Communication Institute, 2015. Vandegrift, M., Sugimoto, C., Jackson, K., Hathcock, A., Coble, Z., Holbrook, J. B. (2015). Modeling Contributorship with TaDiRAH - Applying a Community-Based Taxonomy to Digital Projects. http://bit.ly/tadirize
-
-- Humanities Intensive Learning and Teaching (HILT2015) – Digital Pedagogy and Networked Learning. Collaboratively compiled by course participants. Accessible at http://bit.ly/HILTschedule. License: CC-BY 4.0
-
 #Scholarship
 ##2015
 - Availability and accessibility in an open access institutional repository: a case study. Lee, J., Burnett, G., Baeg, J. H., Vandegrift, M., & Morris, R. Information Research, 20(1), 1-18. http://InformationR.net/ir/20-1/paper661.html
+
+###Research Institute Involvement
+- Triangle Scholarly Communication Institute, 2015. Vandegrift, M., Sugimoto, C., Jackson, K., Hathcock, A., Coble, Z., Holbrook, J. B. (2015). Modeling Contributorship with TaDiRAH - Applying a Community-Based Taxonomy to Digital Projects. http://bit.ly/tadirize
+
+- Humanities Intensive Learning and Teaching (HILT2015) – Digital Pedagogy and Networked Learning. Collaboratively compiled by course participants. Accessible at http://bit.ly/HILTschedule. License: CC-BY 4.0
 
 ##2014
 - Scholarly Communication is People: Its Our Time: Three crazy ideas for LIS to “own” open access. Keynote address delivered at Association of College and Research Libraries - New York Chapter https://micahvandegrift.wordpress.com/2014/12/17/changelispublishing/ 
