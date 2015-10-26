@@ -68,20 +68,20 @@ Florida State University
 - Co-Chair, Faculty Senate Library Committee - Scholarly Communications Task
 Force (2013– )
 
-- Editorial Board Member, Journal of Librarianship and Scholarly Communication (2014– ).
+- Editorial Board Member, Journal of Librarianship and Scholarly Communication (2014– )
 
-- Advisory Board Member, (ARCS) Advancing Research and Communication and Scholarship
+- Advisory Board Member, Advancing Research and Communication and Scholarship (2014- )
 
 - Chair-elect, Grant Review Panel, Institute for Museum and Library Services – Library Services and Technology Act State of Florida (2013–2019)
 
 - Council Member, THATCamp (The Humanities and Technology Camp) Council
-(2014– ).
+(2014– )
 
-- Representative, Library Publishing Coalition, Founding member (2013– ).
+- Representative, Library Publishing Coalition, Founding member (2013– )
 
 #Service Appointments Fulfilled
 - Coordinating Committee Member - Coalition of Open Access Policy Institutions
-(2012–2015).
+(2012–2015)
 - Editor/Author, In The Library with the Lead Pipe (2012–2014)
-- Referee - Journal of Electronic Publishing, Journal of Librarianship and Scholarly Communication, Journal of Interlibrary Loan, Document Delivery & Electronic Reserves, Journal of Education in Library and Information Science.
+- Referee - Journal of Electronic Publishing, Journal of Librarianship and Scholarly Communication, Journal of Interlibrary Loan, Document Delivery & Electronic Reserves, Journal of Education in Library and Information Science
 - Committee Member, Annual Conference Innovations Committee, Association of College and Research Libraries (2011–2013)
