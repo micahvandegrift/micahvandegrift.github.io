@@ -1,7 +1,7 @@
 #Education
 - 2011 | MLIS. Library and Information Studies, Florida State University
-- 2009 | M.A. American and Florida Studies, Florida State University. 
-- -  Thesis: Music Scenes in America: Gainesville, Florida as a Case Study for Historicizing Subculture
+- 2009 | M.A. American and Florida Studies, Florida State University.  
+Thesis: Music Scenes in America: Gainesville, Florida as a Case Study for Historicizing Subculture
 - 2006 | B.A. Humanities, Florida State University
 
 #Employment
