@@ -182,24 +182,24 @@ Representative, Library Publishing Coalition, Founding member (2013– )
 Service Appointments Fulfilled
 ==============================
 
--   Coordinating Committee Member - Coalition of Open Access Policy
+Coordinating Committee Member - Coalition of Open Access Policy
     Institutions (2012–2015)
 
--   Co-Chair, Faculty Senate Library Committee - Scholarly
+Co-Chair, Faculty Senate Library Committee - Scholarly
     Communications Task Force (2013–2015)
 
--   Chair, Copyright Committee – Copyright Committee, Florida State
+Chair, Copyright Committee – Copyright Committee, Florida State
     University Libraries (2012-2015)
 
--   Committee member – Professional Development, Research and Travel
+Committee member – Professional Development, Research and Travel
     Committee, Florida State University Libraries (2012-2014)
 
--   Editor/Author, In The Library with the Lead Pipe (2012–2014)
+Editor/Author, In The Library with the Lead Pipe (2012–2014)
 
--   Committee Member, Annual Conference Innovations Committee,
+Committee Member, Annual Conference Innovations Committee,
     Association of College and Research Libraries (2011–2013)
 
--   Referee - Journal of Electronic Publishing, Journal of Librarianship
+Referee - Journal of Electronic Publishing, Journal of Librarianship
     and Scholarly Communication, Journal of Interlibrary Loan, Document
     Delivery & Electronic Reserves, Journal of Education in Library and
     Information Science
