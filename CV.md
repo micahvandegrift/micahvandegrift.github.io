@@ -72,6 +72,9 @@ Diaz. Invited lecture. Experiential art installation, Spring 2015 MFA
 Thesis Show. *Florida State University’s Museum of Fine Arts*.
 http://michaelaustindiaz.com/project/state-school/
 
+Beyond Bibliometrics: Harnessing Multidimensional Indicators of Scholarly Impact. 
+Book review. Published in *Information and Culture*. Retrieved from http://www.infoculturejournal.org/book_reviews/cronin.sugimoto_vandegrift_2015
+
 **Research Institute Involvement**
 
 > Modeling Contributorship with TaDiRAH - Applying a Community-Based
@@ -184,6 +187,8 @@ Service Appointments Fulfilled
 
 Coordinating Committee Member - Coalition of Open Access Policy
     Institutions (2012–2015)
+    
+Reviewer, Conference proposals to The Collective, a new start-up library conference in its first year. (2014-2015)
 
 Co-Chair, Faculty Senate Library Committee - Scholarly
     Communications Task Force (2013–2015)
