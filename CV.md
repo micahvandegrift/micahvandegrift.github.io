@@ -110,7 +110,7 @@ Pipe.* http://www.inthelibrarywiththeleadpipe.org/2014/healthyself/
 ----
 
 Proof. Blog post detailing a journal publication contract negotiation.
-*Personal Blog*. https://micahvandegrift.wordpress.com/2013/01/30/proof/
+*Blog post*. https://micahvandegrift.wordpress.com/2013/01/30/proof/
 
 Evolving in common: Creating mutually supportive relationships between
 libraries and the digital humanities. Vandegrift, M., & Varner, S.
@@ -124,7 +124,7 @@ http://pid.emory.edu/ark:/25593/cwzbf
 
 AHAGate: In Retrospect. Invited summary of responses to the American
 Historical Association’s statement about theses and dissertations.
-*Personal Blog*.
+*Blog post*.
 https://micahvandegrift.wordpress.com/2013/08/15/ahagate-in-retrospect/
 
 DIY Library Culture and the Academy. Ford, E., Leeder, K., Dorney, E., &
