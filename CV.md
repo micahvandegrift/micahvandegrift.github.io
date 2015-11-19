@@ -188,7 +188,7 @@ Service Appointments Fulfilled
 Coordinating Committee Member - Coalition of Open Access Policy
     Institutions (2012–2015)
     
-Reviewer, Conference proposals to The Collective, a new start-up library conference in its first year.
+Reviewer, Conference proposals to The Collective, a new start-up library conference in its first year. (2014-2015)
 
 Co-Chair, Faculty Senate Library Committee - Scholarly
     Communications Task Force (2013–2015)
