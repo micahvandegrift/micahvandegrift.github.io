@@ -56,7 +56,7 @@ Digital Research and Scholarship
 
 2013 | Mover and Shaker (Community Builder), Library Journal
 
-Research and Scholarship
+Research & Scholarship
 ===========
 
 2015
