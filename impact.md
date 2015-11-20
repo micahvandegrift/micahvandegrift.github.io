@@ -91,7 +91,7 @@ What is digital humanities and what's it doing in the library?
 Vandegrift, M. *In The Library with a Lead Pipe.*
 http://www.inthelibrarywiththeleadpipe.org/2012/dhandthelib/
 
-  * 6 citations on Google Scholar
+  * 6 citations on [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=biw5nLcAAAAJ&authuser=1&citation_for_view=biw5nLcAAAAJ:qjMakFHDy7sC)
   * included on the Association for College and Research Libraries, Digital Humanities Interest Group [recommended reading list](http://acrl.ala.org/dh/dh101/readings/)
 
 alt-LIS OR The Question of the Hybrarian OR What is Digital Humanities
