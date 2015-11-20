@@ -62,7 +62,7 @@ libraries and the digital humanities. Vandegrift, M., & Varner, S.
 http://pid.emory.edu/ark:/25593/cwzbf
 
   * 20 citations on [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=biw5nLcAAAAJ&authuser=1&citation_for_view=biw5nLcAAAAJ:zYLM7Y9cAGgC)
-  * 2,404 Views, 1,408 Downloads from Emory University's OpenEmory institutional repository
+  * 2,404 Views, 1,408 Downloads from Emory University's [OpenEmory institutional repository](https://open.library.emory.edu/publications/emory:cwzbf/)
   * 964 downloads from [DigiNole Commons](http://diginole.lib.fsu.edu/library_faculty_publications/4/)
   * 26 impact points recorded on [Altmetric.com](http://www.altmetric.com/details/1202909)
 
