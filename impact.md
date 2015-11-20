@@ -87,6 +87,8 @@ Relational Communications: Developing Key Connections. Vandegrift, M., &
 Colvin, G. *College & Research Libraries News*, 73(7), 386-389.
 http://crln.acrl.org/content/73/7/386.short
 
+  * 2 citations on [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=biw5nLcAAAAJ&authuser=1&citation_for_view=biw5nLcAAAAJ:9yKSN-GCB0IC)
+
 What is digital humanities and what's it doing in the library?
 Vandegrift, M. *In The Library with a Lead Pipe.*
 http://www.inthelibrarywiththeleadpipe.org/2012/dhandthelib/
@@ -104,7 +106,7 @@ Southeast* *2012*. http://southeast2012.thatcamp.org/03/08/alt-lis/
 Final Report, Faculty Senate Library Committee - Task Force on Scholarly
 Communications. http://dx.doi.org/10.6084/m9.figshare.1584910
 
-  * 264 downloads from DigiNole Commons
+  * 264 downloads from [DigiNole Commons](http://diginole.lib.fsu.edu/library_faculty_publications/2/). Deposited April, 17 2012.
 
 Readings on "The Future of Librarianship: Information Technology and
 Digital Humanities PhD's." Co-Facilitated (with Amy Buckland) discussion
