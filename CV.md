@@ -10,6 +10,8 @@ Florida State University Libraries, Tallahassee, Florida 32306-2047
 
 mvandegrift@fsu.edu
 
+ORCID: [0000-0001-8429-7697](http://orcid.org/0000-0001-8429-7697)
+
 Education
 =========
 
