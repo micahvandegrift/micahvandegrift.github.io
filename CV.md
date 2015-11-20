@@ -1,7 +1,8 @@
 Micah Vandegrift
-Digital Scholarship Coordinator
-Office of Digital Research and Scholarship
-Technology and Digital Scholarship - Florida State University Libraries
+Digital Scholarship Coordinator 
+Office of Digital Research and Scholarship 
+Technology and Digital Scholarship 
+Florida State University Libraries 
 Tallahassee, Florida 32306-2047
 
 [micahvandegrift.wordpress.com](http://micahvandegrift.wordpress.com/)
