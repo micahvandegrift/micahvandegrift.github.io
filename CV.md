@@ -1,11 +1,10 @@
-<span id="education" class="anchor"></span>**Micah Vandegrift**
+##Micah Vandegrift##
 
-Digital Scholarship Coordinator - Office of Digital Research and
-Scholarship 
+Digital Scholarship Coordinator 
 
-Technology and Digital Scholarship - Florida State University Libraries
+Office of Digital Research and Scholarship -- Technology and Digital Scholarship Department
 
-Tallahassee, Florida 32306-2047 
+Florida State University Libraries, Tallahassee, Florida 32306-2047
 
 [micahvandegrift.wordpress.com](http://micahvandegrift.wordpress.com/)
 
@@ -67,13 +66,13 @@ repository: a case study. Lee, J., Burnett, G., Baeg, J. H., Vandegrift,
 M., & Morris, R. *Information Research*, 20(1), 1-18.
 http://InformationR.net/ir/20-1/paper661.html
 
-State School: Post-Punk Subculture in Florida. Curated by Michael Austin
-Diaz. Invited lecture. Experiential art installation, Spring 2015 MFA
-Thesis Show. *Florida State University’s Museum of Fine Arts*.
+A table summarizing the Federal public access policies resulting from the US Office of Science and Technology Policy memorandum of February 2013. Crowdsourced data set. Whitmire, Amanda; Briney, Kristin; Nurnberger, Amy; Henderson, Margaret; Atwood, Thea; Janz, Margaret; Kozlowski, Wendy; Lake, Sherry; Vandegrift, Micah; Zilinski, Lisa. http://dx.doi.org/10.6084/m9.figshare.1372041
+
+State School: Post-Punk Subculture in Florida. Invited lecture as part of an experiential art installation curated by Michael Austin Diaz. Spring 2015 MFA Thesis Show. *Florida State University’s Museum of Fine Arts*.
 http://michaelaustindiaz.com/project/state-school/
 
 Beyond Bibliometrics: Harnessing Multidimensional Indicators of Scholarly Impact. 
-Book review. Published in *Information and Culture*. Retrieved from http://www.infoculturejournal.org/book_reviews/cronin.sugimoto_vandegrift_2015
+Book review. Published in *Information and Culture*. http://www.infoculturejournal.org/book_reviews/cronin.sugimoto_vandegrift_2015
 
 **Research Institute Involvement**
 
@@ -106,6 +105,8 @@ Librarian, Heal Thyself: A Scholarly Communication Analysis of LIS
 Journals. Vandegrift, M., & Bowley, C. *In the Library with the Lead
 Pipe.* http://www.inthelibrarywiththeleadpipe.org/2014/healthyself/
 
+> LIS Journals measured for “openness.” Data set related to *Librarian, Heal Thyself*. Vandegrift, M., & Bowley, C. http://figshare.com/articles/LIS_Journals_measured_for_openness_/994258
+
 2013
 ----
 
@@ -122,13 +123,13 @@ http://pid.emory.edu/ark:/25593/cwzbf
 > (ACRL).*
 > http://acrl.ala.org/dh/2013/06/28/make-it-new-a-dhlib-mini-series-the-ebook/
 
-AHAGate: In Retrospect. Invited summary of responses to the American
+AHAGate: In Retrospect. Blog post summary of responses to the American
 Historical Association’s statement about theses and dissertations.
 *Blog post*.
 https://micahvandegrift.wordpress.com/2013/08/15/ahagate-in-retrospect/
 
 DIY Library Culture and the Academy. Ford, E., Leeder, K., Dorney, E., &
-Vandegrift, M. Presented at the *Association of College and Research
+Vandegrift, M. Accepted presentation for the *Association of College and Research
 Libraries*, Indianapolis. In the Library with the Lead Pipe.
 http://www.inthelibrarywiththeleadpipe.org/2013/diy-library-culture/
 
@@ -155,7 +156,7 @@ Southeast* *2012*. http://southeast2012.thatcamp.org/03/08/alt-lis/
 ----
 
 Final Report, Faculty Senate Library Committee - Task Force on Scholarly
-Communications: http://dx.doi.org/10.6084/m9.figshare.1584910
+Communications. http://dx.doi.org/10.6084/m9.figshare.1584910
 
 Readings on "The Future of Librarianship: Information Technology and
 Digital Humanities PhD's." Co-Facilitated (with Amy Buckland) discussion
@@ -188,7 +189,7 @@ Service Appointments Fulfilled
 Coordinating Committee Member - Coalition of Open Access Policy
     Institutions (2012–2015)
     
-Reviewer, Conference proposals to The Collective, a new start-up library conference in its first year. (2014-2015)
+Reviewer, Conference proposals to The Collective, a new start-up library conference in its inaugural year. (2014-2015)
 
 Co-Chair, Faculty Senate Library Committee - Scholarly
     Communications Task Force (2013–2015)
@@ -199,7 +200,7 @@ Chair, Copyright Committee – Copyright Committee, Florida State
 Committee member – Professional Development, Research and Travel
     Committee, Florida State University Libraries (2012-2014)
 
-Editor/Author, In The Library with the Lead Pipe (2012–2014)
+Editorial Board Member, In The Library with the Lead Pipe (2012–2014)
 
 Committee Member, Annual Conference Innovations Committee,
     Association of College and Research Libraries (2011–2013)
