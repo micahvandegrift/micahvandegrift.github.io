@@ -71,6 +71,9 @@ Historical Association’s statement about theses and dissertations.
 *Blog post*.
 https://micahvandegrift.wordpress.com/2013/08/15/ahagate-in-retrospect/
 
+ * 417 views since publication on 8/15/2013
+ * Linked to from [EarlyAmericanists.com](http://earlyamericanists.com/2013/08/18/the-week-in-early-american-history-31/) a group blog by early career historians
+
 DIY Library Culture and the Academy. Ford, E., Leeder, K., Dorney, E., &
 Vandegrift, M. Accepted presentation for the *Association of College and Research
 Libraries*, Indianapolis. In the Library with the Lead Pipe.
