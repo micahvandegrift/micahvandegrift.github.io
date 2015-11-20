@@ -61,6 +61,10 @@ libraries and the digital humanities. Vandegrift, M., & Varner, S.
 *Journal of Library Administration*, 53(1), 67-78.
 http://pid.emory.edu/ark:/25593/cwzbf
 
+  * 20 citations on [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=biw5nLcAAAAJ&authuser=1&citation_for_view=biw5nLcAAAAJ:zYLM7Y9cAGgC)
+  * 2,404 Views, 1,408 Downloads from Emory University's OpenEmory institutional repository
+  * 26 impact points recorded on [Altmetric.com](http://www.altmetric.com/details/1202909)
+
 > This article was also included in Make it New? A dh+lib Mini Series.
 > Roxann Shirazi, Sarah Potvin, & Zach Coble (Eds.), Online: *DH+Lib
 > (ACRL).*
@@ -72,7 +76,7 @@ Historical Association’s statement about theses and dissertations.
 https://micahvandegrift.wordpress.com/2013/08/15/ahagate-in-retrospect/
 
  * 417 views since publication on 8/15/2013
- * Linked to from [EarlyAmericanists.com](http://earlyamericanists.com/2013/08/18/the-week-in-early-american-history-31/) a group blog by early career historians
+ * Linked to from [EarlyAmericanists.com](http://earlyamericanists.com/2013/08/18/the-week-in-early-american-history-31/), a group blog by early career historians
 
 DIY Library Culture and the Academy. Ford, E., Leeder, K., Dorney, E., &
 Vandegrift, M. Accepted presentation for the *Association of College and Research
