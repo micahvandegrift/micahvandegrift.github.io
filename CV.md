@@ -1,11 +1,8 @@
-<span id="education" class="anchor"></span>**Micah Vandegrift**
-
-Digital Scholarship Coordinator - Office of Digital Research and
-Scholarship 
-
-Technology and Digital Scholarship - Florida State University Libraries
-
-Tallahassee, Florida 32306-2047 
+Micah Vandegrift
+Digital Scholarship Coordinator
+Office of Digital Research and Scholarship
+Technology and Digital Scholarship - Florida State University Libraries
+Tallahassee, Florida 32306-2047
 
 [micahvandegrift.wordpress.com](http://micahvandegrift.wordpress.com/)
 
@@ -73,7 +70,7 @@ Thesis Show. *Florida State University’s Museum of Fine Arts*.
 http://michaelaustindiaz.com/project/state-school/
 
 Beyond Bibliometrics: Harnessing Multidimensional Indicators of Scholarly Impact. 
-Book review. Published in *Information and Culture*. Retrieved from http://www.infoculturejournal.org/book_reviews/cronin.sugimoto_vandegrift_2015
+Book review. Published in *Information and Culture*. http://www.infoculturejournal.org/book_reviews/cronin.sugimoto_vandegrift_2015
 
 **Research Institute Involvement**
 
@@ -105,6 +102,8 @@ http://micahvandegrift.wordpress.com/2014/06/02/ssptalk/
 Librarian, Heal Thyself: A Scholarly Communication Analysis of LIS
 Journals. Vandegrift, M., & Bowley, C. *In the Library with the Lead
 Pipe.* http://www.inthelibrarywiththeleadpipe.org/2014/healthyself/
+
+> LIS Journals measured for “openness.” Data set related to *Librarian, Heal Thyself*. Vandegrift, M., & Bowley, C. http://figshare.com/articles/LIS_Journals_measured_for_openness_/994258
 
 2013
 ----
