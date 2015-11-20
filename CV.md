@@ -66,9 +66,7 @@ repository: a case study. Lee, J., Burnett, G., Baeg, J. H., Vandegrift,
 M., & Morris, R. *Information Research*, 20(1), 1-18.
 http://InformationR.net/ir/20-1/paper661.html
 
-State School: Post-Punk Subculture in Florida. Curated by Michael Austin
-Diaz. Invited lecture. Experiential art installation, Spring 2015 MFA
-Thesis Show. *Florida State University’s Museum of Fine Arts*.
+State School: Post-Punk Subculture in Florida. Invited lecture as part of an experiential art installation curated by Michael Austin Diaz. Spring 2015 MFA Thesis Show. *Florida State University’s Museum of Fine Arts*.
 http://michaelaustindiaz.com/project/state-school/
 
 Beyond Bibliometrics: Harnessing Multidimensional Indicators of Scholarly Impact. 
