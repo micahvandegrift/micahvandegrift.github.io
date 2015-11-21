@@ -10,9 +10,10 @@ Referenced in relation to publicly negotiating a journal copyright contract:
   * Meredith Farkas, Librarian at Portland Community College, author of Information Wants to be Free blog. [Opening up knowledge on the tenure track](http://meredith.wolfwater.com/wordpress/2013/10/23/opening-up-knowledge-on-the-tenure-track/)
   * Jennifer Vinopal, Head of Digital Scholarship Services, NYU. [Supporting Digital Scholarship in Research Libraries: Scalability and Sustainability](http://vinopal.org/2013/02/10/supporting-digital-scholarship-in-research-libraries-scalability-and-sustainability/) 
 
-Quoted in The Chronicle of Higher Education's article on federal funders mandating public access to research products. [Librarians Lean to the Aid of Researchers Whose Funding Will Soon Depend on Open Access](http://chronicle.com/article/Librarians-Leap-to-the-Aid-of/231997)
+Quoted in The Chronicle of Higher Education's article on federal funders mandating public access to research products.
+  * Article: [Librarians Leap to the Aid of Researchers Whose Funding Will Soon Depend on Open Access](http://chronicle.com/article/Librarians-Leap-to-the-Aid-of/231997)
   * [Brief exchange on twitter](https://twitter.com/micahvandegrift/status/626775312756551680) where The Chronicle responded to my expressed frustration about this article about public access being behind their paywall.
-  * This tweet earned 2875 impressions, meaning number of times people saw this tweet. Includes 12 likes and 11 retweets.
+  * This tweet earned 2875 impressions, meaning number of times people saw this tweet, and was one of my top tweets of the month.
 
 Included on several research guides on scholarly communication ([UMass-Amherst](http://library.umass.edu/locations/sc/negotiating-your-publication-agreement/) and [Michigan State University](http://www.lib.msu.edu/about/collections/scholcomm/solutions/)) and digital humanities ([Xavier University](http://libguides.xavier.edu/c.php?g=203295&p=1341452)).
 
