@@ -47,7 +47,7 @@ Ongoing Research Projects
   * Grant application submitted Oct 2015 to enact the study
 
 
-[Examining the Pedagogy of Information Schools Digital Humanities Courses through Syllabi Studies](https://micahvandegrift.wordpress.com/2015/07/29/ischooldhlib/)
+[Examining the Pedagogy of Information Schools' Digital Humanities Courses through Syllabi Studies](https://micahvandegrift.wordpress.com/2015/07/29/ischooldhlib/)
   * Inspired by my week at the Humanities Intensive Teaching and Learning (HILT2015) seminar
   * Crowsourced a [compliation of sample syllabi](https://www.zotero.org/groups/digital_humanities_education/items/collectionKey/7WX7SUVB) using Zotero
   * Plan to code and sort the syllabi and then conduct interviews of students from those programs to see how the curriculum matched with, or adequately prepared them for professional jobs in digital humanities.
