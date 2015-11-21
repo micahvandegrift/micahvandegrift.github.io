@@ -5,7 +5,7 @@ Mentions
 ----
 [Referenced regularly on dh+lib](https://www.google.com/search?q=site%3Aacrl.ala.org%2Fdh%2F+micah&ie=utf-8&oe=utf-8), the Association of College and Research Library's digital humanities blog.
 
-Included on several research guides on scholarly communication ([UMass-Amherst](http://library.umass.edu/locations/sc/negotiating-your-publication-agreement/) and [Michigan State University](http://www.lib.msu.edu/about/collections/scholcomm/solutions/)) and [digital humanities](http://libguides.xavier.edu/c.php?g=203295&p=1341452).
+Included on several research guides on scholarly communication ([UMass-Amherst](http://library.umass.edu/locations/sc/negotiating-your-publication-agreement/) and [Michigan State University](http://www.lib.msu.edu/about/collections/scholcomm/solutions/)) and digital humanities ([Xavier University](http://libguides.xavier.edu/c.php?g=203295&p=1341452)).
 
 [Invited lecture](http://christopherdcantwell.org/HIST497s14/?p=67), with Melanie Schlosser (Ohio State University), at Dr. Christoper Cantwell's Intro to Digital History course March 4, 2014. University of Missouri, Kansas City.
 
