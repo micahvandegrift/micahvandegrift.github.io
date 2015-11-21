@@ -11,7 +11,7 @@ Referenced in relation to publicly negotiating a journal copyright contract:
   * Meredith Farkas, Librarian at Portland Community College, author of Information Wants to be Free blog. [Opening up knowledge on the tenure track](http://meredith.wolfwater.com/wordpress/2013/10/23/opening-up-knowledge-on-the-tenure-track/).
   * Jennifer Vinopal, Head of Digital Scholarship Services, NYU. [Supporting Digital Scholarship in Research Libraries: Scalability and Sustainability](http://vinopal.org/2013/02/10/supporting-digital-scholarship-in-research-libraries-scalability-and-sustainability/).
   * Laura Quilter, Copyright and Information Policy Librarian, UMass-Amherst. [Negotiating your publication agreement](http://blogs.umass.edu/lquilter/scholarly-communication/negotiating-your-publication-agreement/).
-  * Bethany Nowviskie, Director of the Digital Library Federation (DLF) at CLIR, the Council on Library and Information Resources, and a Research Associate Professor of Digital Humanities in UVa's Department of English. [Open and Shut](http://nowviskie.org/2015/open-and-shut/)
+  * Bethany Nowviskie, Director of the Digital Library Federation (DLF) at CLIR, the Council on Library and Information Resources, and a Research Associate Professor of Digital Humanities in UVa's Department of English. [Open and Shut](http://nowviskie.org/2015/open-and-shut/).
 
 
 Quoted in The Chronicle of Higher Education's article on federal funders mandating public access to research products.
@@ -38,6 +38,23 @@ Invited lecture on scholarly communication for Dr. Anthony Molaro's Advanced Ref
 [Guest blogger for The Lib Pub](https://librarypublishing.wordpress.com/author/micahvandegrift/), a group blog on the growing field of library publishing, edited and manged by Melanie Schlosser, Digital Publishing Librarian, Ohio State University.
 
 [Guest speaker](http://libguides.westga.edu/goodlibrations/) and scholarly communication consultant to the University of West Georgia, Oct. 2014.
+
+Ongoing Research Projects
+----
+[Modeling Contributorship with the Taxonomy of Digital Research Activities in the Humanities (TiDiRAH)](http://bit.ly/tadirize)
+  * Proposed and accepted to the Mellon-funded Triangle Scholarly Communication Institute in October 2015
+  * Cross-disciplinary team includes: 
+  * + Dr. Cassidy Sugimoto, Indiana University-Bloomington
+  * + Dr. J. Britt Holbrook, New Jersey Institute for Technology
+  * + Korey Jackson, Gray Family Chair for Library Innovation, University of Oregon
+  * + Zach Coble, Digital Scholarship Librarian and April Hathcock, Scholarly Communication Librarian, New York University
+  * Grant application submitted Oct 2015 to enact the study
+
+
+[Examining the Pedagogy of Information Schools Digital Humanities Courses through Syllabi Studies](https://micahvandegrift.wordpress.com/2015/07/29/ischooldhlib/)
+  * Inspired by my week at the Humanities Intensive Teaching and Learning (HILT2015) seminar
+  * Crowsourced a [compliation of sample syllabi](https://www.zotero.org/groups/digital_humanities_education/items/collectionKey/7WX7SUVB) using Zotero
+  * Plan to code and sort the syllabi and then conduct interviews of students from those programs to see how the curriculum matched with, or adequately prepared them for professional jobs in digital humanities.
 
 2015
 ----
