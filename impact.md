@@ -10,6 +10,7 @@ Referenced in relation to publicly negotiating a journal copyright contract:
   * Chris Bourg, Director of Libraries, MIT. [My Stint on the JLA Editorial Board](https://chrisbourg.wordpress.com/2013/03/29/my-stint-on-the-jla-editorial-board-a-few-clarifications/).
   * Meredith Farkas, Librarian at Portland Community College, author of Information Wants to be Free blog. [Opening up knowledge on the tenure track](http://meredith.wolfwater.com/wordpress/2013/10/23/opening-up-knowledge-on-the-tenure-track/).
   * Jennifer Vinopal, Head of Digital Scholarship Services, NYU. [Supporting Digital Scholarship in Research Libraries: Scalability and Sustainability](http://vinopal.org/2013/02/10/supporting-digital-scholarship-in-research-libraries-scalability-and-sustainability/).
+  * Laura Quilter, Copyright and Information Policy Librarian, UMass-Amherst. [Negotiating your publication agreement](http://blogs.umass.edu/lquilter/scholarly-communication/negotiating-your-publication-agreement/).
 
 
 Quoted in The Chronicle of Higher Education's article on federal funders mandating public access to research products.
@@ -35,7 +36,7 @@ Invited lecture on scholarly communication for Dr. Anthony Molaro's Advanced Ref
 
 [Guest blogger for The Lib Pub](https://librarypublishing.wordpress.com/author/micahvandegrift/), a group blog on the growing field of library publishing, edited and manged by Melanie Schlosser, Digital Publishing Librarian, Ohio State University.
 
-
+[Guest speaker](http://libguides.westga.edu/goodlibrations/) and scholarly communication consultant to the University of West Georgia, Oct. 2014.
 
 2015
 ----
