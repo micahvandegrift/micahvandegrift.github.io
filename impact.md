@@ -13,6 +13,7 @@ Mentions
   * [Brief exchange on twitter](https://twitter.com/micahvandegrift/status/626775312756551680) where The Chronicle responded to my expressed frustration about this article about public access being behind their paywall.
   * This tweet earned 2875 impressions, meaning number of times people saw this tweet, and was one of my top tweets of the month.
 + Included on several research guides on scholarly communication ([UMass-Amherst](http://library.umass.edu/locations/sc/negotiating-your-publication-agreement/) and [Michigan State University](http://www.lib.msu.edu/about/collections/scholcomm/solutions/)) and digital humanities ([Xavier University](http://libguides.xavier.edu/c.php?g=203295&p=1341452)).
++ Talk given at the Society for Scholarly Publishing 2014, posted after the fact on my blog, was invited to be [reposted on the London School of Economics and Political Sceience's Impact blog](http://blogs.lse.ac.uk/impactofsocialsciences/2014/07/04/the-miseducation-of-scholarly-communication/), "a hub for researchers, administrative staff, librarians, students, think-tanks, government, and anyone else interested in maximising the impact of academic work in the social sciences and other disciplines."
 
 Invitations
 ----  
