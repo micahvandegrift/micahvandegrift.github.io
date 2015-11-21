@@ -11,6 +11,7 @@ Referenced in relation to publicly negotiating a journal copyright contract:
   * Meredith Farkas, Librarian at Portland Community College, author of Information Wants to be Free blog. [Opening up knowledge on the tenure track](http://meredith.wolfwater.com/wordpress/2013/10/23/opening-up-knowledge-on-the-tenure-track/).
   * Jennifer Vinopal, Head of Digital Scholarship Services, NYU. [Supporting Digital Scholarship in Research Libraries: Scalability and Sustainability](http://vinopal.org/2013/02/10/supporting-digital-scholarship-in-research-libraries-scalability-and-sustainability/).
   * Laura Quilter, Copyright and Information Policy Librarian, UMass-Amherst. [Negotiating your publication agreement](http://blogs.umass.edu/lquilter/scholarly-communication/negotiating-your-publication-agreement/).
+  * Bethany Nowviskie, Director of the Digital Library Federation (DLF) at CLIR, the Council on Library and Information Resources, and a Research Associate Professor of Digital Humanities in UVa's Department of English. [Open and Shut](http://nowviskie.org/2015/open-and-shut/)
 
 
 Quoted in The Chronicle of Higher Education's article on federal funders mandating public access to research products.
