@@ -43,11 +43,7 @@ Ongoing Research Projects
 ----
 [Modeling Contributorship with the Taxonomy of Digital Research Activities in the Humanities (TiDiRAH)](http://bit.ly/tadirize)
   * Proposed and accepted to the Mellon-funded Triangle Scholarly Communication Institute in October 2015
-  * Cross-disciplinary team includes: 
-  * + Dr. Cassidy Sugimoto, Indiana University-Bloomington
-  * + Dr. J. Britt Holbrook, New Jersey Institute for Technology
-  * + Korey Jackson, Gray Family Chair for Library Innovation, University of Oregon
-  * + Zach Coble, Digital Scholarship Librarian and April Hathcock, Scholarly Communication Librarian, New York University
+  * Cross-disciplinary team includes: Dr. Cassidy Sugimoto, Indiana University-Bloomington, Dr. J. Britt Holbrook, New Jersey Institute for Technology, Dr. Korey Jackson, Gray Family Chair for Library Innovation, University of Oregon, Zach Coble, Digital Scholarship Librarian, New York University, and April Hathcock, Scholarly Communication Librarian, New York University
   * Grant application submitted Oct 2015 to enact the study
 
 
