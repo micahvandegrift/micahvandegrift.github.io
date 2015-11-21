@@ -3,17 +3,25 @@ Research & Scholarship
 
 Mentions
 ----
-+ [Referenced regularly on dh+lib](https://www.google.com/search?q=site%3Aacrl.ala.org%2Fdh%2F+micah&ie=utf-8&oe=utf-8), the Association of College and Research Library's digital humanities blog.
-+ Referenced in relation to publicly negotiating a journal copyright contract:
+[Referenced regularly on dh+lib](https://www.google.com/search?q=site%3Aacrl.ala.org%2Fdh%2F+micah&ie=utf-8&oe=utf-8), the Association of College and Research Library's digital humanities blog.
+
+
+Referenced in relation to publicly negotiating a journal copyright contract:
   * Chris Bourg, Director of Libraries, MIT. [My Stint on the JLA Editorial Board](https://chrisbourg.wordpress.com/2013/03/29/my-stint-on-the-jla-editorial-board-a-few-clarifications/).
   * Meredith Farkas, Librarian at Portland Community College, author of Information Wants to be Free blog. [Opening up knowledge on the tenure track](http://meredith.wolfwater.com/wordpress/2013/10/23/opening-up-knowledge-on-the-tenure-track/).
   * Jennifer Vinopal, Head of Digital Scholarship Services, NYU. [Supporting Digital Scholarship in Research Libraries: Scalability and Sustainability](http://vinopal.org/2013/02/10/supporting-digital-scholarship-in-research-libraries-scalability-and-sustainability/).
-+ Quoted in The Chronicle of Higher Education's article on federal funders mandating public access to research products.
+
+
+Quoted in The Chronicle of Higher Education's article on federal funders mandating public access to research products.
   * Article: [Librarians Leap to the Aid of Researchers Whose Funding Will Soon Depend on Open Access](http://chronicle.com/article/Librarians-Leap-to-the-Aid-of/231997)
   * [Brief exchange on twitter](https://twitter.com/micahvandegrift/status/626775312756551680) where The Chronicle responded to my expressed frustration about this article about public access being behind their paywall.
   * This tweet earned 2875 impressions, meaning number of times people saw this tweet, and was one of my top tweets of the month.
-+ Included on several research guides on scholarly communication ([UMass-Amherst](http://library.umass.edu/locations/sc/negotiating-your-publication-agreement/) and [Michigan State University](http://www.lib.msu.edu/about/collections/scholcomm/solutions/)) and digital humanities ([Xavier University](http://libguides.xavier.edu/c.php?g=203295&p=1341452)).
-+ Talk given at the Society for Scholarly Publishing 2014, posted after the fact on my blog, was invited to be [reposted on the London School of Economics and Political Sceience's Impact blog](http://blogs.lse.ac.uk/impactofsocialsciences/2014/07/04/the-miseducation-of-scholarly-communication/), "a hub for researchers, administrative staff, librarians, students, think-tanks, government, and anyone else interested in maximising the impact of academic work in the social sciences and other disciplines."
+
+
+Included on several research guides on scholarly communication ([UMass-Amherst](http://library.umass.edu/locations/sc/negotiating-your-publication-agreement/) and [Michigan State University](http://www.lib.msu.edu/about/collections/scholcomm/solutions/)) and digital humanities ([Xavier University](http://libguides.xavier.edu/c.php?g=203295&p=1341452)).
+
+
+Talk given at the Society for Scholarly Publishing 2014, posted after the fact on my blog, was invited to be [reposted on the London School of Economics and Political Sceience's Impact blog](http://blogs.lse.ac.uk/impactofsocialsciences/2014/07/04/the-miseducation-of-scholarly-communication/), "a hub for researchers, administrative staff, librarians, students, think-tanks, government, and anyone else interested in maximising the impact of academic work in the social sciences and other disciplines."
 
 Invitations
 ----  
@@ -24,6 +32,9 @@ Invited presenter at the inaugural Symposium on LIS Education, University of Ill
 Invited lecture on scholarly communication for Dr. Anthony Molaro's Advanced Reference Service (LIS7962) course at St. Catherine's University, Spring 2015.
   * [Tweet from Dr. Molaro](https://twitter.com/infoactivist/status/563150164676726785)
   * Tweeted thanks from students in the course - [@sarahnicole](https://twitter.com/bibliosarahnt/status/563176067226038275) and [Stewart Van Cleve](https://twitter.com/LandoLoves/status/563153287130521601)
+
+[Guest blogger for The Lib Pub](https://librarypublishing.wordpress.com/author/micahvandegrift/), a group blog on the growing field of library publishing, edited and manged by Melanie Schlosser, Digital Publishing Librarian, Ohio State University.
+
 
 
 2015
