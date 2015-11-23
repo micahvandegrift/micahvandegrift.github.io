@@ -103,6 +103,12 @@ Pipe.* http://www.inthelibrarywiththeleadpipe.org/2014/healthyself/
    * [figshare](https://twitter.com/figshare/status/455640672033579008), announcing that the article was the 2nd most viewed item on figshare during the week it was posted
    * [Association of Library and Information Science Educators](https://twitter.com/figshare/status/455640672033579008)
    * [Scholarly Communication Section](https://twitter.com/SLAAcadSCS/status/456883760064000001) of the Academic Division of the Special Libraries Association
+  * Featured as an [Editors Choice article on Digital Humanities Now](http://digitalhumanitiesnow.org/2014/04/editors-choice-in-the-library-with-the-lead-pipe-librarian-heal-thyself-a-scholarly-communication-analysis-of-lis-journals/), a curated aggregator of the top news and information in digital humanities communities online
+  * Featured as an [Article of the Week on Against the Grain](http://www.against-the-grain.com/2014/06/atg-article-of-the-week-librarian-heal-thyself-a-scholarly-communication-analysis-of-lis-journals/), a journal/blog for librarians, publishers and vendors, centered around the Charleston Conference
+  * Discussion object for the [Centre for Evidence Based Library and Information Practice](https://words.usask.ca/openaccess/2014/07/17/librarians-need-to-walk-the-talk-on-oa-publishing/) at the University of Saskatchewan
+  * [Inspired a response on behlaf of College and Research Libraries](http://crln.acrl.org/content/75/6/344.full) in the C&RL Spotlight from Scott Walter, University Librarian at Depaul University, then current Editor of the journal
+  * [Featured in an article on Inside Higher Ed](https://www.insidehighered.com/views/2014/05/14/article-open-access-library-and-information-science-scholarship), written by Scott McLemee, one of the founders of Inside Higher Ed
+  * Inspired Stuart Lawson, Doctoral researcher at Birkbeck, University of London undertaking a PhD in the politics of open access, to create a [Declaration of Open Access for LIS Authors](http://stuartlawson.org/2014/04/declaration-on-open-access-for-lis-authors/)
 
 2013
 ----
