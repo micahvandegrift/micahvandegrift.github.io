@@ -93,6 +93,16 @@ Pipe.* http://www.inthelibrarywiththeleadpipe.org/2014/healthyself/
 
 > LIS Journals measured for “openness.” Data set related to *Librarian, Heal Thyself*. Vandegrift, M., & Bowley, C. http://figshare.com/articles/LIS_Journals_measured_for_openness_/994258
 
+  * 1254 article downloads from [DigiNole Commons](http://diginole.lib.fsu.edu/library_faculty_publications/10/)
+  * 892 views and 78 downloads of the [article pre-print as posted on figshare](http://figshare.com/articles/Heal_Thyself_A_Scholarly_Communication_Analysis_of_LIS_Journals/994261)
+  * 73 impact points recorded on Altmetric.com, including:
+  * 93 tweets from 75 users, with an upper reach of 170,340 followers
+  * Influential tweets from:
+   * [Matt Hodgkinson](https://twitter.com/mattjhodgkinson/status/454381570405982208), Senior Editor at PLOSONE.
+   * [figshare](https://twitter.com/figshare/status/455640672033579008), announcing that the article was the 2nd most viewed item on figshare during the week it was posted
+   * [Association of Library and Information Science Educators](https://twitter.com/figshare/status/455640672033579008)
+   * [Scholarly Communication Section](https://twitter.com/SLAAcadSCS/status/456883760064000001) of the Academic Division of the Special Libraries Association
+
 2013
 ----
 
