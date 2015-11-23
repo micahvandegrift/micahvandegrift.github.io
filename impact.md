@@ -6,14 +6,6 @@ Mentions
 [Referenced regularly on dh+lib](https://www.google.com/search?q=site%3Aacrl.ala.org%2Fdh%2F+micah&ie=utf-8&oe=utf-8), the Association of College and Research Library's digital humanities blog.
 
 
-Referenced in relation to publicly negotiating a journal copyright contract:
-  * Chris Bourg, Director of Libraries, MIT. [My Stint on the JLA Editorial Board](https://chrisbourg.wordpress.com/2013/03/29/my-stint-on-the-jla-editorial-board-a-few-clarifications/).
-  * Meredith Farkas, Librarian at Portland Community College, author of Information Wants to be Free blog. [Opening up knowledge on the tenure track](http://meredith.wolfwater.com/wordpress/2013/10/23/opening-up-knowledge-on-the-tenure-track/).
-  * Jennifer Vinopal, Head of Digital Scholarship Services, NYU. [Supporting Digital Scholarship in Research Libraries: Scalability and Sustainability](http://vinopal.org/2013/02/10/supporting-digital-scholarship-in-research-libraries-scalability-and-sustainability/).
-  * Laura Quilter, Copyright and Information Policy Librarian, UMass-Amherst. [Negotiating your publication agreement](http://blogs.umass.edu/lquilter/scholarly-communication/negotiating-your-publication-agreement/).
-  * Bethany Nowviskie, Director of the Digital Library Federation (DLF) at CLIR, the Council on Library and Information Resources, and a Research Associate Professor of Digital Humanities in UVa's Department of English. [Open and Shut](http://nowviskie.org/2015/open-and-shut/).
-
-
 Quoted in The Chronicle of Higher Education's article on federal funders mandating public access to research products.
   * Article: [Librarians Leap to the Aid of Researchers Whose Funding Will Soon Depend on Open Access](http://chronicle.com/article/Librarians-Leap-to-the-Aid-of/231997)
   * [Brief exchange on twitter](https://twitter.com/micahvandegrift/status/626775312756551680) where The Chronicle responded to my expressed frustration about this article about public access being behind their paywall.
@@ -107,6 +99,14 @@ Pipe.* http://www.inthelibrarywiththeleadpipe.org/2014/healthyself/
 Proof. Blog post detailing a journal publication contract negotiation.
 *Blog post*. https://micahvandegrift.wordpress.com/2013/01/30/proof/
 
+ * 1541 views since publication on 1/30/2013
+ * References from other high impact blogs and luminaries in the field:
+  * Chris Bourg, Director of Libraries, MIT. [My Stint on the JLA Editorial Board](https://chrisbourg.wordpress.com/2013/03/29/my-stint-on-the-jla-editorial-board-a-few-clarifications/).
+  * Meredith Farkas, Librarian at Portland Community College, author of Information Wants to be Free blog. [Opening up knowledge on the tenure track](http://meredith.wolfwater.com/wordpress/2013/10/23/opening-up-knowledge-on-the-tenure-track/).
+  * Jennifer Vinopal, Head of Digital Scholarship Services, NYU. [Supporting Digital Scholarship in Research Libraries: Scalability and Sustainability](http://vinopal.org/2013/02/10/supporting-digital-scholarship-in-research-libraries-scalability-and-sustainability/).
+  * Laura Quilter, Copyright and Information Policy Librarian, UMass-Amherst. [Negotiating your publication agreement](http://blogs.umass.edu/lquilter/scholarly-communication/negotiating-your-publication-agreement/).
+  * Bethany Nowviskie, Director of the Digital Library Federation (DLF) at CLIR, the Council on Library and Information Resources, and a Research Associate Professor of Digital Humanities in UVa's Department of English. [Open and Shut](http://nowviskie.org/2015/open-and-shut/).
+
 Evolving in common: Creating mutually supportive relationships between
 libraries and the digital humanities. **Vandegrift, M.**, & Varner, S.
 *Journal of Library Administration*, 53(1), 67-78.
@@ -117,12 +117,8 @@ http://pid.emory.edu/ark:/25593/cwzbf
   * 964 downloads from [DigiNole Commons](http://diginole.lib.fsu.edu/library_faculty_publications/4/)
   * 46 readers on Mendelay
   * 26 impact points recorded on [Altmetric.com](http://www.altmetric.com/details/1202909)
-  * Referenced as a source in the Irish Consortium of National and University Libraries Research Support Task and Finish Group, whose task was to prepare a three year strategy to develop the research support capacity of CONUL libraries. The group identified key areas around which a tool kit was to be developed in the form of briefing documents. The briefing documents are collated together in the chapters and appendices of this report.
-
-> This article was also included in Make it New? A dh+lib Mini Series. An ebook compilation of all articles published in the special issue of Journal of Library Administration, and several new articles written in response to the published works.
-> Roxann Shirazi, Sarah Potvin, & Zach Coble (Eds.), Online: *DH+Lib
-> (ACRL).*
-> http://acrl.ala.org/dh/2013/06/28/make-it-new-a-dhlib-mini-series-the-ebook/
+  * Referenced as a source in the [Irish Consortium of National and University Libraries Research Support Task and Finish Group](http://www.conul.ie/sub-committees-groups/researchsupport/conul-research-support-task-and-finish-group/), whose task was to prepare a three year strategy to develop the research support capacity of CONUL libraries. The group identified key areas around which a tool kit was to be developed in the form of briefing documents. The briefing documents are collated together in the chapters and appendices of this report.
+  * This article was also included in an ebook compilation of all articles published in this special issue of Journal of Library Administration on digital humanities and libraries. Several new articles were written in response to the published works as part of the ebook. Make it New? A dh+lib Mini Series. Roxann Shirazi, Sarah Potvin, & Zach Coble (Eds.), Online: *DH+Lib (ACRL).* [http://acrl.ala.org/dh/2013/06/28/make-it-new-a-dhlib-mini-series-the-ebook/](http://acrl.ala.org/dh/2013/06/28/make-it-new-a-dhlib-mini-series-the-ebook/)
 
 AHAGate: In Retrospect. Blog post summary of responses to the American
 Historical Association’s statement about theses and dissertations.
