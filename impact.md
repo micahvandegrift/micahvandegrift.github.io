@@ -50,7 +50,11 @@ repository: a case study. Lee, J., Burnett, G., Baeg, J. H., Vandegrift,
 M., & Morris, R. *Information Research*, 20(1), 1-18.
 http://InformationR.net/ir/20-1/paper661.html
 
+  * 460 article downloads from [DigiNole Commons](http://diginole.lib.fsu.edu/slis_faculty_publications/27/)
+
 A table summarizing the Federal public access policies resulting from the US Office of Science and Technology Policy memorandum of February 2013. Crowdsourced data set. Whitmire, Amanda; Briney, Kristin; Nurnberger, Amy; Henderson, Margaret; Atwood, Thea; Janz, Margaret; Kozlowski, Wendy; Lake, Sherry; Vandegrift, Micah; Zilinski, Lisa. http://dx.doi.org/10.6084/m9.figshare.1372041
+
+  * 720 views on [figshare](http://dx.doi.org/10.6084/m9.figshare.1372041)
 
 State School: Post-Punk Subculture in Florida. Invited lecture as part of an experiential art installation curated by Michael Austin Diaz. Spring 2015 MFA Thesis Show. *Florida State University’s Museum of Fine Arts*.
 http://michaelaustindiaz.com/project/state-school/
@@ -79,6 +83,7 @@ https://micahvandegrift.wordpress.com/2014/12/17/changelispublishing/
 
  * 418 views since publication on 12/17/2014
  * 65 views on [figshare](http://figshare.com/articles/Scholarly_Communication_is_People_Three_crazy_ideas_for_LIS_to_own_open_access/1273504)
+ * Inspired the development of the [Open Access Journal of Librarianship](https://docs.google.com/document/d/1fhl9WMtQPEwrkxSTzwr6EbHOWF0SREya8FnON7ZRA_4/edit#heading=h.7n8v3ep6qm9r), which is ongoing.
 
 "Free to All": Library Publishing and the Challenge of Open Access.
 Vandegrift, M., & Bolick, J. *Journal of Librarianship and Scholarly
