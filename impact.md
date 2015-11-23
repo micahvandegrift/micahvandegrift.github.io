@@ -15,8 +15,6 @@ Quoted in The Chronicle of Higher Education's article on federal funders mandati
 Included on several research guides on scholarly communication ([UMass-Amherst](http://library.umass.edu/locations/sc/negotiating-your-publication-agreement/) and [Michigan State University](http://www.lib.msu.edu/about/collections/scholcomm/solutions/)) and digital humanities ([Xavier University](http://libguides.xavier.edu/c.php?g=203295&p=1341452)).
 
 
-Talk given at the Society for Scholarly Publishing 2014, posted after the fact on my blog, was invited to be [reposted on the London School of Economics and Political Sceience's Impact blog](http://blogs.lse.ac.uk/impactofsocialsciences/2014/07/04/the-miseducation-of-scholarly-communication/), "a hub for researchers, administrative staff, librarians, students, think-tanks, government, and anyone else interested in maximising the impact of academic work in the social sciences and other disciplines."
-
 Invitations
 ----  
 Invited presenter at the inaugural Symposium on LIS Education, University of Illinois, Champaign-Urbana, April 2015. [Conference program online](https://lisedsymposium.wordpress.com/program/).
@@ -87,6 +85,8 @@ The Miseducation of Scholarly Communication. Invited presentation at the
 *Society for Scholarly Publishing,* Boston, MA.
 http://micahvandegrift.wordpress.com/2014/06/02/ssptalk/
 
+  * This presentation, given at the Society for Scholarly Publishing 2014 and posted after the fact on my blog, was invited to be [reposted on the London School of Economics and Political Sceience's Impact blog](http://blogs.lse.ac.uk/impactofsocialsciences/2014/07/04/the-miseducation-of-scholarly-communication/), "a hub for researchers, administrative staff, librarians, students, think-tanks, government, and anyone else interested in maximising the impact of academic work in the social sciences and other disciplines."
+
 Librarian, Heal Thyself: A Scholarly Communication Analysis of LIS
 Journals. Vandegrift, M., & Bowley, C. *In the Library with the Lead
 Pipe.* http://www.inthelibrarywiththeleadpipe.org/2014/healthyself/
@@ -95,6 +95,7 @@ Pipe.* http://www.inthelibrarywiththeleadpipe.org/2014/healthyself/
 
   * 1254 article downloads from [DigiNole Commons](http://diginole.lib.fsu.edu/library_faculty_publications/10/)
   * 892 views and 78 downloads of the [article pre-print as posted on figshare](http://figshare.com/articles/Heal_Thyself_A_Scholarly_Communication_Analysis_of_LIS_Journals/994261)
+  * 528 views and 46 downloads of the [data set as posted on figshare](http://figshare.com/articles/LIS_Journals_measured_for_openness_/994258)
   * 73 impact points recorded on Altmetric.com, including:
   * 93 tweets from 75 users, with an upper reach of 170,340 followers
   * Influential tweets from:
