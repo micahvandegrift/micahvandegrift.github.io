@@ -108,16 +108,18 @@ Proof. Blog post detailing a journal publication contract negotiation.
 *Blog post*. https://micahvandegrift.wordpress.com/2013/01/30/proof/
 
 Evolving in common: Creating mutually supportive relationships between
-libraries and the digital humanities. Vandegrift, M., & Varner, S.
+libraries and the digital humanities. **Vandegrift, M.**, & Varner, S.
 *Journal of Library Administration*, 53(1), 67-78.
 http://pid.emory.edu/ark:/25593/cwzbf
 
   * 20 citations on [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=biw5nLcAAAAJ&authuser=1&citation_for_view=biw5nLcAAAAJ:zYLM7Y9cAGgC)
   * 2,404 Views, 1,408 Downloads from Emory University's [OpenEmory institutional repository](https://open.library.emory.edu/publications/emory:cwzbf/)
   * 964 downloads from [DigiNole Commons](http://diginole.lib.fsu.edu/library_faculty_publications/4/)
+  * 46 readers on Mendelay
   * 26 impact points recorded on [Altmetric.com](http://www.altmetric.com/details/1202909)
+  * Referenced as a source in the Irish Consortium of National and University Libraries Research Support Task and Finish Group, whose task was to prepare a three year strategy to develop the research support capacity of CONUL libraries. The group identified key areas around which a tool kit was to be developed in the form of briefing documents. The briefing documents are collated together in the chapters and appendices of this report.
 
-> This article was also included in Make it New? A dh+lib Mini Series.
+> This article was also included in Make it New? A dh+lib Mini Series. An ebook compilation of all articles published in the special issue of Journal of Library Administration, and several new articles written in response to the published works.
 > Roxann Shirazi, Sarah Potvin, & Zach Coble (Eds.), Online: *DH+Lib
 > (ACRL).*
 > http://acrl.ala.org/dh/2013/06/28/make-it-new-a-dhlib-mini-series-the-ebook/
@@ -131,13 +133,13 @@ https://micahvandegrift.wordpress.com/2013/08/15/ahagate-in-retrospect/
  * Linked to from [EarlyAmericanists.com](http://earlyamericanists.com/2013/08/18/the-week-in-early-american-history-31/), a group blog by early career historians
 
 DIY Library Culture and the Academy. Ford, E., Leeder, K., Dorney, E., &
-Vandegrift, M. Accepted presentation for the *Association of College and Research
-Libraries*, Indianapolis. In the Library with the Lead Pipe.
+**Vandegrift, M.** Panel presented at the *Association of College and Research
+Libraries*, Indianapolis. *In the Library with the Lead Pipe*.
 http://www.inthelibrarywiththeleadpipe.org/2013/diy-library-culture/
 
-  * Honorable mention for Best Panel in the [ACRL 2013 Peoples Choice Awards](http://www.acrl.ala.org/acrlinsider/archives/category/conferences/acrl-2013)
   * Mentioned in [Library Journal's ACRL 2013 Preview](http://lj.libraryjournal.com/2013/02/shows-events/acrl-2013-preview-indy-scholars/#_)
-  * Inspired a contentious blog post, [DIY vs. STARTUP: Choose your flavor of change](http://chronicle.com/blognetwork/theubiquitouslibrarian/2013/04/14/diy-vs-startup-choose-your-flavor-of-change/) on The Chronicle of Higher Educations's *Ubiquitious Librarian* blog, by Brian Mathews, Associate Dean for Learning & Outreach at Virginia Tech.
+  * Honorable mention for Best Panel in the [ACRL 2013 Peoples Choice Awards](http://www.acrl.ala.org/acrlinsider/archives/category/conferences/acrl-2013)
+  * Inspired a contentious blog post, [DIY vs. STARTUP: Choose your flavor of change](http://chronicle.com/blognetwork/theubiquitouslibrarian/2013/04/14/diy-vs-startup-choose-your-flavor-of-change/), on The Chronicle of Higher Educations's *Ubiquitious Librarian* blog, by Brian Mathews, Associate Dean for Learning & Outreach at Virginia Tech
   *  Responding to Brian Mathews, Meredith Farkas, author of popular librarian blog *Information Wants to be Free*, wrote [DIY vs. Startup, or false dichotomies and labels.](http://meredith.wolfwater.com/wordpress/2013/04/24/diy-vs-startup-or-false-dichotomies-and-labels/)
 
 The Digital Public Library of America: Details, the Librarian Response
@@ -149,7 +151,7 @@ http://www.inthelibrarywiththeleadpipe.org/2013/dpla/
 2012
 ----
 
-Relational Communications: Developing Key Connections. Vandegrift, M., &
+Relational Communications: Developing Key Connections. **Vandegrift, M.**, &
 Colvin, G. *College & Research Libraries News*, 73(7), 386-389.
 http://crln.acrl.org/content/73/7/386.short
 
@@ -165,7 +167,7 @@ http://www.inthelibrarywiththeleadpipe.org/2012/dhandthelib/
 
 alt-LIS OR The Question of the Hybrarian OR What is Digital Humanities
 and What's It Doing in the Library? Facilitated discussion at *THATCamp
-Southeast* *2012*. http://southeast2012.thatcamp.org/03/08/alt-lis/
+Southeast 2012*. http://southeast2012.thatcamp.org/03/08/alt-lis/
 
 2011
 ----
