@@ -17,7 +17,7 @@ Referenced in relation to publicly negotiating a journal copyright contract:
 Quoted in The Chronicle of Higher Education's article on federal funders mandating public access to research products.
   * Article: [Librarians Leap to the Aid of Researchers Whose Funding Will Soon Depend on Open Access](http://chronicle.com/article/Librarians-Leap-to-the-Aid-of/231997)
   * [Brief exchange on twitter](https://twitter.com/micahvandegrift/status/626775312756551680) where The Chronicle responded to my expressed frustration about this article about public access being behind their paywall.
-  * This tweet earned 2875 impressions, meaning number of times people saw this tweet, and was one of my top tweets of the month.
+  * This tweet earned 2875 impressions, meaning number of times people saw this tweet, and was one of my top tweets of July, 2015.
 
 
 Included on several research guides on scholarly communication ([UMass-Amherst](http://library.umass.edu/locations/sc/negotiating-your-publication-agreement/) and [Michigan State University](http://www.lib.msu.edu/about/collections/scholcomm/solutions/)) and digital humanities ([Xavier University](http://libguides.xavier.edu/c.php?g=203295&p=1341452)).
@@ -139,6 +139,9 @@ The Digital Public Library of America: Details, the Librarian Response
 and the Future. Vandegrift, M. *In the Library with the Lead Pipe*.
 http://www.inthelibrarywiththeleadpipe.org/2013/dpla/
 
+  * Included on the [Digital Public Library of America's promo/press page](http://dp.la/info/2013/04/25/dpla-launch-press-roundup-first-reactions/)
+  * 
+
 2012
 ----
 
@@ -147,6 +150,7 @@ Colvin, G. *College & Research Libraries News*, 73(7), 386-389.
 http://crln.acrl.org/content/73/7/386.short
 
   * 2 citations on [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=biw5nLcAAAAJ&authuser=1&citation_for_view=biw5nLcAAAAJ:9yKSN-GCB0IC)
+  * 98 downloads from [DigiNole Commons](http://diginole.lib.fsu.edu/library_faculty_publications/3/). Deposited Nov 15, 2012.
 
 What is digital humanities and what's it doing in the library?
 Vandegrift, M. *In The Library with a Lead Pipe.*
