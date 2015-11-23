@@ -77,15 +77,26 @@ LIS to “own” open access. Keynote address delivered at *Association of
 College and Research Libraries - New York*
 https://micahvandegrift.wordpress.com/2014/12/17/changelispublishing/
 
+ * 418 views since publication on 12/17/2014
+ * 65 views on [figshare](http://figshare.com/articles/Scholarly_Communication_is_People_Three_crazy_ideas_for_LIS_to_own_open_access/1273504)
+
 "Free to All": Library Publishing and the Challenge of Open Access.
 Vandegrift, M., & Bolick, J. *Journal of Librarianship and Scholarly
 Communication.* http://jlsc-pub.org/jlsc/vol2/iss4/10/
+
+  * 526 article downloads from [DigiNole Commons](http://diginole.lib.fsu.edu/library_faculty_publications/11/)
+  * 568 downloads from the Journal of Librarianship and Scholarly Communication
+  * 165 views and 14 downloads of the preprint as [posted on figshare](http://dx.doi.org/10.6084/m9.figshare.1088945)
+  * [Influential tweet from Richard Poynder](https://twitter.com/RickyPo/status/484219531427340288), independent journalist and blogger on scholarly communication and open access topics.
+  * Included in a [research guide](http://guides.cuny.edu/c.php?g=318026&p=2475087) by CUNY Libraries on Open Access Resources
 
 The Miseducation of Scholarly Communication. Invited presentation at the
 *Society for Scholarly Publishing,* Boston, MA.
 http://micahvandegrift.wordpress.com/2014/06/02/ssptalk/
 
+  * 341 views since publication on 2/06/2014
   * This presentation, given at the Society for Scholarly Publishing 2014 and posted after the fact on my blog, was invited to be [reposted on the London School of Economics and Political Sceience's Impact blog](http://blogs.lse.ac.uk/impactofsocialsciences/2014/07/04/the-miseducation-of-scholarly-communication/), "a hub for researchers, administrative staff, librarians, students, think-tanks, government, and anyone else interested in maximising the impact of academic work in the social sciences and other disciplines."
+  * Mentioned in Hugh Rundle's [keynote address to the Australian Library and Information Association, Western region](https://www.hughrundle.net/2014/06/28/what-we-have-and-what-we-do/). Hugh is the Systems and Resources Coodinator for Brimbank Libraries, Melbourne Australia.
 
 Librarian, Heal Thyself: A Scholarly Communication Analysis of LIS
 Journals. Vandegrift, M., & Bowley, C. *In the Library with the Lead
@@ -106,7 +117,7 @@ Pipe.* http://www.inthelibrarywiththeleadpipe.org/2014/healthyself/
   * Featured as an [Editors Choice article on Digital Humanities Now](http://digitalhumanitiesnow.org/2014/04/editors-choice-in-the-library-with-the-lead-pipe-librarian-heal-thyself-a-scholarly-communication-analysis-of-lis-journals/), a curated aggregator of the top news and information in digital humanities communities online
   * Featured as an [Article of the Week on Against the Grain](http://www.against-the-grain.com/2014/06/atg-article-of-the-week-librarian-heal-thyself-a-scholarly-communication-analysis-of-lis-journals/), a journal/blog for librarians, publishers and vendors, centered around the Charleston Conference
   * Discussion object for the [Centre for Evidence Based Library and Information Practice](https://words.usask.ca/openaccess/2014/07/17/librarians-need-to-walk-the-talk-on-oa-publishing/) at the University of Saskatchewan
-  * [Inspired a response on behlaf of College and Research Libraries](http://crln.acrl.org/content/75/6/344.full) in the C&RL Spotlight from Scott Walter, University Librarian at Depaul University, then current Editor of the journal
+  * [Inspired a response on behalf of College and Research Libraries](http://crln.acrl.org/content/75/6/344.full) in the C&RL Spotlight from Scott Walter, University Librarian at Depaul University, then current Editor of the journal
   * [Featured in an article on Inside Higher Ed](https://www.insidehighered.com/views/2014/05/14/article-open-access-library-and-information-science-scholarship), written by Scott McLemee, one of the founders of Inside Higher Ed
   * Inspired Stuart Lawson, Doctoral researcher at Birkbeck, University of London undertaking a PhD in the politics of open access, to create a [Declaration of Open Access for LIS Authors](http://stuartlawson.org/2014/04/declaration-on-open-access-for-lis-authors/)
 
