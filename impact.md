@@ -135,12 +135,16 @@ Vandegrift, M. Accepted presentation for the *Association of College and Researc
 Libraries*, Indianapolis. In the Library with the Lead Pipe.
 http://www.inthelibrarywiththeleadpipe.org/2013/diy-library-culture/
 
+  * Honerable mention for Best Panel in the [ACRL 2013 Peoples Choice Awards](http://www.acrl.ala.org/acrlinsider/archives/category/conferences/acrl-2013)
+  * Mentioned in [Library Journal's ACRL 2013 Preview](http://lj.libraryjournal.com/2013/02/shows-events/acrl-2013-preview-indy-scholars/#_)
+  * Inspired a contentious blog post, [DIY vs. STARTUP: Choose your flavor of change](http://chronicle.com/blognetwork/theubiquitouslibrarian/2013/04/14/diy-vs-startup-choose-your-flavor-of-change/) on The Chronicle of Higher Educations's *Ubiquitious Librarian* blog, by Brian Mathews, Associate Dean for Learning & Outreach at Virginia Tech.
+  *  Responding to Brian Mathews, Meredith Farkas, author of popular librarian blog *Information Wants to be Free*, wrote [DIY vs. Startup, or false dichotomies and labels.](http://meredith.wolfwater.com/wordpress/2013/04/24/diy-vs-startup-or-false-dichotomies-and-labels/)
+
 The Digital Public Library of America: Details, the Librarian Response
 and the Future. Vandegrift, M. *In the Library with the Lead Pipe*.
 http://www.inthelibrarywiththeleadpipe.org/2013/dpla/
 
   * Included on the [Digital Public Library of America's promo/press page](http://dp.la/info/2013/04/25/dpla-launch-press-roundup-first-reactions/)
-  * 
 
 2012
 ----
