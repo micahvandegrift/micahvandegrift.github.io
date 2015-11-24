@@ -21,7 +21,7 @@ Invited presenter at the inaugural Symposium on LIS Education, University of Ill
 
 [Invited lecture](http://christopherdcantwell.org/HIST497s14/?p=67), with Melanie Schlosser (Ohio State University), at Dr. Christoper Cantwell's Intro to Digital History course March 4, 2014. University of Missouri, Kansas City.
 
-Invited lecture on scholarly communication for Dr. Anthony Molaro's Advanced Reference Service (LIS7962) course at St. Catherine's University, Spring 2015.
+Invited (virtual) lecture on scholarly communication for Dr. Anthony Molaro's Advanced Reference Service (LIS7962) course at St. Catherine's University, Spring 2015.
   * [Tweet from Dr. Molaro](https://twitter.com/infoactivist/status/563150164676726785)
   * Tweeted thanks from students in the course - [@sarahnicole](https://twitter.com/bibliosarahnt/status/563176067226038275) and [Stewart Van Cleve](https://twitter.com/LandoLoves/status/563153287130521601)
 
