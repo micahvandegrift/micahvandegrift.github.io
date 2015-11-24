@@ -60,6 +60,18 @@ Digital Research and Scholarship
 Research & Scholarship
 ===========
 
+Research Projects in Process
+----
+[Modeling Contributorship with the Taxonomy of Digital Research Activities in the Humanities (TiDiRAH) - Applying a Community-Based Taxonomy to Digital Projects](http://bit.ly/tadirize)
+  * Proposed and accepted to the Mellon-funded Triangle Scholarly Communication Institute in October 2015
+  * Cross-disciplinary team includes: Dr. Cassidy Sugimoto, Indiana University-Bloomington, Dr. J. Britt Holbrook, New Jersey Institute for Technology, Dr. Korey Jackson, Gray Family Chair for Library Innovation, University of Oregon, Zach Coble, Digital Scholarship Librarian, New York University, and April Hathcock, Scholarly Communication Librarian, New York University
+  * Grant application submitted Oct 2015 to enact the study
+
+[Examining the Pedagogy of Information Schools' Digital Humanities Courses through Syllabi](https://micahvandegrift.wordpress.com/2015/07/29/ischooldhlib/)
+  * Inspired by coursework at the Humanities Intensive Teaching and Learning (HILT2015) seminar on Digital Pedagogy and Networked Learning. http://bit.ly/HILTschedule.
+  * Crowsourced a [compliation of sample syllabi](https://www.zotero.org/groups/digital_humanities_education/items/collectionKey/7WX7SUVB) using Zotero
+  * Plan to code and sort the syllabi and then conduct interviews of students from those programs to see how the curriculum matched with, or adequately prepared them for professional jobs in digital humanities.
+
 2015
 ----
 
@@ -75,17 +87,6 @@ http://michaelaustindiaz.com/project/state-school/
 
 Beyond Bibliometrics: Harnessing Multidimensional Indicators of Scholarly Impact. 
 Book review. Published in *Information and Culture*. http://www.infoculturejournal.org/book_reviews/cronin.sugimoto_vandegrift_2015
-
-**Research Institute Involvement**
-
-> Modeling Contributorship with TaDiRAH - Applying a Community-Based
-> Taxonomy to Digital Projects. *Triangle Scholarly Communication
-> Institute*. Vandegrift, M., Sugimoto, C., Jackson, K., Hathcock, A.,
-> Coble, Z., Holbrook, J. B. http://bit.ly/tadirize
->
-> Digital Pedagogy and Networked Learning. *Humanities Intensive
-> Learning and Teaching* (HILT2015). Collaboratively compiled by course
-> participants. http://bit.ly/HILTschedule.
 
 2014
 ----
