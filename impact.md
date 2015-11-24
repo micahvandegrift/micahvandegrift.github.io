@@ -33,13 +33,13 @@ Invited lecture on scholarly communication for Dr. Anthony Molaro's Advanced Ref
 ----
 
 Availability and accessibility in an open access institutional
-repository: a case study. Lee, J., Burnett, G., Baeg, J. H., Vandegrift,
-M., & Morris, R. *Information Research*, 20(1), 1-18.
+repository: a case study. Lee, J., Burnett, G., Baeg, J. H., **Vandegrift,
+M**., & Morris, R. *Information Research*, 20(1), 1-18.
 http://InformationR.net/ir/20-1/paper661.html
 
   * 460 article downloads from [DigiNole Commons](http://diginole.lib.fsu.edu/slis_faculty_publications/27/)
 
-A table summarizing the Federal public access policies resulting from the US Office of Science and Technology Policy memorandum of February 2013. Crowdsourced data set. Whitmire, Amanda; Briney, Kristin; Nurnberger, Amy; Henderson, Margaret; Atwood, Thea; Janz, Margaret; Kozlowski, Wendy; Lake, Sherry; Vandegrift, Micah; Zilinski, Lisa. http://dx.doi.org/10.6084/m9.figshare.1372041
+A table summarizing the Federal public access policies resulting from the US Office of Science and Technology Policy memorandum of February 2013. Crowdsourced data set. Whitmire, Amanda; Briney, Kristin; Nurnberger, Amy; Henderson, Margaret; Atwood, Thea; Janz, Margaret; Kozlowski, Wendy; Lake, Sherry; **Vandegrift, Micah**; Zilinski, Lisa. http://dx.doi.org/10.6084/m9.figshare.1372041
 
   * 720 views on [figshare](http://dx.doi.org/10.6084/m9.figshare.1372041)
   * Essential resource in the development of many campus outreach programs on funders' public access mandates
@@ -118,7 +118,7 @@ Proof. Blog post detailing a journal publication contract negotiation.
   * Bethany Nowviskie, Director of the Digital Library Federation (DLF) at CLIR, the Council on Library and Information Resources, and a Research Associate Professor of Digital Humanities in UVa's Department of English. [Open and Shut](http://nowviskie.org/2015/open-and-shut/).
 
 Evolving in common: Creating mutually supportive relationships between
-libraries and the digital humanities. **Vandegrift, M.**, & Varner, S.
+libraries and the digital humanities. Vandegrift, M., & Varner, S.
 *Journal of Library Administration*, 53(1), 67-78.
 http://pid.emory.edu/ark:/25593/cwzbf
 
@@ -157,7 +157,7 @@ http://www.inthelibrarywiththeleadpipe.org/2013/dpla/
 2012
 ----
 
-Relational Communications: Developing Key Connections. **Vandegrift, M.**, &
+Relational Communications: Developing Key Connections. Vandegrift, M., &
 Colvin, G. *College & Research Libraries News*, 73(7), 386-389.
 http://crln.acrl.org/content/73/7/386.short
 
