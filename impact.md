@@ -78,7 +78,7 @@ http://micahvandegrift.wordpress.com/2014/06/02/ssptalk/
 
   * 341 views since publication on 2/06/2014
   * This presentation, given at the Society for Scholarly Publishing 2014 and posted after the fact on my blog, was invited to be [reposted on the London School of Economics and Political Sceience's Impact blog](http://blogs.lse.ac.uk/impactofsocialsciences/2014/07/04/the-miseducation-of-scholarly-communication/), "a hub for researchers, administrative staff, librarians, students, think-tanks, government, and anyone else interested in maximising the impact of academic work in the social sciences and other disciplines."
-  * Mentioned in Hugh Rundle's [keynote address to the Australian Library and Information Association, Western region](https://www.hughrundle.net/2014/06/28/what-we-have-and-what-we-do/). Hugh is the Systems and Resources Coodinator for Brimbank Libraries, Melbourne Australia.
+  * Mentioned in Hugh Rundle's [keynote address to the Australian Library and Information Association, Western region](https://www.hughrundle.net/2014/06/28/what-we-have-and-what-we-do/). Hugh is the Systems and Resources Coodinator for Brimbank Libraries, Melbourne, Australia.
 
 Librarian, Heal Thyself: A Scholarly Communication Analysis of LIS
 Journals. Vandegrift, M., & Bowley, C. *In the Library with the Lead
