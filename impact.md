@@ -8,7 +8,7 @@ Mentions
 
 Quoted in The Chronicle of Higher Education's article on federal funders mandating public access to research products.
   * Article: [Librarians Leap to the Aid of Researchers Whose Funding Will Soon Depend on Open Access](http://chronicle.com/article/Librarians-Leap-to-the-Aid-of/231997)
-  * [Brief exchange on twitter](https://twitter.com/micahvandegrift/status/626775312756551680) where The Chronicle responded to my expressed frustration about this article about public access being behind their paywall.
+  * [Brief exchange on twitter](https://twitter.com/micahvandegrift/status/626775312756551680) where The Chronicle responded to my expressed frustration because this article about public access was behind their paywall.
   * This tweet earned 2875 impressions, meaning number of times people saw this tweet, and was one of my top tweets of July, 2015.
 
 
