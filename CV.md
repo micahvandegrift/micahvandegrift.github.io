@@ -192,7 +192,7 @@ Reviewer, Conference proposals to The Collective, a new start-up library confere
 Co-Chair, Faculty Senate Library Committee - Scholarly
     Communications Task Force (2013–2015)
 
-Chair, Copyright Committee – Copyright Committee, Florida State
+Chair, Copyright Committee, Florida State
     University Libraries (2012-2015)
 
 Committee member – Professional Development, Research and Travel
@@ -206,4 +206,4 @@ Committee Member, Annual Conference Innovations Committee,
 Referee - Journal of Electronic Publishing, Journal of Librarianship
     and Scholarly Communication, Journal of Interlibrary Loan, Document
     Delivery & Electronic Reserves, Journal of Education in Library and
-    Information Science
+    Information Science, Journal of Open Humanities Data
