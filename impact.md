@@ -29,19 +29,6 @@ Invited lecture on scholarly communication for Dr. Anthony Molaro's Advanced Ref
 
 [Guest speaker](http://libguides.westga.edu/goodlibrations/) and scholarly communication consultant to the University of West Georgia, Oct. 2014.
 
-Ongoing Research Projects
-----
-[Modeling Contributorship with the Taxonomy of Digital Research Activities in the Humanities (TiDiRAH)](http://bit.ly/tadirize)
-  * Proposed and accepted to the Mellon-funded Triangle Scholarly Communication Institute in October 2015
-  * Cross-disciplinary team includes: Dr. Cassidy Sugimoto, Indiana University-Bloomington, Dr. J. Britt Holbrook, New Jersey Institute for Technology, Dr. Korey Jackson, Gray Family Chair for Library Innovation, University of Oregon, Zach Coble, Digital Scholarship Librarian, New York University, and April Hathcock, Scholarly Communication Librarian, New York University
-  * Grant application submitted Oct 2015 to enact the study
-
-
-[Examining the Pedagogy of Information Schools' Digital Humanities Courses through Syllabi Studies](https://micahvandegrift.wordpress.com/2015/07/29/ischooldhlib/)
-  * Inspired by my week at the Humanities Intensive Teaching and Learning (HILT2015) seminar
-  * Crowsourced a [compliation of sample syllabi](https://www.zotero.org/groups/digital_humanities_education/items/collectionKey/7WX7SUVB) using Zotero
-  * Plan to code and sort the syllabi and then conduct interviews of students from those programs to see how the curriculum matched with, or adequately prepared them for professional jobs in digital humanities.
-
 2015
 ----
 
@@ -55,23 +42,13 @@ http://InformationR.net/ir/20-1/paper661.html
 A table summarizing the Federal public access policies resulting from the US Office of Science and Technology Policy memorandum of February 2013. Crowdsourced data set. Whitmire, Amanda; Briney, Kristin; Nurnberger, Amy; Henderson, Margaret; Atwood, Thea; Janz, Margaret; Kozlowski, Wendy; Lake, Sherry; Vandegrift, Micah; Zilinski, Lisa. http://dx.doi.org/10.6084/m9.figshare.1372041
 
   * 720 views on [figshare](http://dx.doi.org/10.6084/m9.figshare.1372041)
+  * Essential resource in the development of many campus outreach programs on funders' public access mandates
 
 State School: Post-Punk Subculture in Florida. Invited lecture as part of an experiential art installation curated by Michael Austin Diaz. Spring 2015 MFA Thesis Show. *Florida State University’s Museum of Fine Arts*.
 http://michaelaustindiaz.com/project/state-school/
 
 Beyond Bibliometrics: Harnessing Multidimensional Indicators of Scholarly Impact. 
 Book review. Published in *Information and Culture*. http://www.infoculturejournal.org/book_reviews/cronin.sugimoto_vandegrift_2015
-
-**Research Institute Involvement**
-
-> Modeling Contributorship with TaDiRAH - Applying a Community-Based
-> Taxonomy to Digital Projects. *Triangle Scholarly Communication
-> Institute*. Vandegrift, M., Sugimoto, C., Jackson, K., Hathcock, A.,
-> Coble, Z., Holbrook, J. B. http://bit.ly/tadirize
->
-> Digital Pedagogy and Networked Learning. *Humanities Intensive
-> Learning and Teaching* (HILT2015). Collaboratively compiled by course
-> participants. http://bit.ly/HILTschedule.
 
 2014
 ----
@@ -193,6 +170,12 @@ http://www.inthelibrarywiththeleadpipe.org/2012/dhandthelib/
 
   * 6 citations on [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=biw5nLcAAAAJ&authuser=1&citation_for_view=biw5nLcAAAAJ:qjMakFHDy7sC)
   * included on the Association for College and Research Libraries, Digital Humanities Interest Group [recommended reading list](http://acrl.ala.org/dh/dh101/readings/)
+  * Referenced in *Supporting Digital Humanities for Knowledge Acquisition in Modern Libraries*. Sacco, K., Richmond, S., Parme, S., & Fergen Wilkes, K. (2015). Hershey, PA: IGI Global.
+  * [Required reading at a session of Art Libraries of North America](http://digitalhumanitiesnow.org/2015/07/editors-choice-the-art-of-dh/) conference 2015 in Fort Worth, TX, themed "New Frontiers" of librarianship and the arts
+  * Cited in a special issue of the Journal of Digital Humanities, in its inaugeral volume, on evaluating digital scholarship. Coble, Z. (2012). [Evaluating Digital Humanities Work: Guidelines for Librarians](http://journalofdigitalhumanities.org/1-4/evaluating-digital-humanities-work-guidelines-for-librarians-by-zach-coble/). Journal of Digital Humanities, 1(4).
+  * Included as a core text in a [library reading group](http://readinggroup.lib.vt.edu/tag/digital-humanities/) at Virgina Tech University Libraries
+  * Included in syllabi for [digital humanities courses in iSchools](http://scalar.usc.edu/works/indiana-university-ils-digital-humanities-course-book/index), or library science programs.
+  * Cited as essential resource on digital humanities in the [University of Wisconsin-Milwaukee Libraries Strategic Plan 2012-2017](http://guides.library.uwm.edu/c.php?g=56569&p=363701)
 
 alt-LIS OR The Question of the Hybrarian OR What is Digital Humanities
 and What's It Doing in the Library? Facilitated discussion at *THATCamp
