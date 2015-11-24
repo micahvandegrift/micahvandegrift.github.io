@@ -124,6 +124,8 @@ Historical Association’s statement about theses and dissertations.
 *Blog post*.
 https://micahvandegrift.wordpress.com/2013/08/15/ahagate-in-retrospect/
 
+[THATCamp ACRL2013](http://acrl2013.thatcamp.org/). Primary organizer and session facilitator for the first THATCamp at an ACRL conference. 
+
 DIY Library Culture and the Academy. Ford, E., Leeder, K., Dorney, E., &
 **Vandegrift, M.** Panel presented at the *Association of College and Research
 Libraries*, Indianapolis. *In the Library with the Lead Pipe*.
