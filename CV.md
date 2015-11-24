@@ -61,7 +61,7 @@ Research Projects in Process
   * Grant application submitted Oct 2015 to enact the study
 
 [Examining the Pedagogy of Information Schools' Digital Humanities Courses through Syllabi](https://micahvandegrift.wordpress.com/2015/07/29/ischooldhlib/)
-  * Inspired by coursework at the Humanities Intensive Teaching and Learning (HILT2015) seminar on Digital Pedagogy and Networked Learning. http://bit.ly/HILTschedule.
+  * Inspired by coursework at the Humanities Intensive Teaching and Learning (HILT2015) seminar on Digital Pedagogy and Networked Learning. Documentation available at [http://bit.ly/HILTschedule](http://bit.ly/HILTschedule).
   * Crowsourced a [compliation of sample syllabi](https://www.zotero.org/groups/digital_humanities_education/items/collectionKey/7WX7SUVB) using Zotero
   * Plan to code and sort the syllabi and then conduct interviews of students from those programs to see how the curriculum matched with, or adequately prepared them for professional jobs in digital humanities.
 
@@ -124,7 +124,7 @@ Historical Association’s statement about theses and dissertations.
 *Blog post*.
 https://micahvandegrift.wordpress.com/2013/08/15/ahagate-in-retrospect/
 
-[THATCamp ACRL2013](http://acrl2013.thatcamp.org/). Primary organizer and session facilitator for the first THATCamp at an ACRL conference. 
+[THATCamp ACRL2013](http://acrl2013.thatcamp.org/). Primary organizer and session facilitator for the first THATCamp (The Humanities and Technology Camp) collaborative unconference at an ACRL conference. http://acrl2013.thatcamp.org/
 
 DIY Library Culture and the Academy. Ford, E., Leeder, K., Dorney, E., &
 **Vandegrift, M.** Panel presented at the *Association of College and Research
