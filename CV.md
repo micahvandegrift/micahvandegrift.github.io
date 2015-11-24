@@ -125,8 +125,8 @@ Historical Association’s statement about theses and dissertations.
 https://micahvandegrift.wordpress.com/2013/08/15/ahagate-in-retrospect/
 
 DIY Library Culture and the Academy. Ford, E., Leeder, K., Dorney, E., &
-Vandegrift, M. Accepted presentation for the *Association of College and Research
-Libraries*, Indianapolis. In the Library with the Lead Pipe.
+**Vandegrift, M.** Panel presented at the *Association of College and Research
+Libraries*, Indianapolis. *In the Library with the Lead Pipe*.
 http://www.inthelibrarywiththeleadpipe.org/2013/diy-library-culture/
 
 The Digital Public Library of America: Details, the Librarian Response
