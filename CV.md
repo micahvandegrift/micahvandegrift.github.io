@@ -164,7 +164,7 @@ http://chnm2011.thatcamp.org/05/19/futurelibrarianship/
 Current Service
 ===============
 
-Co-Chair, Digital Library Federation [Project Managers Group](https://www.diglib.org/groups/pmg/) (2016- )
+Steering Committee Member, Digital Library Federation [Project Managers Group](https://www.diglib.org/groups/pmg/) (2016- )
 
 Chair, University Libraries Digital Scholarship Working Group (2014- )
 
