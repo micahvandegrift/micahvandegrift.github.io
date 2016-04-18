@@ -71,13 +71,15 @@ Research Projects in Process
 2016
 ----
 
-Building a Digital Projects Incubator. Presentation at *THATCamp Florida*. [Session proposal](http://bit.ly/FSULIBincubator) and [crowdsourced notes](http://bit.ly/FSULIBPENINC).
+Building a Digital Projects Incubator. **Presentation** at THATCamp Florida. [Session proposal](http://bit.ly/FSULIBincubator) and [crowdsourced notes](http://bit.ly/FSULIBPENINC).
 
-Building and providing data management services: A framework for everyone. Conference presentation at the *Florida Library Association Annual Conference*. Co-presented with Renaine Julian and Stacey Mantooth. [Slideshare](http://www.slideshare.net/Renaine/building-and-providing-data-management-services-a-framework-for-everyone-59200016)
+Building and providing data management services: A framework for everyone. **Conference presentation** at the Florida Library Association Annual Conference. Co-presented with Renaine Julian and Stacey Mantooth. [Available on Slideshare](http://www.slideshare.net/Renaine/building-and-providing-data-management-services-a-framework-for-everyone-59200016)
 
-“It Takes Teamwork to Make the Dream Work”: Delivering data management services in a team based environment. Poster presentation for *Research Data Access and Preservation Summit (RDAP)*. Collaboration with Renaine Julian. [Program](http://www.asis.org/rdap/program-2016/)
+“It Takes Teamwork to Make the Dream Work”: Delivering data management services in a team based environment. **Poster presentation** at Research Data Access and Preservation Summit (RDAP). Collaboration with Renaine Julian. [Program](http://www.asis.org/rdap/program-2016/)
 
-Critical DH Pedagogy: Perspectives from two disciplines and sample syllabi. Submitted to *Library DH: A DH+Lib special issue*, forthcoming from the Association of College and Research Libraries digital humanities special interest group. Co-authored with Sarah Stanley
+Critical DH Pedagogy: Perspectives from two disciplines and sample syllabi. **Article** submitted to *Library DH: A DH+Lib special issue*, forthcoming from the Association of College and Research Libraries digital humanities special interest group. Co-authored with Sarah Stanley
+
+"Digital, Data, Documentation? We're not in ScholComm Kansas Anymore." **Keynote address** at the Mississippi State University Scholarly Communication Summit (July 2016). [lib.msstate.edu/scholcommsummit](http://lib.msstate.edu/scholcommsummit)
 
 2015
 ----
@@ -87,19 +89,19 @@ repository: a case study. Lee, J., Burnett, G., Baeg, J. H., Vandegrift,
 M., & Morris, R. *Information Research*, 20(1), 1-18.
 http://InformationR.net/ir/20-1/paper661.html
 
-A table summarizing the Federal public access policies resulting from the US Office of Science and Technology Policy memorandum of February 2013. Crowdsourced data set. Whitmire, Amanda; Briney, Kristin; Nurnberger, Amy; Henderson, Margaret; Atwood, Thea; Janz, Margaret; Kozlowski, Wendy; Lake, Sherry; Vandegrift, Micah; Zilinski, Lisa. http://dx.doi.org/10.6084/m9.figshare.1372041
+A table summarizing the Federal public access policies resulting from the US Office of Science and Technology Policy memorandum of February 2013. **Crowdsourced data set**. Whitmire, Amanda; Briney, Kristin; Nurnberger, Amy; Henderson, Margaret; Atwood, Thea; Janz, Margaret; Kozlowski, Wendy; Lake, Sherry; Vandegrift, Micah; Zilinski, Lisa. http://dx.doi.org/10.6084/m9.figshare.1372041
 
-State School: Post-Punk Subculture in Florida. Invited lecture as part of an experiential art installation curated by Michael Austin Diaz. Spring 2015 MFA Thesis Show. *Florida State University’s Museum of Fine Arts*.
+State School: Post-Punk Subculture in Florida. **Invited lecture** as part of an experiential art installation curated by Michael Austin Diaz. Spring 2015 MFA Thesis Show. *Florida State University’s Museum of Fine Arts*.
 http://michaelaustindiaz.com/project/state-school/
 
 Beyond Bibliometrics: Harnessing Multidimensional Indicators of Scholarly Impact. 
-Book review. Published in *Information and Culture*. http://www.infoculturejournal.org/book_reviews/cronin.sugimoto_vandegrift_2015
+**Book review**. Published in *Information and Culture*. http://www.infoculturejournal.org/book_reviews/cronin.sugimoto_vandegrift_2015
 
 2014
 ----
 
 Scholarly Communication is People: Its Our Time: Three crazy ideas for
-LIS to “own” open access. Keynote address delivered at *Association of
+LIS to “own” open access. **Keynote address** delivered at *Association of
 College and Research Libraries - New York*
 https://micahvandegrift.wordpress.com/2014/12/17/changelispublishing/
 
@@ -107,7 +109,7 @@ https://micahvandegrift.wordpress.com/2014/12/17/changelispublishing/
 Vandegrift, M., & Bolick, J. *Journal of Librarianship and Scholarly
 Communication.* http://jlsc-pub.org/jlsc/vol2/iss4/10/
 
-The Miseducation of Scholarly Communication. Invited presentation at the
+The Miseducation of Scholarly Communication. **Invited presentation** at the
 *Society for Scholarly Publishing,* Boston, MA.
 http://micahvandegrift.wordpress.com/2014/06/02/ssptalk/
 
@@ -115,12 +117,12 @@ Librarian, Heal Thyself: A Scholarly Communication Analysis of LIS
 Journals. Vandegrift, M., & Bowley, C. *In the Library with the Lead
 Pipe.* http://www.inthelibrarywiththeleadpipe.org/2014/healthyself/
 
-> LIS Journals measured for “openness.” Data set related to *Librarian, Heal Thyself*. Vandegrift, M., & Bowley, C. http://figshare.com/articles/LIS_Journals_measured_for_openness_/994258
+> LIS Journals measured for “openness.” **Data set** related to *Librarian, Heal Thyself*. Vandegrift, M., & Bowley, C. http://figshare.com/articles/LIS_Journals_measured_for_openness_/994258
 
 2013
 ----
 
-Proof. Blog post detailing a journal publication contract negotiation.
+Proof. **Blog post** detailing a journal publication contract negotiation.
 *Blog post*. https://micahvandegrift.wordpress.com/2013/01/30/proof/
 
 Evolving in common: Creating mutually supportive relationships between
@@ -133,16 +135,14 @@ http://pid.emory.edu/ark:/25593/cwzbf
 > (ACRL).*
 > http://acrl.ala.org/dh/2013/06/28/make-it-new-a-dhlib-mini-series-the-ebook/
 
-AHAGate: In Retrospect. Blog post summary of responses to the American
+AHAGate: In Retrospect. **Blog post** summary of responses to the American
 Historical Association’s statement about theses and dissertations.
 *Blog post*.
 https://micahvandegrift.wordpress.com/2013/08/15/ahagate-in-retrospect/
 
-[THATCamp ACRL2013](http://acrl2013.thatcamp.org/). Primary organizer and session facilitator for the first THATCamp (The Humanities and Technology Camp) collaborative unconference at an ACRL conference. http://acrl2013.thatcamp.org/
+[THATCamp ACRL2013](http://acrl2013.thatcamp.org/). **Primary organizer and session facilitator** for the first THATCamp (The Humanities and Technology Camp) collaborative unconference at an ACRL conference. http://acrl2013.thatcamp.org/
 
-DIY Library Culture and the Academy. Ford, E., Leeder, K., Dorney, E., &
-**Vandegrift, M.** Panel presented at the *Association of College and Research
-Libraries*, Indianapolis. *In the Library with the Lead Pipe*.
+DIY Library Culture and the Academy. Ford, E., Leeder, K., Dorney, E., & Vandegrift, M. **Panel presentation** at the *Association of College and Research Libraries*, Indianapolis. *In the Library with the Lead Pipe*.
 http://www.inthelibrarywiththeleadpipe.org/2013/diy-library-culture/
 
 The Digital Public Library of America: Details, the Librarian Response
@@ -161,17 +161,17 @@ Vandegrift, M. *In The Library with a Lead Pipe.*
 http://www.inthelibrarywiththeleadpipe.org/2012/dhandthelib/
 
 alt-LIS OR The Question of the Hybrarian OR What is Digital Humanities
-and What's It Doing in the Library? Facilitated discussion at *THATCamp
+and What's It Doing in the Library? **Facilitated discussion** at *THATCamp
 Southeast* *2012*. http://southeast2012.thatcamp.org/03/08/alt-lis/
 
 2011
 ----
 
-Final Report, Faculty Senate Library Committee - Task Force on Scholarly
+**Final Report**, Faculty Senate Library Committee - Task Force on Scholarly
 Communications. http://dx.doi.org/10.6084/m9.figshare.1584910
 
 Readings on "The Future of Librarianship: Information Technology and
-Digital Humanities PhD's." Co-Facilitated (with Amy Buckland) discussion
+Digital Humanities PhD's." **Co-Facilitated (with Amy Buckland) discussion**
 at *THATCamp Center for History and New Media 2011*.
 http://chnm2011.thatcamp.org/05/19/futurelibrarianship/
 
@@ -195,10 +195,10 @@ Services – Library Services and Technology Act State of Florida
 Council Member, THATCamp (The Humanities and Technology Camp) Council
 (2014– )
 
-Representative, Library Publishing Coalition, Founding member (2013– )
-
 Service Appointments Fulfilled
 ==============================
+
+Representative, Library Publishing Coalition, Founding member (2013–2016)
 
 Coordinating Committee Member - Coalition of Open Access Policy
     Institutions (2012–2015)
