@@ -66,6 +66,7 @@ Research Projects in Process
   * Inspired by coursework at the Humanities Intensive Teaching and Learning (HILT2015) seminar on Digital Pedagogy and Networked Learning. Documentation available at [http://bit.ly/HILTschedule](http://bit.ly/HILTschedule).
   * Crowsourced a [compliation of sample syllabi](https://www.zotero.org/groups/digital_humanities_education/items/collectionKey/7WX7SUVB) using Zotero
   * Plan to code and sort the syllabi and then conduct interviews of students from those programs to see how the curriculum matched with, or adequately prepared them for professional jobs in digital humanities.
+  * Initial publication from this project submitted to Library DH: A dh+lib Special Issue
 
 2016
 ----
