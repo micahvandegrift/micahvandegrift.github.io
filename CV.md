@@ -42,6 +42,8 @@ Florida Studies, Florida State University
 Awards & Fellowships
 ====================
 
+2016 | Invited delegate, first annual meeting of the [Open Scholarship Initiative](http://osinitiative.org/), a UNESCO-supported, collaborative, global effort between key stakeholders in scholarly publishing who are working together to improve the scholarly publishing system.
+
 2015 | Fred L. Standley Librarian of the Year, Florida State University
 Libraries
 
@@ -64,6 +66,17 @@ Research Projects in Process
   * Inspired by coursework at the Humanities Intensive Teaching and Learning (HILT2015) seminar on Digital Pedagogy and Networked Learning. Documentation available at [http://bit.ly/HILTschedule](http://bit.ly/HILTschedule).
   * Crowsourced a [compliation of sample syllabi](https://www.zotero.org/groups/digital_humanities_education/items/collectionKey/7WX7SUVB) using Zotero
   * Plan to code and sort the syllabi and then conduct interviews of students from those programs to see how the curriculum matched with, or adequately prepared them for professional jobs in digital humanities.
+
+2016
+----
+
+Building a Digital Projects Incubator. Presentation at *THATCamp Florida*. [Session proposal](http://bit.ly/FSULIBincubator) and [crowdsourced notes](http://bit.ly/FSULIBPENINC).
+
+Building and providing data management services: A framework for everyone. Conference presentation at the *Florida Library Association Annual Conference*. Co-presented with Renaine Julian and Stacey Mantooth. [Slideshare](http://www.slideshare.net/Renaine/building-and-providing-data-management-services-a-framework-for-everyone-59200016)
+
+“It Takes Teamwork to Make the Dream Work”: Delivering data management services in a team based environment. Poster presentation for *Research Data Access and Preservation Summit (RDAP)*. Collaboration with Renaine Julian. [Program](http://www.asis.org/rdap/program-2016/)
+
+Critical DH Pedagogy: Perspectives from two disciplines and sample syllabi. Submitted to *Library DH: A DH+Lib special issue*, forthcoming from the Association of College and Research Libraries digital humanities special interest group. Co-authored with Sarah Stanley
 
 2015
 ----
