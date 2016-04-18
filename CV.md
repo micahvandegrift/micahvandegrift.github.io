@@ -122,8 +122,7 @@ Pipe.* http://www.inthelibrarywiththeleadpipe.org/2014/healthyself/
 2013
 ----
 
-Proof. **Blog post** detailing a journal publication contract negotiation.
-*Blog post*. https://micahvandegrift.wordpress.com/2013/01/30/proof/
+Proof. **Blog post** detailing a journal publication contract negotiation. https://micahvandegrift.wordpress.com/2013/01/30/proof/
 
 Evolving in common: Creating mutually supportive relationships between
 libraries and the digital humanities. Vandegrift, M., & Varner, S.
@@ -137,7 +136,6 @@ http://pid.emory.edu/ark:/25593/cwzbf
 
 AHAGate: In Retrospect. **Blog post** summary of responses to the American
 Historical Association’s statement about theses and dissertations.
-*Blog post*.
 https://micahvandegrift.wordpress.com/2013/08/15/ahagate-in-retrospect/
 
 [THATCamp ACRL2013](http://acrl2013.thatcamp.org/). **Primary organizer and session facilitator** for the first THATCamp (The Humanities and Technology Camp) collaborative unconference at an ACRL conference. http://acrl2013.thatcamp.org/
@@ -161,8 +159,7 @@ Vandegrift, M. *In The Library with a Lead Pipe.*
 http://www.inthelibrarywiththeleadpipe.org/2012/dhandthelib/
 
 alt-LIS OR The Question of the Hybrarian OR What is Digital Humanities
-and What's It Doing in the Library? **Facilitated discussion** at *THATCamp
-Southeast* *2012*. http://southeast2012.thatcamp.org/03/08/alt-lis/
+and What's It Doing in the Library? **Facilitated discussion** at *THATCamp Southeast 2012*. http://southeast2012.thatcamp.org/03/08/alt-lis/
 
 2011
 ----
