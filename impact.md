@@ -1,6 +1,8 @@
 Research & Scholarly Impact
 ===========
 
+* all metrics accurate as of Nov. 23rd, 2015. Updated quarterly.
+
 Mentions
 ----
 [Referenced regularly on dh+lib](https://www.google.com/search?q=site%3Aacrl.ala.org%2Fdh%2F+micah&ie=utf-8&oe=utf-8), the Association of College and Research Library's digital humanities blog.
