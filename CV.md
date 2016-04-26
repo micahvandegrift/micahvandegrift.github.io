@@ -71,7 +71,7 @@ Research Projects in Process
 2016
 ----
 
-DLF Project Managers Group. **Documentation and policies**. Nowviskie, B., Bendorf, O., Graham, W., & Vandegrift, M. Retrieved from [osf.io/gkwc4](osf.io/gkwc4)
+DLF Project Managers Group. **Documentation and policies**. Nowviskie, B., Bendorf, O., Graham, W., & Vandegrift, M. Hosted on [Open Science Framework](osf.io/gkwc4) (Link not yet active)
 
 Building a Digital Projects Incubator. **Presentation** at THATCamp Florida. [Session proposal](http://bit.ly/FSULIBincubator) and [crowdsourced notes](http://bit.ly/FSULIBPENINC).
 
