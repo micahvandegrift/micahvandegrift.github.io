@@ -79,7 +79,7 @@ It Takes Teamwork to Make the Dream Work: Delivering data management services in
 
 The library's role in shaping the future of scholarly communication and publishing. **Job talk** posted on figshare as part of #openjobtalks. [https://dx.doi.org/10.6084/m9.figshare.3199534.v1](https://dx.doi.org/10.6084/m9.figshare.3199534.v1)
 
-DLF Project Managers Group. **Documentation and policies**. Nowviskie, B., Bendorf, O., Graham, W., & Vandegrift, M. Hosted on [Open Science Framework](https://osf.io/gkwc4) -- Link not yet active --
+DLF Project Managers Group. **Documentation and policies**. Nowviskie, B., Bendorf, O., Graham, W., & Vandegrift, M. Hosted on Open Science Framework. -- Link not yet public --
 
 Critical DH Pedagogy: Perspectives from two disciplines and sample syllabi. **Article** submitted to *Library DH: A DH+Lib special issue*, forthcoming from the Association of College and Research Libraries digital humanities special interest group. Co-authored with Sarah Stanley
 
