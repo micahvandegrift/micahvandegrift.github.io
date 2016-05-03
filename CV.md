@@ -71,17 +71,21 @@ Research Projects in Process
 2016
 ----
 
+Digital, Data, Documentation? We're not in ScholComm Kansas Anymore. **Keynote address** at the Mississippi State University Scholarly Communication Summit (July 2016). [lib.msstate.edu/scholcommsummit](http://lib.msstate.edu/scholcommsummit)
+
+It Takes Teamwork to Make the Dream Work: Delivering data management services in a team based environment. **Poster presentation** at Research Data Access and Preservation Summit (RDAP). Co-authored with Renaine Julian, and Rachel Besara. [https://dx.doi.org/10.6084/m9.figshare.3202006.v3](https://dx.doi.org/10.6084/m9.figshare.3202006.v3)
+
+[Digital Research] [services] in 21st Century - Leading Research, Teaching and Learning. **Job talk** posted on The Winnower as part of #openjobtalks. [http://dx.doi.org/10.15200/winn.146230.06254](dx.doi.org/10.15200/winn.146230.06254)
+
+The library's role in shaping the future of scholarly communication and publishing. **Job talk** posted on figshare as part of #openjobtalks. [https://dx.doi.org/10.6084/m9.figshare.3199534.v1](https://dx.doi.org/10.6084/m9.figshare.3199534.v1)
+
 DLF Project Managers Group. **Documentation and policies**. Nowviskie, B., Bendorf, O., Graham, W., & Vandegrift, M. Hosted on [Open Science Framework](https://osf.io/gkwc4) -- Link not yet active --
+
+Critical DH Pedagogy: Perspectives from two disciplines and sample syllabi. **Article** submitted to *Library DH: A DH+Lib special issue*, forthcoming from the Association of College and Research Libraries digital humanities special interest group. Co-authored with Sarah Stanley
 
 Building a Digital Projects Incubator. **Presentation** at THATCamp Florida. [Session proposal](http://bit.ly/FSULIBincubator) and [crowdsourced notes](http://bit.ly/FSULIBPENINC).
 
 Building and providing data management services: A framework for everyone. **Conference presentation** at the Florida Library Association Annual Conference. Co-presented with Renaine Julian and Stacey Mantooth. [Available on Slideshare](http://www.slideshare.net/Renaine/building-and-providing-data-management-services-a-framework-for-everyone-59200016)
-
-“It Takes Teamwork to Make the Dream Work”: Delivering data management services in a team based environment. **Poster presentation** at Research Data Access and Preservation Summit (RDAP). Collaboration with Renaine Julian. [Program](http://www.asis.org/rdap/program-2016/)
-
-Critical DH Pedagogy: Perspectives from two disciplines and sample syllabi. **Article** submitted to *Library DH: A DH+Lib special issue*, forthcoming from the Association of College and Research Libraries digital humanities special interest group. Co-authored with Sarah Stanley
-
-"Digital, Data, Documentation? We're not in ScholComm Kansas Anymore." **Keynote address** at the Mississippi State University Scholarly Communication Summit (July 2016). [lib.msstate.edu/scholcommsummit](http://lib.msstate.edu/scholcommsummit)
 
 2015
 ----
