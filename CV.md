@@ -83,7 +83,7 @@ DLF Project Managers Group. **Documentation and policies**. Nowviskie, B., Bendo
 
 Critical DH Pedagogy: Perspectives from two disciplines and sample syllabi. **Article** submitted to *Library DH: A DH+Lib special issue*, forthcoming from the Association of College and Research Libraries digital humanities special interest group. Co-authored with Sarah Stanley
 
-Building a Digital Projects Incubator. **Presentation** at THATCamp Florida. [Session proposal](http://bit.ly/FSULIBincubator) and [crowdsourced notes](http://bit.ly/FSULIBPENINC).
+Building a Digital Projects Incubator. **Presentation** at THATCamp Florida. [Session proposal - http://bit.ly/FSULIBincubator](http://bit.ly/FSULIBincubator) and [crowdsourced notes - http://bit.ly/FSULIBPENINC](http://bit.ly/FSULIBPENINC).
 
 Building and providing data management services: A framework for everyone. **Conference presentation** at the Florida Library Association Annual Conference. Co-presented with Renaine Julian and Stacey Mantooth. [Available on Slideshare](http://www.slideshare.net/Renaine/building-and-providing-data-management-services-a-framework-for-everyone-59200016)
 
