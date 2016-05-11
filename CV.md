@@ -71,7 +71,9 @@ Research Projects in Process
 2016
 ----
 
-Digital, Data, Documentation? We're not in ScholComm Kansas Anymore. **Keynote address** at the Mississippi State University Scholarly Communication Summit (July 2016). [lib.msstate.edu/scholcommsummit](http://lib.msstate.edu/scholcommsummit)
+Digital, Data, Documentation? We're not in ScholComm Kansas Anymore. **Keynote address** at the Mississippi State University Scholarly Communication Summit (July). [lib.msstate.edu/scholcommsummit](http://lib.msstate.edu/scholcommsummit)
+
+“Librishers and Pubraries: Explore Library Publishing and University Presses within Libraries.” **Panelist** for the ALCTS CRS Education, Research, and Publications Coordinating Committee program at ALA Annual. (June) Co-panelist with Meredith Babb, Director of the University Press of Florida, and Rick Anderson, Assoc. Dean for Collections & Scholarly Communication at the University of Utah. [https://www.eventscribe.com/2016/ala-annual/fsPopup.asp?Mode=presInfo&PresentationID=139572](https://www.eventscribe.com/2016/ala-annual/fsPopup.asp?Mode=presInfo&PresentationID=139572)
 
 It Takes Teamwork to Make the Dream Work: Delivering data management services in a team based environment. **Poster presentation** at Research Data Access and Preservation Summit (RDAP). Co-authored with Renaine Julian, and Rachel Besara. [https://dx.doi.org/10.6084/m9.figshare.3202006.v3](https://dx.doi.org/10.6084/m9.figshare.3202006.v3)
 
@@ -182,6 +184,8 @@ Current Service
 ===============
 
 Steering Committee Member, Digital Library Federation [Project Managers Group](https://www.diglib.org/groups/pmg/) (2016- )
+
+Planning Committee Member, [Open Scholarship Initiative 2017](http://osinitiative.org/)
 
 Chair, University Libraries Digital Scholarship Working Group (2014- )
 
