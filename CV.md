@@ -1,6 +1,6 @@
 ##Micah Vandegrift##
 
-  * Digital Scholarship Coordinator in the Office of Digital Research and Scholarship at Florida State University Libraries in Tallahassee, Florida
+  * Director of Digital Scholarship at Florida State University Libraries in Tallahassee, Florida
   * Blog and Homepage - [micahvandegrift.wordpress.com](http://micahvandegrift.wordpress.com/)
   * Email - work mvandegrift@fsu.edu personal micahvandegrift@gmail.com
   * ORCID - [0000-0001-8429-7697](http://orcid.org/0000-0001-8429-7697)
@@ -19,8 +19,10 @@ Education
 
 Employment
 ==========
+2016 - Present | Director of Digital Scholarship, Florida State University
+Direct and manage activities, programs, and projects in the Office of Digital Research and Scholarship (4.75 FTE). Plan, coordinate, and expand the digital scholarship portfolio for the entire library organization. 
 
-2014 – current | Digital Scholarship Coordinator, Florida State
+2014 – 2016 | Digital Scholarship Coordinator, Florida State
 University
 
 2011 – 2014 | Scholarly Communication Librarian, Florida State
@@ -71,7 +73,9 @@ Research Projects in Process
 2016
 ----
 
-Digital, Data, Documentation? We're not in ScholComm Kansas Anymore. **Keynote address** at the Mississippi State University Scholarly Communication Summit (July). [lib.msstate.edu/scholcommsummit](http://lib.msstate.edu/scholcommsummit)
+Cross-disciplinarity at the crossroads. Stanley, S., Vandegrift, M. *dh+lib Special Issue*. [http://acrl.ala.org/dh/2016/07/29/cross-disciplinarity-at-the-crossroads/](http://acrl.ala.org/dh/2016/07/29/cross-disciplinarity-at-the-crossroads/)
+
+Digital, Data, Documentation? We're not in ScholComm Kansas Anymore. **Keynote address** at the Mississippi State University Scholarly Communication Summit. [https://osf.io/mkevn/](https://osf.io/mkevn/)
 
 “Librishers and Pubraries: Explore Library Publishing and University Presses within Libraries.” **Panelist** for the ALCTS CRS Education, Research, and Publications Coordinating Committee program at ALA Annual. (June) Co-panelist with Meredith Babb, Director of the University Press of Florida, and Rick Anderson, Assoc. Dean for Collections & Scholarly Communication at the University of Utah. [https://www.eventscribe.com/2016/ala-annual/fsPopup.asp?Mode=presInfo&PresentationID=139572](https://www.eventscribe.com/2016/ala-annual/fsPopup.asp?Mode=presInfo&PresentationID=139572)
 
@@ -82,8 +86,6 @@ It Takes Teamwork to Make the Dream Work: Delivering data management services in
 The library's role in shaping the future of scholarly communication and publishing. **Job talk** posted on figshare as part of #openjobtalks. [https://dx.doi.org/10.6084/m9.figshare.3199534.v1](https://dx.doi.org/10.6084/m9.figshare.3199534.v1)
 
 DLF Project Managers Group. **Documentation and policies**. Nowviskie, B., Bendorf, O., Graham, W., & Vandegrift, M. Hosted on Open Science Framework. -- Link not yet public --
-
-Critical DH Pedagogy: Perspectives from two disciplines and sample syllabi. **Article** submitted to *Library DH: A DH+Lib special issue*, forthcoming from the Association of College and Research Libraries digital humanities special interest group. Co-authored with Sarah Stanley
 
 Building a Digital Projects Incubator. **Presentation** at THATCamp Florida. [Session proposal - http://bit.ly/FSULIBincubator](http://bit.ly/FSULIBincubator) and [crowdsourced notes - http://bit.ly/FSULIBPENINC](http://bit.ly/FSULIBPENINC).
 
@@ -187,23 +189,20 @@ Steering Committee Member, Digital Library Federation [Project Managers Group](h
 
 Planning Committee Member, [Open Scholarship Initiative 2017](http://osinitiative.org/)
 
-Chair, University Libraries Digital Scholarship Working Group (2014- )
-
 Editorial Board Member, Journal of Librarianship and Scholarly
 Communication (2014– )
 
 Advisory Board Member, Advancing Research and Communication and
 Scholarship (2014- )
 
-Chair-elect, Grant Review Panel, Institute for Museum and Library
+Chair, Grant Review Panel, Institute for Museum and Library
 Services – Library Services and Technology Act State of Florida
 (2013–2019)
 
-Council Member, THATCamp (The Humanities and Technology Camp) Council
-(2014– )
-
 Service Appointments Fulfilled
 ==============================
+
+Council Member, THATCamp (The Humanities and Technology Camp) Council (2014–2016)
 
 Representative, Library Publishing Coalition, Founding member (2013–2016)
 
