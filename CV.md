@@ -20,6 +20,7 @@ Education
 Employment
 ==========
 2016 - Present | Director of Digital Scholarship, Florida State University
+
 Direct and manage activities, programs, and projects in the Office of Digital Research and Scholarship (4.75 FTE). Plan, coordinate, and expand the digital scholarship portfolio for the entire library organization. 
 
 2014 – 2016 | Digital Scholarship Coordinator, Florida State
