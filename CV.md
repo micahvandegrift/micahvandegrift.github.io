@@ -21,7 +21,7 @@ Employment
 ==========
 2016 - Present | Director of Digital Scholarship, Florida State University
 
-Direct and manage activities, programs, and projects in the Office of Digital Research and Scholarship (4.75 FTE). Plan, coordinate, and expand the digital scholarship portfolio for the entire library organization. 
+Direct and manage activities, programs, and projects in the Office of Digital Research and Scholarship. Plan, coordinate, and expand the digital scholarship portfolio for the entire library organization. 
 
 2014 – 2016 | Digital Scholarship Coordinator, Florida State
 University
@@ -69,7 +69,7 @@ Research Projects in Process
   * Inspired by coursework at the Humanities Intensive Teaching and Learning (HILT2015) seminar on Digital Pedagogy and Networked Learning. Documentation available at [http://bit.ly/HILTschedule](http://bit.ly/HILTschedule).
   * Crowsourced a [compliation of sample syllabi](https://www.zotero.org/groups/digital_humanities_education/items/collectionKey/7WX7SUVB) using Zotero
   * Plan to code and sort the syllabi and then conduct interviews of students from those programs to see how the curriculum matched with, or adequately prepared them for professional jobs in digital humanities.
-  * Initial publication from this project submitted to Library DH: A dh+lib Special Issue
+  * Initial publication from this project published in Library DH: A dh+lib Special Issue
 
 2016
 ----
@@ -79,6 +79,8 @@ Cross-disciplinarity at the crossroads. Stanley, S., Vandegrift, M. *dh+lib Spec
 Digital, Data, Documentation? We're not in ScholComm Kansas Anymore. **Keynote address** at the Mississippi State University Scholarly Communication Summit. [https://osf.io/mkevn/](https://osf.io/mkevn/)
 
 “Librishers and Pubraries: Explore Library Publishing and University Presses within Libraries.” **Panelist** for the ALCTS CRS Education, Research, and Publications Coordinating Committee program at ALA Annual. (June) Co-panelist with Meredith Babb, Director of the University Press of Florida, and Rick Anderson, Assoc. Dean for Collections & Scholarly Communication at the University of Utah. [https://www.eventscribe.com/2016/ala-annual/fsPopup.asp?Mode=presInfo&PresentationID=139572](https://www.eventscribe.com/2016/ala-annual/fsPopup.asp?Mode=presInfo&PresentationID=139572)
+
+Report from the Evolving Open Solutions (2) Workgroup. Billings, M., Bobley, B., McCollough, A., Mudditt, A., Naim, K., Pinter, F., Price, R., Roche, T., Sprio, L., & Vandegrift, M. *Open Scholarship Initiative Proceedings* [dx.doi.org/10.13021/G8ZK52](dx.doi.org/10.13021/G8ZK52)
 
 It Takes Teamwork to Make the Dream Work: Delivering data management services in a team based environment. **Poster presentation** at Research Data Access and Preservation Summit (RDAP). Co-authored with Renaine Julian, and Rachel Besara. [https://dx.doi.org/10.6084/m9.figshare.3202006.v3](https://dx.doi.org/10.6084/m9.figshare.3202006.v3)
 
