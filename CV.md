@@ -73,6 +73,7 @@ Research Projects in Process
 
 2016
 ----
+Managing Scope and Scale: Applying the Incubator Model to Digital Scholarship. Micah Vandegrift, Sarah Stanley, Alix Keener, Zoe Borovsky, Dawn Childress, Elizabeth Lorang, Christy Hyman. **Panel presentation** at the Digital Library Federation Forum. Slides and materials forthcoming. [Program](https://www.conftool.pro/dlf2016/index.php?page=browseSessions&form_session=41&presentations=show)
 
 Cross-disciplinarity at the crossroads. Stanley, S., Vandegrift, M. *dh+lib Special Issue*. [http://acrl.ala.org/dh/2016/07/29/cross-disciplinarity-at-the-crossroads/](http://acrl.ala.org/dh/2016/07/29/cross-disciplinarity-at-the-crossroads/)
 
@@ -80,7 +81,7 @@ Digital, Data, Documentation? We're not in ScholComm Kansas Anymore. **Keynote a
 
 “Librishers and Pubraries: Explore Library Publishing and University Presses within Libraries.” **Panelist** for the ALCTS CRS Education, Research, and Publications Coordinating Committee program at ALA Annual. (June) Co-panelist with Meredith Babb, Director of the University Press of Florida, and Rick Anderson, Assoc. Dean for Collections & Scholarly Communication at the University of Utah. [https://www.eventscribe.com/2016/ala-annual/fsPopup.asp?Mode=presInfo&PresentationID=139572](https://www.eventscribe.com/2016/ala-annual/fsPopup.asp?Mode=presInfo&PresentationID=139572)
 
-Report from the Evolving Open Solutions (2) Workgroup. Billings, M., Bobley, B., McCollough, A., Mudditt, A., Naim, K., Pinter, F., Price, R., Roche, T., Sprio, L., & Vandegrift, M. *Open Scholarship Initiative Proceedings* [dx.doi.org/10.13021/G8ZK52](dx.doi.org/10.13021/G8ZK52)
+Report from the Evolving Open Solutions (2) Workgroup. Billings, M., Bobley, B., McCollough, A., Mudditt, A., Naim, K., Pinter, F., Price, R., Roche, T., Sprio, L., & Vandegrift, M. *Open Scholarship Initiative Proceedings* [https://dx.doi.org/10.13021/G8ZK52](https://dx.doi.org/10.13021/G8ZK52)
 
 It Takes Teamwork to Make the Dream Work: Delivering data management services in a team based environment. **Poster presentation** at Research Data Access and Preservation Summit (RDAP). Co-authored with Renaine Julian, and Rachel Besara. [https://dx.doi.org/10.6084/m9.figshare.3202006.v3](https://dx.doi.org/10.6084/m9.figshare.3202006.v3)
 
@@ -121,6 +122,8 @@ https://micahvandegrift.wordpress.com/2014/12/17/changelispublishing/
 "Free to All": Library Publishing and the Challenge of Open Access.
 Vandegrift, M., & Bolick, J. *Journal of Librarianship and Scholarly
 Communication.* http://jlsc-pub.org/jlsc/vol2/iss4/10/
+
+Library as Publisher: pwning Open Access. **Invited presentation** at the inaugural *Library Publishing Forum*, Kansas City, KS. https://micahvandegrift.wordpress.com/2014/03/06/pwnoa/
 
 The Miseducation of Scholarly Communication. **Invited presentation** at the
 *Society for Scholarly Publishing,* Boston, MA.
@@ -200,7 +203,7 @@ Scholarship (2014- )
 
 Chair, Grant Review Panel, Institute for Museum and Library
 Services – Library Services and Technology Act State of Florida
-(2013–2019)
+(2013–2016)
 
 Service Appointments Fulfilled
 ==============================
