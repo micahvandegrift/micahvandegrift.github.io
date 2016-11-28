@@ -73,7 +73,7 @@ Research Projects in Process
 
 2016
 ----
-Managing Scope and Scale: Applying the Incubator Model to Digital Scholarship. Micah Vandegrift, Sarah Stanley, Alix Keener, Zoe Borovsky, Dawn Childress, Elizabeth Lorang, Christy Hyman. **Panel presentation** at the Digital Library Federation Forum. Slides and materials forthcoming. [Program](https://www.conftool.pro/dlf2016/index.php?page=browseSessions&form_session=41&presentations=show)
+Managing Scope and Scale: Applying the Incubator Model to Digital Scholarship. Micah Vandegrift, Sarah Stanley, Alix Keener, Zoe Borovsky, Dawn Childress, Elizabeth Lorang, Christy Hyman. **Panel presentation** at the Digital Library Federation Forum. [http://doi.org/10.17605/OSF.IO/DBF25](http://doi.org/10.17605/OSF.IO/DBF25)
 
 Cross-disciplinarity at the crossroads. Stanley, S., Vandegrift, M. *dh+lib Special Issue*. [http://acrl.ala.org/dh/2016/07/29/cross-disciplinarity-at-the-crossroads/](http://acrl.ala.org/dh/2016/07/29/cross-disciplinarity-at-the-crossroads/)
 
