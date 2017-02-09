@@ -68,6 +68,8 @@ Our research question for this project is what does a “maturity model” for p
 
 OA Publication Quality. **Webinar co-moderator** Library Publishing Coalition Professional Development series. Panel discussion featuring representatives from the Open Access Scholarly Publishers Association and Directory of Open Access Journals.
 
+Federal Open Policies Operation - Phase III. **Outreach and informational toolkit** Collaborative project of FSU Librarians and interns with documents, slides, and other materials for constructing an outreach program about federal public access mandates. To be released on Open Science Framework upon completion.
+
 2016
 ----
 Discover DH: Introduction to Digital Humanities Theories and Methods. **Training series** Presenter and co-planner of this semester long series. [https://doi.org/10.6084/m9.figshare.4287263.v1](https://doi.org/10.6084/m9.figshare.4287263.v1)
