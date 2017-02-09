@@ -60,17 +60,23 @@ Research & Scholarship
 
 2017
 ----
-**Forecasting a "maturity model" for Supporting Public Access Policies: A Preliminary Study.**
-
+**Forecasting a "maturity model" for Supporting Public Access Policies: A Preliminary Study.** 
 Collaborators - Devin Soper, Renaine Julian, Cinthya Ippoliti, Amy Koshoffer
-
 Our research question for this project is what does a “maturity model” for public access outreach/support look like? What resources/skills are necessary to achieve a high-level of support? We're basing this on [a study done by Cox et. all](https://via.hypothes.is/http://eprints.whiterose.ac.uk/101389/13/RDM%202%20survey%20final%20version%20201608%20JASIST%20inc%20figs%20and%20tables%20WRRO.pdf) which surveyed Universities in the UK, Australia, and Europe in attempt to outline what mature research data services look like.
+
+OA Publication Quality. **Webinar co-moderator** Library Publishing Coalition Professional Development series. Panel discussion featuring representatives from the Open Access Scholarly Publishers Association and Directory of Open Access Journals.
 
 2016
 ----
 Managing Scope and Scale: Applying the Incubator Model to Digital Scholarship. Micah Vandegrift, Sarah Stanley, Alix Keener, Zoe Borovsky, Dawn Childress, Elizabeth Lorang, Christy Hyman. **Panel presentation** at the Digital Library Federation Forum. [http://doi.org/10.17605/OSF.IO/DBF25](http://doi.org/10.17605/OSF.IO/DBF25)
 
+Invisible Work in the Digital Humanities. **Symposium Co-planner** with Tarez Graban, Paul Marty, and Allen Romano. [https://storify.com/FSULibrary/iwdh](https://storify.com/FSULibrary/iwdh)
+
+SPARC Webcast on Public Access Policy Compliance. 11.2.16 **Webinar panelist** Co-presented with Renaine Julian and Devin Soper. [Webinar information](http://sparc2.arl.org/civicrm/event/info?id=158) and [slides](http://purl.flvc.org/fsu/fd/FSU_libsubv1_scholarship_submission_1482355788) available online. 
+
 Cross-disciplinarity at the crossroads. Stanley, S., Vandegrift, M. *dh+lib Special Issue*. [http://acrl.ala.org/dh/2016/07/29/cross-disciplinarity-at-the-crossroads/](http://acrl.ala.org/dh/2016/07/29/cross-disciplinarity-at-the-crossroads/)
+
+Periodic Table of Digital Research Tools. Stanley, S., Vandegrift, M. [https://doi.org/10.6084/m9.figshare.3465686.v3](https://doi.org/10.6084/m9.figshare.3465686.v3) Annotated version also [accessible on Scalar](http://scalar.usc.edu/works/digital-research-resources/index). *Annotations by Bonnie Santos.*
 
 Digital, Data, Documentation? We're not in ScholComm Kansas Anymore. **Keynote address** at the Mississippi State University Scholarly Communication Summit. [https://osf.io/mkevn/](https://osf.io/mkevn/)
 
