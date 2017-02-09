@@ -185,6 +185,7 @@ http://chnm2011.thatcamp.org/05/19/futurelibrarianship/
 
 Current Service
 ===============
+Co-Chair, HASTAC 2017 Program Committee
 
 Steering Committee Member, Digital Library Federation [Project Managers Group](https://www.diglib.org/groups/pmg/) (2016- )
 
