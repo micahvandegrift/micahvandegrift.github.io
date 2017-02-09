@@ -58,9 +58,10 @@ Digital Research and Scholarship
 Research & Scholarship
 ===========
 
-Research Projects in Process
+2017
 ----
-*Forecasting a "maturity model" for Supporting Public Access Policies: A Preliminary Study.*
+**Forecasting a "maturity model" for Supporting Public Access Policies: A Preliminary Study.**
+
 Collaborators - Devin Soper, Renaine Julian, Cinthya Ippoliti, Amy Koshoffer
 
 Our research question for this project is what does a “maturity model” for public access outreach/support look like? What resources/skills are necessary to achieve a high-level of support? We're basing this on [a study done by Cox et. all](https://via.hypothes.is/http://eprints.whiterose.ac.uk/101389/13/RDM%202%20survey%20final%20version%20201608%20JASIST%20inc%20figs%20and%20tables%20WRRO.pdf) which surveyed Universities in the UK, Australia, and Europe in attempt to outline what mature research data services look like.
@@ -187,43 +188,29 @@ Current Service
 
 Steering Committee Member, Digital Library Federation [Project Managers Group](https://www.diglib.org/groups/pmg/) (2016- )
 
-Planning Committee Member, [Open Scholarship Initiative 2017](http://osinitiative.org/)
-
-Editorial Board Member, Journal of Librarianship and Scholarly
-Communication (2014– )
-
-Advisory Board Member, Advancing Research and Communication and
-Scholarship (2014- )
-
-Chair, Grant Review Panel, Institute for Museum and Library
-Services – Library Services and Technology Act State of Florida
-(2013–2016)
+Editorial Board Member, Journal of Librarianship and Scholarly Communication (2014– )
 
 Service Appointments Fulfilled
 ==============================
+Chair, Grant Review Panel, Institute for Museum and Library Services – Library Services and Technology Act State of Florida (2013–2016)
 
 Council Member, THATCamp (The Humanities and Technology Camp) Council (2014–2016)
 
 Representative, Library Publishing Coalition, Founding member (2013–2016)
 
-Coordinating Committee Member - Coalition of Open Access Policy
-    Institutions (2012–2015)
+Coordinating Committee Member - Coalition of Open Access Policy Institutions (2012–2015)
     
 Reviewer, Conference proposals to The Collective, a new start-up library conference in its inaugural year. (2014-2015)
 
-Co-Chair, Faculty Senate Library Committee - Scholarly
-    Communications Task Force (2013–2015)
+Co-Chair, Faculty Senate Library Committee - Scholarly Communications Task Force (2013–2015)
 
-Chair, Copyright Committee, Florida State
-    University Libraries (2012-2015)
+Chair, Copyright Committee, Florida State University Libraries (2012-2015)
 
-Committee member – Professional Development, Research and Travel
-    Committee, Florida State University Libraries (2012-2014)
+Committee member – Professional Development, Research and Travel Committee, Florida State University Libraries (2012-2014)
 
 Editorial Board Member, In The Library with the Lead Pipe (2012–2014)
 
-Committee Member, Annual Conference Innovations Committee,
-    Association of College and Research Libraries (2011–2013)
+Committee Member, Annual Conference Innovations Committee, Association of College and Research Libraries (2011–2013)
 
 Referee - Journal of Electronic Publishing, Journal of Librarianship
     and Scholarly Communication, Journal of Interlibrary Loan, Document
