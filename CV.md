@@ -60,11 +60,8 @@ Research & Scholarship
 
 2017
 ----
-**(Working title) Forecasting a "maturity model" for Supporting Public Access Policies: A Preliminary Study.** 
-
-Collaborators - Devin Soper, Renaine Julian, Cinthya Ippoliti, Amy Koshoffer
-
-Our research question for this project is what does a “maturity model” for public access outreach/support look like? What resources/skills are necessary to achieve a high-level of support? We're basing this on [a study done by Cox et. all](https://via.hypothes.is/http://eprints.whiterose.ac.uk/101389/13/RDM%202%20survey%20final%20version%20201608%20JASIST%20inc%20figs%20and%20tables%20WRRO.pdf) which surveyed Universities in the UK, Australia, and Europe in attempt to outline what mature research data services look like.
+**(Working title) Forecasting a "maturity model" for Supporting Public Access Policies: A Preliminary Study.** Devin Soper, Renaine Julian, Cinthya Ippoliti, Amy Koshoffer
+* Our research question for this project is what does a “maturity model” for public access outreach/support look like? What resources/skills are necessary to achieve a high-level of support? We're basing this on [a study done by Cox et. all](https://via.hypothes.is/http://eprints.whiterose.ac.uk/101389/13/RDM%202%20survey%20final%20version%20201608%20JASIST%20inc%20figs%20and%20tables%20WRRO.pdf) which surveyed Universities in the UK, Australia, and Europe in attempt to outline what mature research data services look like.
 
 OA Publication Quality. **Webinar co-moderator** Library Publishing Coalition Professional Development series. Panel discussion featuring representatives from the Open Access Scholarly Publishers Association and Directory of Open Access Journals.
 
