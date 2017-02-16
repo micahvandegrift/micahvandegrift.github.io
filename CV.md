@@ -58,24 +58,28 @@ Digital Research and Scholarship
 Research & Scholarship
 ===========
 
-Research Projects in Process
+2017
 ----
-[Modeling Contributorship with the Taxonomy of Digital Research Activities in the Humanities (TiDiRAH) - Applying a Community-Based Taxonomy to Digital Projects](http://bit.ly/tadirize)
-  * Proposed and accepted to the Mellon-funded Triangle Scholarly Communication Institute in October 2015
-  * Cross-disciplinary team includes: Dr. Cassidy Sugimoto, Indiana University-Bloomington, Dr. J. Britt Holbrook, New Jersey Institute for Technology, Dr. Korey Jackson, Gray Family Chair for Library Innovation, University of Oregon, Zach Coble, Digital Scholarship Librarian, New York University, and April Hathcock, Scholarly Communication Librarian, New York University
-  * In discussion with colleagues working on [Project CRediT (Contributor Roles Taxonomy)](http://casrai.org/CRediT) to explore a potential collaboration.
+**(Working title) Forecasting a "maturity model" for Supporting Public Access Policies: A Preliminary Study.** Devin Soper, Renaine Julian, Cinthya Ippoliti, Amy Koshoffer
+* Our research question for this project is what does a “maturity model” for public access outreach/support look like? What resources/skills are necessary to achieve a high-level of support? We're basing this on [a study done by Cox et. all](https://via.hypothes.is/http://eprints.whiterose.ac.uk/101389/13/RDM%202%20survey%20final%20version%20201608%20JASIST%20inc%20figs%20and%20tables%20WRRO.pdf) which surveyed Universities in the UK, Australia, and Europe in attempt to outline what mature research data services look like.
 
-[Examining the Pedagogy of Information Schools' Digital Humanities Courses through Syllabi](https://micahvandegrift.wordpress.com/2015/07/29/ischooldhlib/)
-  * Inspired by coursework at the Humanities Intensive Teaching and Learning (HILT2015) seminar on Digital Pedagogy and Networked Learning. Documentation available at [http://bit.ly/HILTschedule](http://bit.ly/HILTschedule).
-  * Crowsourced a [compliation of sample syllabi](https://www.zotero.org/groups/digital_humanities_education/items/collectionKey/7WX7SUVB) using Zotero
-  * Plan to code and sort the syllabi and then conduct interviews of students from those programs to see how the curriculum matched with, or adequately prepared them for professional jobs in digital humanities.
-  * Initial publication from this project published in Library DH: A dh+lib Special Issue
+OA Publication Quality. **Webinar co-moderator** Library Publishing Coalition Professional Development series. Panel discussion featuring representatives from the Open Access Scholarly Publishers Association and Directory of Open Access Journals.
+
+Federal Open Policies Operation - Phase III. **Outreach and informational toolkit** Collaborative project of FSU Librarians and interns with documents, slides, and other materials for constructing an outreach program about federal public access mandates. To be released on Open Science Framework upon completion.
 
 2016
 ----
+Discover DH: Introduction to Digital Humanities Theories and Methods. **Training series** Presenter and co-planner of this semester long series. [https://doi.org/10.6084/m9.figshare.4287263.v1](https://doi.org/10.6084/m9.figshare.4287263.v1)
+
 Managing Scope and Scale: Applying the Incubator Model to Digital Scholarship. Micah Vandegrift, Sarah Stanley, Alix Keener, Zoe Borovsky, Dawn Childress, Elizabeth Lorang, Christy Hyman. **Panel presentation** at the Digital Library Federation Forum. [http://doi.org/10.17605/OSF.IO/DBF25](http://doi.org/10.17605/OSF.IO/DBF25)
 
+Invisible Work in the Digital Humanities. **Symposium Co-planner** with Tarez Graban, Paul Marty, and Allen Romano. [https://storify.com/FSULibrary/iwdh](https://storify.com/FSULibrary/iwdh)
+
+SPARC Webcast on Public Access Policy Compliance. 11.2.16 **Webinar panelist** Co-presented with Renaine Julian and Devin Soper. [Webinar information](http://sparc2.arl.org/civicrm/event/info?id=158) and [slides](http://purl.flvc.org/fsu/fd/FSU_libsubv1_scholarship_submission_1482355788) available online. 
+
 Cross-disciplinarity at the crossroads. Stanley, S., Vandegrift, M. *dh+lib Special Issue*. [http://acrl.ala.org/dh/2016/07/29/cross-disciplinarity-at-the-crossroads/](http://acrl.ala.org/dh/2016/07/29/cross-disciplinarity-at-the-crossroads/)
+
+Periodic Table of Digital Research Tools. Stanley, S., Vandegrift, M. [https://doi.org/10.6084/m9.figshare.3465686.v3](https://doi.org/10.6084/m9.figshare.3465686.v3) Annotated version also [accessible on Scalar](http://scalar.usc.edu/works/digital-research-resources/index). *Annotations by Bonnie Santos.*
 
 Digital, Data, Documentation? We're not in ScholComm Kansas Anymore. **Keynote address** at the Mississippi State University Scholarly Communication Summit. [https://osf.io/mkevn/](https://osf.io/mkevn/)
 
@@ -190,46 +194,33 @@ http://chnm2011.thatcamp.org/05/19/futurelibrarianship/
 
 Current Service
 ===============
+Co-Chair, HASTAC 2017 Program Committee
 
 Steering Committee Member, Digital Library Federation [Project Managers Group](https://www.diglib.org/groups/pmg/) (2016- )
 
-Planning Committee Member, [Open Scholarship Initiative 2017](http://osinitiative.org/)
-
-Editorial Board Member, Journal of Librarianship and Scholarly
-Communication (2014– )
-
-Advisory Board Member, Advancing Research and Communication and
-Scholarship (2014- )
-
-Chair, Grant Review Panel, Institute for Museum and Library
-Services – Library Services and Technology Act State of Florida
-(2013–2016)
+Editorial Board Member, Journal of Librarianship and Scholarly Communication (2014– )
 
 Service Appointments Fulfilled
 ==============================
+Chair, Grant Review Panel, Institute for Museum and Library Services – Library Services and Technology Act State of Florida (2013–2016)
 
 Council Member, THATCamp (The Humanities and Technology Camp) Council (2014–2016)
 
 Representative, Library Publishing Coalition, Founding member (2013–2016)
 
-Coordinating Committee Member - Coalition of Open Access Policy
-    Institutions (2012–2015)
+Coordinating Committee Member - Coalition of Open Access Policy Institutions (2012–2015)
     
 Reviewer, Conference proposals to The Collective, a new start-up library conference in its inaugural year. (2014-2015)
 
-Co-Chair, Faculty Senate Library Committee - Scholarly
-    Communications Task Force (2013–2015)
+Co-Chair, Faculty Senate Library Committee - Scholarly Communications Task Force (2013–2015)
 
-Chair, Copyright Committee, Florida State
-    University Libraries (2012-2015)
+Chair, Copyright Committee, Florida State University Libraries (2012-2015)
 
-Committee member – Professional Development, Research and Travel
-    Committee, Florida State University Libraries (2012-2014)
+Committee member – Professional Development, Research and Travel Committee, Florida State University Libraries (2012-2014)
 
 Editorial Board Member, In The Library with the Lead Pipe (2012–2014)
 
-Committee Member, Annual Conference Innovations Committee,
-    Association of College and Research Libraries (2011–2013)
+Committee Member, Annual Conference Innovations Committee, Association of College and Research Libraries (2011–2013)
 
 Referee - Journal of Electronic Publishing, Journal of Librarianship
     and Scholarly Communication, Journal of Interlibrary Loan, Document
