@@ -200,6 +200,8 @@ Steering Committee Member, Digital Library Federation [Project Managers Group](h
 
 Editorial Board Member, Journal of Librarianship and Scholarly Communication (2014– )
 
+Editorial Board Member, [The Idealis](http://theidealis.org/) (2017- )
+
 Service Appointments Fulfilled
 ==============================
 Chair, Grant Review Panel, Institute for Museum and Library Services – Library Services and Technology Act State of Florida (2013–2016)
