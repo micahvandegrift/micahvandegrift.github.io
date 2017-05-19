@@ -145,7 +145,7 @@ Vandegrift, M., & Bolick, J. *Journal of Librarianship and Scholarly Communicati
 
 **Article | Librarian, Heal Thyself: A Scholarly Communication Analysis of LIS Journals.** Vandegrift, M., & Bowley, C. *In the Library with the Lead Pipe.* [http://www.inthelibrarywiththeleadpipe.org/2014/healthyself/](http://www.inthelibrarywiththeleadpipe.org/2014/healthyself/)
 
-**Data set** | LIS Journals measured for “openness.” 
+**Data set | LIS Journals measured for “openness.” **
 * related to *Librarian, Heal Thyself: A Scholarly Communication Analysis of LIS Journals*. Vandegrift, M., & Bowley, C. [http://figshare.com/articles/LIS_Journals_measured_for_openness_/994258](http://figshare.com/articles/LIS_Journals_measured_for_openness_/994258)
 
 2013
@@ -161,8 +161,8 @@ Vandegrift, M., & Bolick, J. *Journal of Librarianship and Scholarly Communicati
 **Blog post | AHAGate: In Retrospect.** 
 * summary of responses to the American Historical Association’s statement about theses and dissertations.[https://micahvandegrift.wordpress.com/2013/08/15/ahagate-in-retrospect/](https://micahvandegrift.wordpress.com/2013/08/15/ahagate-in-retrospect/)
 
-**Primary organizer and session facilitator | [THATCamp ACRL2013](http://acrl2013.thatcamp.org/).**  
-* First THATCamp (The Humanities and Technology Camp) collaborative unconference at an ACRL conference. http://acrl2013.thatcamp.org/
+**Primary organizer and session facilitator | THATCamp ACRL2013.**  
+* First THATCamp (The Humanities and Technology Camp) collaborative unconference at an ACRL conference. [http://acrl2013.thatcamp.org/](http://acrl2013.thatcamp.org/)
 
 **Panel presentation | DIY Library Culture and the Academy.**  Ford, E., Leeder, K., Dorney, E., & Vandegrift, M.  
 * Given at the *Association of College and Research Libraries*, Indianapolis. *In the Library with the Lead Pipe*.
