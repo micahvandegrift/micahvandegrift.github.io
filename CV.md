@@ -1,7 +1,6 @@
-##Micah Vandegrift##
+## Micah Vandegrift ##
 
   * Director of Digital Scholarship at Florida State University Libraries in Tallahassee, Florida
-  * Blog and Homepage - [micahvandegrift.wordpress.com](http://micahvandegrift.wordpress.com/)
   * Email - work mvandegrift@fsu.edu personal micahvandegrift@gmail.com
   * ORCID - [0000-0001-8429-7697](http://orcid.org/0000-0001-8429-7697)
 
@@ -63,13 +62,19 @@ Research & Scholarship
 **(Working title) Forecasting a "maturity model" for Supporting Public Access Policies: A Preliminary Study.** Devin Soper, Renaine Julian, Cinthya Ippoliti, Amy Koshoffer
 * Our research question for this project is what does a “maturity model” for public access outreach/support look like? What resources/skills are necessary to achieve a high-level of support? We're basing this on [a study done by Cox et. all](https://via.hypothes.is/http://eprints.whiterose.ac.uk/101389/13/RDM%202%20survey%20final%20version%20201608%20JASIST%20inc%20figs%20and%20tables%20WRRO.pdf) which surveyed Universities in the UK, Australia, and Europe in attempt to outline what mature research data services look like.
 
-OA Publication Quality. **Webinar co-moderator** Library Publishing Coalition Professional Development series. Panel discussion featuring representatives from the Open Access Scholarly Publishers Association and Directory of Open Access Journals.
+How to be a one person scholarly communication office. **Webinar panelist** 
+Presentation on deciding balancing advocacy and activism in a new scholarly communication initiative. June 15, 2017. Slides posted following the presentation.
 
-Federal Open Policies Operation - Phase III. **Outreach and informational toolkit** Collaborative project of FSU Librarians and interns with documents, slides, and other materials for constructing an outreach program about federal public access mandates. To be released on Open Science Framework upon completion.
+OA Publication Quality - Library Publishing Coalition Professional Development series. **Webinar co-moderator** 
+Panel discussion featuring representatives from the Open Access Scholarly Publishers Association and Directory of Open Access Journals.
+
+Federal Open Policies Operation - Phase III. **Outreach and informational toolkit** 
+Collaborative project of FSU Librarians and interns with documents, slides, and other materials for constructing an outreach program about federal public access mandates. [osf.io/nvujj/](https://osf.io/nvujj/)
 
 2016
 ----
-Discover DH: Introduction to Digital Humanities Theories and Methods. **Training series** Presenter and co-planner of this semester long series. [https://doi.org/10.6084/m9.figshare.4287263.v1](https://doi.org/10.6084/m9.figshare.4287263.v1)
+Discover DH: Introduction to Digital Humanities Theories and Methods. **Training series** 
+Presenter and co-planner of this semester long series. [https://doi.org/10.6084/m9.figshare.4287263.v1](https://doi.org/10.6084/m9.figshare.4287263.v1)
 
 Managing Scope and Scale: Applying the Incubator Model to Digital Scholarship. Micah Vandegrift, Sarah Stanley, Alix Keener, Zoe Borovsky, Dawn Childress, Elizabeth Lorang, Christy Hyman. **Panel presentation** at the Digital Library Federation Forum. [http://doi.org/10.17605/OSF.IO/DBF25](http://doi.org/10.17605/OSF.IO/DBF25)
 
@@ -85,7 +90,7 @@ Digital, Data, Documentation? We're not in ScholComm Kansas Anymore. **Keynote a
 
 “Librishers and Pubraries: Explore Library Publishing and University Presses within Libraries.” **Panelist** for the ALCTS CRS Education, Research, and Publications Coordinating Committee program at ALA Annual. (June) Co-panelist with Meredith Babb, Director of the University Press of Florida, and Rick Anderson, Assoc. Dean for Collections & Scholarly Communication at the University of Utah. [https://www.eventscribe.com/2016/ala-annual/fsPopup.asp?Mode=presInfo&PresentationID=139572](https://www.eventscribe.com/2016/ala-annual/fsPopup.asp?Mode=presInfo&PresentationID=139572)
 
-Report from the Evolving Open Solutions (2) Workgroup. Billings, M., Bobley, B., McCollough, A., Mudditt, A., Naim, K., Pinter, F., Price, R., Roche, T., Sprio, L., & Vandegrift, M. *Open Scholarship Initiative Proceedings* [https://dx.doi.org/10.13021/G8ZK52](https://dx.doi.org/10.13021/G8ZK52)
+Report from the Evolving Open Solutions (2) Workgroup at the inaugeral Open Scholarship Initiative. Billings, M., Bobley, B., McCollough, A., Mudditt, A., Naim, K., Pinter, F., Price, R., Roche, T., Sprio, L., & Vandegrift, M. *Open Scholarship Initiative Proceedings* [https://dx.doi.org/10.13021/G8ZK52](https://dx.doi.org/10.13021/G8ZK52)
 
 It Takes Teamwork to Make the Dream Work: Delivering data management services in a team based environment. **Poster presentation** at Research Data Access and Preservation Summit (RDAP). Co-authored with Renaine Julian, and Rachel Besara. [https://dx.doi.org/10.6084/m9.figshare.3202006.v3](https://dx.doi.org/10.6084/m9.figshare.3202006.v3)
 
@@ -102,9 +107,7 @@ Building and providing data management services: A framework for everyone. **Con
 2015
 ----
 
-Availability and accessibility in an open access institutional
-repository: a case study. Lee, J., Burnett, G., Baeg, J. H., Vandegrift,
-M., & Morris, R. *Information Research*, 20(1), 1-18.
+Availability and accessibility in an open access institutional repository: a case study. Lee, J., Burnett, G., Baeg, J. H., Vandegrift, M., & Morris, R. *Information Research*, 20(1), 1-18.
 http://InformationR.net/ir/20-1/paper661.html
 
 A table summarizing the Federal public access policies resulting from the US Office of Science and Technology Policy memorandum of February 2013. **Crowdsourced data set**. Whitmire, Amanda; Briney, Kristin; Nurnberger, Amy; Henderson, Margaret; Atwood, Thea; Janz, Margaret; Kozlowski, Wendy; Lake, Sherry; Vandegrift, Micah; Zilinski, Lisa. http://dx.doi.org/10.6084/m9.figshare.1372041
