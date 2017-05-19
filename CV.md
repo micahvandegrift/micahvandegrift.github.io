@@ -159,7 +159,7 @@ Vandegrift, M., & Bolick, J. *Journal of Librarianship and Scholarly Communicati
 * This article was also included in Make it New? A dh+lib Mini Series. Roxann Shirazi, Sarah Potvin, & Zach Coble (Eds.), Online: *DH+Lib (ACRL).* [http://acrl.ala.org/dh/2013/06/28/make-it-new-a-dhlib-mini-series-the-ebook/](http://acrl.ala.org/dh/2013/06/28/make-it-new-a-dhlib-mini-series-the-ebook/)
 
 **Blog post | AHAGate: In Retrospect.** 
-* summary of responses to the American Historical Association’s statement about theses and dissertations.[https://micahvandegrift.wordpress.com/2013/08/15/ahagate-in-retrospect/](https://micahvandegrift.wordpress.com/2013/08/15/ahagate-in-retrospect/)
+* summary of responses to the American Historical Association’s statement about theses and dissertations. [https://micahvandegrift.wordpress.com/2013/08/15/ahagate-in-retrospect/](https://micahvandegrift.wordpress.com/2013/08/15/ahagate-in-retrospect/)
 
 **Primary organizer and session facilitator | THATCamp ACRL2013.**  
 * First THATCamp (The Humanities and Technology Camp) collaborative unconference at an ACRL conference. [http://acrl2013.thatcamp.org/](http://acrl2013.thatcamp.org/)
