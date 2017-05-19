@@ -59,133 +59,132 @@ Research & Scholarship
 
 2017
 ----
-**Article** | (Working title) Forecasting a "maturity model" for Supporting Public Access Policies: A Preliminary Study. Devin Soper, Renaine Julian, Cinthya Ippoliti, Amy Koshoffer
+**Article | (Working title) Forecasting a "maturity model" for Supporting Public Access Policies: A Preliminary Study.** Devin Soper, Renaine Julian, Cinthya Ippoliti, Amy Koshoffer
 * Our research question for this project is what does a “maturity model” for public access outreach/support look like? What resources/skills are necessary to achieve a high-level of support? We're basing this on [a study done by Cox et. all](https://via.hypothes.is/http://eprints.whiterose.ac.uk/101389/13/RDM%202%20survey%20final%20version%20201608%20JASIST%20inc%20figs%20and%20tables%20WRRO.pdf) which surveyed Universities in the UK, Australia, and Europe in attempt to outline what mature research data services look like.
 
-**Webinar panelist** | How to be a one person scholarly communication office.  
+**Webinar panelist | How to be a one person scholarly communication office.**
 * Presentation on deciding balancing advocacy and activism in a new scholarly communication initiative. June 15, 2017. Slides posted following the presentation.
 
-**Webinar co-moderator** | OA Publication Quality - Library Publishing Coalition Professional Development series. 
+**Webinar co-moderator | OA Publication Quality - Library Publishing Coalition Professional Development series.**
 * Panel discussion featuring representatives from the Open Access Scholarly Publishers Association and Directory of Open Access Journals.
 
-**Outreach and informational toolkit** | Federal Open Policies Operation (FOP-Op)
+**Resource | Federal Open Policies Operation (FOP-Op)**
 * Collaborative project of FSU Librarians and interns with documents, slides, and other materials for constructing an outreach program about federal public access mandates. [osf.io/nvujj/](https://osf.io/nvujj/)
 
 2016
 ----
-**Training series** | Discover DH: Introduction to Digital Humanities Theories and Methods. 
+**Training series | Discover DH: Introduction to Digital Humanities Theories and Methods.**
 * Presenter and co-planner of this semester long series. [https://doi.org/10.6084/m9.figshare.4287263.v1](https://doi.org/10.6084/m9.figshare.4287263.v1)
 
-**Panel presentation** | Managing Scope and Scale: Applying the Incubator Model to Digital Scholarship. Micah Vandegrift, Sarah Stanley, Alix Keener, Zoe Borovsky, Dawn Childress, Elizabeth Lorang, Christy Hyman.  
+**Panel presentation | Managing Scope and Scale: Applying the Incubator Model to Digital Scholarship.** Micah Vandegrift, Sarah Stanley, Alix Keener, Zoe Borovsky, Dawn Childress, Elizabeth Lorang, Christy Hyman.  
 * Panel on various models of digital scholarship project development, given at the Digital Library Federation Forum. [http://doi.org/10.17605/OSF.IO/DBF25](http://doi.org/10.17605/OSF.IO/DBF25)
 
-**Symposium Co-planner** | Invisible Work in the Digital Humanities. 
+**Symposium Co-planner | Invisible Work in the Digital Humanities.**
 * with Tarez Graban, Paul Marty, and Allen Romano. [https://storify.com/FSULibrary/iwdh](https://storify.com/FSULibrary/iwdh)
 
-**Webinar panelist** | SPARC Webcast on Public Access Policy Compliance. 11.2.16 
+**Webinar panelist | SPARC Webcast on Public Access Policy Compliance.**
 * Co-presented with Renaine Julian and Devin Soper. [Webinar information](http://sparc2.arl.org/civicrm/event/info?id=158) and [slides](http://purl.flvc.org/fsu/fd/FSU_libsubv1_scholarship_submission_1482355788) available online. 
 
-**Article** | Cross-disciplinarity at the crossroads. Stanley, S., Vandegrift, M. *dh+lib Special Issue*. [http://acrl.ala.org/dh/2016/07/29/cross-disciplinarity-at-the-crossroads/](http://acrl.ala.org/dh/2016/07/29/cross-disciplinarity-at-the-crossroads/)
+**Article | Cross-disciplinarity at the crossroads.** Stanley, S., Vandegrift, M. *dh+lib Special Issue*. [http://acrl.ala.org/dh/2016/07/29/cross-disciplinarity-at-the-crossroads/](http://acrl.ala.org/dh/2016/07/29/cross-disciplinarity-at-the-crossroads/)
 
-**Resource** Periodic Table of Digital Research Tools. Stanley, S., Vandegrift, M. [https://doi.org/10.6084/m9.figshare.3465686.v3](https://doi.org/10.6084/m9.figshare.3465686.v3) 
+**Resource | Periodic Table of Digital Research Tools.** Stanley, S., Vandegrift, M. [https://doi.org/10.6084/m9.figshare.3465686.v3](https://doi.org/10.6084/m9.figshare.3465686.v3) 
 * Annotated version also [accessible on Scalar](http://scalar.usc.edu/works/digital-research-resources/index). *Annotations by Bonnie Santos.*
 
-**Keynote address** | Digital, Data, Documentation? We're not in ScholComm Kansas Anymore. 
+**Keynote address | Digital, Data, Documentation? We're not in ScholComm Kansas Anymore.**
 * Given at the Mississippi State University Scholarly Communication Summit. [https://osf.io/mkevn/](https://osf.io/mkevn/)
 
-**Conference Panelist** | “Librishers and Pubraries: Explore Library Publishing and University Presses within Libraries.” 
+**Conference Panelist | “Librishers and Pubraries: Explore Library Publishing and University Presses within Libraries.”**
 * Hosted by the ALCTS CRS Education, Research, and Publications Coordinating Committee program at ALA Annual. (June) Co-panelist with Meredith Babb, Director of the University Press of Florida, and Rick Anderson, Assoc. Dean for Collections & Scholarly Communication at the University of Utah. [https://www.eventscribe.com/2016/ala-annual/fsPopup.asp?Mode=presInfo&PresentationID=139572](https://www.eventscribe.com/2016/ala-annual/fsPopup.asp?Mode=presInfo&PresentationID=139572)
 
-**Report** | Evolving Open Solutions (2) Workgroup at the inaugeral Open Scholarship Initiative. Billings, M., Bobley, B., McCollough, A., Mudditt, A., Naim, K., Pinter, F., Price, R., Roche, T., Sprio, L., & Vandegrift, M. *Open Scholarship Initiative Proceedings* [https://dx.doi.org/10.13021/G8ZK52](https://dx.doi.org/10.13021/G8ZK52)
+**Report | Evolving Open Solutions (2) Workgroup at the inaugeral Open Scholarship Initiative.** Billings, M., Bobley, B., McCollough, A., Mudditt, A., Naim, K., Pinter, F., Price, R., Roche, T., Sprio, L., & Vandegrift, M. *Open Scholarship Initiative Proceedings* [https://dx.doi.org/10.13021/G8ZK52](https://dx.doi.org/10.13021/G8ZK52)
 
-**Poster presentation** | It Takes Teamwork to Make the Dream Work: Delivering data management services in a team based environment.  
+**Poster presentation | It Takes Teamwork to Make the Dream Work: Delivering data management services in a team based environment.** 
 * Presented at Research Data Access and Preservation Summit (RDAP). Co-authored with Renaine Julian, and Rachel Besara. [https://dx.doi.org/10.6084/m9.figshare.3202006.v3](https://dx.doi.org/10.6084/m9.figshare.3202006.v3)
 
-**Job talk** | [Digital Research] [services] in 21st Century - Leading Research, Teaching and Learning.  
+**Job talk | [Digital Research] [services] in 21st Century - Leading Research, Teaching and Learning.**  
 * posted online as part of an #openjobtalks initiative. [http://dx.doi.org/10.15200/winn.146230.06254](dx.doi.org/10.15200/winn.146230.06254)
 
-**Job talk** | The library's role in shaping the future of scholarly communication and publishing. 
+**Job talk | The library's role in shaping the future of scholarly communication and publishing.** 
 * posted online as part of an #openjobtalks initiative. [https://dx.doi.org/10.6084/m9.figshare.3199534.v1](https://dx.doi.org/10.6084/m9.figshare.3199534.v1)
 
-**Presentation** | Building a Digital Projects Incubator. 
+**Presentation | Building a Digital Projects Incubator.** 
 * Given at THATCamp Florida. [Session proposal - http://bit.ly/FSULIBincubator](http://bit.ly/FSULIBincubator) and [crowdsourced notes - http://bit.ly/FSULIBPENINC](http://bit.ly/FSULIBPENINC).
 
-**Conference presentation** | Building and providing data management services: A framework for everyone.  
+**Conference presentation | Building and providing data management services: A framework for everyone.**  
 * Given at the Florida Library Association Annual Conference. Co-presented with Renaine Julian and Stacey Mantooth. [Available on Slideshare](http://www.slideshare.net/Renaine/building-and-providing-data-management-services-a-framework-for-everyone-59200016)
 
 2015
 ----
 
-**Article** | Availability and accessibility in an open access institutional repository: a case study. Lee, J., Burnett, G., Baeg, J. H., Vandegrift, M., & Morris, R. *Information Research*, 20(1), 1-18.
+**Article | Availability and accessibility in an open access institutional repository: a case study.** Lee, J., Burnett, G., Baeg, J. H., Vandegrift, M., & Morris, R. *Information Research*, 20(1), 1-18.
 [http://InformationR.net/ir/20-1/paper661.html](http://InformationR.net/ir/20-1/paper661.html)
 
-**Resource** A table summarizing the Federal public access policies resulting from the US Office of Science and Technology Policy memorandum of February 2013. Whitmire, Amanda; Briney, Kristin; Nurnberger, Amy; Henderson, Margaret; Atwood, Thea; Janz, Margaret; Kozlowski, Wendy; Lake, Sherry; Vandegrift, Micah; Zilinski, Lisa. [http://dx.doi.org/10.6084/m9.figshare.1372041](http://dx.doi.org/10.6084/m9.figshare.1372041)
+**Resource A table summarizing the Federal public access policies resulting from the US Office of Science and Technology Policy memorandum of February 2013.** Whitmire, Amanda; Briney, Kristin; Nurnberger, Amy; Henderson, Margaret; Atwood, Thea; Janz, Margaret; Kozlowski, Wendy; Lake, Sherry; Vandegrift, Micah; Zilinski, Lisa. [http://dx.doi.org/10.6084/m9.figshare.1372041](http://dx.doi.org/10.6084/m9.figshare.1372041)
 
-**Invited lecture** | State School: Post-Punk Subculture in Florida. 
+**Invited lecture | State School: Post-Punk Subculture in Florida.**
 * Part of an experiential art installation curated by Michael Austin Diaz. Spring 2015 MFA Thesis Show. *Florida State University’s Museum of Fine Arts*.
 [http://michaelaustindiaz.com/project/state-school/](http://michaelaustindiaz.com/project/state-school/)
 
-**Book review** | Beyond Bibliometrics: Harnessing Multidimensional Indicators of Scholarly Impact.  
+**Book review | Beyond Bibliometrics: Harnessing Multidimensional Indicators of Scholarly Impact.**  
 * Published in *Information and Culture*. [http://www.infoculturejournal.org/book_reviews/cronin.sugimoto_vandegrift_2015](http://www.infoculturejournal.org/book_reviews/cronin.sugimoto_vandegrift_2015)
 
 2014
 ----
 
-**Keynote address** | Scholarly Communication is People: Its Our Time: Three crazy ideas for LIS to “own” open access. 
+**Keynote address | Scholarly Communication is People: Its Our Time: Three crazy ideas for LIS to “own” open access.**
 * delivered at *Association of College and Research Libraries - New York* [https://micahvandegrift.wordpress.com/2014/12/17/changelispublishing (https://micahvandegrift.wordpress.com/2014/12/17/changelispublishing/)
 
-**Article** | "Free to All": Library Publishing and the Challenge of Open Access.
+**Article | "Free to All": Library Publishing and the Challenge of Open Access.**
 Vandegrift, M., & Bolick, J. *Journal of Librarianship and Scholarly Communication.* [jlsc-pub.org/jlsc/vol2/iss4/10/](jlsc-pub.org/jlsc/vol2/iss4/10/)
 
-**Invited presentation** | Library as Publisher: pwning Open Access. 
+**Invited presentation | Library as Publisher: pwning Open Access.** 
 * Presented at the inaugural *Library Publishing Forum*, Kansas City, KS. [https://micahvandegrift.wordpress.com/2014/03/06/pwnoa/](https://micahvandegrift.wordpress.com/2014/03/06/pwnoa/)
 
-**Invited presentation** | The Miseducation of Scholarly Communication.  
+**Invited presentation | The Miseducation of Scholarly Communication.**
 * Given at the *Society for Scholarly Publishing,* Boston, MA. Co-panelists with Maria Bonn and Gail Clement. [http://micahvandegrift.wordpress.com/2014/06/02/ssptalk/](http://micahvandegrift.wordpress.com/2014/06/02/ssptalk/)
 
-**Article** | Librarian, Heal Thyself: A Scholarly Communication Analysis of LIS Journals. Vandegrift, M., & Bowley, C. *In the Library with the Lead Pipe.* [http://www.inthelibrarywiththeleadpipe.org/2014/healthyself/](http://www.inthelibrarywiththeleadpipe.org/2014/healthyself/)
-* LIS Journals measured for “openness.” **Data set** related to *Librarian, Heal Thyself*. Vandegrift, M., & Bowley, C. [http://figshare.com/articles/LIS_Journals_measured_for_openness_/994258](http://figshare.com/articles/LIS_Journals_measured_for_openness_/994258)
+**Article | Librarian, Heal Thyself: A Scholarly Communication Analysis of LIS Journals.** Vandegrift, M., & Bowley, C. *In the Library with the Lead Pipe.* [http://www.inthelibrarywiththeleadpipe.org/2014/healthyself/](http://www.inthelibrarywiththeleadpipe.org/2014/healthyself/)
+* **Data set** LIS Journals measured for “openness.” related to *Librarian, Heal Thyself*. Vandegrift, M., & Bowley, C. [http://figshare.com/articles/LIS_Journals_measured_for_openness_/994258](http://figshare.com/articles/LIS_Journals_measured_for_openness_/994258)
 
 2013
 ----
 
-**Blog post** | Proof. 
+**Blog post| Proof.**  
 * Detailed account of a journal publication contract negotiation. [https://micahvandegrift.wordpress.com/2013/01/30/proof/](https://micahvandegrift.wordpress.com/2013/01/30/proof/)
 
-**Article** | Evolving in common: Creating mutually supportive relationships between libraries and the digital humanities. Vandegrift, M., & Varner, S. *Journal of Library Administration*, 53(1), 67-78.
+**Article | Evolving in common: Creating mutually supportive relationships between libraries and the digital humanities.**  Vandegrift, M., & Varner, S. *Journal of Library Administration*, 53(1), 67-78.
 [http://pid.emory.edu/ark:/25593/cwzbf](http://pid.emory.edu/ark:/25593/cwzbf)
 * This article was also included in Make it New? A dh+lib Mini Series. Roxann Shirazi, Sarah Potvin, & Zach Coble (Eds.), Online: *DH+Lib (ACRL).* [http://acrl.ala.org/dh/2013/06/28/make-it-new-a-dhlib-mini-series-the-ebook/](http://acrl.ala.org/dh/2013/06/28/make-it-new-a-dhlib-mini-series-the-ebook/)
 
-**Blog post** | AHAGate: In Retrospect. 
+**Blog post | AHAGate: In Retrospect.** 
 * summary of responses to the American Historical Association’s statement about theses and dissertations.[https://micahvandegrift.wordpress.com/2013/08/15/ahagate-in-retrospect/](https://micahvandegrift.wordpress.com/2013/08/15/ahagate-in-retrospect/)
 
-**Primary organizer and session facilitator** | [THATCamp ACRL2013](http://acrl2013.thatcamp.org/). 
+**Primary organizer and session facilitator | [THATCamp ACRL2013](http://acrl2013.thatcamp.org/).**  
 * First THATCamp (The Humanities and Technology Camp) collaborative unconference at an ACRL conference. http://acrl2013.thatcamp.org/
 
-**Panel presentation** | DIY Library Culture and the Academy. Ford, E., Leeder, K., Dorney, E., & Vandegrift, M.  
+**Panel presentation | DIY Library Culture and the Academy.**  Ford, E., Leeder, K., Dorney, E., & Vandegrift, M.  
 * Given at the *Association of College and Research Libraries*, Indianapolis. *In the Library with the Lead Pipe*.
 [http://www.inthelibrarywiththeleadpipe.org/2013/diy-library-culture/](http://www.inthelibrarywiththeleadpipe.org/2013/diy-library-culture/)
 
-**Article** | The Digital Public Library of America: Details, the Librarian Response and the Future. Vandegrift, M. *In the Library with the Lead Pipe*. [http://www.inthelibrarywiththeleadpipe.org/2013/dpla/](http://www.inthelibrarywiththeleadpipe.org/2013/dpla/)
+**Article | The Digital Public Library of America: Details, the Librarian Response and the Future.**  Vandegrift, M. *In the Library with the Lead Pipe*. [http://www.inthelibrarywiththeleadpipe.org/2013/dpla/](http://www.inthelibrarywiththeleadpipe.org/2013/dpla/)
 
 2012
 ----
 
-**Article** | Relational Communications: Developing Key Connections. Vandegrift, M., & Colvin, G. *College & Research Libraries News*, 73(7), 386-389. [http://crln.acrl.org/content/73/7/386.short](http://crln.acrl.org/content/73/7/386.short)
+**Article | Relational Communications: Developing Key Connections.**  Vandegrift, M., & Colvin, G. *College & Research Libraries News*, 73(7), 386-389. [http://crln.acrl.org/content/73/7/386.short](http://crln.acrl.org/content/73/7/386.short)
 
-**Article** | What is digital humanities and what's it doing in the library? Vandegrift, M. *In The Library with a Lead Pipe.*
+**Article | What is digital humanities and what's it doing in the library?**  Vandegrift, M. *In The Library with a Lead Pipe.*
 [http://www.inthelibrarywiththeleadpipe.org/2012/dhandthelib/](http://www.inthelibrarywiththeleadpipe.org/2012/dhandthelib/)
 
-**Facilitated discussion** | alt-LIS OR The Question of the Hybrarian OR What is Digital Humanities and What's It Doing in the Library? 
+**Facilitated discussion | alt-LIS OR The Question of the Hybrarian OR What is Digital Humanities and What's It Doing in the Library?**  
 * at *THATCamp Southeast 2012*. [http://southeast2012.thatcamp.org/03/08/alt-lis/](http://southeast2012.thatcamp.org/03/08/alt-lis/)
 
 2011
 ----
 
-**Final Report**, Faculty Senate Library Committee - Task Force on Scholarly
-Communications. [http://dx.doi.org/10.6084/m9.figshare.1584910](http://dx.doi.org/10.6084/m9.figshare.15849100)
+**Final Report | Faculty Senate Library Committee - Task Force on Scholarly Communications.**  [http://dx.doi.org/10.6084/m9.figshare.1584910](http://dx.doi.org/10.6084/m9.figshare.15849100)
 
-**Co-Facilitated Discussion (with Amy Buckland)** Readings on "The Future of Librarianship: Information Technology and Digital Humanities PhD's." 
+**Co-Facilitated Discussion (with Amy Buckland) | Readings on "The Future of Librarianship: Information Technology and Digital Humanities PhD's."** 
 * Discussion at *THATCamp Center for History and New Media 2011*. [http://chnm2011.thatcamp.org/05/19/futurelibrarianship/](http://chnm2011.thatcamp.org/05/19/futurelibrarianship/)
 
 Current Service
