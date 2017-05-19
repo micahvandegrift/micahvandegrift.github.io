@@ -144,7 +144,9 @@ Vandegrift, M., & Bolick, J. *Journal of Librarianship and Scholarly Communicati
 * Given at the *Society for Scholarly Publishing,* Boston, MA. Co-panelists with Maria Bonn and Gail Clement. [http://micahvandegrift.wordpress.com/2014/06/02/ssptalk/](http://micahvandegrift.wordpress.com/2014/06/02/ssptalk/)
 
 **Article | Librarian, Heal Thyself: A Scholarly Communication Analysis of LIS Journals.** Vandegrift, M., & Bowley, C. *In the Library with the Lead Pipe.* [http://www.inthelibrarywiththeleadpipe.org/2014/healthyself/](http://www.inthelibrarywiththeleadpipe.org/2014/healthyself/)
-* **Data set** LIS Journals measured for “openness.” related to *Librarian, Heal Thyself*. Vandegrift, M., & Bowley, C. [http://figshare.com/articles/LIS_Journals_measured_for_openness_/994258](http://figshare.com/articles/LIS_Journals_measured_for_openness_/994258)
+
+**Data set** | LIS Journals measured for “openness.” 
+* related to *Librarian, Heal Thyself: A Scholarly Communication Analysis of LIS Journals*. Vandegrift, M., & Bowley, C. [http://figshare.com/articles/LIS_Journals_measured_for_openness_/994258](http://figshare.com/articles/LIS_Journals_measured_for_openness_/994258)
 
 2013
 ----
