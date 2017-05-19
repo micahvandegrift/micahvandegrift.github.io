@@ -132,7 +132,7 @@ Research & Scholarship
 ----
 
 **Keynote address | Scholarly Communication is People: Its Our Time: Three crazy ideas for LIS to “own” open access.**
-* delivered at *Association of College and Research Libraries - New York* [https://micahvandegrift.wordpress.com/2014/12/17/changelispublishing (https://micahvandegrift.wordpress.com/2014/12/17/changelispublishing/)
+* delivered at *Association of College and Research Libraries - New York* [https://micahvandegrift.wordpress.com/2014/12/17/changelispublishing ](https://micahvandegrift.wordpress.com/2014/12/17/changelispublishing/)
 
 **Article | "Free to All": Library Publishing and the Challenge of Open Access.**
 Vandegrift, M., & Bolick, J. *Journal of Librarianship and Scholarly Communication.* [jlsc-pub.org/jlsc/vol2/iss4/10/](jlsc-pub.org/jlsc/vol2/iss4/10/)
