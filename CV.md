@@ -4,6 +4,14 @@
   * Email - work mvandegrift@fsu.edu personal micahvandegrift@gmail.com
   * ORCID - [0000-0001-8429-7697](http://orcid.org/0000-0001-8429-7697)
 
+Research Interests
+=========
+
+* Infrastructure for digital scholarship
+* Digital humanities project development
+* National/governmental open scholarship policies
+* Curation of research data
+
 Education
 =========
 
