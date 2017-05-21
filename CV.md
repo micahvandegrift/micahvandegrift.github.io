@@ -1,4 +1,4 @@
-## Micah Vandegrift ##
+# Micah Vandegrift #
 
   * Director of Digital Scholarship at Florida State University Libraries in Tallahassee, Florida
   * Email - work mvandegrift@fsu.edu personal micahvandegrift@gmail.com
