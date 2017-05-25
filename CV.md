@@ -49,10 +49,14 @@ Studies, Florida State University
 2007 – 2009 | Graduate Student Instructor, Program in American and
 Florida Studies, Florida State University
 
-Awards & Fellowships
+Awards, Fellowships and Institutes
 ====================
 
+2017 | Participant in the inaugeral Association of Research Libraries Digital Scholarship Institute.
+
 2016 | Invited delegate, first annual meeting of the [Open Scholarship Initiative](http://osinitiative.org/), a UNESCO-supported, collaborative, global effort between key stakeholders in scholarly publishing who are working together to improve the scholarly publishing system.
+
+2015 | Participant in the Triangle Scholarly Communication Institute, a competitive Andrew W. Mellon-funded institute to articulate and begin to address needs and opportunities in the domain of scholarly communications. [Project TaDiRize](https://trianglesci.org/2015/06/02/modeling-contributorship-with-tadirah/), examined the expanding model of contributorship in the humanities, especially as digital work becomes more broadly recognized. 
 
 2015 | Fred L. Standley Librarian of the Year, Florida State University
 Libraries
