@@ -75,7 +75,7 @@ Research & Scholarship
 * Our research question for this project is what does a “maturity model” for public access outreach/support look like? What resources/skills are necessary to achieve a high-level of support? We're basing this on [a study done by Cox et. all](https://via.hypothes.is/http://eprints.whiterose.ac.uk/101389/13/RDM%202%20survey%20final%20version%20201608%20JASIST%20inc%20figs%20and%20tables%20WRRO.pdf) which surveyed Universities in the UK, Australia, and Europe in attempt to outline what mature research data services look like.
 
 **Webinar panelist | Scrappy Strategies: Advancing Open on Campus with Limited Resources.**
-* Presentation on deciding balancing advocacy and activism in a new scholarly communication initiative. June 15, 2017. Slides posted following the presentation.
+* Presentation on deciding balancing advocacy and activism in a new scholarly communication initiative. June 15, 2017. Slides accesible on figshare [https://doi.org/10.6084/m9.figshare.5123374.v1](https://doi.org/10.6084/m9.figshare.5123374.v1)
 
 **Webinar co-moderator | OA Publication Quality - Library Publishing Coalition Professional Development series.**
 * Panel discussion featuring representatives from the Open Access Scholarly Publishers Association and Directory of Open Access Journals.
