@@ -52,7 +52,7 @@ Florida Studies, Florida State University
 Awards, Fellowships and Institutes
 ====================
 
-2017 | Participant in the inaugeral Association of Research Libraries Digital Scholarship Institute.
+2017 | Participant in the inaugural Association of Research Libraries Digital Scholarship Institute.
 
 2016 | Invited delegate, first annual meeting of the [Open Scholarship Initiative](http://osinitiative.org/), a UNESCO-supported, collaborative, global effort between key stakeholders in scholarly publishing who are working together to improve the scholarly publishing system.
 
