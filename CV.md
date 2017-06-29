@@ -1,5 +1,7 @@
 Micah Vandegrift
+
 850-645-9756
+
 w: mvandegrift@fsu.edu || h: micahvandegrift@gmail.com 
 
 SUMMARY STATEMENT
@@ -49,29 +51,35 @@ AWARDS, FELLOWSHIPS, AND INSTITUTES
 REFEREED PUBLICATIONS
 ---
 2017
+
 De-Centering and recentering Digital Scholarship: A Manifesto. (In progress) Rachel Smart, Carolyn Moritz, Matt Hunter, Aaron Retteen, Sarah Stanley, Devin Soper, Micah Vandegrift.
 
 Forecasting a "maturity model" for Supporting Public Access Policies: A Preliminary Study. (In progress) Devin Soper, Renaine Julian, Cinthya Ippoliti, Amy Koshoffer, Micah Vandegrift.
 
 2016
+
 Managing Scope and Scale: Applying the Incubator Model to Digital Scholarship. Micah Vandegrift, Sarah Stanley, Alix Keener, Zoe Borovsky, Dawn Childress, Elizabeth Lorang, Christy Hyman. Refereed presentation given at the Digital Library Federation Forum, November, 2016. https://adholibdh.github.io/ds.incubators/
 
 It Takes Teamwork to Make the Dream Work: Delivering data management services in a team based environment. Renaine Julian, Rachel Besara, Micah Vandegrift. Refereed poster given at Research Data Access and Preservation Summit. https://dx.doi.org/10.6084/m9.figshare.3202006.v3
 
 2015
+
 Availability and accessibility in an open access institutional repository: a case study. Jongwook Lee, Gary Burnett, Jung Hoon Baeg, Micah Vandegrift, & Richard Morris. Information Research, 20(1), 1-18. http://purl.flvc.org/fsu/fd/FSU_migr_slis_faculty_publications-0027
 
 2014
+
 "Free to All": Library Publishing and the Challenge of Open Access. Micah Vandegrift & Joshua Bolick. Journal of Librarianship and Scholarly Communication. jlsc-pub.org/jlsc/vol2/iss4/10/
 
 Librarian, Heal Thyself: A Scholarly Communication Analysis of LIS Journals. Micah Vandegrift & Chealsye Bowley. In the Library with the Lead Pipe. http://www.inthelibrarywiththeleadpipe.org/2014/healthyself/
 
 2013
+
 Evolving in common: Creating mutually supportive relationships between libraries and the digital humanities. Micah Vandegrift & Stewart Varner. Journal of Library Administration, 53(1), 67-78. http://pid.emory.edu/ark:/25593/cwzbf
 
 The Digital Public Library of America: Details, the Librarian Response and the Future. Micah Vandegrift. In the Library with the Lead Pipe. http://www.inthelibrarywiththeleadpipe.org/2013/dpla/
 
 2012
+
 Relational Communications: Developing Key Connections. Micah Vandegrift & Gloria Colvin. College & Research Libraries News, 73(7), 386-389. http://crln.acrl.org/content/73/7/386.short
 
 What is digital humanities and what's it doing in the library? Micah Vandegrift. In The Library with a Lead Pipe. http://www.inthelibrarywiththeleadpipe.org/2012/dhandthelib/
@@ -79,35 +87,43 @@ What is digital humanities and what's it doing in the library? Micah Vandegrift.
 NON-REFEREED PUBLICATIONS
 ---
 2017
+
 Federal Open Policies Operation [Toolkit]. Renaine Julian, Micah Vandegrift, Devin Soper, Lily Flick, Jesse Klein, Roxann Mouratidis, Aileen Phillips. https://osf.io/nvujj/
 
 2016
+
 Periodic Table of Digital Research Tools [Graphical Resource]. Sarah Stanley & Micah Vandegrift. https://doi.org/10.6084/m9.figshare.3465686.v3
 
 Evolving Open Solutions #2 [Report]. Marilyn Billings, Brett Bobley, Aaron McCollough, Allison Mudditt, Kamran Naim, Frances Pinter, Richard Price, Tony Roche, Lisa Sprio, & Micah Vandegrift. Open Scholarship Initiative Proceedings. https://dx.doi.org/10.13021/G8ZK52
 
 2015
+
 A table summarizing the Federal public access policies resulting from the US Office of Science and Technology Policy memorandum of February 2013 [Resource]. Amanda Whitmire, Kristin Briney, Amy Nurnberger, Margaret Henderson, Thea Atwood, Margaret Janz, Wendy Kozlowski, Sherry Lake, Micah Vandegrift, Lisa Zilinski. http://dx.doi.org/10.6084/m9.figshare.1372041
 
 Beyond Bibliometrics: Harnessing Multidimensional Indicators of Scholarly Impact [Book Review]. Micah Vandegrift. Information and Culture. http://www.infoculturejournal.org/book_reviews/cronin.sugimoto_vandegrift_2015
 
 2013
+
 Proof. Micah Vandegrift. [Blog post detailing an account of negotiating a journal publication contract]. https://micahvandegrift.wordpress.com/2013/01/30/proof/
 
 2011
+
 Faculty Senate Library Committee - Task Force on Scholarly Communications [Report]. Micah Vandegrift. http://purl.flvc.org/fsu/fd/FSU_migr_library_faculty_publications-0002
 
 INVITED PRESENTATIONS
 ---
 2017
+
 Balancing Advocacy and Activism in a new Scholarly Communication Initiative. Panelist for “Scrappy Strategies: Advancing Open on Campus with Limited Resources.” Webinar hosted by the Scholarly Publishing and Academic Resources Coalition (SPARC). June 15, 2017. https://doi.org/10.6084/m9.figshare.5123374.v1
 
 2016
+
 Digital, Data, Documentation? We're not in ScholComm Kansas Anymore. Keynote presentation given at the Mississippi State University Scholarly Communication Summit. https://osf.io/mkevn/
 
 SPARC Webcast on Public Access Policy Compliance. Micah Vandegrift, Renaine Julian, Devin Soper. Webinar hosted by the Scholarly Publishing and Academic Resources Coalition (SPARC). November 2, 2016. http://purl.flvc.org/fsu/fd/FSU_libsubv1_scholarship_submission_1482355788
 
 2014
+
 Scholarly Communication is People: It's Our Time: Three crazy ideas for Library and Information Sciences to “own” open access. Keynote presentation given at Association of College and Research Libraries-New York annual conference. https://micahvandegrift.wordpress.com/2014/12/17/changelispublishing
 
 Library as Publisher: pwning Open Access. Presented at the inaugural Library Publishing Forum. https://micahvandegrift.wordpress.com/2014/03/06/pwnoa/
