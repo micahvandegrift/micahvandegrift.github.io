@@ -1,7 +1,5 @@
 Micah Vandegrift
-1519 Jackson St.
-Tallahassee, FL, 32303
-w: 850-645-9756 || h: 850-559-9887
+850-645-9756
 w: mvandegrift@fsu.edu || h: micahvandegrift@gmail.com 
 
 SUMMARY STATEMENT
