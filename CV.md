@@ -220,6 +220,8 @@ Chair, Grant Review Panel, Institute for Museum and Library Services – Library
 
 Council Member, THATCamp (The Humanities and Technology Camp) Council (2014–2016)
 
+Member, Open Access Textbook and Educational Resources Task Force, Florida Virtual Campus (2016)
+
 Representative, Library Publishing Coalition, Founding member (2013–2016)
 
 Coordinating Committee Member - Coalition of Open Access Policy Institutions (2012–2015)
