@@ -72,7 +72,7 @@ Research & Scholarship
 2017
 ----
 **Article | What is digital scholarship, and what's it doing in libraries? A Manifesto.** Rachel Smart, Carolyn Moritz, Matt Hunter, Aaron Retteen, Sarah Stanley, Devin Soper, Micah Vandegrift
-* This article is a work in progress that will outline the state of digital scholarship and attempt to make the argument that this mode of work for research libraries is the new normal. Collaborative authorship will be shared with every member of the Office of Digital Research and Scholarship at FSU Libraries. The pre-print will be posted and written online at [https://www.authorea.com/176682/j7KwxuqRe5w1MHd7-nJ77g](https://www.authorea.com/176682/j7KwxuqRe5w1MHd7-nJ77g) with a deadline of late summer 2017.
+* This article is a work in progress that will outline the state of digital scholarship and attempt to make the argument that this mode of work for research libraries is the new normal. Collaborative authorship will be shared with every member of the Office of Digital Research and Scholarship at FSU Libraries. 
 
 **Article | (Working title) Forecasting a "maturity model" for Supporting Public Access Policies: A Preliminary Study.** Devin Soper, Renaine Julian, Cinthya Ippoliti, Amy Koshoffer
 * Our research question for this project is what does a “maturity model” for public access outreach/support look like? What resources/skills are necessary to achieve a high-level of support? We're basing this on [a study done by Cox et. all](https://via.hypothes.is/http://eprints.whiterose.ac.uk/101389/13/RDM%202%20survey%20final%20version%20201608%20JASIST%20inc%20figs%20and%20tables%20WRRO.pdf) which surveyed Universities in the UK, Australia, and Europe in attempt to outline what mature research data services look like.
@@ -104,6 +104,8 @@ Research & Scholarship
 
 **Resource | Periodic Table of Digital Research Tools.** Stanley, S., Vandegrift, M. [https://doi.org/10.6084/m9.figshare.3465686.v3](https://doi.org/10.6084/m9.figshare.3465686.v3) 
 * Annotated version also [accessible on Scalar](http://scalar.usc.edu/works/digital-research-resources/index). *Annotations by Bonnie Santos.*
+
+**Report | An Action Plan for Building a Statewide Infrastructure to Support OER in Florida’s Public Institutions of Higher Education.** Open Access Textbook and Educational Resources Task Force for Florida Virtual Campus. [http://bit.ly/2jPQlxX](http://bit.ly/2jPQlxX)
 
 **Keynote address | Digital, Data, Documentation? We're not in ScholComm Kansas Anymore.**
 * Given at the Mississippi State University Scholarly Communication Summit. [https://osf.io/mkevn/](https://osf.io/mkevn/)
