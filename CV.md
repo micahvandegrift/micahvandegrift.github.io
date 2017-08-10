@@ -207,6 +207,8 @@ Vandegrift, M., & Bolick, J. *Journal of Librarianship and Scholarly Communicati
 
 Current Service
 ===============
+Advisory Board, [Library and Information Science Scholarship Archive](https://lissarchive.org/) (2017- )
+
 Co-Chair, HASTAC 2017 Program Committee
 
 Steering Committee Member, Digital Library Federation [Project Managers Group](https://www.diglib.org/groups/pmg/) (2016- )
