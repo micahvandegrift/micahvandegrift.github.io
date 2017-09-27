@@ -221,6 +221,8 @@ Editorial Board Member, [The Idealis](http://theidealis.org/) (2017- )
 
 Service Appointments Fulfilled
 ==============================
+Member, SPARC Steering Committee Nomination Committee (2017)
+
 Chair, Grant Review Panel, Institute for Museum and Library Services – Library Services and Technology Act State of Florida (2013–2016)
 
 Council Member, THATCamp (The Humanities and Technology Camp) Council (2014–2016)
