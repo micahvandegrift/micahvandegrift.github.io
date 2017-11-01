@@ -1,7 +1,7 @@
 Research & Scholarly Impact
 ===========
 
-* all metrics accurate as of Nov. 23rd, 2015. Updated quarterly.
+* all metrics accurate as of Nov. 23rd, 2015. Updated semi-not regularly.
 
 Mentions
 ----
