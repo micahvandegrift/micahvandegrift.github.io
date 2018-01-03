@@ -73,10 +73,10 @@ Research & Scholarship
 ----
 **Co-Editor | (Forthcoming) Special Issue of Digital Humanities Quarterly on Invisible Work in the Digital Humanities** 
 
-**Article | (Working title) Scaling research data management services along the maturity spectrum: Three institutional perspectives..** Devin Soper, Renaine Julian, Cinthya Ippoliti, Amy Koshoffer
-* Our research question for this project is what does a “maturity model” for research data management and public access policy support look like? What organizational resources are necessary to achieve a high-level of support? We're basing this on [a study done by Cox et. all](https://via.hypothes.is/http://eprints.whiterose.ac.uk/101389/13/RDM%202%20survey%20final%20version%20201608%20JASIST%20inc%20figs%20and%20tables%20WRRO.pdf) which surveyed Universities in the UK, Australia, and Europe in attempt to outline what mature research data services look like.
+**Pre-print | Scaling research data management services along the maturity spectrum: Three institutional perspectives..** Cinthya Ippoliti, Amy Koshoffer, Renaine Julian, Micah Vandegrift, Devin Soper, and Sophie Meridien. [https://osf.io/preprints/lissa/wz8fn/](https://osf.io/preprints/lissa/wz8fn/)
 
-**Preprint | De-Centering and Recentering Digital Scholarship: A Manifesto.** Carolyn Moritz, Rachel Smart, Aaron Retteen, Matthew Hunter, Sarah Stanley, Devin Soper, & Micah Vandegrift. [https://dx.doi.org/10.17605/OSF.IO/T7HFU](https://dx.doi.org/10.17605/OSF.IO/T7HFU). In Press at the Journal of New Librarianship.
+
+**Article| De-Centering and Recentering Digital Scholarship: A Manifesto.** Carolyn Moritz, Rachel Smart, Aaron Retteen, Matthew Hunter, Sarah Stanley, Devin Soper, & Micah Vandegrift. [http://www.newlibs.org/article/3138-de-centering-and-recentering-digital-scholarship-a-manifesto](http://www.newlibs.org/article/3138-de-centering-and-recentering-digital-scholarship-a-manifesto). Pre-print available at - [https://dx.doi.org/10.17605/OSF.IO/T7HFU](https://dx.doi.org/10.17605/OSF.IO/T7HFU).
 
 **Webinar panelist | Scrappy Strategies: Advancing Open on Campus with Limited Resources.**
 * Presentation on deciding balancing advocacy and activism in a new scholarly communication initiative. June 15, 2017. Slides accesible on figshare [https://doi.org/10.6084/m9.figshare.5123374.v1](https://doi.org/10.6084/m9.figshare.5123374.v1)
