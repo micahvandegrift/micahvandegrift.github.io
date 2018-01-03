@@ -73,10 +73,10 @@ Research & Scholarship
 ----
 **Co-Editor | (Forthcoming) Special Issue of Digital Humanities Quarterly on Invisible Work in the Digital Humanities** 
 
-**Pre-print | Scaling research data management services along the maturity spectrum: Three institutional perspectives..** Cinthya Ippoliti, Amy Koshoffer, Renaine Julian, Micah Vandegrift, Devin Soper, and Sophie Meridien. [https://osf.io/preprints/lissa/wz8fn/](https://osf.io/preprints/lissa/wz8fn/)
+**Pre-print | Scaling research data management services along the maturity spectrum: Three institutional perspectives.** Cinthya Ippoliti, Amy Koshoffer, Renaine Julian, Micah Vandegrift, Devin Soper, and Sophie Meridien. [https://osf.io/preprints/lissa/wz8fn/](https://osf.io/preprints/lissa/wz8fn/)
 
-
-**Article| De-Centering and Recentering Digital Scholarship: A Manifesto.** Carolyn Moritz, Rachel Smart, Aaron Retteen, Matthew Hunter, Sarah Stanley, Devin Soper, & Micah Vandegrift. [http://www.newlibs.org/article/3138-de-centering-and-recentering-digital-scholarship-a-manifesto](http://www.newlibs.org/article/3138-de-centering-and-recentering-digital-scholarship-a-manifesto). Pre-print available at - [https://dx.doi.org/10.17605/OSF.IO/T7HFU](https://dx.doi.org/10.17605/OSF.IO/T7HFU).
+**Article| De-Centering and Recentering Digital Scholarship: A Manifesto.** Carolyn Moritz, Rachel Smart, Aaron Retteen, Matthew Hunter, Sarah Stanley, Devin Soper, & Micah Vandegrift. [http://www.newlibs.org/article/3138-de-centering-and-recentering-digital-scholarship-a-manifesto](http://www.newlibs.org/article/3138-de-centering-and-recentering-digital-scholarship-a-manifesto). 
+Pre-print available at - [https://dx.doi.org/10.17605/OSF.IO/T7HFU](https://dx.doi.org/10.17605/OSF.IO/T7HFU)
 
 **Webinar panelist | Scrappy Strategies: Advancing Open on Campus with Limited Resources.**
 * Presentation on deciding balancing advocacy and activism in a new scholarly communication initiative. June 15, 2017. Slides accesible on figshare [https://doi.org/10.6084/m9.figshare.5123374.v1](https://doi.org/10.6084/m9.figshare.5123374.v1)
