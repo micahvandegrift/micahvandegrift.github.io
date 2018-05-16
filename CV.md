@@ -28,7 +28,7 @@ Employment
 ==========
 2018 - Present | Open Knowledge Librarian, North Carolina State University
 
-> Build programs, relationships, and communications around open as a core and defining principle of the current era. 
+> Build programs, initiatives, and communities around open as a core and defining principle of the current era. 
 
 2016 - 2018 | Director of Digital Scholarship, Florida State University
 
