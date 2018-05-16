@@ -1,7 +1,7 @@
 # Micah Vandegrift #
 
-  * Director of Digital Scholarship at Florida State University Libraries in Tallahassee, Florida
-  * Email - work mvandegrift@fsu.edu personal micahvandegrift@gmail.com
+  * Open Knowledge Librarian at North Carolina State University Libraries in Raleigh, North Carolina
+  * Email - work mlvandeg@ncsu.edu personal micahvandegrift@gmail.com
   * ORCID - [0000-0001-8429-7697](http://orcid.org/0000-0001-8429-7697)
 
 Research Interests
@@ -26,7 +26,11 @@ Education
 
 Employment
 ==========
-2016 - Present | Director of Digital Scholarship, Florida State University
+2018 - Present | Open Knowledge Librarian, North Carolina State University
+
+Build programs, relationships, and communications around open as a core and defining principle of the current era. 
+
+2016 - 2018 | Director of Digital Scholarship, Florida State University
 
 Direct and manage activities, programs, and projects in the Office of Digital Research and Scholarship. Plan, coordinate, and expand the digital scholarship portfolio for the entire library organization. 
 
