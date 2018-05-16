@@ -28,11 +28,9 @@ Employment
 ==========
 2018 - Present | Open Knowledge Librarian, North Carolina State University
 
-Build programs, relationships, and communications around open as a core and defining principle of the current era. 
+> Build programs, relationships, and communications around open as a core and defining principle of the current era. 
 
 2016 - 2018 | Director of Digital Scholarship, Florida State University
-
-Direct and manage activities, programs, and projects in the Office of Digital Research and Scholarship. Plan, coordinate, and expand the digital scholarship portfolio for the entire library organization. 
 
 2014 – 2016 | Digital Scholarship Coordinator, Florida State
 University
