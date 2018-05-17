@@ -28,7 +28,7 @@ Employment
 ==========
 2018 - Present | Open Knowledge Librarian, North Carolina State University
 
-> Build programs, initiatives, and communities around open as a core and defining principle of the current era. 
+> Develop programs, advocacy tools, and partnerships as a member of the Copyright and Digital Scholarship Center that facilitate and promote open and publicly engaged scholarship. Investigate and promote digital technologies that support open practice across the research lifecycle and maximize the dissemination and impact of scholarship in collaboration with colleagues across the library.  
 
 2016 - 2018 | Director of Digital Scholarship, Florida State University
 
@@ -55,7 +55,7 @@ Awards, Fellowships and Institutes
 ====================
 2018-2019 | Fulbright-Schuman Research Scholar
 
-> This winter (Sep. 2018 - Feb. 2019) I will serve as the Fulbright-Schuman Innovation Scholar studying open research polices and infrastructure in Maastrict - The Netherlands, the birthplace of the European Union, and at the Royal Danish Library in Copenhagen, Denmark. 
+> This winter (Sep. 2018 - Feb. 2019) I will serve as the Fulbright-Schuman Innovation Scholar studying open research policies and infrastructure in Maastricht - The Netherlands, the birthplace of the European Union, and at the Royal Danish Library in Copenhagen, Denmark. 
 
 2017 | Participant in the inaugural Association of Research Libraries Digital Scholarship Institute.
 
