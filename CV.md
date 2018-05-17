@@ -53,6 +53,9 @@ Florida Studies, Florida State University
 
 Awards, Fellowships and Institutes
 ====================
+2018-2019 | Fulbright-Schuman Research Scholar
+
+> This winter (Sep. 2018 - Feb. 2019) I will serve as the Fulbright-Schuman Innovation Scholar studying open research polices and infrastructure in Maastrict - The Netherlands, the birthplace of the European Union, and at the Royal Danish Library in Copenhagen, Denmark. 
 
 2017 | Participant in the inaugural Association of Research Libraries Digital Scholarship Institute.
 
