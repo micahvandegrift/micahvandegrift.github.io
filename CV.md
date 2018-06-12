@@ -74,12 +74,17 @@ Digital Research and Scholarship
 Research & Scholarship
 ===========
 
-2017
-----
 **Co-Editor | (Forthcoming) Special Issue of Digital Humanities Quarterly on Invisible Work in the Digital Humanities** 
+
+2018
+---
+**Article| JLSC Board Editorial 2018.** Gail Clement, Nicky Agate, Sam Searle, Dr. Danny Kingsley, & Micah Vandegrift. [http://doi.org/10.7710/2162-3309.2261](http://doi.org/10.7710/2162-3309.2261)
+> In this editorial, members of the Editorial Board of the Journal of Librarianship and Scholarly Communication consider the present environment and contemplate the future of academy-owned and -supported scholarly communication, as well as the role of libraries in that future.
 
 **Pre-print | Scaling research data management services along the maturity spectrum: Three institutional perspectives.** Cinthya Ippoliti, Amy Koshoffer, Renaine Julian, Micah Vandegrift, Devin Soper, and Sophie Meridien. [https://osf.io/preprints/lissa/wz8fn/](https://osf.io/preprints/lissa/wz8fn/)
 
+2017
+----
 **Article| De-Centering and Recentering Digital Scholarship: A Manifesto.** Carolyn Moritz, Rachel Smart, Aaron Retteen, Matthew Hunter, Sarah Stanley, Devin Soper, & Micah Vandegrift. [http://www.newlibs.org/article/3138-de-centering-and-recentering-digital-scholarship-a-manifesto](http://www.newlibs.org/article/3138-de-centering-and-recentering-digital-scholarship-a-manifesto). 
 Pre-print available at - [https://dx.doi.org/10.17605/OSF.IO/T7HFU](https://dx.doi.org/10.17605/OSF.IO/T7HFU)
 
