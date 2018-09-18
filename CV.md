@@ -72,6 +72,13 @@ Digital Research and Scholarship
 
 2013 | Mover and Shaker (Community Builder), Library Journal
 
+Grants
+===========
+**Visualizing Digital Scholarship in Libraries and Learning Spaces**
+* Lead Principle Investigator
+* $414,000 grant from the Andrew W. Mellon Foundation
+* Grant to develop extensible models and programs for the creation and sharing of digital scholarship in large-scale and immersive visualization environments. The project aims to increase the impact of academic visualization environments and the scholarship created within them.
+
 Research & Scholarship
 ===========
 
@@ -91,8 +98,8 @@ Research & Scholarship
 
 2017
 ----
-**Article | De-Centering and Recentering Digital Scholarship: A Manifesto.** Carolyn Moritz, Rachel Smart, Aaron Retteen, Matthew Hunter, Sarah Stanley, Devin Soper, & Micah Vandegrift. [http://www.newlibs.org/article/3138-de-centering-and-recentering-digital-scholarship-a-manifesto](http://www.newlibs.org/article/3138-de-centering-and-recentering-digital-scholarship-a-manifesto). 
-Pre-print available at - [https://dx.doi.org/10.17605/OSF.IO/T7HFU](https://dx.doi.org/10.17605/OSF.IO/T7HFU)
+**Article | De-Centering and Recentering Digital Scholarship: A Manifesto.** Carolyn Moritz, Rachel Smart, Aaron Retteen, Matthew Hunter, Sarah Stanley, Devin Soper, & Micah Vandegrift. [http://www.newlibs.org/article/3138-de-centering-and-recentering-digital-scholarship-a-manifesto](http://www.newlibs.org/article/3138-de-centering-and-recentering-digital-scholarship-a-manifesto).
+* Pre-print available at - [https://dx.doi.org/10.17605/OSF.IO/T7HFU](https://dx.doi.org/10.17605/OSF.IO/T7HFU)
 
 **Webinar panelist | Scrappy Strategies: Advancing Open on Campus with Limited Resources.**
 * Presentation on deciding balancing advocacy and activism in a new scholarly communication initiative. June 15, 2017. Slides accesible on figshare [https://doi.org/10.6084/m9.figshare.5123374.v1](https://doi.org/10.6084/m9.figshare.5123374.v1)
