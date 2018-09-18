@@ -3,6 +3,7 @@
   * Open Knowledge Librarian at North Carolina State University Libraries in Raleigh, North Carolina
   * Email - work mlvandeg@ncsu.edu personal micahvandegrift@gmail.com
   * ORCID - [0000-0001-8429-7697](http://orcid.org/0000-0001-8429-7697)
+  * Blog - [https://medium.com/@mlvandeg/](https://medium.com/@mlvandeg/) 
 
 Research Interests
 =========
@@ -78,14 +79,19 @@ Research & Scholarship
 
 2018
 ---
-**Article| JLSC Board Editorial 2018.** Gail Clement, Nicky Agate, Sam Searle, Dr. Danny Kingsley, & Micah Vandegrift. [http://doi.org/10.7710/2162-3309.2261](http://doi.org/10.7710/2162-3309.2261)
+**Fellowship proposal | Open Scholarship Policies and Technologies: The European Research Library as a Model for Advancing Global Scholarly Communication.** [https://doi.org/10.31229/osf.io/95s24](https://doi.org/10.31229/osf.io/95s24)
+* Proposal submitted for the Fulbright-Schuman Innovation fellowship
+
+**Article | JLSC Board Editorial 2018.** Gail Clement, Nicky Agate, Sam Searle, Dr. Danny Kingsley, & Micah Vandegrift. [http://doi.org/10.7710/2162-3309.2261](http://doi.org/10.7710/2162-3309.2261)
 > In this editorial, members of the Editorial Board of the Journal of Librarianship and Scholarly Communication consider the present environment and contemplate the future of academy-owned and -supported scholarly communication, as well as the role of libraries in that future.
+
+**Job talk | Designing Digital Scholarship Ecologies.** [https://doi.org/10.31229/osf.io/93zvb](https://doi.org/10.31229/osf.io/93zvb) 
 
 **Pre-print | Scaling research data management services along the maturity spectrum: Three institutional perspectives.** Cinthya Ippoliti, Amy Koshoffer, Renaine Julian, Micah Vandegrift, Devin Soper, and Sophie Meridien. [https://osf.io/preprints/lissa/wz8fn/](https://osf.io/preprints/lissa/wz8fn/)
 
 2017
 ----
-**Article| De-Centering and Recentering Digital Scholarship: A Manifesto.** Carolyn Moritz, Rachel Smart, Aaron Retteen, Matthew Hunter, Sarah Stanley, Devin Soper, & Micah Vandegrift. [http://www.newlibs.org/article/3138-de-centering-and-recentering-digital-scholarship-a-manifesto](http://www.newlibs.org/article/3138-de-centering-and-recentering-digital-scholarship-a-manifesto). 
+**Article | De-Centering and Recentering Digital Scholarship: A Manifesto.** Carolyn Moritz, Rachel Smart, Aaron Retteen, Matthew Hunter, Sarah Stanley, Devin Soper, & Micah Vandegrift. [http://www.newlibs.org/article/3138-de-centering-and-recentering-digital-scholarship-a-manifesto](http://www.newlibs.org/article/3138-de-centering-and-recentering-digital-scholarship-a-manifesto). 
 Pre-print available at - [https://dx.doi.org/10.17605/OSF.IO/T7HFU](https://dx.doi.org/10.17605/OSF.IO/T7HFU)
 
 **Webinar panelist | Scrappy Strategies: Advancing Open on Campus with Limited Resources.**
