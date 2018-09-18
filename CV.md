@@ -82,12 +82,21 @@ Grants
 Research & Scholarship
 ===========
 
-**Co-Editor | (Forthcoming) Special Issue of Digital Humanities Quarterly on Invisible Work in the Digital Humanities** 
+**Co-Editor | (Forthcoming) Special Issue of Digital Humanities Quarterly on Invisible Work in the Digital Humanities**
+
+**Chapter | (Forthcoming) Public Scholarship.** Co-authored with Erin Rose Glass, in the _MLA Guide to Scholarly Communication_, edited by Angela Gibson.  
 
 2018
 ---
+**Conference presentation | Updating TaDiRAH: Proposing a Taxonomy for Digital Scholarship Activities In Libraries (TaDiSAIL)** Digital Library Forum
+
+**Conference presentation | "Annotation as Curation: Connecting Dots, Breaking Silos, and Streamlining Workflow through Open Annotation.".** Charleston Conference.
+
 **Fellowship proposal | Open Scholarship Policies and Technologies: The European Research Library as a Model for Advancing Global Scholarly Communication.** [https://doi.org/10.31229/osf.io/95s24](https://doi.org/10.31229/osf.io/95s24)
 * Proposal submitted for the Fulbright-Schuman Innovation fellowship
+
+**Course | Public Humanities as Scholarly Communication** FORCE Scholarly Communications Institute, UC-San Diego. Abtract and syllabus available on the [FSCI 2018 website.](https://www.force11.org/fsci/2018/course-abstracts#MTWT6) 
+* Co-developed and taught with Samantha Wallace
 
 **Article | JLSC Board Editorial 2018.** Gail Clement, Nicky Agate, Sam Searle, Dr. Danny Kingsley, & Micah Vandegrift. [http://doi.org/10.7710/2162-3309.2261](http://doi.org/10.7710/2162-3309.2261)
 > In this editorial, members of the Editorial Board of the Journal of Librarianship and Scholarly Communication consider the present environment and contemplate the future of academy-owned and -supported scholarly communication, as well as the role of libraries in that future.
