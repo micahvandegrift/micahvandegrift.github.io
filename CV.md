@@ -90,9 +90,12 @@ Research & Scholarship
 
 2018
 ---
-**Conference presentation | Updating TaDiRAH: Proposing a Taxonomy for Digital Scholarship Activities In Libraries (TaDiSAIL).** Erica Hayes, Sarah Stanley, Matthew Hunter, Micah Vandegrift. Digital Library Forum.
 
 **Conference presentation | "Annotation as Curation: Connecting Dots, Breaking Silos, and Streamlining Workflow through Open Annotation."** Heather Staines, Gary Price, Micah Vandegrift. Charleston Conference.
+
+**Conference presentation | Visualization Community - Visualizing Communities: An Introduction to the Immersive Scholar Project.** Shelby Hallman, Markus Wust, Erica Hayes, Micah Vandegrift. Digital Library Forum.
+
+**Conference presentation | Updating TaDiRAH: Proposing a Taxonomy for Digital Scholarship Activities In Libraries (TaDiSAIL).** Erica Hayes, Sarah Stanley, Matthew Hunter, Micah Vandegrift. Digital Library Forum.
 
 **Fellowship proposal | Open Scholarship Policies and Technologies: The European Research Library as a Model for Advancing Global Scholarly Communication.** [https://doi.org/10.31229/osf.io/95s24](https://doi.org/10.31229/osf.io/95s24)
 * Proposal submitted for the Fulbright-Schuman Innovation fellowship
