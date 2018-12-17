@@ -90,12 +90,13 @@ Research & Scholarship
 
 2018
 ---
+**Keynote | DH+Lib: Evolution or Revolution?** DH Clinics - Netherlands Digital Humanities Interest Group. Nov. 20th, 2018 at Utrechts Archief. Review of event from Lotte Wilms, co-organizer [https://dhclinics.github.io/2018/12/12/terugblik-terugkomdag.html](https://dhclinics.github.io/2018/12/12/terugblik-terugkomdag.html). Slides available online soon.
 
-**Conference presentation | "Annotation as Curation: Connecting Dots, Breaking Silos, and Streamlining Workflow through Open Annotation."** Heather Staines, Gary Price, Micah Vandegrift. Charleston Conference.
+**Conference presentation | "Annotation as Curation: Connecting Dots, Breaking Silos, and Streamlining Workflow through Open Annotation."** Heather Staines, Gary Price, Micah Vandegrift. Charleston Conference.[https://medium.com/@mlvandeg/annotation-as-curation-a89b1f8e4f95](https://medium.com/@mlvandeg/annotation-as-curation)
 
 **Conference presentation | Visualization Community - Visualizing Communities: An Introduction to the Immersive Scholar Project.** Shelby Hallman, Markus Wust, Erica Hayes, Micah Vandegrift. Digital Library Forum.
 
-**Conference presentation | Updating TaDiRAH: Proposing a Taxonomy for Digital Scholarship Activities In Libraries (TaDiSAIL).** Erica Hayes, Sarah Stanley, Matthew Hunter, Micah Vandegrift. Digital Library Forum.
+**Conference presentation | Updating TaDiRAH: Proposing a Taxonomy for Digital Scholarship Activities In Libraries (TaDiSAIL).** Erica Hayes, Sarah Stanley, Matthew Hunter, Micah Vandegrift. Digital Library Forum. [https://osf.io/c7bgp/](https://osf.io/c7bgp/)
 
 **Fellowship proposal | Open Scholarship Policies and Technologies: The European Research Library as a Model for Advancing Global Scholarly Communication.** [https://doi.org/10.31229/osf.io/95s24](https://doi.org/10.31229/osf.io/95s24)
 * Proposal submitted for the Fulbright-Schuman Innovation fellowship
