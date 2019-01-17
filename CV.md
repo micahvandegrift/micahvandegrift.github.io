@@ -8,8 +8,7 @@
 Research Interests
 =========
 
-* Infrastructure for digital scholarship
-* Digital humanities project development
+* Infrastructure for research and scholarship
 * National/governmental open scholarship policies
 * Curation of research data
 
@@ -84,13 +83,18 @@ Research & Scholarship
 
 **Co-Editor | (Forthcoming) Special Issue of Digital Humanities Quarterly on Invisible Work in the Digital Humanities**
 
-**Chapter | (Forthcoming) Public Scholarship.** Co-authored with Erin Rose Glass, in the _MLA Guide to Scholarly Communication_, edited by Angela Gibson.  
-
 **Conference presentation | (Forthcoming) Advocating for Open: Putting Ethics into Practice.** Brianna Marshall, Vicky Steeves, Micah Vandegrift. ACRL 2019.
+
+2019
+---
+**Presentation | Annotation as/in Teaching.** HIRMEOS Workshop on Open Annotation. HIRMEOS (High Integration of Research Monographs in European Open Science Infrastructure) and OPERAS (Open Access in the European Research Area through Scholarly Communication) are funded through the EU's Horizon 2020 program. Slides at https://goo.gl/m3GXR9
 
 2018
 ---
-**Keynote | DH+Lib: Evolution or Revolution?** DH Clinics - Netherlands Digital Humanities Interest Group. Nov. 20th, 2018. Utrechts Archief, Utrecht, Netherlands. [Agenda](https://dhclinics.github.io/dag/2018-terugkomdag) and review of event from Lotte Wilms, co-organizer [https://dhclinics.github.io/2018/12/12/terugblik-terugkomdag.html](https://dhclinics.github.io/2018/12/12/terugblik-terugkomdag.html). Slides available online soon.
+**Pre-print | Public Scholarship in Practice and Philosophy.** Erin Rose Glass and Micah Vandegrift. For _MLA Guide to Scholarly Communication_, edited by Angela Gibson. Pre-print accessible on Humanities Commons. http://dx.doi.org/10.17613/g64d-gd16
+
+**Keynote | DH+Lib: Evolution or Revolution?** DH Clinics - Netherlands Digital Humanities Interest Group. Nov. 20th, 2018. Utrechts Archief, Utrecht, Netherlands. Presentation text and slides available on [Medium](https://medium.com/@mlvandeg/dh-lib-479e9f3c3f09. 
+> [Agenda](https://dhclinics.github.io/dag/2018-terugkomdag) and review of event from Lotte Wilms, co-organizer [https://dhclinics.github.io/2018/12/12/terugblik-terugkomdag.html](https://dhclinics.github.io/2018/12/12/terugblik-terugkomdag.html). 
 
 **Conference presentation | "Annotation as Curation: Connecting Dots, Breaking Silos, and Streamlining Workflow through Open Annotation."** Heather Staines, Gary Price, Micah Vandegrift. Charleston Conference.[https://medium.com/@mlvandeg/annotation-as-curation-a89b1f8e4f95](https://medium.com/@mlvandeg/annotation-as-curation)
 
