@@ -1,7 +1,7 @@
 # Micah Vandegrift #
 
   * Open Knowledge Librarian at North Carolina State University Libraries in Raleigh, North Carolina
-  * Email - work mlvandeg@ncsu.edu personal micahvandegrift@gmail.com
+  * Email - work mlvandeg@ncsu.edu; personal micahvandegrift@gmail.com
   * ORCID - [0000-0001-8429-7697](http://orcid.org/0000-0001-8429-7697)
   * Blog - [https://medium.com/@mlvandeg/](https://medium.com/@mlvandeg/) 
 
@@ -29,8 +29,8 @@ Employment
 ==========
 2018 - Present | Open Knowledge Librarian, North Carolina State University
 
-> * Develop strategic approaches to open research practices, policies, and programs that facilitate and promote open and publicly engaged scholarship. 
-> * Lead Principal Investigator for [Visualizing Digital Scholarship in Libraries and Learning Spaces (Immersive Scholar)](https://www.immersivescholar.org/) funded by a grant from the Andrew W. Mellon Foundation. 
+> * Develop strategic approaches to open research practices, policies, and programs that facilitate and promote open and publicly engaged scholarship 
+> * Lead Principal Investigator for [Visualizing Digital Scholarship in Libraries and Learning Spaces (Immersive Scholar)](https://www.immersivescholar.org/) funded by a grant from the Andrew W. Mellon Foundation 
 > * Investigate and promote digital technologies that maximize the dissemination and impact of scholarship
 
 2016 - 2018 | Director of Digital Scholarship, Florida State University
@@ -58,7 +58,7 @@ Awards, Fellowships and Institutes
 ====================
 2018-2019 | Fulbright-Schuman Research Scholar
 
-> * Conducted research on open science policies and infrastructure in Europe, hosted by Maastricht University Libraries in The Netherlands and the Royal Danish Library/University of Copenhagen in Denmark. 
+> * Conducted research on open science policies and infrastructure in Europe, hosted by Maastricht University Libraries in The Netherlands and the Royal Danish Library/University of Copenhagen in Denmark 
 > * All materials and outputs from the fellowship are collected and available at [https://osf.io/254vf/](https://osf.io/254vf/)
 
 2017 | Participant in the inaugural Association of Research Libraries Digital Scholarship Institute.
@@ -80,7 +80,7 @@ Grants
 **Visualizing Digital Scholarship in Libraries and Learning Spaces**
 * Lead Principle Investigator
 * $414,000 grant from the Andrew W. Mellon Foundation
-* Grant to develop extensible models and programs for the creation and sharing of digital scholarship in large-scale and immersive visualization environments. The project aims to increase the impact of academic visualization environments and the scholarship created within them.
+* Grant to develop extensible models and programs for the creation and sharing of digital scholarship in large-scale and immersive visualization environments. The project aims to increase the impact of academic visualization environments and the scholarship created within them
 
 Research & Scholarship
 ===========
