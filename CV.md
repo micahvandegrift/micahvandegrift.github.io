@@ -8,9 +8,10 @@
 Research Interests
 =========
 
-* Infrastructure for research and scholarship
-* National/governmental open scholarship policies
-* Curation of research data
+* Strategic approaches to a more open research environment
+* Research evaluation
+* Public scholarship
+* "Translation" as scholarly communication
 
 Education
 =========
@@ -28,7 +29,9 @@ Employment
 ==========
 2018 - Present | Open Knowledge Librarian, North Carolina State University
 
-> Develop programs, advocacy tools, and partnerships as a member of the Copyright and Digital Scholarship Center that facilitate and promote open and publicly engaged scholarship. Investigate and promote digital technologies that support open practice across the research lifecycle and maximize the dissemination and impact of scholarship in collaboration with colleagues across the library.  
+> Develop strategic approaches to open research practices, policies, and programs that facilitate and promote open and publicly engaged scholarship
+> Lead Principal Investigator for [Visualizing Digital Scholarship in Libraries and Learning Spaces (Immersive Scholar)](https://www.immersivescholar.org/) funded by a grant from the Andrew W. Mellon Foundation
+> Investigate and promote digital technologies that maximize the dissemination and impact of scholarship
 
 2016 - 2018 | Director of Digital Scholarship, Florida State University
 
@@ -55,7 +58,8 @@ Awards, Fellowships and Institutes
 ====================
 2018-2019 | Fulbright-Schuman Research Scholar
 
-> This winter (Sep. 2018 - Feb. 2019) I will serve as the Fulbright-Schuman Innovation Scholar studying open research policies and infrastructure in Maastricht - The Netherlands, the birthplace of the European Union, and at the Royal Danish Library in Copenhagen, Denmark. 
+> Conducted research on open science policies and infrastructure in Europe, hosted by Maastricht University Libraries in The Netherlands and the Royal Danish Library/University of Copenhagen in Denmark. 
+> All materials and outputs from the fellowship are collected and available on at [https://osf.io/254vf/](https://osf.io/254vf/)
 
 2017 | Participant in the inaugural Association of Research Libraries Digital Scholarship Institute.
 
@@ -83,10 +87,14 @@ Research & Scholarship
 
 **Co-Editor | (Forthcoming) Special Issue of Digital Humanities Quarterly on Invisible Work in the Digital Humanities**
 
-**Conference presentation | (Forthcoming) Advocating for Open: Putting Ethics into Practice.** Brianna Marshall, Vicky Steeves, Micah Vandegrift. ACRL 2019.
+**Book Chapter | (Forthcoming) Library Policy and Data Science.** Michael Svendsen and Micah Vandegrift. In (working title) Handbook of Data Science Librarianship, edited by Jeanette Ekstrøm and Lorna Wildegaard.
 
 2019
 ---
+**Panelist | Planning for Plan S.** Society for Scholarly Publishing Durham Regional Event.
+
+**Conference presentation | Advocating for Open: Putting Ethics into Practice.** Brianna Marshall, Vicky Steeves, Micah Vandegrift. ACRL 2019.
+
 **Presentation | Annotation as/in Teaching.** HIRMEOS Workshop on Open Annotation. HIRMEOS (High Integration of Research Monographs in European Open Science Infrastructure) and OPERAS (Open Access in the European Research Area through Scholarly Communication) are funded through the EU's Horizon 2020 program. Slides at https://goo.gl/m3GXR9
 
 2018
@@ -253,18 +261,22 @@ Vandegrift, M., & Bolick, J. *Journal of Librarianship and Scholarly Communicati
 
 Current Service
 ===============
-Advisory Board, [Library and Information Science Scholarship Archive](https://lissarchive.org/) (2017- )
+Steering Committee, TRLN Institute 2019
+
+
+
+Service Appointments Fulfilled
+==============================
+Advisory Board, [Library and Information Science Scholarship Archive](https://lissarchive.org/) (2017-2018)
 
 Co-Chair, HASTAC 2017 Program Committee
 
 Steering Committee Member, Digital Library Federation [Project Managers Group](https://www.diglib.org/groups/pmg/) (2016- )
 
-Editorial Board Member, Journal of Librarianship and Scholarly Communication (2014– )
+Editorial Board Member, Journal of Librarianship and Scholarly Communication (2014–2018)
 
-Editorial Board Member, [The Idealis](http://theidealis.org/) (2017- )
+Editorial Board Member, [The Idealis](http://theidealis.org/) (2017)
 
-Service Appointments Fulfilled
-==============================
 Member, SPARC Steering Committee Nomination Committee (2017)
 
 Chair, Grant Review Panel, Institute for Museum and Library Services – Library Services and Technology Act State of Florida (2013–2016)
