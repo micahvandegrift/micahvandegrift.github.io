@@ -87,19 +87,25 @@ Research & Scholarship
 
 **Co-Editor | (Forthcoming) Special Issue of Digital Humanities Quarterly on Invisible Work in the Digital Humanities**
 
-**Book Chapter | (Forthcoming) Library Policy and Data Science.** Michael Svendsen and Micah Vandegrift. In (working title) Handbook of Data Science Librarianship, edited by Jeanette Ekstrøm and Lorna Wildegaard.
+**Book Chapter | (Forthcoming) Library Policy and Data Science.** Michael Svendsen and Micah Vandegrift.
 
 2019
 ---
-**Panelist | Planning for Plan S.** Society for Scholarly Publishing Durham Regional Event.
+**Panelist | Plan S: Point/Counterpoint.** International Society of Managing and Technical Editors North American conference. with Rick Anderson.
+
+**Panelist | Planning for Plan S.** Society for Scholarly Publishing Durham Regional Event. 4/25/19. With Allison Belan, Associate Director for Digital Strategy and Systems, Duke University Press; William B. Coleman, Executive Officer, American Society for Investigative Pathology; Micah Vandegrift, Open Knowledge Librarian, North Carolina State University; Dr. Gregory P. Copenhaver, Professor, Department of Biology, UNC Chapel Hill; Distinguished Adjunct Professor, Fudan University; Editor-in-Chief, PLOS Genetics.
+
+**Blog post | Open Science and OER: Closing the Loop.** Gaby Lutgens and Micah Vandegrift. International Journal of Open Educational Resources. [https://www.ijoer.org/open-science-and-oer-closing-the-loop/](https://www.ijoer.org/open-science-and-oer-closing-the-loop/)
 
 **Conference presentation | Advocating for Open: Putting Ethics into Practice.** Brianna Marshall, Vicky Steeves, Micah Vandegrift. ACRL 2019.
+
+**Podcast interview | The Road to Open Science, Interview with Micah Vandegrift, Open Knowledge Librarian.** With Sanli Faez, Bianca Kramer, and Barbara Vreede. Available at [https://soundcloud.com/utrechtyoungacademy/the-road-to-open-science-interview-with-micah-vandegrift-open-knowledge-librarian](https://soundcloud.com/utrechtyoungacademy/the-road-to-open-science-interview-with-micah-vandegrift-open-knowledge-librarian)
 
 **Presentation | Annotation as/in Teaching.** HIRMEOS Workshop on Open Annotation. HIRMEOS (High Integration of Research Monographs in European Open Science Infrastructure) and OPERAS (Open Access in the European Research Area through Scholarly Communication) are funded through the EU's Horizon 2020 program. Slides at https://goo.gl/m3GXR9
 
 2018
 ---
-**Pre-print | Public Scholarship in Practice and Philosophy.** Erin Rose Glass and Micah Vandegrift. For _MLA Guide to Scholarly Communication_, edited by Angela Gibson. Pre-print accessible on Humanities Commons. http://dx.doi.org/10.17613/g64d-gd16
+**Pre-print | Public Scholarship in Practice and Philosophy.** Erin Rose Glass and Micah Vandegrift. For _MLA Guide to Scholarly Communication_, edited by Angela Gibson. Pre-print accessible on Humanities Commons. [http://dx.doi.org/10.17613/g64d-gd16](http://dx.doi.org/10.17613/g64d-gd16)
 
 **Keynote | DH+Lib: Evolution or Revolution?** DH Clinics - Netherlands Digital Humanities Interest Group. Nov. 20th, 2018. Utrechts Archief, Utrecht, Netherlands. Presentation text and slides available on [Medium](https://medium.com/@mlvandeg/dh-lib-479e9f3c3f09. 
 > [Agenda](https://dhclinics.github.io/dag/2018-terugkomdag) and review of event from Lotte Wilms, co-organizer [https://dhclinics.github.io/2018/12/12/terugblik-terugkomdag.html](https://dhclinics.github.io/2018/12/12/terugblik-terugkomdag.html). 
