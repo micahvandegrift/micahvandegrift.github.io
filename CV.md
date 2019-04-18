@@ -97,7 +97,7 @@ Research & Scholarship
 
 **Blog post | Open Science and OER: Closing the Loop.** Gaby Lutgens and Micah Vandegrift. International Journal of Open Educational Resources. [https://www.ijoer.org/open-science-and-oer-closing-the-loop/](https://www.ijoer.org/open-science-and-oer-closing-the-loop/)
 
-**Conference presentation | Advocating for Open: Putting Ethics into Practice.** Brianna Marshall, Vicky Steeves, Micah Vandegrift. ACRL 2019.
+**Conference presentation | Advocating for Open: Putting Ethics into Practice.** Brianna Marshall, Vicky Steeves, Micah Vandegrift. Association of College and Research Libraries conference.
 
 **Podcast interview | The Road to Open Science, Interview with Micah Vandegrift, Open Knowledge Librarian.** With Sanli Faez, Bianca Kramer, and Barbara Vreede. Available at [https://soundcloud.com/utrechtyoungacademy/the-road-to-open-science-interview-with-micah-vandegrift-open-knowledge-librarian](https://soundcloud.com/utrechtyoungacademy/the-road-to-open-science-interview-with-micah-vandegrift-open-knowledge-librarian)
 
@@ -217,7 +217,7 @@ Vandegrift, M., & Bolick, J. *Journal of Librarianship and Scholarly Communicati
 * Presented at the inaugural *Library Publishing Forum*, Kansas City, KS. [https://micahvandegrift.wordpress.com/2014/03/06/pwnoa/](https://micahvandegrift.wordpress.com/2014/03/06/pwnoa/)
 
 **Invited presentation | The Miseducation of Scholarly Communication.**
-* Given at the *Society for Scholarly Publishing,* Boston, MA. Co-panelists with Maria Bonn and Gail Clement. [http://micahvandegrift.wordpress.com/2014/06/02/ssptalk/](http://micahvandegrift.wordpress.com/2014/06/02/ssptalk/)
+* Given at the *Society for Scholarly Publishing,* Boston, MA. With Maria Bonn and Gail Clement. [http://micahvandegrift.wordpress.com/2014/06/02/ssptalk/](http://micahvandegrift.wordpress.com/2014/06/02/ssptalk/)
 
 **Article | Librarian, Heal Thyself: A Scholarly Communication Analysis of LIS Journals.** Vandegrift, M., & Bowley, C. *In the Library with the Lead Pipe.* [http://www.inthelibrarywiththeleadpipe.org/2014/healthyself/](http://www.inthelibrarywiththeleadpipe.org/2014/healthyself/)
 
