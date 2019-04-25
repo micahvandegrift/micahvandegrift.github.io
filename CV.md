@@ -31,7 +31,7 @@ Employment
 
 > * Develop strategic approaches to open research practices, policies, and programs that facilitate and promote open and publicly engaged scholarship 
 > * Lead Principal Investigator for [Visualizing Digital Scholarship in Libraries and Learning Spaces (Immersive Scholar)](https://www.immersivescholar.org/) funded by a grant from the Andrew W. Mellon Foundation 
-> * Investigate and promote digital technologies that maximize the dissemination and impact of scholarship
+> * Investigate and promote technologies and systems that maximize the dissemination and impact of scholarship
 
 2016 - 2018 | Director of Digital Scholarship, Florida State University
 
