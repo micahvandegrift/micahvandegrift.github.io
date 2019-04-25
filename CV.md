@@ -87,8 +87,6 @@ Research & Scholarship
 
 **Co-Editor | (Forthcoming) Special Issue of Digital Humanities Quarterly on Invisible Work in the Digital Humanities**
 
-**Book Chapter | (Forthcoming) Library Policy and Data Science.** Michael Svendsen and Micah Vandegrift.
-
 2019
 ---
 **Panelist | Plan S: Point/Counterpoint.** International Society of Managing and Technical Editors North American conference. with Rick Anderson.
