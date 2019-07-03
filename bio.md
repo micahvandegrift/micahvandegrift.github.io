@@ -1,5 +1,9 @@
 Biography
 ====
+Super Short
+---
+Open Knowledge Librarian/Fulbrighter @ NC State. Advocating for a more open, global knowledge ecosystem through community development.
+
 Short
 ---
 Micah Vandegrift’s research focuses on the evolution of research policies and technologies that maximize the dissemination and impact of publicly engaged scholarship. Specifically, he is developing a concept of “translation” as a form of scholarly communication, and exploring evaluation of new forms of scholarly output. As NC State University Libraries first Open Knowledge Librarian, Micah is dedicated to building programs and processes for the research and learning community to embrace a more open scholarly praxis. He is the lead Principal Investigator for Visualizing Digital Scholarship in Libraries and Learning Spaces (Immersive Scholar) funded by a grant from the Andrew W. Mellon Foundation, and studied open science policy and infrastructure in The Netherlands and Denmark as a Fulbright-Schuman Research Fellow in 2018-2019. 
