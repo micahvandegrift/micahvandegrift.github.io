@@ -85,10 +85,12 @@ Grants
 Research & Scholarship
 ===========
 
-**Co-Editor | (Forthcoming) Special Issue of Digital Humanities Quarterly on Invisible Work in the Digital Humanities**
-
 2019
 ---
+**Co-Editor | Special Issue of Digital Humanities Quarterly on Invisible Work in the Digital Humanities.**
+
+**Editorial | Introduction: Questioning Collaboration, Labor, and Visibility in Digital Humanities Research.** Graban, T. S., Marty, P., Romano, A., & Vandegrift, M. (2019). Special Issue of Digital Humanities Quarterly, 013(2). [http://www.digitalhumanities.org/dhq/vol/13/2/000416/000416.html](http://www.digitalhumanities.org/dhq/vol/13/2/000416/000416.html)
+
 **Panelist | Plan S: Point/Counterpoint.** International Society of Managing and Technical Editors North American conference. with Rick Anderson.
 
 **Panelist | Planning for Plan S.** Society for Scholarly Publishing Durham Regional Event. 4/25/19. With Allison Belan, Associate Director for Digital Strategy and Systems, Duke University Press; William B. Coleman, Executive Officer, American Society for Investigative Pathology; Micah Vandegrift, Open Knowledge Librarian, North Carolina State University; Dr. Gregory P. Copenhaver, Professor, Department of Biology, UNC Chapel Hill; Distinguished Adjunct Professor, Fudan University; Editor-in-Chief, PLOS Genetics.
