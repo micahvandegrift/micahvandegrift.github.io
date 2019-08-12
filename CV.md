@@ -87,9 +87,13 @@ Research & Scholarship
 
 2019
 ---
+**Presentation | A More Open Humanities - Documentation of/and Evaluation in the Immersive Scholar Project** for Digital Humanities, Open Access and Cultural Heritage webaton - OpenGLAM and the Argentine Association of Digital Humanities.  
+
 **Co-Editor | Special Issue of Digital Humanities Quarterly on Invisible Work in the Digital Humanities.**
 
 **Editorial | Introduction: Questioning Collaboration, Labor, and Visibility in Digital Humanities Research.** Graban, T. S., Marty, P., Romano, A., & Vandegrift, M. (2019). Special Issue of Digital Humanities Quarterly, 013(2). [http://www.digitalhumanities.org/dhq/vol/13/2/000416/000416.html](http://www.digitalhumanities.org/dhq/vol/13/2/000416/000416.html)
+
+**Resource | Periodic Table of the Open Research Ecosystem.** Conceptualized by Micah Vandegrift, designed by Abby Vandegrift. [https://doi.org/10.5281/zenodo.3263989](https://doi.org/10.5281/zenodo.3263989)
 
 **Panelist | Plan S: Point/Counterpoint.** International Society of Managing and Technical Editors North American conference. with Rick Anderson.
 
