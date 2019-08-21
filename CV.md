@@ -87,7 +87,7 @@ Research & Scholarship
 
 2019
 ---
-**Presentation | A More Open Humanities - Documentation of/and Evaluation in the Immersive Scholar Project** for Digital Humanities, Open Access and Cultural Heritage webaton - OpenGLAM and the Argentine Association of Digital Humanities.  
+**Presentation | A More Open Humanities - Documentation of/and Evaluation in the Immersive Scholar Project** for Digital Humanities, Open Access and Cultural Heritage webaton - OpenGLAM and the Argentine Association of Digital Humanities. [https://github.com/scannopolis/jornada_aadh](https://github.com/scannopolis/jornada_aadh)  
 
 **Co-Editor | Special Issue of Digital Humanities Quarterly on Invisible Work in the Digital Humanities.**
 
