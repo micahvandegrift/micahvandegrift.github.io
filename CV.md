@@ -87,7 +87,11 @@ Research & Scholarship
 
 2019
 ---
+**Presentation | Planning for Plan S: a perspective from across the pond.** Open Access Week at Cambridge University Libraries, Cambridge, UK. https://www.training.cam.ac.uk/event/3132902
+
 **Presentation | A More Open Humanities - Documentation of/and Evaluation in the Immersive Scholar Project** for Digital Humanities, Open Access and Cultural Heritage webaton - OpenGLAM and the Argentine Association of Digital Humanities. [https://github.com/scannopolis/jornada_aadh](https://github.com/scannopolis/jornada_aadh)  
+
+**Proceedings | Plan S Point–Counterpoint: Discussing the Plan Together.** Based on a panel given at the 2019 International Society of Managing and Technical Editors North American conference by Rick Anderson & Micah Vandegrift. Retrieved from osf.io/preprints/lissa/zpa4v
 
 **Co-Editor | Special Issue of Digital Humanities Quarterly on Invisible Work in the Digital Humanities.**
 
