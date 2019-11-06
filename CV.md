@@ -11,7 +11,7 @@ Research Interests
 * Strategic approaches to a more open research environment
 * Research evaluation
 * Public scholarship
-* "Translation" as scholarly communication
+* Documentation as scholarly object
 
 Education
 =========
