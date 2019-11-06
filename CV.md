@@ -89,6 +89,8 @@ Research & Scholarship
 ---
 **Presentation | Annotation on Campus: Collaboration in the Classroom and Beyond.** With Heather Staines, Alan Reid, Butch Porter. Charleston Conference. 
 
+**Facilitated Session | Incuabting Open Community.** MozFest, London, UK. 
+
 **Presentation | Planning for Plan S: a perspective from across the pond.** Open Access Week at Cambridge University Libraries, Cambridge, UK. https://www.training.cam.ac.uk/event/3132902
 
 **Presentation | A More Open Humanities - Documentation of/and Evaluation in the Immersive Scholar Project** for Digital Humanities, Open Access and Cultural Heritage webaton - OpenGLAM and the Argentine Association of Digital Humanities. [https://github.com/scannopolis/jornada_aadh](https://github.com/scannopolis/jornada_aadh). Presentation on youtube also [https://youtu.be/e9c-4RnFN_0?t=1154](https://youtu.be/e9c-4RnFN_0?t=1154)
