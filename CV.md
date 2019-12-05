@@ -89,7 +89,7 @@ Research & Scholarship
 ---
 **Presentation | Annotation on Campus: Collaboration in the Classroom and Beyond.** With Heather Staines, Alan Reid, Butch Porter. Charleston Conference. 
 
-**Facilitated Session | Incuabting Open Community.** MozFest, London, UK. 
+**Facilitated Session | Incubating Open Community.** MozFest, London, UK. 
 
 **Presentation | Planning for Plan S: a perspective from across the pond.** Open Access Week at Cambridge University Libraries, Cambridge, UK. https://www.training.cam.ac.uk/event/3132902
 
