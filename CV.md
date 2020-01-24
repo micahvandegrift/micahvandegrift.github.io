@@ -87,6 +87,8 @@ Research & Scholarship
 
 2019
 ---
+**Article | The Golden Age of the Green Ecosystem: A Color-Blind Perspective on Repositories.** Vandegrift, M. Against the Grain, 31(5). [https://against-the-grain.com/2019/12/v315-the-golden-age-of-the-green-ecosystem-a-color-blind-perspective-on-repositories/](https://against-the-grain.com/2019/12/v315-the-golden-age-of-the-green-ecosystem-a-color-blind-perspective-on-repositories/)
+
 **Presentation | Annotation on Campus: Collaboration in the Classroom and Beyond.** With Heather Staines, Alan Reid, Butch Porter. Charleston Conference. 
 
 **Facilitated Session | Incubating Open Community.** MozFest, London, UK. 
