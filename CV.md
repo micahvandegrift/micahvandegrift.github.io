@@ -99,7 +99,7 @@ Research & Scholarship
 
 **Proceedings | Plan S Point–Counterpoint: Discussing the Plan Together.** Based on a panel given at the 2019 International Society of Managing and Technical Editors North American conference by Rick Anderson & Micah Vandegrift. Retrieved from osf.io/preprints/lissa/zpa4v
 
-**Co-Editor | Special Issue of Digital Humanities Quarterly on Invisible Work in the Digital Humanities.**
+**Co-Editor | Special Issue of Digital Humanities Quarterly on Invisible Work in the Digital Humanities.** [http://digitalhumanities.org/dhq/vol/13/2/index.html](http://digitalhumanities.org/dhq/vol/13/2/index.html)
 
 **Editorial | Introduction: Questioning Collaboration, Labor, and Visibility in Digital Humanities Research.** Graban, T. S., Marty, P., Romano, A., & Vandegrift, M. (2019). Special Issue of Digital Humanities Quarterly, 013(2). [http://www.digitalhumanities.org/dhq/vol/13/2/000416/000416.html](http://www.digitalhumanities.org/dhq/vol/13/2/000416/000416.html)
 
