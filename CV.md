@@ -87,6 +87,8 @@ Research & Scholarship
 
 2019
 ---
+**Project Report and Peer Review | Immersive Scholar**   David Nieves, A. (2020). Review: Immersive Scholar. Reviews in Digital Humanities, I(3). [https://doi.org/10.21428/3e88f64f.a5b0dd2a](https://doi.org/10.21428/3e88f64f.a5b0dd2a)
+
 **Article | The Golden Age of the Green Ecosystem: A Color-Blind Perspective on Repositories.** Vandegrift, M. Against the Grain, 31(5). [https://against-the-grain.com/2019/12/v315-the-golden-age-of-the-green-ecosystem-a-color-blind-perspective-on-repositories/](https://against-the-grain.com/2019/12/v315-the-golden-age-of-the-green-ecosystem-a-color-blind-perspective-on-repositories/)
 
 **Presentation | Annotation on Campus: Collaboration in the Classroom and Beyond.** With Heather Staines, Alan Reid, Butch Porter. Charleston Conference. 
