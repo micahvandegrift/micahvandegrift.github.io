@@ -118,6 +118,8 @@ Research & Scholarship
 
 **Conference presentation | Advocating for Open: Putting Ethics into Practice.** Brianna Marshall, Vicky Steeves, Micah Vandegrift. Association of College and Research Libraries conference.
 
+**Final Report | Fulbright-Schuman Research Fellowship - Open Scholarship Policies and Technologies: The European Research Library as a Model for Advancing Global Scholarly Communication.** [https://doi.org/10.17605/OSF.IO/254VF](https://doi.org/10.17605/OSF.IO/254VF)
+
 **Podcast interview | The Road to Open Science, Interview with Micah Vandegrift, Open Knowledge Librarian.** With Sanli Faez, Bianca Kramer, and Barbara Vreede. Available at [https://soundcloud.com/utrechtyoungacademy/the-road-to-open-science-interview-with-micah-vandegrift-open-knowledge-librarian](https://soundcloud.com/utrechtyoungacademy/the-road-to-open-science-interview-with-micah-vandegrift-open-knowledge-librarian)
 
 **Presentation | Annotation as/in Teaching.** HIRMEOS Workshop on Open Annotation. HIRMEOS (High Integration of Research Monographs in European Open Science Infrastructure) and OPERAS (Open Access in the European Research Area through Scholarly Communication) are funded through the EU's Horizon 2020 program. Slides at https://goo.gl/m3GXR9
