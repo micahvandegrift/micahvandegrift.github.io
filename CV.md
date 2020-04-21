@@ -82,6 +82,17 @@ Grants
 * $414,000 grant from the Andrew W. Mellon Foundation
 * Grant to develop extensible models and programs for the creation and sharing of digital scholarship in large-scale and immersive visualization environments. The project aims to increase the impact of academic visualization environments and the scholarship created within them
 
+Current Service
+===============
+Advisory Board, [Next Generation Library Publishing](https://educopia.org/next-generation-library-publishing/)
+
+University Service
+---
+* Faculty Development Partners Group, 2019-
+* Engagement Operations Council, 2020-
+* NC State University Strategic Planning Initiative, Envisaging the Next Generation Land-Grant University Task Force, Maximizing the Uses and Advances in Technology subcommittee, 2020-
+* UNC System Journals Working Group, 2020- 
+
 Research & Scholarship
 ===========
 
@@ -289,17 +300,6 @@ Vandegrift, M., & Bolick, J. *Journal of Librarianship and Scholarly Communicati
 
 **Co-Facilitated Discussion (with Amy Buckland) | Readings on "The Future of Librarianship: Information Technology and Digital Humanities PhD's."** 
 * Discussion at *THATCamp Center for History and New Media 2011*. [http://chnm2011.thatcamp.org/05/19/futurelibrarianship/](http://chnm2011.thatcamp.org/05/19/futurelibrarianship/)
-
-Current Service
-===============
-Advisory Board, [Next Generation Library Publishing](https://educopia.org/next-generation-library-publishing/)
-
-University Service
----
-* Faculty Development Partners Group, 2019-
-* Engagement Operations Council, 2020-
-* NC State University Strategic Planning Initiative, Envisaging the Next Generation Land-Grant University Task Force, Maximizing the Uses and Advances in Technology subcommittee, 2020-
-* UNC System Journals Working Group, 2020- 
 
 Service Appointments Fulfilled
 ==============================
