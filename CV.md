@@ -292,12 +292,19 @@ Vandegrift, M., & Bolick, J. *Journal of Librarianship and Scholarly Communicati
 
 Current Service
 ===============
-Steering Committee, TRLN Institute 2019
-
 Advisory Board, [Next Generation Library Publishing](https://educopia.org/next-generation-library-publishing/)
+
+University Service
+---
+* Faculty Development Partners Group, 2019-
+* Engagement Operations Council, 2020-
+* NC State University Strategic Planning Initiative, Envisaging the Next Generation Land-Grant University Task Force, Maximizing the Uses and Advances in Technology subcommittee, 2020-
+* UNC System Journals Working Group, 2020- 
 
 Service Appointments Fulfilled
 ==============================
+Steering Committee, TRLN Scholarly Communication Institute, 2019
+
 Advisory Board, [Library and Information Science Scholarship Archive](https://lissarchive.org/) (2017-2018)
 
 Co-Chair, HASTAC 2017 Program Committee
