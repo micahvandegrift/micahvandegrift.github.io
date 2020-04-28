@@ -129,7 +129,7 @@ Research & Scholarship
 
 **Panelist | Planning for Plan S.** Society for Scholarly Publishing Durham Regional Event. 4/25/19. With Allison Belan, Associate Director for Digital Strategy and Systems, Duke University Press; William B. Coleman, Executive Officer, American Society for Investigative Pathology; Micah Vandegrift, Open Knowledge Librarian, North Carolina State University; Dr. Gregory P. Copenhaver, Professor, Department of Biology, UNC Chapel Hill; Distinguished Adjunct Professor, Fudan University; Editor-in-Chief, PLOS Genetics.
 
-**Blog post | Open Science and OER: Closing the Loop.** Gaby Lutgens and Micah Vandegrift. International Journal of Open Educational Resources. [https://www.ijoer.org/open-science-and-oer-closing-the-loop/](https://www.ijoer.org/open-science-and-oer-closing-the-loop/)
+**Blog post | Open Science and OER: Closing the Loop.** Gaby Lutgens and Micah Vandegrift. International Journal of Open Educational Resources. [https://ijoerandbeyond.org/?p=50](https://ijoerandbeyond.org/?p=50)
 
 **Conference presentation | Advocating for Open: Putting Ethics into Practice.** Brianna Marshall, Vicky Steeves, Micah Vandegrift. Association of College and Research Libraries conference.
 
