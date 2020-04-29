@@ -100,7 +100,7 @@ Research & Scholarship
 ---
 **Presentation | First of a kind: Open Curriculum, Agriculture, and Workflows.** With Tisha Mentnech. ACRL Digital Scholarship Section - Open Research Discussion Group. 4/21/2020
 
-**Presentation | Immersive Scholar: Development, Documentation, Display, and Dissemination of Experiential Research and Scholarship.** With Shelby Hallman. Coalition for Networked Information (CNI) Spring 2020 Membership Meeting. 4/24/2020
+**Presentation | Immersive Scholar: Development, Documentation, Display, and Dissemination of Experiential Research and Scholarship.** With Shelby Hallman. Coalition for Networked Information (CNI) Spring 2020 Membership Meeting. 4/24/2020. Video [on youtube](https://youtu.be/uEY3scL0Utg) and slides [on Open Science Framework](https://osf.io/3zrcn/).
 
 **Project Report and Peer Review | Immersive Scholar.**   David Nieves, A. (2020). Review: Immersive Scholar. Reviews in Digital Humanities, I(3). [https://doi.org/10.21428/3e88f64f.a5b0dd2a](https://doi.org/10.21428/3e88f64f.a5b0dd2a)
 
