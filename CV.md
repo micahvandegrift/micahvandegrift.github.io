@@ -303,6 +303,8 @@ Vandegrift, M., & Bolick, J. *Journal of Librarianship and Scholarly Communicati
 
 Service Appointments Fulfilled
 ==============================
+Reviewer, Institute for Museum and Library Services - National Leadership Grants for Libraries
+
 Steering Committee, TRLN Scholarly Communication Institute, 2019
 
 Advisory Board, [Library and Information Science Scholarship Archive](https://lissarchive.org/) (2017-2018)
