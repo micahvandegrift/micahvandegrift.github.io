@@ -98,6 +98,10 @@ Research & Scholarship
 
 2020
 ---
+**Presentation | Open to Online: Converting a Research Development Program to Fully Online Overnight.** North Carolina Library Association Virtual Conference. 7/17/2020
+
+**Presentation | Managing Projects at Many Levels: The Immersive Scholar Cohort, Residencies, and the Shift to Project Development.** Digital Humanities Summer Institute - Project Management Mini-Conference. 6/6/2020. Slides accessible at [https://osf.io/s24tm/](https://osf.io/s24tm/)
+
 **Presentation | First of a kind: Open Curriculum, Agriculture, and Workflows.** With Tisha Mentnech. ACRL Digital Scholarship Section - Open Research Discussion Group. 4/21/2020
 
 **Presentation | Immersive Scholar: Development, Documentation, Display, and Dissemination of Experiential Research and Scholarship.** With Shelby Hallman. Coalition for Networked Information (CNI) Spring 2020 Membership Meeting. 4/24/2020. Video [on youtube](https://youtu.be/uEY3scL0Utg) and slides [on Open Science Framework](https://osf.io/3zrcn/).
