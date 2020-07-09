@@ -96,7 +96,9 @@ Research & Scholarship
 
 2020
 ---
-**Panel | Editors and Librarians: Building Relationships to Support Digital Scholars.** With John McLeod. Part of “University Presses and Libraries: Partners in Digital Transformation.” Publisher to Library (P2L4) Summit hosted by Association of Research Libraries and American Association of University Presses. [https://www.arl.org/event/the-p2l4-summit/](https://www.arl.org/event/the-p2l4-summit/)
+**Panel | Editors and Librarians: Building Relationships to Support Digital Scholars.** With John McLeod. Part of “University Presses and Libraries: Partners in Digital Transformation.” Publisher to Library (P2L4) Summit hosted by Association of Research Libraries and American Association of University Presses. [https://www.arl.org/event/the-p2l4-summit/](https://www.arl.org/event/the-p2l4-summit/) 7/22/2020
+
+**Issue Brief | Open Science Roadmap: Recommendations to UNESCO.** Hampson, G., DeSart, M., Steinhauer, J., Gadd, E., Vandegrift, M., Erdmann, C., & Johnson, R. (2020).  Open Scholarship Initiative Proceedings. [https://doi.org/10.13021/osi2020.2735](https://doi.org/10.13021/osi2020.2735)
 
 **Presentation | Open to Online: Converting a Research Development Program to Fully Online Overnight.** With Lynnee Argabright. North Carolina Library Association Virtual Conference. 7/17/2020
 
