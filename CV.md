@@ -89,8 +89,6 @@ Advisory Board, [Next Generation Library Publishing](https://educopia.org/next-g
 University Service
 ---
 * Faculty Development Partners Group, 2019-
-* Engagement Operations Council, 2020-
-* NC State University Strategic Planning Initiative, Envisaging the Next Generation Land-Grant University Task Force, Maximizing the Uses and Advances in Technology subcommittee, 2020-
 * UNC System Journals Working Group, 2020- 
 
 Research & Scholarship
@@ -98,9 +96,11 @@ Research & Scholarship
 
 2020
 ---
-**Presentation | Open to Online: Converting a Research Development Program to Fully Online Overnight.** North Carolina Library Association Virtual Conference. 7/17/2020
+**Panel | Editors and Librarians: Building Relationships to Support Digital Scholars.** With John McLeod. Part of “University Presses and Libraries: Partners in Digital Transformation.” Publisher to Library (P2L4) Summit hosted by Association of Research Libraries and American Association of University Presses. [https://www.arl.org/event/the-p2l4-summit/](https://www.arl.org/event/the-p2l4-summit/)
 
-**Presentation | Managing Projects at Many Levels: The Immersive Scholar Cohort, Residencies, and the Shift to Project Development.** Digital Humanities Summer Institute - Project Management Mini-Conference. 6/6/2020. Slides accessible at [https://osf.io/s24tm/](https://osf.io/s24tm/)
+**Presentation | Open to Online: Converting a Research Development Program to Fully Online Overnight.** With Lynnee Argabright. North Carolina Library Association Virtual Conference. 7/17/2020
+
+**Presentation | Managing Projects at Many Levels: The Immersive Scholar Cohort, Residencies, and the Shift to Project Development.** With Erica Hayes. Digital Humanities Summer Institute - Project Management Mini-Conference. 6/6/2020. Slides accessible at [https://osf.io/s24tm/](https://osf.io/s24tm/)
 
 **Presentation | First of a kind: Open Curriculum, Agriculture, and Workflows.** With Tisha Mentnech. ACRL Digital Scholarship Section - Open Research Discussion Group. 4/21/2020
 
