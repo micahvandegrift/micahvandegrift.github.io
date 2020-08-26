@@ -100,6 +100,8 @@ Research & Scholarship
 
 **Presentation | Playing/Visualizing Data Manipulation and the Attention Economy: An Immersive Scholar Creative Residency Case Study.** with Hannah Rainey. Privacy in the Age of Surveillance: Everyone’s Concern. NISO Virtual Conference. 9/16/20. [https://www.niso.org/events/2020/09/privacy-age-surveillance-everyones-concern](https://www.niso.org/events/2020/09/privacy-age-surveillance-everyones-concern)
 
+**Facilitator | eLife Innovation Sprint** A global, two-day open science research and development sprint. Virtual. https://sprint.elifesciences.org/
+
 **Publication | A Response to the Call for Bibliodiversity: Language, Translation, and Communicated Scholarship.** Kittinger, A., & Vandegrift, M. (2020). Triangle Open Scholarship. https://doi.org/10.21428/3d640a4a.48ea4b20
 
 **Panel | Editors and Librarians: Building Relationships to Support Digital Scholars.** With John McLeod. Part of “University Presses and Libraries: Partners in Digital Transformation.” Publisher to Library (P2L4) Summit hosted by Association of Research Libraries and American Association of University Presses. [https://www.arl.org/event/the-p2l4-summit/](https://www.arl.org/event/the-p2l4-summit/) 7/22/2020
