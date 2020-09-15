@@ -96,6 +96,8 @@ Research & Scholarship
 
 2020
 ---
+**Presentation | Data is never raw.** with Ashley Evans-Bandy and Scott Bailey. Vis4DH at IEEEVis. Virtual Conference. Oct 25, 2020. [http://www.vis4dh.org/](http://www.vis4dh.org/)
+
 **Presentation | Transforming Open Science to Open Scholarship.** with Nick Gardener. For Special Libraries Association-SciTech Division. Virtual Conference. October 14-16, 2020. 
 
 **Presentation | Playing/Visualizing Data Manipulation and the Attention Economy: An Immersive Scholar Creative Residency Case Study.** with Hannah Rainey. Privacy in the Age of Surveillance: Everyone’s Concern. NISO Virtual Conference. 9/16/20. [https://www.niso.org/events/2020/09/privacy-age-surveillance-everyones-concern](https://www.niso.org/events/2020/09/privacy-age-surveillance-everyones-concern)
