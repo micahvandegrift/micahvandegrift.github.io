@@ -100,7 +100,7 @@ Research & Scholarship
 
 **Presentation | Transforming Open Science to Open Scholarship.** with Nick Gardener. For Special Libraries Association-SciTech Division. Virtual Conference. October 14-16, 2020. 
 
-**Presentation | Playing/Visualizing Data Manipulation and the Attention Economy: An Immersive Scholar Creative Residency Case Study.** with Hannah Rainey. Privacy in the Age of Surveillance: Everyone’s Concern. NISO Virtual Conference. 9/16/20. [https://www.niso.org/events/2020/09/privacy-age-surveillance-everyones-concern](https://www.niso.org/events/2020/09/privacy-age-surveillance-everyones-concern)
+**Presentation | Playing Data Tracking and the Attention Economy: An Immersive Scholar Creative Residency Case Study.** with Hannah Rainey. Privacy in the Age of Surveillance: Everyone’s Concern - NISO Virtual Conference. 9/16/20. Slides available online [https://osf.io/436bh/](https://osf.io/436bh/) [https://www.niso.org/events/2020/09/privacy-age-surveillance-everyones-concern](https://www.niso.org/events/2020/09/privacy-age-surveillance-everyones-concern)
 
 **Facilitator | eLife Innovation Sprint** A global, two-day open science research and development sprint. Virtual. https://sprint.elifesciences.org/
 
