@@ -100,7 +100,7 @@ Research & Scholarship
 
 **Presentation | Transforming Open Science to Open Scholarship.** with Nick Gardener. For Special Libraries Association-SciTech Division. Virtual Conference. October 14-16, 2020. 
 
-**Presentation | Playing Data Tracking and the Attention Economy: An Immersive Scholar Creative Residency Case Study.** with Hannah Rainey. Privacy in the Age of Surveillance: Everyone’s Concern - NISO Virtual Conference. 9/16/20. Slides available online [https://osf.io/436bh/](https://osf.io/436bh/) [https://www.niso.org/events/2020/09/privacy-age-surveillance-everyones-concern](https://www.niso.org/events/2020/09/privacy-age-surveillance-everyones-concern)
+**Presentation | Playing Data Tracking and the Attention Economy: An Immersive Scholar Creative Residency Case Study.** with Hannah Rainey. Privacy in the Age of Surveillance: Everyone’s Concern - NISO Virtual Conference. 9/16/20. Slides available online [https://osf.io/2c8qw/](https://osf.io/2c8qw/) [https://www.niso.org/events/2020/09/privacy-age-surveillance-everyones-concern](https://www.niso.org/events/2020/09/privacy-age-surveillance-everyones-concern)
 
 **Facilitator | eLife Innovation Sprint** A global, two-day open science research and development sprint. Virtual. https://sprint.elifesciences.org/
 
@@ -110,7 +110,7 @@ Research & Scholarship
 
 **Issue Brief | Open Science Roadmap: Recommendations to UNESCO.** Hampson, G., DeSart, M., Steinhauer, J., Gadd, E., Vandegrift, M., Erdmann, C., & Johnson, R. (2020).  Open Scholarship Initiative Proceedings. [https://doi.org/10.13021/osi2020.2735](https://doi.org/10.13021/osi2020.2735)
 
-**Presentation | Open to Online: Converting a Research Development Program to Fully Online Overnight.** With Lynnee Argabright. North Carolina Library Association Virtual Conference. 7/17/2020
+**Presentation | Open to Online: Converting a Research Development Program to Fully Online Overnight.** With Lynnee Argabright. North Carolina Library Association Virtual Conference. 7/17/2020. Available on Youtube [https://youtu.be/F6G1a-I5S3M?t=11](https://youtu.be/F6G1a-I5S3M?t=11)
 
 **Presentation | Managing Projects at Many Levels: The Immersive Scholar Cohort, Residencies, and the Shift to Project Development.** With Erica Hayes. Digital Humanities Summer Institute - Project Management Mini-Conference. 6/6/2020. Slides accessible at [https://osf.io/s24tm/](https://osf.io/s24tm/)
 
