@@ -89,7 +89,7 @@ Advisory Board, [Next Generation Library Publishing](https://educopia.org/next-g
 University Service
 ---
 * Faculty Development Partners Group, 2019-
-* UNC System Journals Working Group, 2020- 
+* University Research Symposium Planning Committee, 2020-2021
 
 Research & Scholarship
 ===========
