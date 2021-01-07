@@ -94,6 +94,12 @@ University Service
 Research & Scholarship
 ===========
 
+2021
+---
+**Book (Forthcoming) | Immersive Scholar: A Guidebook for Documenting and Publishing Experiential Scholarship Works.** Mann, Abigail E. and Micah Vandegrift. 
+
+**Article | Managing Digital Scholarship Projects at Many Levels: The Immersive Scholar Cohort, Residencies, and the Shift to “Project Development.** Shelby Hallman, Erica Y. Hayes, Walt Gurley, Micah Vandegrift. Accepted and forthcoming from Interdisciplinary Digital Engagement in Arts & Humanities (IDEAH)
+
 2020
 ---
 **Presentation | Data is never raw.** with Ashley Evans-Bandy and Scott Bailey. Vis4DH at IEEEVis. Virtual Conference. Oct 25, 2020. [http://www.vis4dh.org/](http://www.vis4dh.org/)
