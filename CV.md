@@ -96,6 +96,8 @@ Research & Scholarship
 
 2021
 ---
+**Presentation | Tally Tracker Explorer: Communicated Scholarship and Digital Humanities on Surveillance.** Kelsey Dufresne, Scott Bailey, Micah Vandegrift. Global Digital Humanities Symposium, Apr. 12-15, 2021. 
+
 **Book (Forthcoming) | Immersive Scholar: A Guidebook for Documenting and Publishing Experiential Scholarship Works.** Mann, Abigail E. and Micah Vandegrift. 
 
 **Article | Managing Digital Scholarship Projects at Many Levels: The Immersive Scholar Cohort, Residencies, and the Shift to “Project Development.** Shelby Hallman, Erica Y. Hayes, Walt Gurley, Micah Vandegrift. Accepted and forthcoming from Interdisciplinary Digital Engagement in Arts & Humanities (IDEAH)
