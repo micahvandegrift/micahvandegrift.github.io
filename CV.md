@@ -98,6 +98,8 @@ Research & Scholarship
 ---
 **Presentation | Tally Tracker Explorer: Communicated Scholarship and Digital Humanities on Surveillance.** Kelsey Dufresne, Scott Bailey, Micah Vandegrift. Global Digital Humanities Symposium, Apr. 12-15, 2021. 
 
+**Publication | Keeping Up With...Open Science.** Nathan D. Woods, Samantha Teplitzky, & Micah Vandegrift. Association of College and Research Libraries (ACRL). http://doi.org/10.5281/zenodo.4598162
+
 **Article | Sharing notes is encouraged: annotating and cocreating with hypothes.is and google docs.** Carlos Goller, Micah Vandegrift, Will Cross, Davida Smyth. Journal of Microbiology & Biology Education, 22(1). [http://dx.doi.org/10.1128/jmbe.v22i1.2135](http://dx.doi.org/10.1128/jmbe.v22i1.2135)
 
 **Book | Immersive Scholar: A Guidebook for Documenting and Publishing Experiential Scholarship Works.** Mann, Abigail E. and Micah Vandegrift. [https://doi.org/10.5149/9781469664286_Mann](https://doi.org/10.5149/9781469664286_Mann)
