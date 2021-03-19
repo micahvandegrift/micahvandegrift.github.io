@@ -98,11 +98,11 @@ Research & Scholarship
 ---
 **Presentation | Tally Tracker Explorer: Communicated Scholarship and Digital Humanities on Surveillance.** Kelsey Dufresne, Scott Bailey, Micah Vandegrift. Global Digital Humanities Symposium, Apr. 12-15, 2021. 
 
-**Article | Sharing notes is encouraged: annotating and cocreating with hypothes.is and google docs. Carlos Goller, Micah Vandegrift, Will Cross, Davida Smyth. Journal of Microbiology & Biology Education, 22(1). [http://dx.doi.org/10.1128/jmbe.v22i1.2135](http://dx.doi.org/10.1128/jmbe.v22i1.2135)
+**Article | Sharing notes is encouraged: annotating and cocreating with hypothes.is and google docs.** Carlos Goller, Micah Vandegrift, Will Cross, Davida Smyth. Journal of Microbiology & Biology Education, 22(1). [http://dx.doi.org/10.1128/jmbe.v22i1.2135](http://dx.doi.org/10.1128/jmbe.v22i1.2135)
 
 **Book | Immersive Scholar: A Guidebook for Documenting and Publishing Experiential Scholarship Works.** Mann, Abigail E. and Micah Vandegrift. [https://doi.org/10.5149/9781469664286_Mann](https://doi.org/10.5149/9781469664286_Mann)
 
-**Article | Managing Digital Scholarship Projects at Many Levels: The Immersive Scholar Cohort, Residencies, and the Shift to “Project Development.** Shelby Hallman, Erica Y. Hayes, Walt Gurley, Micah Vandegrift. Accepted and forthcoming from Interdisciplinary Digital Engagement in Arts & Humanities (IDEAH)
+**Article (Forthcoming) | Managing Digital Scholarship Projects at Many Levels: The Immersive Scholar Cohort, Residencies, and the Shift to “Project Development.** Shelby Hallman, Erica Y. Hayes, Walt Gurley, Micah Vandegrift. [Interdisciplinary Digital Engagement in Arts & Humanities (IDEAH)](https://ideah.pubpub.org/)
 
 2020
 ---
