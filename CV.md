@@ -197,7 +197,7 @@ Research & Scholarship
 
 2017
 ----
-**Article | De-Centering and Recentering Digital Scholarship: A Manifesto.** Carolyn Moritz, Rachel Smart, Aaron Retteen, Matthew Hunter, Sarah Stanley, Devin Soper, & Micah Vandegrift. [http://www.newlibs.org/article/3138-de-centering-and-recentering-digital-scholarship-a-manifesto](http://www.newlibs.org/article/3138-de-centering-and-recentering-digital-scholarship-a-manifesto).
+**Article | De-Centering and Recentering Digital Scholarship: A Manifesto.** Carolyn Moritz, Rachel Smart, Aaron Retteen, Matthew Hunter, Sarah Stanley, Devin Soper, & Micah Vandegrift. [https://newlibs.org/index.php/jonl/article/view/615](https://newlibs.org/index.php/jonl/article/view/615).
 * Pre-print available at - [https://dx.doi.org/10.17605/OSF.IO/T7HFU](https://dx.doi.org/10.17605/OSF.IO/T7HFU)
 
 **Webinar panelist | Scrappy Strategies: Advancing Open on Campus with Limited Resources.**
