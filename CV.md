@@ -102,6 +102,12 @@ Research & Scholarship
 
 **Article | Sharing notes is encouraged: annotating and cocreating with hypothes.is and google docs.** Carlos Goller, Micah Vandegrift, Will Cross, Davida Smyth. Journal of Microbiology & Biology Education, 22(1). [http://dx.doi.org/10.1128/jmbe.v22i1.2135](http://dx.doi.org/10.1128/jmbe.v22i1.2135)
 
+**Webcast** | Open Science and Reproducibility. Weekly series through February streamed on Twitch exploring topics, issues, and ideas in open science. Co-hosted with [Dr. Sheila Saia](https://sheilasaia.rbind.io/). Discussion notes and resources [available on GitHub](https://github.com/sheilasaia/reproducibili-tea).
+* [Earl Grey Literature](https://www.twitch.tv/ncsulibraries/video/900801662)
+* [Open Kombucha Knowledge](https://www.twitch.tv/ncsulibraries/video/920179276)
+* [Credit, Contributors, and Chai](https://www.twitch.tv/ncsulibraries/video/920198082)
+* [Diversity, Documentation, and Darjeeling](https://www.twitch.tv/ncsulibraries/video/929042259)
+
 **Book | Immersive Scholar: A Guidebook for Documenting and Publishing Experiential Scholarship Works.** Mann, Abigail E. and Micah Vandegrift. [https://doi.org/10.5149/9781469664286_Mann](https://doi.org/10.5149/9781469664286_Mann)
 
 **Article (Forthcoming) | Managing Digital Scholarship Projects at Many Levels: The Immersive Scholar Cohort, Residencies, and the Shift to “Project Development.** Shelby Hallman, Erica Y. Hayes, Walt Gurley, Micah Vandegrift. [Interdisciplinary Digital Engagement in Arts & Humanities (IDEAH)](https://ideah.pubpub.org/)
