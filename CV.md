@@ -84,7 +84,10 @@ Grants
 
 Current Service
 ===============
-Advisory Board, [Next Generation Library Publishing](https://educopia.org/next-generation-library-publishing/)
+* Advisory Board, [Next Generation Library Publishing](https://educopia.org/next-generation-library-publishing/)
+* Community member and organizational representative, [Curtain Open Knowledge Initiative](	http://openknowledge.community/)
+* Fulbright Schuman Foreign Student Panel, Commission for Educational Exchange between the United States, Belgium, and Luxembourg
+
 
 University Service
 ---
