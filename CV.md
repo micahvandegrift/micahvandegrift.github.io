@@ -88,6 +88,7 @@ Advisory Board, [Next Generation Library Publishing](https://educopia.org/next-g
 
 University Service
 ---
+* Chair, Libraries Research Services Interest Group, 2020-
 * Faculty Development Partners Group, 2019-
 * University Research Symposium Planning Committee, 2020-2021
 
