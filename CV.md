@@ -58,16 +58,19 @@ Projects
 ====================
 **Fermentology**
 > Led a team to transform a webinar series into a media-enriched publication
-> [Project description](https://www.lib.ncsu.edu/projects/fermentology)
-> [Explore Fermentology](http://fermentology.pubpub.org)
+
+* [Project description](https://www.lib.ncsu.edu/projects/fermentology)
+* [Explore Fermentology](http://fermentology.pubpub.org)
 
 **Virtual Martin Luther King Jr. Project**
 > Coordinated a sustainability sprint and follow-up work for the vMLK team as they moved from production phase to maintenance
-> [Project description](https://www.lib.ncsu.edu/projects/virtual-martin-luther-king-jr-project-vmlk)
-> [Experience vMLK](https://vmlk.chass.ncsu.edu/)
+
+* [Project description](https://www.lib.ncsu.edu/projects/virtual-martin-luther-king-jr-project-vmlk)
+* [Experience vMLK](https://vmlk.chass.ncsu.edu/)
 
 **Open Science and Reproducabili-Tea**
 > Planned, developed, coordinated, and hosted a weekly series through February 2021 streamed on Twitch. Explored topics, issues, and ideas in open science. Co-hosted with [Dr. Sheila Saia](https://sheilasaia.rbind.io/). Discussion notes and resources [available on GitHub](https://github.com/sheilasaia/reproducibili-tea).
+
 * [Earl Grey Literature](https://www.twitch.tv/ncsulibraries/video/900801662)
 * [Open Kombucha Knowledge](https://www.twitch.tv/ncsulibraries/video/920179276)
 * [Credit, Contributors, and Chai](https://www.twitch.tv/ncsulibraries/video/920198082) ft. Dr. Cassidy Sugimoto
@@ -75,17 +78,20 @@ Projects
 
 **Tally Tracker Explorer**
 > Sponsored and facilitated a virtual creative residency to develop a VR experience designed for post-pandemic display in a 360° physical environment.
-> [Project description](https://www.lib.ncsu.edu/projects/tally-tracker-explorer)
-> [Preview Tally Tracker Explorer](https://www.youtube.com/watch?v=Gbm5D0nfwJs)
+
+* [Project description](https://www.lib.ncsu.edu/projects/tally-tracker-explorer)
+* [Preview Tally Tracker Explorer](https://www.youtube.com/watch?v=Gbm5D0nfwJs)
 
 **Microwave and RF Design**
 > Coordinated and brokered a partnership with Uuniversity of North Carolina Press to republish this five volume set of engineering textbooks as an open educational resource.
-> [Project description](https://www.lib.ncsu.edu/projects/microwave-and-rf-design-open-textbook)
+
+* [Project description](https://www.lib.ncsu.edu/projects/microwave-and-rf-design-open-textbook)
 
 **Coded Glass**
 > Led a team to support a creative resident in producing a visualization based on #metoo data.
-> [Project Description](https://www.immersivescholar.org/projects/coded-glass)
-> [View Coded Glass](https://immersive-scholar.github.io/coded-glass/)
+
+* [Project Description](https://www.immersivescholar.org/projects/coded-glass)
+* [View Coded Glass](https://immersive-scholar.github.io/coded-glass/)
 
 
 Awards, Fellowships and Institutes
