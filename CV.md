@@ -83,7 +83,7 @@ Projects
 * [Preview Tally Tracker Explorer](https://www.youtube.com/watch?v=Gbm5D0nfwJs)
 
 **Microwave and RF Design**
-> Coordinated and brokered a partnership with Uuniversity of North Carolina Press to republish this five volume set of engineering textbooks as an open educational resource.
+> Coordinated and brokered a partnership with the University of North Carolina Press to republish this five volume set of engineering textbooks as an open educational resource.
 
 * [Project description](https://www.lib.ncsu.edu/projects/microwave-and-rf-design-open-textbook)
 
