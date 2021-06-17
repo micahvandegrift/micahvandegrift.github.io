@@ -140,6 +140,8 @@ Research & Scholarship
 
 2021
 ---
+**Panelist** | Knowledge Between the Physical Place and the Virtual Space. Hosted by Fulbright Germany and Fulbright Israel. June 29, 2021, Online. [https://fulbright.org.il/event/692](https://fulbright.org.il/event/692)
+
 **Presentation | Tally Tracker Explorer: Communicated Scholarship and Digital Humanities on Surveillance.** Kelsey Dufresne, Scott Bailey, Micah Vandegrift. Global Digital Humanities Symposium, Apr. 12-15, 2021. 
 
 **Publication | Keeping Up With...Open Science.** Nathan D. Woods, Samantha Teplitzky, & Micah Vandegrift. Association of College and Research Libraries (ACRL). http://doi.org/10.5281/zenodo.4598162
@@ -162,7 +164,7 @@ Research & Scholarship
 
 **Publication | A Response to the Call for Bibliodiversity: Language, Translation, and Communicated Scholarship.** Kittinger, A., & Vandegrift, M. (2020). Triangle Open Scholarship. https://doi.org/10.21428/3d640a4a.48ea4b20
 
-**Panel | Editors and Librarians: Building Relationships to Support Digital Scholars.** With John McLeod. Part of “University Presses and Libraries: Partners in Digital Transformation.” Publisher to Library (P2L4) Summit hosted by Association of Research Libraries and American Association of University Presses. [https://www.arl.org/event/the-p2l4-summit/](https://www.arl.org/event/the-p2l4-summit/) 7/22/2020
+**Panelist | Editors and Librarians: Building Relationships to Support Digital Scholars.** With John McLeod. Part of “University Presses and Libraries: Partners in Digital Transformation.” Publisher to Library (P2L4) Summit hosted by Association of Research Libraries and American Association of University Presses. [https://www.arl.org/event/the-p2l4-summit/](https://www.arl.org/event/the-p2l4-summit/) 7/22/2020
 
 **Issue Brief | Open Science Roadmap: Recommendations to UNESCO.** Hampson, G., DeSart, M., Steinhauer, J., Gadd, E., Vandegrift, M., Erdmann, C., & Johnson, R. (2020).  Open Scholarship Initiative Proceedings. [https://doi.org/10.13021/osi2020.2735](https://doi.org/10.13021/osi2020.2735)
 
@@ -244,7 +246,7 @@ Research & Scholarship
 **Article | De-Centering and Recentering Digital Scholarship: A Manifesto.** Carolyn Moritz, Rachel Smart, Aaron Retteen, Matthew Hunter, Sarah Stanley, Devin Soper, & Micah Vandegrift. [https://newlibs.org/index.php/jonl/article/view/615](https://newlibs.org/index.php/jonl/article/view/615).
 * Pre-print available at - [https://dx.doi.org/10.17605/OSF.IO/T7HFU](https://dx.doi.org/10.17605/OSF.IO/T7HFU)
 
-**Webinar panelist | Scrappy Strategies: Advancing Open on Campus with Limited Resources.**
+**Panelist | Scrappy Strategies: Advancing Open on Campus with Limited Resources.**
 * Presentation on deciding balancing advocacy and activism in a new scholarly communication initiative. June 15, 2017. Slides accesible on figshare [https://doi.org/10.6084/m9.figshare.5123374.v1](https://doi.org/10.6084/m9.figshare.5123374.v1)
 
 **Webinar co-moderator | OA Publication Quality - Library Publishing Coalition Professional Development series.**
@@ -258,13 +260,13 @@ Research & Scholarship
 **Training series | Discover DH: Introduction to Digital Humanities Theories and Methods.**
 * Presenter and co-planner of this semester long series. [https://doi.org/10.6084/m9.figshare.4287263.v1](https://doi.org/10.6084/m9.figshare.4287263.v1)
 
-**Panel presentation | Managing Scope and Scale: Applying the Incubator Model to Digital Scholarship.** Micah Vandegrift, Sarah Stanley, Alix Keener, Zoe Borovsky, Dawn Childress, Elizabeth Lorang, Christy Hyman.  
+**Presentation | Managing Scope and Scale: Applying the Incubator Model to Digital Scholarship.** Micah Vandegrift, Sarah Stanley, Alix Keener, Zoe Borovsky, Dawn Childress, Elizabeth Lorang, Christy Hyman.  
 * Panel on various models of digital scholarship project development, given at the Digital Library Federation Forum. [http://doi.org/10.17605/OSF.IO/DBF25](http://doi.org/10.17605/OSF.IO/DBF25)
 
 **Symposium Co-planner | Invisible Work in the Digital Humanities.**
 * with Tarez Graban, Paul Marty, and Allen Romano. [https://storify.com/FSULibrary/iwdh](https://storify.com/FSULibrary/iwdh)
 
-**Webinar panelist | SPARC Webcast on Public Access Policy Compliance.**
+**Panelist | SPARC Webcast on Public Access Policy Compliance.**
 * Co-presented with Renaine Julian and Devin Soper. [Webinar information](http://sparc2.arl.org/civicrm/event/info?id=158) and [slides](http://purl.flvc.org/fsu/fd/FSU_libsubv1_scholarship_submission_1482355788) available online. 
 
 **Article | Cross-disciplinarity at the crossroads.** Stanley, S., Vandegrift, M. *dh+lib Special Issue*. [http://acrl.ala.org/dh/2016/07/29/cross-disciplinarity-at-the-crossroads/](http://acrl.ala.org/dh/2016/07/29/cross-disciplinarity-at-the-crossroads/)
@@ -277,7 +279,7 @@ Research & Scholarship
 **Keynote address | Digital, Data, Documentation? We're not in ScholComm Kansas Anymore.**
 * Given at the Mississippi State University Scholarly Communication Summit. [https://osf.io/mkevn/](https://osf.io/mkevn/)
 
-**Conference Panelist | “Librishers and Pubraries: Explore Library Publishing and University Presses within Libraries.”**
+**Panelist | “Librishers and Pubraries: Explore Library Publishing and University Presses within Libraries.”**
 * Hosted by the ALCTS CRS Education, Research, and Publications Coordinating Committee program at ALA Annual. (June) Co-panelist with Meredith Babb, Director of the University Press of Florida, and Rick Anderson, Assoc. Dean for Collections & Scholarly Communication at the University of Utah. [https://www.eventscribe.com/2016/ala-annual/fsPopup.asp?Mode=presInfo&PresentationID=139572](https://www.eventscribe.com/2016/ala-annual/fsPopup.asp?Mode=presInfo&PresentationID=139572)
 
 **Report | Evolving Open Solutions (2) Workgroup at the inaugeral Open Scholarship Initiative.** Billings, M., Bobley, B., McCollough, A., Mudditt, A., Naim, K., Pinter, F., Price, R., Roche, T., Sprio, L., & Vandegrift, M. *Open Scholarship Initiative Proceedings* [https://dx.doi.org/10.13021/G8ZK52](https://dx.doi.org/10.13021/G8ZK52)
@@ -348,7 +350,7 @@ Vandegrift, M., & Bolick, J. *Journal of Librarianship and Scholarly Communicati
 **Primary organizer and session facilitator | THATCamp ACRL2013.**  
 * First THATCamp (The Humanities and Technology Camp) collaborative unconference at an ACRL conference. [http://acrl2013.thatcamp.org/](http://acrl2013.thatcamp.org/)
 
-**Panel presentation | DIY Library Culture and the Academy.**  Ford, E., Leeder, K., Dorney, E., & Vandegrift, M.  
+**Panelist | DIY Library Culture and the Academy.**  Ford, E., Leeder, K., Dorney, E., & Vandegrift, M.  
 * Given at the *Association of College and Research Libraries*, Indianapolis. *In the Library with the Lead Pipe*.
 [http://www.inthelibrarywiththeleadpipe.org/2013/diy-library-culture/](http://www.inthelibrarywiththeleadpipe.org/2013/diy-library-culture/)
 
