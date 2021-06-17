@@ -54,6 +54,40 @@ Studies, Florida State University
 2007 – 2009 | Graduate Student Instructor, Program in American and
 Florida Studies, Florida State University
 
+Projects
+====================
+**Fermentology**
+> Led a team to transform a webinar series into a media-enriched publication
+> [Project description](https://www.lib.ncsu.edu/projects/fermentology)
+> [Explore Fermentology](http://fermentology.pubpub.org)
+
+**Virtual Martin Luther King Jr. Project**
+> Coordinated a sustainability sprint and follow-up work for the vMLK team as they moved from production phase to maintenance
+> [Project description](https://www.lib.ncsu.edu/projects/virtual-martin-luther-king-jr-project-vmlk)
+> [Experience vMLK](https://vmlk.chass.ncsu.edu/)
+
+**Open Science and Reproducabili-Tea**
+> Planned, developed, coordinated, and hosted a weekly series through February 2021 streamed on Twitch. Explored topics, issues, and ideas in open science. Co-hosted with [Dr. Sheila Saia](https://sheilasaia.rbind.io/). Discussion notes and resources [available on GitHub](https://github.com/sheilasaia/reproducibili-tea).
+* [Earl Grey Literature](https://www.twitch.tv/ncsulibraries/video/900801662)
+* [Open Kombucha Knowledge](https://www.twitch.tv/ncsulibraries/video/920179276)
+* [Credit, Contributors, and Chai](https://www.twitch.tv/ncsulibraries/video/920198082) ft. Dr. Cassidy Sugimoto
+* [Diversity, Documentation, and Darjeeling](https://www.twitch.tv/ncsulibraries/video/929042259) ft. Dr. Douglas Rao
+
+**Tally Tracker Explorer**
+> Sponsored and facilitated a virtual creative residency to develop a VR experience designed for post-pandemic display in a 360° physical environment.
+> [Project description](https://www.lib.ncsu.edu/projects/tally-tracker-explorer)
+> [Preview Tally Tracker Explorer](https://www.youtube.com/watch?v=Gbm5D0nfwJs)
+
+**Microwave and RF Design**
+> Coordinated and brokered a partnership with Uuniversity of North Carolina Press to republish this five volume set of engineering textbooks as an open educational resource.
+> [Project description](https://www.lib.ncsu.edu/projects/microwave-and-rf-design-open-textbook)
+
+**Coded Glass**
+> Led a team to support a creative resident in producing a visualization based on #metoo data.
+> [Project Description](https://www.immersivescholar.org/projects/coded-glass)
+> [View Coded Glass](https://immersive-scholar.github.io/coded-glass/)
+
+
 Awards, Fellowships and Institutes
 ====================
 2018-2019 | Fulbright-Schuman Research Scholar
@@ -105,12 +139,6 @@ Research & Scholarship
 **Publication | Keeping Up With...Open Science.** Nathan D. Woods, Samantha Teplitzky, & Micah Vandegrift. Association of College and Research Libraries (ACRL). http://doi.org/10.5281/zenodo.4598162
 
 **Article | Sharing notes is encouraged: annotating and cocreating with hypothes.is and google docs.** Carlos Goller, Micah Vandegrift, Will Cross, Davida Smyth. Journal of Microbiology & Biology Education, 22(1). [http://dx.doi.org/10.1128/jmbe.v22i1.2135](http://dx.doi.org/10.1128/jmbe.v22i1.2135)
-
-**Webcast** | Open Science and Reproducibility. Weekly series through February streamed on Twitch exploring topics, issues, and ideas in open science. Co-hosted with [Dr. Sheila Saia](https://sheilasaia.rbind.io/). Discussion notes and resources [available on GitHub](https://github.com/sheilasaia/reproducibili-tea).
-* [Earl Grey Literature](https://www.twitch.tv/ncsulibraries/video/900801662)
-* [Open Kombucha Knowledge](https://www.twitch.tv/ncsulibraries/video/920179276)
-* [Credit, Contributors, and Chai](https://www.twitch.tv/ncsulibraries/video/920198082)
-* [Diversity, Documentation, and Darjeeling](https://www.twitch.tv/ncsulibraries/video/929042259)
 
 **Book | Immersive Scholar: A Guidebook for Documenting and Publishing Experiential Scholarship Works.** Mann, Abigail E. and Micah Vandegrift. [https://doi.org/10.5149/9781469664286_Mann](https://doi.org/10.5149/9781469664286_Mann)
 
