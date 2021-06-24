@@ -87,10 +87,10 @@ Management
 ===============
 Leadership Experience
 ---
-**Visualizing Digital Scholarship in Libraries and Learning Spaces**
+* Visualizing Digital Scholarship in Libraries and Learning Spaces (Immersive Scholar)
     * Lead Principle Investigator
-    * $414,000 grant from the Andrew W. Mellon Foundation
-    * Grant to develop extensible models, programs, and community of practice for the creation and sharing of digital scholarship in large-scale and immersive visualization environments. The project also aims to increase the impact of academic visualization environments and the scholarship created within them.
+    * $414,000 grant from the Andrew W. Mellon Foundation to develop extensible models, programs, and community of practice for the creation and sharing of digital scholarship in large-scale and immersive visualization environments. The project also aims to increase the impact of academic visualization environments and the scholarship created within them.
+    * Project outcomes and documentation [available on the Open Science Framework](https://osf.io/3z7k5/)
 
 Experience working across boundaries
 ---
