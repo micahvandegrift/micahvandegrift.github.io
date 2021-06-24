@@ -23,8 +23,7 @@ Committment to open access publishing in a global context
 
 * Open Scholarship Initiative Delegate (2016)
     * Invited delegate to the first annual meeting of the [Open Scholarship Initiative](http://osinitiative.org/), a UNESCO-supported, collaborative, global effort between key stakeholders in scholarly publishing who are working together to improve the scholarly publishing system.
-
-* Report | Evolving Open Solutions (2) Workgroup at the inaugeral Open Scholarship Initiative. Billings, M., Bobley, B., McCollough, A., Mudditt, A., Naim, K., Pinter, F., Price, R., Roche, T., Sprio, L., & Vandegrift, M. *Open Scholarship Initiative Proceedings* [https://dx.doi.org/10.13021/G8ZK52](https://dx.doi.org/10.13021/G8ZK52)
+    * Report | Evolving Open Solutions (2) Workgroup at the inaugural Open Scholarship Initiative. Billings, M., Bobley, B., McCollough, A., Mudditt, A., Naim, K., Pinter, F., Price, R., Roche, T., Sprio, L., & Vandegrift, M. *Open Scholarship Initiative Proceedings* [https://dx.doi.org/10.13021/G8ZK52](https://dx.doi.org/10.13021/G8ZK52)
 
 Committment to neutrality and inclusion
 ---
