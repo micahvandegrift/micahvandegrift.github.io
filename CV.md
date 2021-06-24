@@ -13,46 +13,46 @@ Advocacy
 
 Committment to open access publishing in a global context
 ---
-**Guest Facilitator | eLife Innovation Sprint** (2020) A global, two-day open science research and development sprint. Virtual. https://sprint.elifesciences.org/
+* Guest Facilitator | eLife Innovation Sprint (2020) A global, two-day open science research and development sprint. Virtual. https://sprint.elifesciences.org/
 
-**Issue Brief | OSI Policy Perspective 3: Open science roadmap recommendations to UNESCO.** Hampson, G, M DeSart, J Steinhauer, EA Gadd, LJ Hinchliffe, M Vandegrift, C Erdmann, and R Johnson. 2020. Open Scholarship Initiative. [10.13021/osi2020.2735](https://commonplace.knowledgefutures.org/pub/bvgsui43/release/1)
+* Issue Brief | OSI Policy Perspective 3: Open science roadmap recommendations to UNESCO. Hampson, G, M DeSart, J Steinhauer, EA Gadd, LJ Hinchliffe, M Vandegrift, C Erdmann, and R Johnson. 2020. Open Scholarship Initiative. [10.13021/osi2020.2735](https://commonplace.knowledgefutures.org/pub/bvgsui43/release/1)
 
-**Fulbright-Schuman Research Scholar (2018-2019)**
-* Conducted research on open science policies and infrastructure in Europe, hosted by Maastricht University Libraries in The Netherlands and the Royal Danish Library/University of Copenhagen in Denmark 
-* All materials and outputs from the fellowship are collected and available at [https://osf.io/254vf/](https://osf.io/254vf/)
+* Fulbright-Schuman Research Scholar (2018-2019)
+- Conducted research on open science policies and infrastructure in Europe, hosted by Maastricht University Libraries in The Netherlands and the Royal Danish Library/University of Copenhagen in Denmark 
+-  All materials and outputs from the fellowship are collected and available at [https://osf.io/254vf/](https://osf.io/254vf/)
 
-**Open Scholarship Initiative Delegate (2016)**
-* Invited delegate to the first annual meeting of the [Open Scholarship Initiative](http://osinitiative.org/), a UNESCO-supported, collaborative, global effort between key stakeholders in scholarly publishing who are working together to improve the scholarly publishing system.
+* Open Scholarship Initiative Delegate (2016)
+- Invited delegate to the first annual meeting of the [Open Scholarship Initiative](http://osinitiative.org/), a UNESCO-supported, collaborative, global effort between key stakeholders in scholarly publishing who are working together to improve the scholarly publishing system.
 
-**Report | Evolving Open Solutions (2) Workgroup at the inaugeral Open Scholarship Initiative.** Billings, M., Bobley, B., McCollough, A., Mudditt, A., Naim, K., Pinter, F., Price, R., Roche, T., Sprio, L., & Vandegrift, M. *Open Scholarship Initiative Proceedings* [https://dx.doi.org/10.13021/G8ZK52](https://dx.doi.org/10.13021/G8ZK52)
+* Report | Evolving Open Solutions (2) Workgroup at the inaugeral Open Scholarship Initiative. Billings, M., Bobley, B., McCollough, A., Mudditt, A., Naim, K., Pinter, F., Price, R., Roche, T., Sprio, L., & Vandegrift, M. *Open Scholarship Initiative Proceedings* [https://dx.doi.org/10.13021/G8ZK52](https://dx.doi.org/10.13021/G8ZK52)
 
 Committment to neutrality and inclusion
 ---
-**Publication | A Response to the Call for Bibliodiversity: Language, Translation, and Communicated Scholarship.** Kittinger, A., & Vandegrift, M. (2020). Triangle Open Scholarship. https://doi.org/10.21428/3d640a4a.48ea4b20
+* Publication | A Response to the Call for Bibliodiversity: Language, Translation, and Communicated Scholarship. Kittinger, A., & Vandegrift, M. (2020). Triangle Open Scholarship. https://doi.org/10.21428/3d640a4a.48ea4b20
 
-**Project | Coded Glass** (2018)
-* Led a team of six to support an artist residency to produce a visualization based on #metoo data. The residency was planned, executed, and the project launched within six weeks.
-* [Project Description](https://www.immersivescholar.org/projects/coded-glass)
-* [View Coded Glass](https://immersive-scholar.github.io/coded-glass/)
+* Project | Coded Glass (2018)
+- Led a team of six to support an artist residency to produce a visualization based on #metoo data. The residency was planned, executed, and the project launched within six weeks.
+- [Project Description](https://www.immersivescholar.org/projects/coded-glass)
+- [View Coded Glass](https://immersive-scholar.github.io/coded-glass/)
 
-**Co-Editor | Special Issue of Digital Humanities Quarterly on Invisible Work in the Digital Humanities.** http://digitalhumanities.org/dhq/vol/13/2/index.html
+* Co-Editor | Special Issue of Digital Humanities Quarterly on Invisible Work in the Digital Humanities. http://digitalhumanities.org/dhq/vol/13/2/index.html
 
 Global experience speaking and presenting
 ---
-**Invited Panelist | Knowledge Between the Physical Place and the Virtual Space.** Hosted by Fulbright Germany and Fulbright Israel, 29 June, 2021, Online. [https://fulbright.org.il/event/692](https://fulbright.org.il/event/692)
+* Invited Panelist | Knowledge Between the Physical Place and the Virtual Space. Hosted by Fulbright Germany and Fulbright Israel, 29 June, 2021, Online. [https://fulbright.org.il/event/692](https://fulbright.org.il/event/692)
 
-**Invited Presentation | Planning for Plan S: a perspective from across the pond.** Open Access Week at Cambridge University Libraries, 24 Oct., 2019, Cambridge, UK. [https://www.training.cam.ac.uk/event/3132902](https://www.training.cam.ac.uk/event/3132902)
+* Invited Presentation | Planning for Plan S: a perspective from across the pond. Open Access Week at Cambridge University Libraries, 24 Oct., 2019, Cambridge, UK. [https://www.training.cam.ac.uk/event/3132902](https://www.training.cam.ac.uk/event/3132902)
 
-**Conference Presentation | Advocating for Open: Putting Ethics into Practice.** Brianna Marshall, Vicky Steeves, Micah Vandegrift. 12 April, 2019. Association of College and Research Libraries conference. Cleveland, Ohio, USA. [https://osf.io/preprints/lissa/jhvtc/](https://osf.io/preprints/lissa/jhvtc/)
+* Conference Presentation | Advocating for Open: Putting Ethics into Practice. Brianna Marshall, Vicky Steeves, Micah Vandegrift. 12 April, 2019. Association of College and Research Libraries conference. Cleveland, Ohio, USA. [https://osf.io/preprints/lissa/jhvtc/](https://osf.io/preprints/lissa/jhvtc/)
 
-**Invited Presentation | A More Open Humanities - Documentation of/and Evaluation in the Immersive Scholar Project.** Digital Humanities, Open Access and Cultural Heritage webaton - OpenGLAM and the Argentine Association of Digital Humanities. [https://github.com/scannopolis/jornada_aadh](https://github.com/scannopolis/jornada_aadh). Presentation on youtube also [https://youtu.be/e9c-4RnFN_0?t=1154](https://youtu.be/e9c-4RnFN_0?t=1154)
+* Invited Presentation | A More Open Humanities - Documentation of/and Evaluation in the Immersive Scholar Project. Digital Humanities, Open Access and Cultural Heritage webaton - OpenGLAM and the Argentine Association of Digital Humanities. [https://github.com/scannopolis/jornada_aadh](https://github.com/scannopolis/jornada_aadh). Presentation on youtube also [https://youtu.be/e9c-4RnFN_0?t=1154](https://youtu.be/e9c-4RnFN_0?t=1154)
 
-**Keynote | DH+Lib: Evolution or Revolution?** DH Clinics - Netherlands Digital Humanities Interest Group. Nov. 20th, 2018. Utrechts Archief, Utrecht, Netherlands. Presentation text and slides available on [Medium](https://medium.com/@mlvandeg/dh-lib-479e9f3c3f09. 
+* Keynote | DH+Lib: Evolution or Revolution? DH Clinics - Netherlands Digital Humanities Interest Group. Nov. 20th, 2018. Utrechts Archief, Utrecht, Netherlands. Presentation text and slides available on [Medium](https://medium.com/@mlvandeg/dh-lib-479e9f3c3f09. 
 > [Agenda](https://dhclinics.github.io/dag/2018-terugkomdag) and review of event from Lotte Wilms, co-organizer [https://dhclinics.github.io/2018/12/12/terugblik-terugkomdag.html](https://dhclinics.github.io/2018/12/12/terugblik-terugkomdag.html). 
 
-**Podcast Interview | The Road to Open Science, Interview with Micah Vandegrift, Open Knowledge Librarian.** With Sanli Faez, Bianca Kramer, and Barbara Vreede. Available at [https://soundcloud.com/utrechtyoungacademy/the-road-to-open-science-interview-with-micah-vandegrift-open-knowledge-librarian](https://soundcloud.com/utrechtyoungacademy/the-road-to-open-science-interview-with-micah-vandegrift-open-knowledge-librarian)
+* Podcast Interview | The Road to Open Science, Interview with Micah Vandegrift, Open Knowledge Librarian. With Sanli Faez, Bianca Kramer, and Barbara Vreede. Available at [https://soundcloud.com/utrechtyoungacademy/the-road-to-open-science-interview-with-micah-vandegrift-open-knowledge-librarian](https://soundcloud.com/utrechtyoungacademy/the-road-to-open-science-interview-with-micah-vandegrift-open-knowledge-librarian)
 
-**Presentation | Annotation as/in Teaching.** HIRMEOS Workshop on Open Annotation. Jan. 2019, Paris, France.
+* Presentation | Annotation as/in Teaching. HIRMEOS Workshop on Open Annotation. Jan. 2019, Paris, France.
 
 Strategy
 ===========
