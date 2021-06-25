@@ -56,6 +56,11 @@ Florida Studies, Florida State University
 
 Projects
 ====================
+**Mashriq and Mahjar: Journal of Middle East and North African Migration Studies**
+> Consulted, advised, and guided a team to update the journal workflow with the Managing Editor, especially focused on increasing accessiblity of the HTML reading experience. 
+
+* [Read Mashriq and Mahjar](https://lebanesestudies.ojs.chass.ncsu.edu/index.php/mashriq/index)
+
 **Fermentology**
 > Led a team to transform a webinar series into a media-enriched publication
 
