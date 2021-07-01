@@ -145,6 +145,8 @@ Research & Scholarship
 
 2021
 ---
+**Presentation | Facilitating Open Text Analysis Research through the OPEN Incubator. Association of College and Research Libraries - Open Research Discussion Group. June 30, 2021, Online. [https://youtu.be/vzUGUEK2T-Y?t=1510](https://youtu.be/vzUGUEK2T-Y?t=1510)
+
 **Panelist** | Knowledge Between the Physical Place and the Virtual Space. Hosted by Fulbright Germany and Fulbright Israel. June 29, 2021, Online. [https://fulbright.org.il/event/692](https://fulbright.org.il/event/692)
 
 **Presentation | Tally Tracker Explorer: Communicated Scholarship and Digital Humanities on Surveillance.** Kelsey Dufresne, Scott Bailey, Micah Vandegrift. Global Digital Humanities Symposium, Apr. 12-15, 2021. 
