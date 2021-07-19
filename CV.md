@@ -114,11 +114,9 @@ Awards, Fellowships and Distinctions
 
 2015 | Participant in the Triangle Scholarly Communication Institute, a competitive Andrew W. Mellon-funded institute to articulate and begin to address needs and opportunities in the domain of scholarly communications. [Project TaDiRize](https://trianglesci.org/2015/06/02/modeling-contributorship-with-tadirah/), examined the expanding model of contributorship in the humanities, especially as digital work becomes more broadly recognized. 
 
-2015 | Fred L. Standley Librarian of the Year, Florida State University
-Libraries
+2015 | Fred L. Standley Librarian of the Year, Florida State University Libraries
 
-2014 | Visiting Scholar, Columbia University Libraries, Center for
-Digital Research and Scholarship
+2014 | Visiting Scholar, Columbia University Libraries, Center for Digital Research and Scholarship
 
 2013 | Mover and Shaker (Community Builder), Library Journal
 
@@ -135,7 +133,6 @@ Current Service
 * Community member and organizational representative, [Curtain Open Knowledge Initiative](	http://openknowledge.community/)
 * Fulbright Schuman Foreign Student Panel, Commission for Educational Exchange between the United States, Belgium, and Luxembourg
 
-
 University Service
 ---
 * Chair, Libraries Research Services Interest Group, 2020-
@@ -147,9 +144,11 @@ Research & Scholarship
 
 2021
 ---
-**Presentation | Facilitating Open Text Analysis Research through the OPEN Incubator. Association of College and Research Libraries - Open Research Discussion Group. June 30, 2021, Online. [https://youtu.be/vzUGUEK2T-Y?t=1510](https://youtu.be/vzUGUEK2T-Y?t=1510)
+**Pre-print | Ten Simple Rules for Researchers Who Want to Develop Web Apps.** Sheila M. Saia, Natalie G. Nelson, Sierra N. Young, Stanton Parham, Micah Vandegrift. [https://doi.org/10.31223/X57P6R](https://doi.org/10.31223/X57P6R)
 
-**Panelist** | Knowledge Between the Physical Place and the Virtual Space. Hosted by Fulbright Germany and Fulbright Israel. June 29, 2021, Online. [https://fulbright.org.il/event/692](https://fulbright.org.il/event/692)
+**Presentation | Facilitating Open Text Analysis Research through the OPEN Incubator.** Association of College and Research Libraries - Open Research Discussion Group. June 30, 2021, Online. [https://youtu.be/vzUGUEK2T-Y?t=1510](https://youtu.be/vzUGUEK2T-Y?t=1510)
+
+**Panelist| Knowledge Between the Physical Place and the Virtual Space.** Hosted by Fulbright Germany and Fulbright Israel. June 29, 2021, Online. [https://fulbright.org.il/event/692](https://fulbright.org.il/event/692)
 
 **Presentation | Tally Tracker Explorer: Communicated Scholarship and Digital Humanities on Surveillance.** Kelsey Dufresne, Scott Bailey, Micah Vandegrift. Global Digital Humanities Symposium, Apr. 12-15, 2021. 
 
