@@ -99,8 +99,10 @@ Projects
 * [View Coded Glass](https://immersive-scholar.github.io/coded-glass/)
 
 
-Awards, Fellowships and Institutes
+Awards, Fellowships and Distinctions
 ====================
+2021 - 2022 | Visiting Program Officer for [Accelerating the Social Impact of Research (ASIR)](https://www.arl.org/news/micah-vandegrift-appointed-arl-visiting-program-officer-for-accelerating-social-impact-of-research/), Association of Research Libraries
+
 2018-2019 | Fulbright-Schuman Research Scholar
 
 > * Conducted research on open science policies and infrastructure in Europe, hosted by Maastricht University Libraries in The Netherlands and the Royal Danish Library/University of Copenhagen in Denmark 
