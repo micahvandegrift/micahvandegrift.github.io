@@ -144,6 +144,8 @@ Research & Scholarship
 
 2021
 ---
+**Submitted | A Community-Sourced Glossary of Open Scholarship Terms.** Sam Parsons, Flávio Azevedo, Mahmoud M. Elsherif, et al.... Micah Vandegrift. Nature Human Behavior. [Beta release online](https://forrt.org/glossary/)
+
 **Pre-print | Ten Simple Rules for Researchers Who Want to Develop Web Apps.** Sheila M. Saia, Natalie G. Nelson, Sierra N. Young, Stanton Parham, Micah Vandegrift. [https://doi.org/10.31223/X57P6R](https://doi.org/10.31223/X57P6R)
 
 **Presentation | Facilitating Open Text Analysis Research through the OPEN Incubator.** Association of College and Research Libraries - Open Research Discussion Group. June 30, 2021, Online. [https://youtu.be/vzUGUEK2T-Y?t=1510](https://youtu.be/vzUGUEK2T-Y?t=1510)
