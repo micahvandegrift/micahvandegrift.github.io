@@ -122,16 +122,21 @@ Awards, Fellowships and Distinctions
 
 Grants
 ===========
-**Visualizing Digital Scholarship in Libraries and Learning Spaces**
+**Visualizing Digital Scholarship in Libraries and Learning Spaces (Immersive Scholar)** 2018-2021
 * Lead Principle Investigator
 * $414,000 grant from the Andrew W. Mellon Foundation
 * Grant to develop extensible models and programs for the creation and sharing of digital scholarship in large-scale and immersive visualization environments. The project aims to increase the impact of academic visualization environments and the scholarship created within them
 
+**Think and Do: A Workshop to Advance Open Climate Data Science in North Carolina.** 2021-2022
+* PIs: Kathie Dello (State Climate Office) and Jessica Matthews (North Carolina Institute for Climate Studies)
+* Grant awarded by [NC State University Data Science Initiative](https://research.ncsu.edu/dsi/internal-funding/)
+* Co-planner and open science advisor
+
 Current Service
 ===============
-* Advisory Board, [Next Generation Library Publishing](https://educopia.org/next-generation-library-publishing/)
-* Community member and organizational representative, [Curtain Open Knowledge Initiative](	http://openknowledge.community/)
-* Fulbright Schuman Foreign Student Panel, Commission for Educational Exchange between the United States, Belgium, and Luxembourg
+* [Next Generation Library Publishing](https://educopia.org/next-generation-library-publishing/), Advisory Board Member
+* [Curtain Open Knowledge Initiative](	http://openknowledge.community/), Organizational Representative and Mission, Vision, Values Committee Member
+* Commission for Educational Exchange between the United States, Belgium, and Luxembourg, Fulbright Schuman Foreign Student Review Panel
 
 University Service
 ---
@@ -144,6 +149,10 @@ Research & Scholarship
 
 2021
 ---
+**Presentation | What’s an “Open Knowledge Center”?** Triangle Research Libraries Network Annual Conference, July 30, 2021, Online.
+
+**Plenary panelist** | [FORCE Scholarly Communications Institute](https://www.force11.org/fsci/2021), July 30, 2021, Online. 
+
 **Submitted | A Community-Sourced Glossary of Open Scholarship Terms.** Sam Parsons, Flávio Azevedo, Mahmoud M. Elsherif, et al.... Micah Vandegrift. Nature Human Behavior. [Beta release online](https://forrt.org/glossary/)
 
 **Pre-print | Ten Simple Rules for Researchers Who Want to Develop Web Apps.** Sheila M. Saia, Natalie G. Nelson, Sierra N. Young, Stanton Parham, Micah Vandegrift. [https://doi.org/10.31223/X57P6R](https://doi.org/10.31223/X57P6R)
