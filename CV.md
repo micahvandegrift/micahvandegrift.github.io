@@ -74,7 +74,7 @@ Projects
 * [Experience vMLK](https://vmlk.chass.ncsu.edu/)
 
 **Open Science and Reproducabili-Tea**
-> Planned, developed, coordinated, and hosted a weekly series through February 2021 streamed on Twitch. Explored topics, issues, and ideas in open science. Co-hosted with [Dr. Sheila Saia](https://sheilasaia.rbind.io/). Discussion notes and resources [available on GitHub](https://github.com/sheilasaia/reproducibili-tea).
+> Planned, developed, coordinated, and hosted a weekly series through February 2021 streamed on Twitch. Explored topics, issues, and ideas in open science. Co-hosted with [Dr. Sheila Saia](https://sheilasaia.rbind.io/). Discussion notes and resources [available on GitHub](https://github.com/sheilasaia/reproducibili-tea). Videos are also collected in a [YouTube playlist](https://youtube.com/playlist?list=PLD5mHyT9aLzP13puBVPmdVTHUy8kE46RH).
 
 * [Earl Grey Literature](https://www.twitch.tv/ncsulibraries/video/900801662)
 * [Open Kombucha Knowledge](https://www.twitch.tv/ncsulibraries/video/920179276)
