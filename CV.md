@@ -134,6 +134,8 @@ Grants
 
 Current Service
 ===============
+Field
+---
 * [Next Generation Library Publishing](https://educopia.org/next-generation-library-publishing/), Advisory Board Member
 * [Curtain Open Knowledge Initiative](	http://openknowledge.community/), Organizational Representative and Mission, Vision, Values Committee Member
 * Commission for Educational Exchange between the United States, Belgium, and Luxembourg, Fulbright Schuman Foreign Student Review Panel
@@ -141,6 +143,8 @@ Current Service
 University Service
 ---
 * Chair, Libraries Research Services Interest Group, 2020-
+* Co-Chair, Libraries Digital Research Strategy Committee, 2018-2021
+* Member, Data Experience Lab Implementation Team, 2020
 * Faculty Development Partners Group, 2019-
 * University Research Symposium Planning Committee, 2020-2021
 
