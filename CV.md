@@ -144,7 +144,8 @@ University Service
 ---
 * Chair, Libraries Research Services Interest Group, 2020-
 * Co-Chair, Libraries Digital Research Strategy Committee, 2018-2021
-* Member, Data Experience Lab Implementation Team, 2020
+* Member, Libraries Data Experience Lab Implementation Team, 2020
+* Member, Libraries Research Impact Metrics Team, 2020-
 * Faculty Development Partners Group, 2019-
 * University Research Symposium Planning Committee, 2020-2021
 
