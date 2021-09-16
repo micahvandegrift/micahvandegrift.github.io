@@ -127,10 +127,16 @@ Grants
 * $414,000 grant from the Andrew W. Mellon Foundation
 * Grant to develop extensible models and programs for the creation and sharing of digital scholarship in large-scale and immersive visualization environments. The project aims to increase the impact of academic visualization environments and the scholarship created within them
 
-**Think and Do: A Workshop to Advance Open Climate Data Science in North Carolina.** 2021-2022
+**Think and Do: A Workshop to Advance Open Climate Data Science in North Carolina** 2021-2022
 * PIs: Kathie Dello (State Climate Office) and Jessica Matthews (North Carolina Institute for Climate Studies)
 * Grant awarded by [NC State University Data Science Initiative](https://research.ncsu.edu/dsi/internal-funding/)
 * Co-planner and open science advisor
+
+**[Mentored, Open Research Experiences (MORE)](https://sites.google.com/ncsu.edu/more-reu/home)** 2021-2022
+* PI: Claire Gordy
+* Co-PIs: Carlos Goller, Melissa Ramirez, Micah Vandegrift, Rafael Guerrero
+* Grant awarded by Code for Science and Society Event Fund, sponsored by the Gordon and Betty Moore Foundation
+* Co-planner, open science advisor, and community engagement lead
 
 Current Service
 ===============
