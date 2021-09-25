@@ -142,6 +142,7 @@ Current Service
 ===============
 Field
 ---
+* [Society for Scholarly Publishing](https://customer.sspnet.org/ssp/AboutUs/Committee-Roster.aspx?Code=EDUCATION), Education Committee Member
 * [Next Generation Library Publishing](https://educopia.org/next-generation-library-publishing/), Advisory Board Member
 * [Curtain Open Knowledge Initiative](	http://openknowledge.community/), Organizational Representative and Mission, Vision, Values Committee Member
 * Commission for Educational Exchange between the United States, Belgium, and Luxembourg, Fulbright Schuman Foreign Student Review Panel
