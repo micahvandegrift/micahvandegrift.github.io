@@ -161,6 +161,10 @@ Research & Scholarship
 
 2021
 ---
+**Presentation | The Digital, the Multimodal, & the Fermentable: Public Knowledge Sharing with Fermentology.** Kelsey Virginia Dufresne & Micah Vandegrift. INKE/CAPOS Online Event - _Putting Open Social Scholarship into Practice_. https://inke.ca/putting-open-social-scholarship-into-practice/abstracts/#Dufresne-Kelsey-and-Vandegrift-Micah
+
+**Presentation | Communicated Scholarship and Experiential Knowledge Sharing through Fermentology.** Kelsey Virginia Dufresne & Micah Vandegrift. FORCE11 Virtual Conference. https://doi.org/10.5281/zenodo.5721319
+
 **Presentation | What’s an “Open Knowledge Center”?** Triangle Research Libraries Network Annual Conference, July 30, 2021, Online.
 
 **Plenary panelist** | [FORCE Scholarly Communications Institute](https://www.force11.org/fsci/2021), July 30, 2021, Online. 
