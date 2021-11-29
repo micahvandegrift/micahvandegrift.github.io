@@ -161,9 +161,13 @@ Research & Scholarship
 
 2021
 ---
-**Presentation | The Digital, the Multimodal, & the Fermentable: Public Knowledge Sharing with Fermentology.** Kelsey Virginia Dufresne & Micah Vandegrift. INKE/CAPOS Online Event - _Putting Open Social Scholarship into Practice_. https://inke.ca/putting-open-social-scholarship-into-practice/abstracts/#Dufresne-Kelsey-and-Vandegrift-Micah
+**Presentation | The Digital, the Multimodal, & the Fermentable: Public Knowledge Sharing with Fermentology.** Kelsey Virginia Dufresne & Micah Vandegrift. _Putting Open Social Scholarship into Practice_ a INKE/CAPOS Online Event. Dec. 8, 2021. https://inke.ca/putting-open-social-scholarship-into-practice/abstracts/#Dufresne-Kelsey-and-Vandegrift-Micah
 
-**Presentation | Communicated Scholarship and Experiential Knowledge Sharing through Fermentology.** Kelsey Virginia Dufresne & Micah Vandegrift. FORCE11 Virtual Conference. https://doi.org/10.5281/zenodo.5721319
+**Presentation | Accelerating the Social Impact of Research: A Pilot Program in North American Libraries.** Micah Vandegrift. FORCE11 Virtual Conference. Dec. 8, 2021.
+
+**Poster | Communicated Scholarship and Experiential Knowledge Sharing through Fermentology.** Kelsey Virginia Dufresne & Micah Vandegrift. FORCE11 Virtual Conference. Dec. 7, 2021. https://doi.org/10.5281/zenodo.5721319 
+
+**Panelist | Sustainable development goals and scholarly communications.** Liz Martin, IOP Publishing; Thea Sherer, Springer Nature; Gaëlle Bequet, ISSN International Centre; Micah Vandegrift, Association of Research Libraries/NC State University. Challenges in the Scholarly Publishing Cycle 2021 virtual webinar series. Dec. 2, 2021. https://cispc-event.com/cispc-2021/
 
 **Presentation | What’s an “Open Knowledge Center”?** Triangle Research Libraries Network Annual Conference, July 30, 2021, Online.
 
