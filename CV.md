@@ -11,7 +11,7 @@ Research Interests
 * Strategic approaches to a more open research environment
 * Research evaluation
 * Public scholarship
-* Documentation as scholarly object
+* Diversity/plurality of scholarly knowledge objects
 
 Education
 =========
@@ -30,8 +30,8 @@ Employment
 2018 - Present | Open Knowledge Librarian, North Carolina State University
 
 > * Develop strategic approaches to open research practices, policies, and programs that facilitate and promote open and publicly engaged scholarship 
-> * Lead Principal Investigator for [Visualizing Digital Scholarship in Libraries and Learning Spaces (Immersive Scholar)](https://www.immersivescholar.org/) funded by a grant from the Andrew W. Mellon Foundation 
-> * Investigate and promote technologies and systems that maximize the dissemination and impact of scholarship
+> * Lead Principal Investigator for [Visualizing Digital Scholarship in Libraries and Learning Spaces (Immersive Scholar)](https://www.immersivescholar.org/) funded by a grant from the Andrew W. Mellon Foundation, concluded in 2020
+> * Investigate and promote infrastruture and systems that maximize the dissemination and impact of scholarship
 
 2016 - 2018 | Director of Digital Scholarship, Florida State University
 
@@ -101,7 +101,7 @@ Projects
 
 Awards, Fellowships and Distinctions
 ====================
-2021 - 2022 | Visiting Program Officer for [Accelerating the Social Impact of Research (ASIR)](https://www.arl.org/news/micah-vandegrift-appointed-arl-visiting-program-officer-for-accelerating-social-impact-of-research/), Association of Research Libraries
+2021 - 2022 | Visiting Program Officer for [Accelerating the Social Impact of Research (ASIR)](https://www.arl.org/accelerating-the-social-impact-of-research-asir/), Association of Research Libraries
 
 2018-2019 | Fulbright-Schuman Research Scholar
 
@@ -122,7 +122,7 @@ Awards, Fellowships and Distinctions
 
 Grants
 ===========
-**Visualizing Digital Scholarship in Libraries and Learning Spaces (Immersive Scholar)** 2018-2021
+**Visualizing Digital Scholarship in Libraries and Learning Spaces [(Immersive Scholar)](www.immersivescholar.org)** 2018-2021
 * Lead Principle Investigator
 * $414,000 grant from the Andrew W. Mellon Foundation
 * Grant to develop extensible models and programs for the creation and sharing of digital scholarship in large-scale and immersive visualization environments. The project aims to increase the impact of academic visualization environments and the scholarship created within them
@@ -175,7 +175,9 @@ Research & Scholarship
 
 **Submitted | A Community-Sourced Glossary of Open Scholarship Terms.** Sam Parsons, Flávio Azevedo, Mahmoud M. Elsherif, et al.... Micah Vandegrift. Nature Human Behavior. [Beta release online](https://forrt.org/glossary/)
 
-**Pre-print | Ten Simple Rules for Researchers Who Want to Develop Web Apps.** Sheila M. Saia, Natalie G. Nelson, Sierra N. Young, Stanton Parham, Micah Vandegrift. [https://doi.org/10.31223/X57P6R](https://doi.org/10.31223/X57P6R)
+**Article | Ten Simple Rules for Researchers Who Want to Develop Web Apps.** Sheila M. Saia, Natalie G. Nelson, Sierra N. Young, Stanton Parham, Micah Vandegrift. PLOS Computational Biology 18(1). 
+- Pre-print - [https://doi.org/10.31223/X57P6R](https://doi.org/10.31223/X57P6R)
+- Published version - [https://doi.org/10.1371/journal.pcbi.1009663](https://doi.org/10.1371/journal.pcbi.1009663)
 
 **Presentation | Facilitating Open Text Analysis Research through the OPEN Incubator.** Association of College and Research Libraries - Open Research Discussion Group. June 30, 2021, Online. [https://youtu.be/vzUGUEK2T-Y?t=1510](https://youtu.be/vzUGUEK2T-Y?t=1510)
 
