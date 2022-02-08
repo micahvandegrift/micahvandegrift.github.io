@@ -159,6 +159,10 @@ University Service
 Research & Scholarship
 ===========
 
+2022
+---
+**Article | Managing Digital Scholarship Projects at Many Levels: The Immersive Scholar Cohort, Residencies, and the Shift to “Project Development.” Hallman, S., Hayes, E. Y., Gurley, W., & Vandegrift, M. (2022). _Interdisciplinary Digital Engagement in Arts & Humanities (IDEAH)_. [https://doi.org/10.21428/f1f23564.05760ce7](https://doi.org/10.21428/f1f23564.05760ce7)
+
 2021
 ---
 **Presentation | The Digital, the Multimodal, & the Fermentable: Public Knowledge Sharing with Fermentology.** Kelsey Virginia Dufresne & Micah Vandegrift. _Putting Open Social Scholarship into Practice_ a INKE/CAPOS Online Event. Dec. 8, 2021. https://inke.ca/putting-open-social-scholarship-into-practice/abstracts/#Dufresne-Kelsey-and-Vandegrift-Micah
@@ -190,8 +194,6 @@ Research & Scholarship
 **Article | Sharing notes is encouraged: annotating and cocreating with hypothes.is and google docs.** Carlos Goller, Micah Vandegrift, Will Cross, Davida Smyth. Journal of Microbiology & Biology Education, 22(1). [http://dx.doi.org/10.1128/jmbe.v22i1.2135](http://dx.doi.org/10.1128/jmbe.v22i1.2135)
 
 **Book | Immersive Scholar: A Guidebook for Documenting and Publishing Experiential Scholarship Works.** Mann, Abigail E. and Micah Vandegrift. [https://doi.org/10.5149/9781469664286_Mann](https://doi.org/10.5149/9781469664286_Mann)
-
-**Article (Forthcoming) | Managing Digital Scholarship Projects at Many Levels: The Immersive Scholar Cohort, Residencies, and the Shift to “Project Development.** Shelby Hallman, Erica Y. Hayes, Walt Gurley, Micah Vandegrift. [Interdisciplinary Digital Engagement in Arts & Humanities (IDEAH)](https://ideah.pubpub.org/)
 
 2020
 ---
