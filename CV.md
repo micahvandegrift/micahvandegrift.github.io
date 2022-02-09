@@ -99,8 +99,10 @@ Projects
 * [View Coded Glass](https://immersive-scholar.github.io/coded-glass/)
 
 
-Awards, Fellowships and Distinctions
+Awards, Fellowships, and Distinctions
 ====================
+2022 - 2024 | Fulbright Scholar Alumni Ambassador, Institute of International Education (IIE)
+
 2021 - 2022 | Visiting Program Officer for [Accelerating the Social Impact of Research (ASIR)](https://www.arl.org/accelerating-the-social-impact-of-research-asir/), Association of Research Libraries
 
 2018-2019 | Fulbright-Schuman Research Scholar
