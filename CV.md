@@ -1,6 +1,6 @@
 # Micah Vandegrift #
 
-  * Open Knowledge Librarian at North Carolina State University Libraries in Raleigh, North Carolina
+  * Associate Director, Open Knowledge Center at North Carolina State University Libraries in Raleigh, North Carolina
   * Email - work mlvandeg@ncsu.edu; personal micahvandegrift@gmail.com
   * ORCID - [0000-0001-8429-7697](http://orcid.org/0000-0001-8429-7697)
   * Blog - [https://medium.com/@mlvandeg/](https://medium.com/@mlvandeg/) 
@@ -27,7 +27,8 @@ Education
 
 Employment
 ==========
-2018 - Present | Open Knowledge Librarian, North Carolina State University
+2022 - present | Associate Director, Open Knowledge Center, North Carolina State University
+2018 - 2022 | Open Knowledge Librarian, Copyright and Digital Scholarship Center
 
 > * Develop strategic approaches to open research practices, policies, and programs that facilitate and promote open and publicly engaged scholarship 
 > * Lead Principal Investigator for [Visualizing Digital Scholarship in Libraries and Learning Spaces (Immersive Scholar)](https://www.immersivescholar.org/) funded by a grant from the Andrew W. Mellon Foundation, concluded in 2020
