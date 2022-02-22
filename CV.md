@@ -28,6 +28,7 @@ Education
 Employment
 ==========
 2022 - present | Associate Director, Open Knowledge Center, North Carolina State University
+
 2018 - 2022 | Open Knowledge Librarian, Copyright and Digital Scholarship Center
 
 > * Develop strategic approaches to open research practices, policies, and programs that facilitate and promote open and publicly engaged scholarship 
