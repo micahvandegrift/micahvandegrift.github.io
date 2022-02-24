@@ -165,6 +165,8 @@ Research & Scholarship
 
 2022
 ---
+**Comment | A community-sourced glossary of open scholarship terms. Parsons, S., Azevedo, F., Elsherif, M.M.,... Vandegrift, M., et al. Nature Human Behavior (2022). https://doi.org/10.1038/s41562-021-01269-4. [Open Access post-print](https://osf.io/preprints/metaarxiv/kdqcw)
+
 **Article | Managing Digital Scholarship Projects at Many Levels: The Immersive Scholar Cohort, Residencies, and the Shift to “Project Development.” Hallman, S., Hayes, E. Y., Gurley, W., & Vandegrift, M. (2022). _Interdisciplinary Digital Engagement in Arts & Humanities (IDEAH)_. [https://doi.org/10.21428/f1f23564.05760ce7](https://doi.org/10.21428/f1f23564.05760ce7)
 
 2021
@@ -180,8 +182,6 @@ Research & Scholarship
 **Presentation | What’s an “Open Knowledge Center”?** Triangle Research Libraries Network Annual Conference, July 30, 2021, Online.
 
 **Plenary panelist** | [FORCE Scholarly Communications Institute](https://www.force11.org/fsci/2021), July 30, 2021, Online. 
-
-**Submitted | A Community-Sourced Glossary of Open Scholarship Terms.** Sam Parsons, Flávio Azevedo, Mahmoud M. Elsherif, et al.... Micah Vandegrift. Nature Human Behavior. [Beta release online](https://forrt.org/glossary/)
 
 **Article | Ten Simple Rules for Researchers Who Want to Develop Web Apps.** Sheila M. Saia, Natalie G. Nelson, Sierra N. Young, Stanton Parham, Micah Vandegrift. PLOS Computational Biology 18(1). 
 - Pre-print - [https://doi.org/10.31223/X57P6R](https://doi.org/10.31223/X57P6R)
