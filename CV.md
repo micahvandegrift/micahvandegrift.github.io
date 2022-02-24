@@ -165,9 +165,9 @@ Research & Scholarship
 
 2022
 ---
-**Comment | A community-sourced glossary of open scholarship terms. Parsons, S., Azevedo, F., Elsherif, M.M.,... Vandegrift, M., et al. Nature Human Behavior (2022). https://doi.org/10.1038/s41562-021-01269-4. [Open Access post-print](https://osf.io/preprints/metaarxiv/kdqcw)
+**Comment | A community-sourced glossary of open scholarship terms.** Parsons, S., Azevedo, F., Elsherif, M.M.,... Vandegrift, M., et al. Nature Human Behavior (2022). https://doi.org/10.1038/s41562-021-01269-4. [Open Access post-print](https://osf.io/preprints/metaarxiv/kdqcw)
 
-**Article | Managing Digital Scholarship Projects at Many Levels: The Immersive Scholar Cohort, Residencies, and the Shift to “Project Development.” Hallman, S., Hayes, E. Y., Gurley, W., & Vandegrift, M. (2022). _Interdisciplinary Digital Engagement in Arts & Humanities (IDEAH)_. [https://doi.org/10.21428/f1f23564.05760ce7](https://doi.org/10.21428/f1f23564.05760ce7)
+**Article | Managing Digital Scholarship Projects at Many Levels: The Immersive Scholar Cohort, Residencies, and the Shift to “Project Development.”** Hallman, S., Hayes, E. Y., Gurley, W., & Vandegrift, M. (2022). _Interdisciplinary Digital Engagement in Arts & Humanities (IDEAH)_. [https://doi.org/10.21428/f1f23564.05760ce7](https://doi.org/10.21428/f1f23564.05760ce7)
 
 2021
 ---
