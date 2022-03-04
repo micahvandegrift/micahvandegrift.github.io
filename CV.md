@@ -135,12 +135,13 @@ Grants
 * PIs: Kathie Dello (State Climate Office) and Jessica Matthews (North Carolina Institute for Climate Studies)
 * Grant awarded by [NC State University Data Science Initiative](https://research.ncsu.edu/dsi/internal-funding/)
 * Co-planner and open science advisor
+* [https://open-climate-data-science.github.io/](https://open-climate-data-science.github.io/)
 
 **[Mentored, Open Research Experiences (MORE)](https://sites.google.com/ncsu.edu/more-reu/home)** 2021-2022
 * PI: Claire Gordy
 * Co-PIs: Carlos Goller, Melissa Ramirez, Micah Vandegrift, Rafael Guerrero
 * Grant awarded by Code for Science and Society Event Fund, sponsored by the Gordon and Betty Moore Foundation
-* Co-planner, open science advisor, and community engagement lead
+* Co-planner, open science advisor
 
 Current Service
 ===============
