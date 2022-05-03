@@ -1,17 +1,16 @@
 # Micah Vandegrift #
 
-  * Associate Director, Open Knowledge Center at North Carolina State University Libraries in Raleigh, North Carolina
-  * Email - work mlvandeg@ncsu.edu; personal micahvandegrift@gmail.com
+  * Senior UX Strategist for Researcher Community, National Institutes of Health-All of Us Research Program
+  * Email - work micah.vandegrift@nih.gov; personal micahvandegrift@gmail.com
   * ORCID - [0000-0001-8429-7697](http://orcid.org/0000-0001-8429-7697)
-  * Blog - [https://medium.com/@mlvandeg/](https://medium.com/@mlvandeg/) 
 
 Research Interests
 =========
 
 * Strategic approaches to a more open research environment
-* Research evaluation
-* Public scholarship
-* Diversity/plurality of scholarly knowledge objects
+* User experience research
+* Researcher community engagement and development
+* Health data equity, privacy, and security
 
 Education
 =========
@@ -27,9 +26,9 @@ Education
 
 Employment
 ==========
-2022 - present | Associate Director, Open Knowledge Center, North Carolina State University
+2022 - present | Senior UX Strategist, [NIH All of Us Research Program](https://allofus.nih.gov/)
 
-2018 - 2022 | Open Knowledge Librarian, Copyright and Digital Scholarship Center
+2018 - 2022 | Open Knowledge Librarian, Open Knowledge Center, NC State University
 
 > * Develop strategic approaches to open research practices, policies, and programs that facilitate and promote open and publicly engaged scholarship 
 > * Lead Principal Investigator for [Visualizing Digital Scholarship in Libraries and Learning Spaces (Immersive Scholar)](https://www.immersivescholar.org/) funded by a grant from the Andrew W. Mellon Foundation, concluded in 2020
@@ -149,17 +148,6 @@ Field
 ---
 * [Society for Scholarly Publishing](https://customer.sspnet.org/ssp/AboutUs/Committee-Roster.aspx?Code=EDUCATION), Education Committee Member
 * [Next Generation Library Publishing](https://educopia.org/next-generation-library-publishing/), Advisory Board Member
-* [Curtain Open Knowledge Initiative](	http://openknowledge.community/), Organizational Representative and Mission, Vision, Values Committee Member
-* Commission for Educational Exchange between the United States, Belgium, and Luxembourg, Fulbright Schuman Foreign Student Review Panel
-
-University Service
----
-* Chair, Libraries Research Services Interest Group, 2020-
-* Co-Chair, Libraries Digital Research Strategy Committee, 2018-2021
-* Member, Libraries Data Experience Lab Implementation Team, 2020
-* Member, Libraries Research Impact Metrics Team, 2020-
-* Faculty Development Partners Group, 2019-
-* University Research Symposium Planning Committee, 2020-2021
 
 Research & Scholarship
 ===========
@@ -425,45 +413,44 @@ Vandegrift, M., & Bolick, J. *Journal of Librarianship and Scholarly Communicati
 
 Service Appointments Fulfilled
 ==============================
-Reviewer, Institute for Museum and Library Services - National Leadership Grants for Libraries
 
-Steering Committee, TRLN Scholarly Communication Institute, 2019
+NC State University
+---
+- Chair, Libraries Research Services Interest Group, 2020-2022
+- Co-Chair, Libraries Digital Research Strategy Committee, 2018-2021
+- Member, Libraries Data Experience Lab Implementation Team, 2022
+- Member, Libraries Research Impact Metrics Team, 2020-2022
+- Faculty Development Partners Group, 2019-2022
+- University Research Symposium Planning Committee, 2020-2021
+- [Curtain Open Knowledge Initiative](	http://openknowledge.community/), Organizational Representative and Mission, Vision, Values Committee Member
+- Commission for Educational Exchange between the United States, Belgium, and Luxembourg, Fulbright Schuman Foreign Student Review Panel
+- Reviewer, Institute for Museum and Library Services - National Leadership Grants for Libraries
+- Steering Committee, TRLN Scholarly Communication Institute, 2019
 
-Advisory Board, [Library and Information Science Scholarship Archive](https://lissarchive.org/) (2017-2018)
+Florida State University
+---
+- Advisory Board, [Library and Information Science Scholarship Archive](https://lissarchive.org/) (2017-2018)
+- Co-Chair, HASTAC 2017 Program Committee
+- Steering Committee Member, Digital Library Federation [Project Managers Group](https://www.diglib.org/groups/pmg/) (2016- )
+- Editorial Board Member, Journal of Librarianship and Scholarly Communication (2014–2018)
+- Editorial Board Member, [The Idealis](http://theidealis.org/) (2017)
+- Member, SPARC Steering Committee Nomination Committee (2017)
+- Chair, Grant Review Panel, Institute for Museum and Library Services – Library Services and Technology Act State of Florida (2013–2016)
+- Council Member, THATCamp (The Humanities and Technology Camp) Council (2014–2016)
+- Member, Open Access Textbook and Educational Resources Task Force, Florida Virtual Campus (2016)
+- Representative, Library Publishing Coalition, Founding member (2013–2016)
+- Coordinating Committee Member - Coalition of Open Access Policy Institutions (2012–2015)
+- Reviewer, Conference proposals to The Collective, a new start-up library conference in its inaugural year. (2014-2015)
+- Co-Chair, Faculty Senate Library Committee - Scholarly Communications Task Force (2013–2015)
+- Chair, Copyright Committee, Florida State University Libraries (2012-2015)
+- Committee member – Professional Development, Research and Travel Committee, Florida State University Libraries (2012-2014)
+- Editorial Board Member, In The Library with the Lead Pipe (2012–2014)
+- Committee Member, Annual Conference Innovations Committee, Association of College and Research Libraries (2011–2013)
 
-Co-Chair, HASTAC 2017 Program Committee
-
-Steering Committee Member, Digital Library Federation [Project Managers Group](https://www.diglib.org/groups/pmg/) (2016- )
-
-Editorial Board Member, Journal of Librarianship and Scholarly Communication (2014–2018)
-
-Editorial Board Member, [The Idealis](http://theidealis.org/) (2017)
-
-Member, SPARC Steering Committee Nomination Committee (2017)
-
-Chair, Grant Review Panel, Institute for Museum and Library Services – Library Services and Technology Act State of Florida (2013–2016)
-
-Council Member, THATCamp (The Humanities and Technology Camp) Council (2014–2016)
-
-Member, Open Access Textbook and Educational Resources Task Force, Florida Virtual Campus (2016)
-
-Representative, Library Publishing Coalition, Founding member (2013–2016)
-
-Coordinating Committee Member - Coalition of Open Access Policy Institutions (2012–2015)
-    
-Reviewer, Conference proposals to The Collective, a new start-up library conference in its inaugural year. (2014-2015)
-
-Co-Chair, Faculty Senate Library Committee - Scholarly Communications Task Force (2013–2015)
-
-Chair, Copyright Committee, Florida State University Libraries (2012-2015)
-
-Committee member – Professional Development, Research and Travel Committee, Florida State University Libraries (2012-2014)
-
-Editorial Board Member, In The Library with the Lead Pipe (2012–2014)
-
-Committee Member, Annual Conference Innovations Committee, Association of College and Research Libraries (2011–2013)
-
-Referee - Journal of Electronic Publishing, Journal of Librarianship
-    and Scholarly Communication, Journal of Interlibrary Loan, Document
-    Delivery & Electronic Reserves, Journal of Education in Library and
-    Information Science, Journal of Open Humanities Data
+Peer Reviews
+---
+- Journal of Electronic Publishing
+- Journal of Librarianship and Scholarly Communication
+- Journal of Interlibrary Loan, Document Delivery & Electronic Reserves
+- Journal of Education in Library and Information Science
+- Journal of Open Humanities Data
