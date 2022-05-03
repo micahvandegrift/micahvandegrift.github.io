@@ -3,13 +3,13 @@ Biographical sketch
 
 Current
 ---
-Micah joined the All of Us Research Program in March 2022 to focus on fostering and developing researcher communities. Micah started his career as an academic librarian at Florida State University, then joined North Carolina State University’s Open Knowledge Center to develop and advance open science and public scholarship. At NC State he led a team of developers, designers, and researchers to launch products and initiatives, including: a cohort-based research development incubator; a series of digital stained glass windows from the #metoo movement; an online publication about the culture, history, and science behind the foods you have at home; and HTML publishing workflows for academic journals.
+Micah joined the [All of Us Research Program](https://www.researchallofus.org/) in March 2022 to focus on fostering and developing researcher communities. Micah started his career as an academic librarian at Florida State University, then joined North Carolina State University’s [Open Knowledge Center](https://www.lib.ncsu.edu/department/okc) to develop and advance open science and public scholarship. At NC State he led a team of developers, designers, and researchers to launch products and initiatives, including: a cohort-based research development incubator; a series of digital stained glass windows from the #metoo movement; an online publication about the culture, history, and science behind the foods you have at home; and HTML publishing workflows for academic journals.
 
-Micah holds a Masters in Library and Information Studies (M.L.I.S), an M.A. in American and Florida Studies, and a B.A. in Humanities, all from Florida State University. He also serves as a Fulbright Scholar Alumni Ambassador from 2022-2024. 
+Micah holds a Masters in Library and Information Studies (M.L.I.S), an M.A. in American and Florida Studies, and a B.A. in Humanities, all from Florida State University. He also serves as a [Fulbright Scholar Alumni Ambassador](https://cies.org/alumni-ambassadors/micah-vandegrift). 
 
 Based in Raleigh, Micah and his family enjoy soccer, camping, hiking, movies, and music. Micah competed in the 2005 World Beard and Mustache Championships and is the reigning Mr. Tattooed Tallahassee.
 
-========================== OLD BELOW ========================== 
+========================== OLD BIOS BELOW ========================== 
 
 Super Short
 ---
