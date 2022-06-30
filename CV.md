@@ -105,6 +105,7 @@ Awards, Fellowships, and Distinctions
 2022 - 2024 | Fulbright Scholar Alumni Ambassador, Institute of International Education (IIE)
 
 2021 - 2022 | Visiting Program Officer for [Accelerating the Social Impact of Research (ASIR)](https://www.arl.org/accelerating-the-social-impact-of-research-asir/), Association of Research Libraries
+> * Ruttenberg, Judy, Shawna Taylor, **Micah Vandegrift**, and Cynthia Hudson Vitale. _Accelerating Social Impact Research: Libraries at the Intersection of Openness and Community-Engaged Scholarship._ Washington, DC: Association of Research Libraries, June 30, 2022. https://doi.org/10.29242/report.asirjune2022.
 
 2018-2019 | Fulbright-Schuman Research Scholar
 
@@ -154,6 +155,8 @@ Research & Scholarship
 
 2022
 ---
+**Report | Accelerating Social Impact Research: Libraries at the Intersection of Openness and Community-Engaged Scholarship.** Ruttenberg, Judy, Shawna Taylor, Micah Vandegrift, and Cynthia Hudson Vitale. Washington, DC: Association of Research Libraries, June 30, 2022. https://doi.org/10.29242/report.asirjune2022.
+
 **Comment | A community-sourced glossary of open scholarship terms.** Parsons, S., Azevedo, F., Elsherif, M.M.,... Vandegrift, M., et al. Nature Human Behavior (2022). https://doi.org/10.1038/s41562-021-01269-4. [Open Access post-print](https://osf.io/preprints/metaarxiv/kdqcw)
 
 **Article | Managing Digital Scholarship Projects at Many Levels: The Immersive Scholar Cohort, Residencies, and the Shift to “Project Development.”** Hallman, S., Hayes, E. Y., Gurley, W., & Vandegrift, M. (2022). _Interdisciplinary Digital Engagement in Arts & Humanities (IDEAH)_. [https://doi.org/10.21428/f1f23564.05760ce7](https://doi.org/10.21428/f1f23564.05760ce7)
