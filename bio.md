@@ -9,7 +9,13 @@ Micah holds a Masters in Library and Information Studies (M.L.I.S), an M.A. in A
 
 Based in Raleigh, Micah and his family enjoy soccer, camping, hiking, movies, and music. Micah competed in the 2005 World Beard and Mustache Championships and is the reigning Mr. Tattooed Tallahassee.
 
-========================== OLD BIOS BELOW ========================== 
+Short (50 words)
+---
+Micah works at the intersection of community, policy, and technology as a Senior User Experience Strategist for the NIH’s All of Us Research Program. He spent a decade working as an academic librarian and was a Fulbright Scholar to the European Union in 2018 where he studied open science policy. 
+
+
+
+++++++++++++++++++++++OLD BIOS BELOW================== OLD BIOS BELOW ===================OLD BIOS BELOW++++++++++++++++++++++++++++++++
 
 Super Short
 ---
