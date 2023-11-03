@@ -1,6 +1,6 @@
 # Micah Vandegrift #
 
-  * Senior UX Strategist for Researcher Community, National Institutes of Health-All of Us Research Program
+  * Team Lead - Researcher Experience, National Institutes of Health All of Us Research Program
   * Email - work micah.vandegrift@nih.gov; personal micahvandegrift@gmail.com
   * ORCID - [0000-0001-8429-7697](http://orcid.org/0000-0001-8429-7697)
 
@@ -26,7 +26,9 @@ Education
 
 Employment
 ==========
-2022 - present | Senior UX Strategist, [NIH All of Us Research Program](https://allofus.nih.gov/)
+2023 - Present | Team Lead - Researcher Experience, [NIH All of Us Research Program](https://allofus.nih.gov/)
+
+2022 - 2023 | Senior UX Strategist, [NIH All of Us Research Program](https://allofus.nih.gov/)
 
 2018 - 2022 | Open Knowledge Librarian, Open Knowledge Center, NC State University
 
@@ -145,13 +147,19 @@ Grants
 
 Current Service
 ===============
-Field
----
-* [Society for Scholarly Publishing](https://customer.sspnet.org/ssp/AboutUs/Committee-Roster.aspx?Code=EDUCATION), Education Committee Member
-* [Next Generation Library Publishing](https://educopia.org/next-generation-library-publishing/), Advisory Board Member
+n/a
 
 Research & Scholarship
 ===========
+2023
+---
+**Poster | Is _All of Us_ Open Science?.** Micah Vandegrift, Meag Doherty, Scott Topper, Sheri Schully. All of Us Research Program Biannual Face to Face (October)
+
+**Poster | Surfacing Insights about All of Us Researchers: The Researcher Insights Working Group (RIWG).** Micah Vandegrift, Sydney J. McMaster, Elif Dede, Ryan Lupi, Carrie Iwema, Danielle Moore, Meag Doherty, Keona George. All of Us Research Program Biannual Face to Face (October)
+
+**Panelist | What Makes Researchers Productive: Lessons for All of Us.** Romey Azuine, Chris Lunt, Chris Lord, Paul Harris, Micah Vandegrift. All of Us Research Program Biannual Face to Face (October)  
+
+**Section Editor/Contributor | Preface: Access Is Praxis. Christopher Hollister and Micah Vandegrift, Chapter 2.4.1: Defining Open Science, Chapter 2.4.3: How Open Became Infrastructure, Micah Vandegrift and Kaitlin Thaney.** In Bonn M. Bolick J. & Cross W. (2023). Scholarly communication librarianship and open knowledge. Association of College & Research Libraries. https://www.alastore.ala.org/content/scholarly-communication-librarianship-and-open-knowledge
 
 2022
 ---
@@ -419,6 +427,8 @@ Service Appointments Fulfilled
 
 NC State University
 ---
+- Society for Scholarly Publishing, Education Committee Member, 2021
+- Next Generation Library Publishing, Advisory Board Member, 2021
 - Chair, Libraries Research Services Interest Group, 2020-2022
 - Co-Chair, Libraries Digital Research Strategy Committee, 2018-2021
 - Member, Libraries Data Experience Lab Implementation Team, 2022
