@@ -11,7 +11,7 @@ Based in Raleigh, Micah and his family enjoy soccer, camping, hiking, movies, an
 
 Short (50 words)
 ---
-Micah works at the intersection of community, policy, and technology as a Senior User Experience Strategist for the NIH’s All of Us Research Program. He spent a decade working as an academic librarian and was a Fulbright Scholar to the European Union in 2018 where he studied open science policy. 
+Micah works at the intersection of science, technology, and community as a Team Lead and Senior User Experience Strategist for the NIH’s All of Us Research Program. He spent a decade working as an academic librarian and was a Fulbright Scholar to the European Union in 2018 where he studied open science policy. 
 
 
 
