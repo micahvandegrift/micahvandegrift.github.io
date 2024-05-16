@@ -23,7 +23,7 @@ Education
 
 2006 | B.A. Humanities, Florida State University
 
-Employment
+Work experience
 ==========
 2023 - Present | Team Lead - Researcher Experience, [NIH All of Us Research Program](https://allofus.nih.gov/)
 
