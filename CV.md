@@ -7,10 +7,9 @@
 Research Interests
 =========
 
-* Strategic approaches to a more open research environment
-* User experience research
+* Open science and infrastructure
+* User experience knowledge management
 * Researcher community engagement and development
-* Health data equity, privacy, and security
 
 Education
 =========
@@ -31,36 +30,33 @@ Employment
 2022 - 2023 | Senior UX Strategist, [NIH All of Us Research Program](https://allofus.nih.gov/)
 
 2018 - 2022 | Open Knowledge Librarian, Open Knowledge Center, NC State University
-
-> * Develop strategic approaches to open research practices, policies, and programs that facilitate and promote open and publicly engaged scholarship 
-> * Lead Principal Investigator for [Visualizing Digital Scholarship in Libraries and Learning Spaces (Immersive Scholar)](https://www.immersivescholar.org/) funded by a grant from the Andrew W. Mellon Foundation, concluded in 2020
-> * Investigate and promote infrastruture and systems that maximize the dissemination and impact of scholarship
+* Lead Principal Investigator for [Visualizing Digital Scholarship in Libraries and Learning Spaces (Immersive Scholar)](https://www.immersivescholar.org/) funded by a grant from the Andrew W. Mellon Foundation, concluded in 2020
+* Investigate and promote infrastructure and systems that maximize the dissemination and impact of scholarship
 
 2016 - 2018 | Director of Digital Scholarship, Florida State University
+* Founding Director
 
-2014 – 2016 | Digital Scholarship Coordinator, Florida State
-University
+2014 – 2016 | Digital Scholarship Coordinator, Florida State University
 
-2011 – 2014 | Scholarly Communication Librarian, Florida State
-University
+2011 – 2014 | Scholarly Communication Librarian, Florida State University
 
 2011 | Scholarly Communication Project Manager, Florida State University
 
-2010 – 2011 | Digital Archivist and Project Coordinator, Brooklyn Visual
-Heritage / Project CHART, Brooklyn Public Library
+2010 – 2011 | Digital Archivist and Project Coordinator, Brooklyn Visual Heritage / Project CHART, Brooklyn Public Library
 
 2009 – 2010 | Academic Advisor, Florida State University
 
-2008 – 2009 | Program Coordinator, Program in American and Florida
-Studies, Florida State University
+2008 – 2009 | Program Coordinator, Program in American and Florida Studies, Florida State University
 
-2007 – 2009 | Graduate Student Instructor, Program in American and
-Florida Studies, Florida State University
+2007 – 2009 | Graduate Student Instructor, Program in American and Florida Studies, Florida State University
 
-Projects
+Featured projects
 ====================
+**Knowledge Management for User Experience Impact**
+> Led the planning, creation, and implementation of a knowledge base of user experience artifacts, including a research repository and a complementary communications strategy
+
 **Mashriq and Mahjar: Journal of Middle East and North African Migration Studies**
-> Consulted, advised, and guided a team to update the journal workflow with the Managing Editor, especially focused on increasing accessiblity of the HTML reading experience. 
+> Consulted, advised, and guided a team to update the journal workflow with the Managing Editor, especially focused on increasing accessibility of the HTML reading experience. 
 
 * [Read Mashriq and Mahjar](https://lebanesestudies.ojs.chass.ncsu.edu/index.php/mashriq/index)
 
@@ -71,7 +67,7 @@ Projects
 * [Explore Fermentology](http://fermentology.pubpub.org)
 
 **Virtual Martin Luther King Jr. Project**
-> Coordinated a sustainability sprint and follow-up work for the vMLK team as they moved from production phase to maintenance
+> Coordinated a sustainability sprint and follow-up work for the vMLK team as they moved from the production phase to the maintenance
 
 * [Project description](https://www.lib.ncsu.edu/projects/virtual-martin-luther-king-jr-project-vmlk)
 * [Experience vMLK](https://vmlk.chass.ncsu.edu/)
@@ -91,7 +87,7 @@ Projects
 * [Preview Tally Tracker Explorer](https://www.youtube.com/watch?v=Gbm5D0nfwJs)
 
 **Microwave and RF Design**
-> Coordinated and brokered a partnership with the University of North Carolina Press to republish this five volume set of engineering textbooks as an open educational resource.
+> Coordinated and brokered a partnership with the University of North Carolina Press to republish this five-volume set of engineering textbooks as an open educational resource.
 
 * [Project description](https://www.lib.ncsu.edu/projects/microwave-and-rf-design-open-textbook)
 
@@ -109,8 +105,7 @@ Awards, Fellowships, and Distinctions
 2021 - 2022 | Visiting Program Officer for [Accelerating the Social Impact of Research (ASIR)](https://www.arl.org/accelerating-the-social-impact-of-research-asir/), Association of Research Libraries
 > * Ruttenberg, Judy, Shawna Taylor, **Micah Vandegrift**, and Cynthia Hudson Vitale. _Accelerating Social Impact Research: Libraries at the Intersection of Openness and Community-Engaged Scholarship._ Washington, DC: Association of Research Libraries, June 30, 2022. https://doi.org/10.29242/report.asirjune2022.
 
-2018-2019 | Fulbright-Schuman Research Scholar
-
+2018-2019 | Fulbright Scholar (Fulbright Schuman Research Fellowship)
 > * Conducted research on open science policies and infrastructure in Europe, hosted by Maastricht University Libraries in The Netherlands and the Royal Danish Library/University of Copenhagen in Denmark 
 > * All materials and outputs from the fellowship are collected and available at [https://osf.io/254vf/](https://osf.io/254vf/)
 
@@ -118,7 +113,7 @@ Awards, Fellowships, and Distinctions
 
 2016 | Invited delegate, first annual meeting of the [Open Scholarship Initiative](http://osinitiative.org/), a UNESCO-supported, collaborative, global effort between key stakeholders in scholarly publishing who are working together to improve the scholarly publishing system.
 
-2015 | Participant in the Triangle Scholarly Communication Institute, a competitive Andrew W. Mellon-funded institute to articulate and begin to address needs and opportunities in the domain of scholarly communications. [Project TaDiRize](https://trianglesci.org/2015/06/02/modeling-contributorship-with-tadirah/), examined the expanding model of contributorship in the humanities, especially as digital work becomes more broadly recognized. 
+2015 | Participant in the Triangle Scholarly Communication Institute, a competitive Andrew W. Mellon-funded institute to articulate and begin to address needs and opportunities in the domain of scholarly communications.
 
 2015 | Fred L. Standley Librarian of the Year, Florida State University Libraries
 
@@ -128,21 +123,21 @@ Awards, Fellowships, and Distinctions
 
 Grants
 ===========
-**Visualizing Digital Scholarship in Libraries and Learning Spaces [(Immersive Scholar)](www.immersivescholar.org)** 2018-2021
-* Lead Principle Investigator
-* $414,000 grant from the Andrew W. Mellon Foundation
-* Grant to develop extensible models and programs for the creation and sharing of digital scholarship in large-scale and immersive visualization environments. The project aims to increase the impact of academic visualization environments and the scholarship created within them
+**$414,000 grant from the Andrew W. Mellon Foundation - Visualizing Digital Scholarship in Libraries and Learning Spaces** 
+[(Immersive Scholar)](www.immersivescholar.org) 2018-2021
+* Lead Principal Investigator
+* The project aimed to increase the impact of academic visualization environments and the scholarship created within them.
+* Launched six new large-scale visualizations and developed extensible models for creating and sharing large-scale and immersive visualizations. 
 
-**Think and Do: A Workshop to Advance Open Climate Data Science in North Carolina** 2021-2022
+**$50,000 from [NC State University Data Science Initiative](https://research.ncsu.edu/dsi/internal-funding/) - Think and Do: A Workshop to Advance Open Climate Data Science in North Carolina** 
+[https://open-climate-data-science.github.io/](https://open-climate-data-science.github.io/) 2021-2022
 * PIs: Kathie Dello (State Climate Office) and Jessica Matthews (North Carolina Institute for Climate Studies)
-* Grant awarded by [NC State University Data Science Initiative](https://research.ncsu.edu/dsi/internal-funding/)
 * Co-planner and open science advisor
-* [https://open-climate-data-science.github.io/](https://open-climate-data-science.github.io/)
 
-**[Mentored, Open Research Experiences (MORE)](https://sites.google.com/ncsu.edu/more-reu/home)** 2021-2022
+**$16,000 from Code for Science and Society Event Fund, sponsored by the Gordon and Betty Moore Foundation - Mentored Open Research Experiences** 
+[Mentored, Open Research Experiences (MORE)](https://sites.google.com/ncsu.edu/more-reu/home) 2021-2022
 * PI: Claire Gordy
 * Co-PIs: Carlos Goller, Melissa Ramirez, Micah Vandegrift, Rafael Guerrero
-* Grant awarded by Code for Science and Society Event Fund, sponsored by the Gordon and Betty Moore Foundation
 * Co-planner, open science advisor
 
 Current Service
@@ -153,11 +148,11 @@ Research & Scholarship
 ===========
 2023
 ---
-**Poster | Is _All of Us_ Open Science?.** Micah Vandegrift, Meag Doherty, Scott Topper, Sheri Schully. All of Us Research Program Biannual Face to Face (October)
+**Poster | Is _All of Us_ Open Science?.** Micah Vandegrift, Meag Doherty, Scott Topper, Sheri Schully. All of Us Research Program Face to Face, Bethesda, Maryland. https://doi.org/10.5281/zenodo.10069694
 
-**Poster | Surfacing Insights about All of Us Researchers: The Researcher Insights Working Group (RIWG).** Micah Vandegrift, Sydney J. McMaster, Elif Dede, Ryan Lupi, Carrie Iwema, Danielle Moore, Meag Doherty, Keona George. All of Us Research Program Biannual Face to Face (October)
+**Poster | Surfacing Insights about _All of Us_ Researchers: The Researcher Insights Working Group (RIWG).** Micah Vandegrift, Sydney J. McMaster, Elif Dede, Ryan Lupi, Carrie Iwema, Danielle Moore, Meag Doherty, Keona George. All of Us Research Program Biannual Face-to-Face (October)
 
-**Panelist | What Makes Researchers Productive: Lessons for All of Us.** Romey Azuine, Chris Lunt, Chris Lord, Paul Harris, Micah Vandegrift. All of Us Research Program Biannual Face to Face (October)  
+**Panelist | What Makes Researchers Productive: Lessons for _All of Us_.** Romey Azuine, Chris Lunt, Chris Lord, Paul Harris, Micah Vandegrift. All of Us Research Program Biannual Face-to-Face (October)  
 
 **Section Editor/Contributor | Preface: Access Is Praxis. Christopher Hollister and Micah Vandegrift, Chapter 2.4.1: Defining Open Science, Chapter 2.4.3: How Open Became Infrastructure, Micah Vandegrift and Kaitlin Thaney.** In Bonn M. Bolick J. & Cross W. (2023). Scholarly communication librarianship and open knowledge. Association of College & Research Libraries. https://www.alastore.ala.org/content/scholarly-communication-librarianship-and-open-knowledge
 
@@ -195,7 +190,7 @@ Research & Scholarship
 
 **Publication | Keeping Up With...Open Science.** Nathan D. Woods, Samantha Teplitzky, & Micah Vandegrift. Association of College and Research Libraries (ACRL). http://doi.org/10.5281/zenodo.4598162
 
-**Article | Sharing notes is encouraged: annotating and cocreating with hypothes.is and google docs.** Carlos Goller, Micah Vandegrift, Will Cross, Davida Smyth. Journal of Microbiology & Biology Education, 22(1). [http://dx.doi.org/10.1128/jmbe.v22i1.2135](http://dx.doi.org/10.1128/jmbe.v22i1.2135)
+**Article | Sharing notes is encouraged: annotating and cocreating with hypothes.is and Google Docs.** Carlos Goller, Micah Vandegrift, Will Cross, Davida Smyth. Journal of Microbiology & Biology Education, 22(1). [http://dx.doi.org/10.1128/jmbe.v22i1.2135](http://dx.doi.org/10.1128/jmbe.v22i1.2135)
 
 **Book | Immersive Scholar: A Guidebook for Documenting and Publishing Experiential Scholarship Works.** Mann, Abigail E. and Micah Vandegrift. [https://doi.org/10.5149/9781469664286_Mann](https://doi.org/10.5149/9781469664286_Mann)
 
@@ -211,7 +206,7 @@ Research & Scholarship
 
 **Publication | A Response to the Call for Bibliodiversity: Language, Translation, and Communicated Scholarship.** Kittinger, A., & Vandegrift, M. (2020). Triangle Open Scholarship. https://doi.org/10.21428/3d640a4a.48ea4b20
 
-**Panelist | Editors and Librarians: Building Relationships to Support Digital Scholars.** With John McLeod. Part of “University Presses and Libraries: Partners in Digital Transformation.” Publisher to Library (P2L4) Summit hosted by Association of Research Libraries and American Association of University Presses. [https://www.arl.org/event/the-p2l4-summit/](https://www.arl.org/event/the-p2l4-summit/) 7/22/2020
+**Panelist | Editors and Librarians: Building Relationships to Support Digital Scholars.** With John McLeod. Part of “University Presses and Libraries: Partners in Digital Transformation.” Publisher to Library (P2L4) Summit hosted by the Association of Research Libraries and American Association of University Presses. [https://www.arl.org/event/the-p2l4-summit/](https://www.arl.org/event/the-p2l4-summit/) 7/22/2020
 
 **Issue Brief | Open Science Roadmap: Recommendations to UNESCO.** Hampson, G., DeSart, M., Steinhauer, J., Gadd, E., Vandegrift, M., Erdmann, C., & Johnson, R. (2020).  Open Scholarship Initiative Proceedings. [https://doi.org/10.13021/osi2020.2735](https://doi.org/10.13021/osi2020.2735)
 
@@ -221,7 +216,7 @@ Research & Scholarship
 
 **Presentation | First of a kind: Open Curriculum, Agriculture, and Workflows.** With Tisha Mentnech. ACRL Digital Scholarship Section - Open Research Discussion Group. 4/21/2020
 
-**Presentation | Immersive Scholar: Development, Documentation, Display, and Dissemination of Experiential Research and Scholarship.** With Shelby Hallman. Coalition for Networked Information (CNI) Spring 2020 Membership Meeting. 4/24/2020. Video [on youtube](https://youtu.be/uEY3scL0Utg) and slides [on Open Science Framework](https://osf.io/3zrcn/).
+**Presentation | Immersive Scholar: Development, Documentation, Display, and Dissemination of Experiential Research and Scholarship.** With Shelby Hallman. Coalition for Networked Information (CNI) Spring 2020 Membership Meeting. 4/24/2020. Video [on YouTube](https://youtu.be/uEY3scL0Utg) and slides [on Open Science Framework](https://osf.io/3zrcn/).
 
 **Project Report and Peer Review | Immersive Scholar.**   David Nieves, A. (2020). Review: Immersive Scholar. Reviews in Digital Humanities, I(3). [https://doi.org/10.21428/3e88f64f.a5b0dd2a](https://doi.org/10.21428/3e88f64f.a5b0dd2a)
 
@@ -234,9 +229,9 @@ Research & Scholarship
 
 **Facilitated Session | Incubating Open Community.** MozFest, London, UK. 
 
-**Presentation | Planning for Plan S: a perspective from across the pond.** Open Access Week at Cambridge University Libraries, Cambridge, UK. https://www.training.cam.ac.uk/event/3132902
+**Presentation | Planning for Plan S: A Perspective from across the Pond.** Open Access Week at Cambridge University Libraries, Cambridge, UK. https://www.training.cam.ac.uk/event/3132902
 
-**Presentation | A More Open Humanities - Documentation of/and Evaluation in the Immersive Scholar Project** for Digital Humanities, Open Access and Cultural Heritage webaton - OpenGLAM and the Argentine Association of Digital Humanities. [https://github.com/scannopolis/jornada_aadh](https://github.com/scannopolis/jornada_aadh). Presentation on youtube also [https://youtu.be/e9c-4RnFN_0?t=1154](https://youtu.be/e9c-4RnFN_0?t=1154)
+**Presentation | A More Open Humanities - Documentation of/and Evaluation in the Immersive Scholar Project** for Digital Humanities, Open Access and Cultural Heritage webaton - OpenGLAM and the Argentine Association of Digital Humanities. [https://github.com/scannopolis/jornada_aadh](https://github.com/scannopolis/jornada_aadh). Presentation on YouTube also [https://youtu.be/e9c-4RnFN_0?t=1154](https://youtu.be/e9c-4RnFN_0?t=1154)
 
 **Proceedings | Plan S Point–Counterpoint: Discussing the Plan Together.** Based on a panel given at the 2019 International Society of Managing and Technical Editors North American conference by Rick Anderson & Micah Vandegrift. Retrieved from osf.io/preprints/lissa/zpa4v
 
@@ -294,7 +289,7 @@ Research & Scholarship
 * Pre-print available at - [https://dx.doi.org/10.17605/OSF.IO/T7HFU](https://dx.doi.org/10.17605/OSF.IO/T7HFU)
 
 **Panelist | Scrappy Strategies: Advancing Open on Campus with Limited Resources.**
-* Presentation on deciding balancing advocacy and activism in a new scholarly communication initiative. June 15, 2017. Slides accesible on figshare [https://doi.org/10.6084/m9.figshare.5123374.v1](https://doi.org/10.6084/m9.figshare.5123374.v1)
+* Presentation on balancing advocacy and activism in a new scholarly communication initiative. June 15, 2017. Slides accesible on figshare [https://doi.org/10.6084/m9.figshare.5123374.v1](https://doi.org/10.6084/m9.figshare.5123374.v1)
 
 **Webinar co-moderator | OA Publication Quality - Library Publishing Coalition Professional Development series.**
 * Panel discussion featuring representatives from the Open Access Scholarly Publishers Association and Directory of Open Access Journals.
@@ -305,7 +300,7 @@ Research & Scholarship
 2016
 ----
 **Training series | Discover DH: Introduction to Digital Humanities Theories and Methods.**
-* Presenter and co-planner of this semester long series. [https://doi.org/10.6084/m9.figshare.4287263.v1](https://doi.org/10.6084/m9.figshare.4287263.v1)
+* Presenter and co-planner of this semester-long series. [https://doi.org/10.6084/m9.figshare.4287263.v1](https://doi.org/10.6084/m9.figshare.4287263.v1)
 
 **Presentation | Managing Scope and Scale: Applying the Incubator Model to Digital Scholarship.** Micah Vandegrift, Sarah Stanley, Alix Keener, Zoe Borovsky, Dawn Childress, Elizabeth Lorang, Christy Hyman.  
 * Panel on various models of digital scholarship project development, given at the Digital Library Federation Forum. [http://doi.org/10.17605/OSF.IO/DBF25](http://doi.org/10.17605/OSF.IO/DBF25)
@@ -329,9 +324,9 @@ Research & Scholarship
 **Panelist | “Librishers and Pubraries: Explore Library Publishing and University Presses within Libraries.”**
 * Hosted by the ALCTS CRS Education, Research, and Publications Coordinating Committee program at ALA Annual. (June) Co-panelist with Meredith Babb, Director of the University Press of Florida, and Rick Anderson, Assoc. Dean for Collections & Scholarly Communication at the University of Utah. [https://www.eventscribe.com/2016/ala-annual/fsPopup.asp?Mode=presInfo&PresentationID=139572](https://www.eventscribe.com/2016/ala-annual/fsPopup.asp?Mode=presInfo&PresentationID=139572)
 
-**Report | Evolving Open Solutions (2) Workgroup at the inaugeral Open Scholarship Initiative.** Billings, M., Bobley, B., McCollough, A., Mudditt, A., Naim, K., Pinter, F., Price, R., Roche, T., Sprio, L., & Vandegrift, M. *Open Scholarship Initiative Proceedings* [https://dx.doi.org/10.13021/G8ZK52](https://dx.doi.org/10.13021/G8ZK52)
+**Report | Evolving Open Solutions (2) Workgroup at the inaugural Open Scholarship Initiative.** Billings, M., Bobley, B., McCollough, A., Mudditt, A., Naim, K., Pinter, F., Price, R., Roche, T., Sprio, L., & Vandegrift, M. *Open Scholarship Initiative Proceedings* [https://dx.doi.org/10.13021/G8ZK52](https://dx.doi.org/10.13021/G8ZK52)
 
-**Poster presentation | It Takes Teamwork to Make the Dream Work: Delivering data management services in a team based environment.** 
+**Poster presentation | It Takes Teamwork to Make the Dream Work: Delivering Data Management Services in a team-based environment.** 
 * Presented at Research Data Access and Preservation Summit (RDAP). Co-authored with Renaine Julian, and Rachel Besara. [https://dx.doi.org/10.6084/m9.figshare.3202006.v3](https://dx.doi.org/10.6084/m9.figshare.3202006.v3)
 
 **Job talk | [Digital Research] [services] in 21st Century - Leading Research, Teaching and Learning.**  
@@ -428,7 +423,7 @@ Service Appointments Fulfilled
 NC State University
 ---
 - Society for Scholarly Publishing, Education Committee Member, 2021
-- Next Generation Library Publishing, Advisory Board Member, 2021
+- Next-Generation Library Publishing, Advisory Board Member, 2021
 - Chair, Libraries Research Services Interest Group, 2020-2022
 - Co-Chair, Libraries Digital Research Strategy Committee, 2018-2021
 - Member, Libraries Data Experience Lab Implementation Team, 2022
