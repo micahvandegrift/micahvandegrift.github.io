@@ -14,41 +14,41 @@ Research Interests
 Education
 =========
 
-2011 | MLIS. Library and Information Studies, Florida State University
+M.L.I.S. in Library and Information Studies, Florida State University | 2011 
 
-2009 | M.A. American and Florida Studies, Florida State University
+M.A. in American and Florida Studies, Florida State University | 2009
 
 > Thesis: Music Scenes in America: Gainesville, Florida as a Case Study
 > for Historicizing Subculture
 
-2006 | B.A. Humanities, Florida State University
+B.A. in Humanities, Florida State University | 2006
 
 Work experience
 ==========
-2023 - Present | Team Lead - Researcher Experience, [NIH All of Us Research Program](https://allofus.nih.gov/)
+Team Lead - Researcher Experience, [NIH All of Us Research Program](https://allofus.nih.gov/) | 2023 - Present
 
-2022 - 2023 | Senior UX Strategist, [NIH All of Us Research Program](https://allofus.nih.gov/)
+Senior Strategist, [NIH All of Us Research Program](https://allofus.nih.gov/) | 2022 - 2023
 
-2018 - 2022 | Open Knowledge Librarian, Open Knowledge Center, NC State University
+Open Knowledge Librarian, Open Knowledge Center, NC State University | 2018 - 2022
 * Lead Principal Investigator for [Visualizing Digital Scholarship in Libraries and Learning Spaces (Immersive Scholar)](https://www.immersivescholar.org/) funded by a grant from the Andrew W. Mellon Foundation, concluded in 2020
 * Investigate and promote infrastructure and systems that maximize the dissemination and impact of scholarship
 
-2016 - 2018 | Director of Digital Scholarship, Florida State University
+Director of Digital Scholarship, Florida State University | 2016 - 2018
 * Founding Director
 
-2014 – 2016 | Digital Scholarship Coordinator, Florida State University
+Digital Scholarship Coordinator, Florida State University | 2014 - 2016
 
-2011 – 2014 | Scholarly Communication Librarian, Florida State University
+Scholarly Communication Librarian, Florida State University | 2011 - 2014
 
-2011 | Scholarly Communication Project Manager, Florida State University
+Scholarly Communication Project Manager, Florida State University | 2011
 
-2010 – 2011 | Digital Archivist and Project Coordinator, Brooklyn Visual Heritage / Project CHART, Brooklyn Public Library
+Digital Archivist and Project Coordinator, Brooklyn Visual Heritage / Project CHART, Brooklyn Public Library | 2010 - 2011
 
-2009 – 2010 | Academic Advisor, Florida State University
+Academic Advisor, Florida State University | 2009 - 2010
 
-2008 – 2009 | Program Coordinator, Program in American and Florida Studies, Florida State University
+Program Coordinator, Program in American and Florida Studies, Florida State University | 2008 - 2009
 
-2007 – 2009 | Graduate Student Instructor, Program in American and Florida Studies, Florida State University
+Graduate Student Instructor, Program in American and Florida Studies, Florida State University | 2007 - 2009
 
 Featured projects
 ====================
@@ -100,42 +100,42 @@ Featured projects
 
 Awards, Fellowships, and Distinctions
 ====================
-2022 - 2024 | Fulbright Scholar Alumni Ambassador, Institute of International Education (IIE)
+Fulbright Scholar Alumni Ambassador, Institute of International Education (IIE) | 2022 - 2024
 
-2021 - 2022 | Visiting Program Officer for [Accelerating the Social Impact of Research (ASIR)](https://www.arl.org/accelerating-the-social-impact-of-research-asir/), Association of Research Libraries
+Visiting Program Officer for [Accelerating the Social Impact of Research (ASIR)](https://www.arl.org/accelerating-the-social-impact-of-research-asir/), Association of Research Libraries | 2021 - 2022
 > * Ruttenberg, Judy, Shawna Taylor, **Micah Vandegrift**, and Cynthia Hudson Vitale. _Accelerating Social Impact Research: Libraries at the Intersection of Openness and Community-Engaged Scholarship._ Washington, DC: Association of Research Libraries, June 30, 2022. https://doi.org/10.29242/report.asirjune2022.
 
-2018-2019 | Fulbright Scholar (Fulbright Schuman Research Fellowship)
+Fulbright Scholar (Fulbright Schuman Research Fellowship) | 2018 - 2019
 > * Conducted research on open science policies and infrastructure in Europe, hosted by Maastricht University Libraries in The Netherlands and the Royal Danish Library/University of Copenhagen in Denmark 
 > * All materials and outputs from the fellowship are collected and available at [https://osf.io/254vf/](https://osf.io/254vf/)
 
-2017 | Participant in the inaugural Association of Research Libraries Digital Scholarship Institute.
+Participant in the inaugural Association of Research Libraries Digital Scholarship Institute. | 2017
 
-2016 | Invited delegate, first annual meeting of the [Open Scholarship Initiative](http://osinitiative.org/), a UNESCO-supported, collaborative, global effort between key stakeholders in scholarly publishing who are working together to improve the scholarly publishing system.
+Invited delegate, first annual meeting of the [Open Scholarship Initiative](http://osinitiative.org/), a UNESCO-supported, collaborative, global effort between key stakeholders in scholarly publishing who are working together to improve the scholarly publishing system. | 2016
 
-2015 | Participant in the Triangle Scholarly Communication Institute, a competitive Andrew W. Mellon-funded institute to articulate and begin to address needs and opportunities in the domain of scholarly communications.
+Participant in the Triangle Scholarly Communication Institute, hosted by Duke University, a competitive Andrew W. Mellon-funded institute to articulate and address needs and opportunities in scholarly communications. | 2015
 
-2015 | Fred L. Standley Librarian of the Year, Florida State University Libraries
+Fred L. Standley Librarian of the Year, Florida State University Libraries | 2015
 
-2014 | Visiting Scholar, Columbia University Libraries, Center for Digital Research and Scholarship
+Visiting Scholar, Columbia University Libraries, Center for Digital Research and Scholarship | 2014
 
-2013 | Mover and Shaker (Community Builder), Library Journal
+Mover and Shaker (Community Builder), Library Journal | 2013
 
 Grants
 ===========
 **$414,000 grant from the Andrew W. Mellon Foundation - Visualizing Digital Scholarship in Libraries and Learning Spaces** 
-[(Immersive Scholar)](www.immersivescholar.org) 2018-2021
+[(Immersive Scholar)](www.immersivescholar.org) | 2018-2021
 * Lead Principal Investigator
 * The project aimed to increase the impact of academic visualization environments and the scholarship created within them.
 * Launched six new large-scale visualizations and developed extensible models for creating and sharing large-scale and immersive visualizations. 
 
 **$50,000 from [NC State University Data Science Initiative](https://research.ncsu.edu/dsi/internal-funding/) - Think and Do: A Workshop to Advance Open Climate Data Science in North Carolina** 
-[https://open-climate-data-science.github.io/](https://open-climate-data-science.github.io/) 2021-2022
+[https://open-climate-data-science.github.io/](https://open-climate-data-science.github.io/) | 2021-2022
 * PIs: Kathie Dello (State Climate Office) and Jessica Matthews (North Carolina Institute for Climate Studies)
 * Co-planner and open science advisor
 
 **$16,000 from Code for Science and Society Event Fund, sponsored by the Gordon and Betty Moore Foundation - Mentored Open Research Experiences** 
-[Mentored, Open Research Experiences (MORE)](https://sites.google.com/ncsu.edu/more-reu/home) 2021-2022
+[Mentored, Open Research Experiences (MORE)](https://sites.google.com/ncsu.edu/more-reu/home) | 2021-2022
 * PI: Claire Gordy
 * Co-PIs: Carlos Goller, Melissa Ramirez, Micah Vandegrift, Rafael Guerrero
 * Co-planner, open science advisor
