@@ -1,7 +1,7 @@
 # Micah Vandegrift #
 
-  * Team Lead - Researcher Experience, National Institutes of Health All of Us Research Program
-  * Email - work micah.vandegrift@nih.gov; personal micahvandegrift@gmail.com
+  * Customer Advocate - Digital Science
+  * Email - micahvandegrift@gmail.com
   * ORCID - [0000-0001-8429-7697](http://orcid.org/0000-0001-8429-7697)
 
 Research Interests
@@ -10,6 +10,13 @@ Research Interests
 * Open science and infrastructure
 * User experience knowledge management
 * Researcher community engagement and development
+
+Career Highlights
+=========
+* Initiated AI integrations that improved team efficiency and AI utility by 75%
+* Led a multi-functional team at an NIH program focused on precision medicine
+* Directed an innovative digital art program, resulting in a 25% increase in user engagement with high-tech spaces
+* Founded and grew high-performing innovation teams at two major research universities
 
 Education
 =========
@@ -25,13 +32,14 @@ B.A. in Humanities, Florida State University | 2006
 
 Work experience
 ==========
-Team Lead - Researcher Experience, [NIH All of Us Research Program](https://allofus.nih.gov/) | 2023 - Present
+Client configuration and Support Lead, Digital Science | 2024 - present
+
+Team Lead - Researcher Experience, [NIH All of Us Research Program](https://allofus.nih.gov/) | 2023 - 2024
 
 Senior Strategist, [NIH All of Us Research Program](https://allofus.nih.gov/) | 2022 - 2023
 
 Open Knowledge Librarian, Open Knowledge Center, NC State University | 2018 - 2022
-* Lead Principal Investigator for [Visualizing Digital Scholarship in Libraries and Learning Spaces (Immersive Scholar)](https://www.immersivescholar.org/) funded by a grant from the Andrew W. Mellon Foundation, concluded in 2020
-* Investigate and promote infrastructure and systems that maximize the dissemination and impact of scholarship
+* Lead Principal Investigator for [Visualizing Digital Scholarship in Libraries and Learning Spaces (Immersive Scholar)](https://www.immersivescholar.org/) funded by a grant from the Andrew W. Mellon Foundation
 
 Director of Digital Scholarship, Florida State University | 2016 - 2018
 * Founding Director
