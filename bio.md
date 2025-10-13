@@ -9,7 +9,7 @@ Micah consistently accelerates results through innovation, most recently by impl
 
 ## Short (50 words)
 ---
-Micah Vandegrift is a creative strategic leader who loves building teams to transform strategy into action. He drives innovation, implementing AI integrations that improved team efficiency by 75% and accelerating client onboarding. Micah is also a Fulbright Scholar who maximizes the public impact and accessibility of knowledge.
+Micah Vandegrift is a creative strategic leader who passionately builds teams and translates strategy into action. He drives innovation, implementing AI integrations that improved team efficiency by 75% and successfully accelerated client onboarding. A proud Fulbright Scholar, he is deeply committed to maximizing the public impact and accessibility of knowledge.
 
 ## Long
 ---
