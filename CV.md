@@ -1,6 +1,6 @@
 # Micah Vandegrift #
 
-  * Customer Advocate - Digital Science
+  * Human-Centered Operations Leader
   * Email - micahvandegrift@gmail.com
   * ORCID - [0000-0001-8429-7697](http://orcid.org/0000-0001-8429-7697)
 
@@ -14,7 +14,7 @@ Research Interests
 Career Highlights
 =========
 * Initiated AI integrations that improved team efficiency and AI utility by 75%
-* Led a multi-functional team at an NIH program focused on precision medicine
+* Led a multi-functional team at the NIH for a precision medicine research program
 * Directed an innovative digital art program, resulting in a 25% increase in user engagement with high-tech spaces
 * Founded and grew high-performing innovation teams at two major research universities
 
@@ -32,7 +32,7 @@ B.A. in Humanities, Florida State University | 2006
 
 Work experience
 ==========
-Client configuration and Support Lead, Digital Science | 2024 - present
+Client configuration and Support Lead, Digital Science | 2024 - 2025
 
 Team Lead - Researcher Experience, [NIH All of Us Research Program](https://allofus.nih.gov/) | 2023 - 2024
 
@@ -60,6 +60,9 @@ Graduate Student Instructor, Program in American and Florida Studies, Florida St
 
 Featured projects
 ====================
+**AI Prompt Repository**
+> Proposed, led, and launched a pilot internal AI prompt repository for a customer success and customer solutions team. Scoped the project, coordinated 10 colleagues, and adapted the repository to fit organizational needs in the midst of change. The beta version of the repository launched and was instrumental in increasing the visibility and utility of AI prompting for internal efficiency and workflow management.
+
 **Knowledge Management for User Experience Impact**
 > Led the planning, creation, and implementation of a knowledge base of user experience artifacts, including a research repository and a complementary communications strategy
 
