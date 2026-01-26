@@ -1,81 +1,370 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
     <meta charset='utf-8'>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+    <link href='https://fonts.googleapis.com/css?family=Chivo:900,400&display=swap' rel='stylesheet' type='text/css'>
+    <title>Micah Vandegrift - Strategic Leader & Innovator</title>
     
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <title>Micahvandegrift.GitHub.io by micahvandegrift</title>
+    <style>
+      :root {
+        --bg-primary: #ffffff;
+        --bg-secondary: #f8f9fa;
+        --text-primary: #1a202c;
+        --text-secondary: #4a5568;
+        --accent-primary: #3182ce;
+        --accent-secondary: #63b3ed;
+        --border-color: #e2e8f0;
+        --shadow: rgba(0, 0, 0, 0.1);
+      }
+      
+      [data-theme="dark"] {
+        --bg-primary: #1a202c;
+        --bg-secondary: #2d3748;
+        --text-primary: #f7fafc;
+        --text-secondary: #cbd5e0;
+        --accent-primary: #63b3ed;
+        --accent-secondary: #4299e1;
+        --border-color: #4a5568;
+        --shadow: rgba(0, 0, 0, 0.3);
+      }
+      
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+      
+      body {
+        font-family: 'Helvetica Neue', Arial, sans-serif;
+        line-height: 1.75;
+        color: var(--text-primary);
+        background: var(--bg-secondary);
+        transition: background 0.3s ease, color 0.3s ease;
+      }
+      
+      #container {
+        max-width: 920px;
+        margin: 0 auto;
+        padding: 2.5rem 1.5rem;
+      }
+      
+      .theme-toggle {
+        position: fixed;
+        top: 1.5rem;
+        right: 1.5rem;
+        background: var(--bg-primary);
+        border: 2px solid var(--border-color);
+        border-radius: 50px;
+        padding: 0.5rem 1rem;
+        cursor: pointer;
+        font-size: 1.25rem;
+        box-shadow: 0 2px 8px var(--shadow);
+        transition: all 0.3s ease;
+        z-index: 1000;
+      }
+      
+      .theme-toggle:hover {
+        transform: scale(1.05);
+      }
+      
+      header {
+        background: var(--bg-primary);
+        padding: 4rem 3rem;
+        border-radius: 16px;
+        box-shadow: 0 8px 16px var(--shadow);
+        margin-bottom: 2.5rem;
+        position: relative;
+        overflow: hidden;
+      }
+      
+      header::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 6px;
+        background: linear-gradient(90deg, var(--accent-primary), var(--accent-secondary));
+      }
+      
+      h1 {
+        font-family: 'Chivo', sans-serif;
+        font-size: 3.5rem;
+        font-weight: 900;
+        margin-bottom: 0.5rem;
+        background: linear-gradient(135deg, var(--accent-primary), var(--accent-secondary));
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+      }
+      
+      h2 {
+        font-family: 'Chivo', sans-serif;
+        font-size: 1.5rem;
+        color: var(--text-secondary);
+        margin-bottom: 2rem;
+        font-weight: 400;
+      }
+      
+      h3 {
+        font-family: 'Chivo', sans-serif;
+        font-size: 1.875rem;
+        color: var(--text-primary);
+        margin: 3rem 0 1.25rem 0;
+        font-weight: 900;
+        position: relative;
+        padding-bottom: 0.5rem;
+      }
+      
+      h3::after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 60px;
+        height: 4px;
+        background: var(--accent-primary);
+        border-radius: 2px;
+      }
+      
+      h4 {
+        font-family: 'Chivo', sans-serif;
+        font-size: 1.5rem;
+        color: var(--text-primary);
+        margin: 2.5rem 0 1rem 0;
+        font-weight: 900;
+      }
+      
+      .badge-wrapper {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1rem;
+        align-items: center;
+        margin-top: 1.5rem;
+      }
+      
+      .orcid-badge {
+        display: inline-flex;
+        align-items: center;
+        padding: 0.625rem 1.25rem;
+        background: var(--bg-secondary);
+        border: 2px solid var(--border-color);
+        border-radius: 8px;
+        text-decoration: none;
+        color: var(--accent-primary);
+        font-weight: 500;
+        transition: all 0.3s ease;
+      }
+      
+      .orcid-badge:hover {
+        border-color: var(--accent-primary);
+        transform: translateY(-3px);
+        box-shadow: 0 4px 12px var(--shadow);
+      }
+      
+      #downloads {
+        text-align: center;
+        margin: 2.5rem 0;
+      }
+      
+      .button {
+        display: inline-block;
+        padding: 1rem 2.5rem;
+        background: linear-gradient(135deg, var(--accent-primary), var(--accent-secondary));
+        color: white;
+        text-decoration: none;
+        border-radius: 12px;
+        font-weight: 700;
+        font-size: 1.05rem;
+        transition: all 0.3s ease;
+        box-shadow: 0 4px 12px var(--shadow);
+      }
+      
+      .button:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 8px 20px var(--shadow);
+      }
+      
+      hr {
+        border: none;
+        height: 1px;
+        background: var(--border-color);
+        margin: 3rem 0;
+        opacity: 0.5;
+      }
+      
+      #main_content {
+        background: var(--bg-primary);
+        padding: 3rem;
+        border-radius: 16px;
+        box-shadow: 0 8px 16px var(--shadow);
+      }
+      
+      #main_content > p:first-child {
+        font-size: 1.25rem;
+        line-height: 1.8;
+        color: var(--text-secondary);
+        padding: 1.5rem;
+        background: var(--bg-secondary);
+        border-radius: 12px;
+        margin-bottom: 2rem;
+        border-left: 5px solid var(--accent-primary);
+      }
+      
+      p {
+        margin-bottom: 1.25rem;
+        color: var(--text-secondary);
+        font-size: 1.05rem;
+      }
+      
+      ul {
+        list-style: none;
+        padding: 0;
+        margin: 1.5rem 0;
+      }
+      
+      li {
+        padding: 1rem 1rem 1rem 3rem;
+        position: relative;
+        margin-bottom: 0.75rem;
+        background: var(--bg-secondary);
+        border-radius: 10px;
+        transition: all 0.3s ease;
+      }
+      
+      li:hover {
+        transform: translateX(8px);
+        box-shadow: 0 2px 8px var(--shadow);
+      }
+      
+      li:before {
+        content: "▸";
+        position: absolute;
+        left: 1.25rem;
+        color: var(--accent-primary);
+        font-weight: bold;
+        font-size: 1.25rem;
+      }
+      
+      a {
+        color: var(--accent-primary);
+        text-decoration: none;
+        position: relative;
+        font-weight: 500;
+      }
+      
+      a:hover {
+        color: var(--accent-secondary);
+      }
+      
+      footer {
+        text-align: center;
+        padding: 2.5rem 1rem;
+        color: var(--text-secondary);
+        font-size: 0.95rem;
+      }
+      
+      @media (max-width: 768px) {
+        h1 { font-size: 2.5rem; }
+        h2 { font-size: 1.25rem; }
+        header, #main_content { padding: 2rem 1.5rem; }
+        .theme-toggle { top: 1rem; right: 1rem; }
+      }
+    </style>
   </head>
 
   <body>
+    <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark mode">🌓</button>
+    
     <div id="container">
-      <div class="inner">
-
-        <header>
-          <h1>Hi, I'm Micah.</h1>
-          <h2>Versioning my career.</h2>
-          <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-8429-7697" href="https://orcid.org/0000-0001-8429-7697" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-8429-7697</a></div>
+      <header>
+        <h1>Hi, I'm Micah.</h1>
+        <h2>Versioning my career.</h2>
+        <div class="badge-wrapper">
+          <div itemscope itemtype="https://schema.org/Person">
+            <a itemprop="sameAs" 
+               content="https://orcid.org/0000-0001-8429-7697" 
+               href="https://orcid.org/0000-0001-8429-7697" 
+               target="orcid.widget" 
+               rel="me noopener noreferrer" 
+               class="orcid-badge">
+              <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" 
+                   style="width:1em;margin-right:.5em;" 
+                   alt="ORCID iD icon">
+              ORCID Profile
+            </a>
+          </div>
           <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-          <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="micahvandegrift" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/micahvandegrift?trk=profile-badge">My LinkedIn Profile</a></div>
-        </header>
+          <div class="badge-base LI-profile-badge" 
+               data-locale="en_US" 
+               data-size="medium" 
+               data-theme="light" 
+               data-type="VERTICAL" 
+               data-vanity="micahvandegrift" 
+               data-version="v1">
+            <a class="badge-base__link LI-simple-link" 
+               href="https://www.linkedin.com/in/micahvandegrift?trk=profile-badge">
+              My LinkedIn Profile
+            </a>
+          </div>
+        </div>
+      </header>
 
-        <section id="downloads" class="clearfix">
-          <a href="https://github.com/micahvandegrift" id="view-on-github" class="button"><span>View on GitHub</span></a>
-        </section>
+      <section id="downloads">
+        <a href="https://github.com/micahvandegrift" class="button">
+          <span>View on GitHub</span>
+        </a>
+      </section>
 
-        <hr>
+      <hr>
 
-        <section id="main_content">
-          <p>I am a team builder and creative leader, a former librarian, and an advocate for information access. I also have an undying love for the academic study of contemporary popular (sub)culture.</p>
+      <section id="main_content">
+        <p>I am a team builder and creative leader, a former librarian, and an advocate for information access. I also have an undying love for the academic study of contemporary popular (sub)culture.</p>
 
-<h3>
-<a id="some-brief-details" class="anchor" href="#some-brief-details" aria-hidden="true"><span class="octicon octicon-link"></span></a>Some brief details:</h3>
+        <h3>Some brief details:</h3>
+        <ul>
+          <li>I left the higher education industry in 2023 and am finding lots of cool ways to integrate that skill set into a business and innovation environment.</li>
+          <li>My <a href="https://github.com/micahvandegrift/micahvandegrift.github.io/blob/master/Resume_MVandegrift_Jan26.pdf">1 page resume is here (PDF)</a></li>
+          <li>My <a href="https://github.com/micahvandegrift/micahvandegrift.github.io/blob/master/CV.md">CV is here</a></li>
+          <li>I was a Fulbright Scholar in the winter of 2018-2019. My project was hosted by Maastricht University Libraries in The Netherlands and the Royal Danish Library/University of Copenhagen in Denmark.</li>
+          <li>My career began at Florida State University, also my alma mater thrice over, where I founded the Office of Digital Research and Scholarship.</li>
+        </ul>
 
-<ul>
-<li>I left the higher education industry in 2023 and am finding lots of cool ways to integrate that skill set into a business and innovation environment.</li>
-<li>My <a href="https://github.com/micahvandegrift/micahvandegrift.github.io/blob/master/Resume_MVandegrift_Jan26.pdf">1 page resume is here (PDF)</a></li>
-<li>My <a href="https://github.com/micahvandegrift/micahvandegrift.github.io/blob/master/CV.md">CV is here</a></li>
-<li>I was a Fulbright Scholar in the winter of 2018-2019. My project was hosted by Maastricht University Libraries in The Netherlands and the Royal Danish Library/University of Copenhagen in Denmark.</li>
-<li>My career began at Florida State University, also my alma mater thrice over, where I founded the Office of Digital Research and Scholarship.</li>
-</li>
-</ul>
+        <h3>Highlights:</h3>
+        <ul>
+          <li>I won the Best AI Hack Award at the Digital Science company retreat in 2025.</li>
+          <li>I gave a presentation at Cambridge University on 24 Oct., 2019, which made me feel like I had achieved something really awesome.</li>
+          <li>I served as a Guest Facilitator for the (virtual) global <a href="https://sprint.elifesciences.org/">eLife Innovation Sprint</a> (2020)</li>
+        </ul>
 
-<h3>
-<a id="other-things-ive-gotten-myself-involved-in" class="anchor" href="#other-things-ive-gotten-myself-involved-in" aria-hidden="true"><span class="octicon octicon-link"></span></a>Highlights:</h3>
+        <h4>Biographical sketch:</h4>
+        <p>Micah Vandegrift is a highly effective strategic leader and innovator dedicated to building and guiding high-performing teams that transform strategy into actionable solutions. His expertise centers on putting the user or customer first and driving organizational efficiency through communication and collaboration.</p>
+        
+        <p>Micah consistently accelerates results through innovation, most recently by implementing AI integrations that improved team efficiency by 75% and streamlining client onboarding processes for 63% faster completion. Earlier in his career, he served as a Fulbright Scholar in Europe and directed a digital art program sponsored by a $414,000 grant from the Andrew W. Mellon Foundation. He has led multidisciplinary strategy and research teams, and his career is defined by his commitment to maximizing the public impact and accessibility of knowledge.</p>
 
-<ul>
-<li> I won the Best AI Hack Award at the Digital Science company retreat in 2025. </li>
-<li>I gave a presentation at Cambridge University on 24 Oct., 2019, which made me feel like I had achieved something really awesome.</li> 
-<li>I served as a Guest Facilitator for the (virtual) global <a href="https://sprint.elifesciences.org/">eLife Innovation Sprint</a> (2020)</li>
-</ul>
-
-<h4>
-<a id="short-bio" class="anchor" href="#short-bio" aria-hidden="true"><span class="octicon octicon-link"></span></a>Biographical sketch:
-</h4>
-
-<p>
-Micah Vandegrift is a highly effective strategic leader and innovator dedicated to building and guiding high-performing teams that transform strategy into actionable solutions. His expertise centers on putting the user or customer first and driving organizational efficiency through communication and collaboration.</p>
-<p>
-Micah consistently accelerates results through innovation, most recently by implementing AI integrations that improved team efficiency by 75% and streamlining client onboarding processes for 63% faster completion. Earlier in his career, he served as a Fulbright Scholar in Europe and directed a digital art program sponsored by a $414,000 grant from the Andrew W. Mellon Foundation. He has led multidisciplinary strategy and research teams, and his career is defined by his commitment to maximizing the public impact and accessibility of knowledge.
-</p>
-
-<p>
-Micah holds a Master of Library and Information Studies (M.L.I.S) and an M.A. in American and Florida Studies, both from FSU. Based in Raleigh, North Carolina, he enjoys soccer, camping, and music, and has proudly competed in the World Beard and Mustache Championships.
-</p> 
+        <p>Micah holds a Master of Library and Information Studies (M.L.I.S) and an M.A. in American and Florida Studies, both from FSU. Based in Raleigh, North Carolina, he enjoys soccer, camping, and music, and has proudly competed in the World Beard and Mustache Championships.</p>
+      </section>
 
       <footer>
-          This page was generated by <a href="https://pages.github.com">GitHub Pages</a>. Tactile theme by <a href="https://twitter.com/jasonlong">Jason Long</a>.
-        </footer>
-
-        
-      </div>
+        This page was generated by <a href="https://pages.github.com">GitHub Pages</a>. 
+        Tactile theme by <a href="https://twitter.com/jasonlong">Jason Long</a>.
+      </footer>
     </div>
+
+    <script>
+      function toggleTheme() {
+        const html = document.documentElement;
+        const currentTheme = html.getAttribute('data-theme');
+        const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+        html.setAttribute('data-theme', newTheme);
+        localStorage.setItem('theme', newTheme);
+      }
+      
+      // Load saved theme
+      const savedTheme = localStorage.getItem('theme') || 'light';
+      document.documentElement.setAttribute('data-theme', savedTheme);
+    </script>
   </body>
 </html>
