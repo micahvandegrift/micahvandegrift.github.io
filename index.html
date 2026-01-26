@@ -104,7 +104,7 @@
         font-family: 'Chivo', sans-serif;
         font-size: 1.5rem;
         color: var(--text-secondary);
-        margin-bottom: 2rem;
+        margin-bottom: 0;
         font-weight: 400;
       }
       
@@ -135,56 +135,6 @@
         color: var(--text-primary);
         margin: 2.5rem 0 1rem 0;
         font-weight: 900;
-      }
-      
-      .badge-wrapper {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 1rem;
-        align-items: center;
-        margin-top: 1.5rem;
-      }
-      
-      .orcid-badge {
-        display: inline-flex;
-        align-items: center;
-        padding: 0.625rem 1.25rem;
-        background: var(--bg-secondary);
-        border: 2px solid var(--border-color);
-        border-radius: 8px;
-        text-decoration: none;
-        color: var(--accent-primary);
-        font-weight: 500;
-        transition: all 0.3s ease;
-      }
-      
-      .orcid-badge:hover {
-        border-color: var(--accent-primary);
-        transform: translateY(-3px);
-        box-shadow: 0 4px 12px var(--shadow);
-      }
-      
-      #downloads {
-        text-align: center;
-        margin: 2.5rem 0;
-      }
-      
-      .button {
-        display: inline-block;
-        padding: 1rem 2.5rem;
-        background: linear-gradient(135deg, var(--accent-primary), var(--accent-secondary));
-        color: white;
-        text-decoration: none;
-        border-radius: 12px;
-        font-weight: 700;
-        font-size: 1.05rem;
-        transition: all 0.3s ease;
-        box-shadow: 0 4px 12px var(--shadow);
-      }
-      
-      .button:hover {
-        transform: translateY(-3px);
-        box-shadow: 0 8px 20px var(--shadow);
       }
       
       hr {
@@ -282,43 +232,7 @@
       <header>
         <h1>Hi, I'm Micah.</h1>
         <h2>Versioning my career.</h2>
-        <div class="badge-wrapper">
-          <div itemscope itemtype="https://schema.org/Person">
-            <a itemprop="sameAs" 
-               content="https://orcid.org/0000-0001-8429-7697" 
-               href="https://orcid.org/0000-0001-8429-7697" 
-               target="orcid.widget" 
-               rel="me noopener noreferrer" 
-               class="orcid-badge">
-              <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" 
-                   style="width:1em;margin-right:.5em;" 
-                   alt="ORCID iD icon">
-              ORCID Profile
-            </a>
-          </div>
-          <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-          <div class="badge-base LI-profile-badge" 
-               data-locale="en_US" 
-               data-size="medium" 
-               data-theme="light" 
-               data-type="VERTICAL" 
-               data-vanity="micahvandegrift" 
-               data-version="v1">
-            <a class="badge-base__link LI-simple-link" 
-               href="https://www.linkedin.com/in/micahvandegrift?trk=profile-badge">
-              My LinkedIn Profile
-            </a>
-          </div>
-        </div>
       </header>
-
-      <section id="downloads">
-        <a href="https://github.com/micahvandegrift" class="button">
-          <span>View on GitHub</span>
-        </a>
-      </section>
-
-      <hr>
 
       <section id="main_content">
         <p>I am a team builder and creative leader, a former librarian, and an advocate for information access. I also have an undying love for the academic study of contemporary popular (sub)culture.</p>
