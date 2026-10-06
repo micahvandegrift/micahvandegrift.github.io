@@ -15,3 +15,7 @@ defaults:
     values:
       title: "Projects"
       body_class: "projects"
+
+# Files that should stay in the repository but not appear on the website.
+exclude:
+  - CLAUDE.md
