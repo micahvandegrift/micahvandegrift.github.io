@@ -6,3 +6,7 @@ defaults:
       path: "CV.md"
     values:
       title: "CV"
+  - scope:
+      path: "Resume.md"
+    values:
+      title: "Resume"
