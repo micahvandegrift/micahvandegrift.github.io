@@ -1,7 +1,7 @@
 # Micah Vandegrift #
 
   * Human-Centered Operations Leader
-  * Email - micahvandegrift@gmail.com
+  * Email - micahvandegrift (at) gmail.com
   * ORCID - [0000-0001-8429-7697](http://orcid.org/0000-0001-8429-7697)
 
 Research Interests
@@ -137,7 +137,7 @@ Mover and Shaker (Community Builder), Library Journal | 2013
 Grants
 ===========
 **$414,000 grant from the Andrew W. Mellon Foundation - Visualizing Digital Scholarship in Libraries and Learning Spaces** 
-[(Immersive Scholar)](www.immersivescholar.org) | 2018-2021
+[(Immersive Scholar)](https://www.immersivescholar.org/) | 2018-2021
 * Lead Principal Investigator
 * The project aimed to increase the impact of academic visualization environments and the scholarship created within them.
 * Launched six new large-scale visualizations and developed extensible models for creating and sharing large-scale and immersive visualizations. 
