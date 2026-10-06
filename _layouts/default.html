@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset='utf-8'>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='https://fonts.googleapis.com/css?family=Chivo:900,400&display=swap' rel='stylesheet' type='text/css'>
+    <title>{{ page.title }} - Micah Vandegrift</title>
+
+    <link rel="stylesheet" href="/stylesheets/site.css">
+    <script src="/javascripts/theme.js"></script>
+  </head>
+
+  <body>
+    <div id="container">
+      <nav class="site-nav">
+        <a href="/">Home</a>
+        <a href="/CV"{% if page.url == "/CV.html" %} aria-current="page"{% endif %}>CV</a>
+        <a href="/Resume_MVandegrift_Jan26.pdf">Resume</a>
+        <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark mode">🌓</button>
+      </nav>
+
+      <section id="main_content" class="prose">
+        {{ content }}
+      </section>
+
+      <footer>
+        &copy; 2026 Micah Vandegrift &middot; Hosted on <a href="https://pages.github.com">GitHub Pages</a>
+      </footer>
+    </div>
+  </body>
+</html>
