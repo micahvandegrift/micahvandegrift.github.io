@@ -1,0 +1,8 @@
+# GitHub Pages settings.
+# Markdown files (like CV.md) become web pages using _layouts/default.html,
+# so they match the homepage. Edit CV.md as usual and the CV page updates.
+defaults:
+  - scope:
+      path: "CV.md"
+    values:
+      title: "CV"
