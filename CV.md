@@ -32,6 +32,8 @@ B.A. in Humanities, Florida State University | 2006
 
 Work experience
 ==========
+Multichannel Information Specialist, [NIH All of Us Research Program](https://nih.gov/allofus) | 2026 - present
+
 Client configuration and Support Lead, Digital Science | 2024 - 2025
 
 Team Lead - Researcher Experience, [NIH All of Us Research Program](https://allofus.nih.gov/) | 2023 - 2024
