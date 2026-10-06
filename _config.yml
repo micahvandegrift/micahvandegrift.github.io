@@ -10,3 +10,8 @@ defaults:
       path: "Resume.md"
     values:
       title: "Resume"
+  - scope:
+      path: "Projects.md"
+    values:
+      title: "Projects"
+      body_class: "projects"
