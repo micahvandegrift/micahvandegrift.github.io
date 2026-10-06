@@ -194,21 +194,17 @@
         margin-bottom: 0.75rem;
         background: var(--bg-secondary);
         border-radius: 10px;
-        transition: all 0.3s ease;
-      }
-      
-      li:hover {
-        transform: translateX(8px);
-        box-shadow: 0 2px 8px var(--shadow);
       }
       
       li:before {
-        content: "▸";
+        content: "";
         position: absolute;
-        left: 1.25rem;
-        color: var(--accent-primary);
-        font-weight: bold;
-        font-size: 1.25rem;
+        left: 1.4rem;
+        top: calc(1rem + 0.92rem - 4px);
+        width: 8px;
+        height: 8px;
+        border-radius: 50%;
+        background: var(--accent-primary);
       }
       
       a {
