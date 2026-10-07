@@ -21,7 +21,7 @@ Career Highlights
 Education
 =========
 
-M.L.I.S. in Library and Information Studies, Florida State University | 2011 
+Master of Library and Information Science (M.L.I.S.), Florida State University | 2011 
 
 M.A. in American and Florida Studies, Florida State University | 2009
 

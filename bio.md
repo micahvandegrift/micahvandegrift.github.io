@@ -19,7 +19,7 @@ Micah’s unique career is rooted in maximizing the accessibility and public imp
 
 Earlier in his career, Micah founded and directed the Office of Digital Research and Scholarship at Florida State University (FSU), growing and leading a team of seven new employees and establishing an innovative service portfolio.
 
-Micah holds a Master of Library and Information Studies (M.L.I.S) and an M.A. in American and Florida Studies, both from FSU. Based in Raleigh, North Carolina, he enjoys soccer, camping, and music, and has proudly competed in the World Beard and Mustache Championships.
+Micah holds a Master of Library and Information Science (M.L.I.S.) and an M.A. in American and Florida Studies, both from FSU. Based in Raleigh, North Carolina, he enjoys soccer, camping, and music, and has proudly competed in the World Beard and Mustache Championships.
 
 *** 
 
@@ -40,7 +40,7 @@ Short-ish
 ---
 1. Micah joined the [All of Us Research Program](https://www.researchallofus.org/) Office of User Experience in March 2022 and was promoted to Team Lead in February 2023. Micah started his career as a librarian at Florida State University, then joined North Carolina State University’s [Open Knowledge Center](https://www.lib.ncsu.edu/department/okc) to develop and advance open science and public scholarship. At NC State he led a team of developers, designers, and researchers to launch products and initiatives, like a cohort-based research development incubator, a series of digital stained glass windows from the #metoo movement, an online publication about the culture, history, and science behind the foods you have at home, and HTML publishing workflows for academic journals. He also served as the Lead Principal Investigator for a $414,000 Andrew W. Mellon Foundation grant and was a Fulbright Scholar in 2018.
 
-Micah holds a Masters in Library and Information Studies (M.L.I.S), an M.A. in American and Florida Studies, and a B.A. in Humanities, all from Florida State University.
+Micah holds a Master of Library and Information Science (M.L.I.S.), an M.A. in American and Florida Studies, and a B.A. in Humanities, all from Florida State University.
 
 Based in Raleigh, Micah and his family enjoy soccer, camping, hiking, movies, and music. Micah competed in the 2005 World Beard and Mustache Championships and is the reigning Mr. Tattooed Tallahassee.
 
