@@ -85,6 +85,7 @@ Tallahassee, FL · Dec 2011 – Apr 2018
 
 # Distinctions
 
+* CEO Leadership Award, *All of Us* Research Program (2026)
 * Best AI Hack, Digital Science Retreat (2025)
 * Fulbright Scholar, Netherlands & Denmark (Aug 2018 – Mar 2019)
 * Fred L. Standley Librarian of the Year (2015)

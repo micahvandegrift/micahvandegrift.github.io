@@ -7,6 +7,14 @@
 
 A selection of projects I've led, built, or helped bring to life.
 
+## AI-Assisted Editorial Workflow
+
+*Current project*
+
+Designed and launched an AI editorial assistant for the *All of Us* Research Program's communications team. Encoded the program's editorial style guide and formatting standards into the assistant, piloted it with content creators, and moved it from pilot into everyday drafting, editing, review, and quality control. The work is built around a "draft once, modulate often" content model: write one core piece, then adapt it for each audience and channel.
+
+This work is part of a broader effort to modernize the program's communications infrastructure, recognized with a 2026 *All of Us* CEO Leadership Award.
+
 ## AI Prompt Repository
 
 Proposed, led, and launched a pilot internal AI prompt repository for a customer success and customer solutions team. Scoped the project, coordinated 10 colleagues, and adapted the repository to fit organizational needs in the midst of change. The beta version of the repository launched and was instrumental in increasing the visibility and utility of AI prompting for internal efficiency and workflow management.
