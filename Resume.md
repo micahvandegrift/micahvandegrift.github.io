@@ -12,6 +12,17 @@ Team Development & Coaching · Cross-Functional Leadership · User Experience St
 
 # Professional Experience
 
+## National Institutes of Health
+
+All of Us Research Program · 2026 – present
+
+**Multichannel Information Specialist**
+
+* Coordinating the internal and external communications
+* Building operational foundation, strategic insights, and tactical implementation across three distinct audience workstreams
+* Partnering with Product, Policy, Innovation, and Scientific teams to align messaging with program and Agency priorities
+* Created multiple LLM-enhanced workflows, including metrics analysis and reporting, efficiency hacks, and knowledge management
+
 ## Digital Science
 
 Remote · Aug 2024 – Nov 2025
@@ -68,12 +79,12 @@ Tallahassee, FL · Dec 2011 – Apr 2018
 
 # Education
 
-* Master of Science (M.S.), Library & Information Science, Florida State University, Tallahassee, FL
+* Master of Library and Information Science (M.L.I.S.), Florida State University, Tallahassee, FL
 * Master of Arts (M.A.), American Studies, Florida State University, Tallahassee, FL
 * Bachelor of Arts (B.A.), Humanities, Florida State University, Tallahassee, FL
 
 # Distinctions
 
 * Best AI Hack, Digital Science Retreat (2025)
-* Fulbright Scholar, Netherlands & Denmark (2018)
+* Fulbright Scholar, Netherlands & Denmark (Aug 2018 – Mar 2019)
 * Fred L. Standley Librarian of the Year (2015)
