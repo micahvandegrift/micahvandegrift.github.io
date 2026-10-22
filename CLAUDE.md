@@ -19,6 +19,12 @@ define it), and keep each change small and easy to review.
   colors. `javascripts/theme.js` is the dark-mode toggle.
 - The menu (Home, CV, Resume, Projects) appears in both `index.html` and
   `_layouts/default.html`. Update both when adding a page.
+- `underground-music/` is a microsite archiving Micah's grad-school course
+  "Underground Music in America: 1980 - Present". It uses its own layout,
+  `_layouts/class.html` (menu: Course home, Micah's site), selected for the
+  whole folder in `_config.yml`. Each class meeting is a `week-XX.md` file
+  with a `title` and `summary` at the top, and the course home page lists
+  them automatically. It is an archive, so it is not in the main menu.
 - `images/headshot-square.jpg` is a face-centered crop of `Headshot.jpg`.
 - `stylesheets/stylesheet.css`, `github-dark.css`, `print.css`,
   `javascripts/main.js` and `params.json` are leftovers from an old theme and
