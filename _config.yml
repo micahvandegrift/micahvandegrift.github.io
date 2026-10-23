@@ -20,6 +20,7 @@ defaults:
       path: "underground-music"
     values:
       layout: "class"
+      body_class: "course"
 
 # Files that should stay in the repository but not appear on the website.
 exclude:

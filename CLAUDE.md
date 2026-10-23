@@ -25,6 +25,10 @@ define it), and keep each change small and easy to review.
   whole folder in `_config.yml`. Each class meeting is a `week-XX.md` file
   with a `title` and `summary` at the top, and the course home page lists
   them automatically. It is an archive, so it is not in the main menu.
+  Web addresses from the original 2009 notes are shown as gray, non-clickable
+  `old-link` tags so Micah can decide which to keep; don't turn them into
+  links without asking. Lecture notes were converted from the original Word
+  files and keep their original wording and spelling.
 - `images/headshot-square.jpg` is a face-centered crop of `Headshot.jpg`.
 - `stylesheets/stylesheet.css`, `github-dark.css`, `print.css`,
   `javascripts/main.js` and `params.json` are leftovers from an old theme and

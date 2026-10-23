@@ -367,3 +367,39 @@ footer {
   .prose h1:first-child { font-size: 2.25rem; }
   .prose h1 { font-size: 1.5rem; }
 }
+
+/* Course microsite (underground-music) */
+.course h3 {
+  font-size: 1.15rem;
+  margin: 2rem 0 0.75rem 0;
+  padding-bottom: 0;
+}
+
+.course h3::after {
+  display: none;
+}
+
+.course li > ul {
+  margin: 0.25rem 0 0 0;
+}
+
+.course img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 0 1.5rem 0;
+  border-radius: 12px;
+}
+
+/* Marks where a web address stood in the original notes; not a clickable link */
+.old-link {
+  display: inline-block;
+  padding: 0 0.4rem;
+  border: 1px dashed var(--border-color);
+  border-radius: 6px;
+  background: var(--bg-secondary);
+  color: var(--text-secondary);
+  font-family: ui-monospace, Menlo, Consolas, monospace;
+  font-size: 0.8rem;
+  line-height: 1.6;
+}
