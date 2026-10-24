@@ -29,6 +29,10 @@ define it), and keep each change small and easy to review.
   `old-link` tags so Micah can decide which to keep; don't turn them into
   links without asking. Lecture notes were converted from the original Word
   files and keep their original wording and spelling.
+  The project plan, open decisions and task list are in
+  `docs/underground-music-plan.md`; read it first. The plan moves the site
+  from week pages to pages by topic or theme. `tools/convert-notes.py` is a
+  helper for converting notes (neither folder is published).
 - `images/headshot-square.jpg` is a face-centered crop of `Headshot.jpg`.
 - `stylesheets/stylesheet.css`, `github-dark.css`, `print.css`,
   `javascripts/main.js` and `params.json` are leftovers from an old theme and

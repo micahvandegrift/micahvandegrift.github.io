@@ -25,3 +25,5 @@ defaults:
 # Files that should stay in the repository but not appear on the website.
 exclude:
   - CLAUDE.md
+  - docs
+  - tools
