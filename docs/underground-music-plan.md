@@ -53,7 +53,8 @@ number.
 | Material | Status |
 |---|---|
 | Spring 2009 syllabus (AMS 3810-01) | Received, used for the home page |
-| Four more syllabi from other semesters | **Micah to send** |
+| Syllabi for Spring 2008, Summer 2008, Fall 2008 (and Spring 2009, above) | Received, compared in `underground-music-semesters.md` |
+| Syllabus for the fifth semester | **Micah to send** (which semester was it?) |
 | Lecture notes (one Word file, about 26,000 words, one long outline running through a whole semester) | Received. Week 1 converted |
 | Book list, Fall 2008 | Received |
 | Listening list "1994-2001" (31 songs) | Received, not yet on the site. Likely the second half of the course |
@@ -68,7 +69,10 @@ spread over roughly 11 blocks of about 900 to 3,800 words each.
 ## Draft topic map
 
 A first guess from the Spring 2009 syllabus and the headings in the notes.
-**Expect it to change** once the other four syllabi arrive.
+**Expect it to change** once the fifth syllabus arrives. The four syllabi
+received so far mostly confirm it; `underground-music-semesters.md` lists the
+topic-by-semester matrix and the few extras (Florida scenes, zine culture,
+early indie, a guest speaker).
 
 1. Roots and context: American experimental music, proto-punk, the 1980s
    (this is the Week 1 prototype)
@@ -132,10 +136,14 @@ Each step is one small pull request, in this order. Micah reviews screenshots
       prototype). Micah says when to merge.
 
 ### Phase 1: Gather
-- [ ] Micah sends the four other syllabi (and the "Play..." details if any
-      other listening lists exist)
-- [ ] Claude builds a comparison: which topics were taught in which
+- [x] Micah sends syllabi (four received; the fifth semester is still
+      missing)
+- [x] Claude builds a comparison: which topics were taught in which
       semesters, which readings, films and songs changed
+      (`underground-music-semesters.md`)
+- [ ] Micah sends the fifth syllabus and confirms the semester labels
+      (Spring 2008, Summer 2008, Fall 2008, Spring 2009 were inferred)
+- [ ] Micah sends any other listening lists
 - [ ] Settle decisions 1 and 2, and approve the topic map
 
 ### Phase 2: Pilot one topic together
@@ -177,7 +185,8 @@ Repeat for each topic in the map. For each page:
 
 1. Open a new Claude session on this repository and ask Claude to read this
    file.
-2. Re-attach the notes (`AMS3810-REAL.doc`), and send the four other syllabi.
+2. Re-attach the notes (`AMS3810-REAL.doc`). The syllabi are already
+   summarized in `underground-music-semesters.md`; send the fifth one.
 3. Answer decisions 1 and 2 (page template and semester differences).
 4. Review the draft topic map and say what to move, merge, add or cut.
 5. Begin Phase 2: edit "Roots and context" together.
