@@ -11,7 +11,7 @@ Companion files in the same folder:
 
 - `underground-music-topics.md`: the master list of every lesson, theme and
   topic taught, with readings, films and where the notes cover each
-- `underground-music-listening.md`: the 77-song listening list, cleaned up
+- `underground-music-listening.md`: the 78-song listening list, cleaned up
 
 ## The goal
 
@@ -63,7 +63,7 @@ number.
 | Syllabi (four; that is all Micah has) | Done. Merged into the topic list |
 | Lecture notes (one Word file, about 26,000 words, one long outline) | Received. Week 1 converted. **Needed again** to do the rest |
 | Book list, Fall 2008 | Used on the home page |
-| Listening list "1994-2001" and the found 77-song list | Merged in the listening file. No links yet |
+| Listening list "1994-2001" and the found list (78 songs together) | Merged in the listening file. No links yet |
 | Promo flyer | On the site |
 | Two newspaper clippings (FSView, April 6, 2009, "Pop culture in the classroom") | Received, **not used** (see decisions) |
 | Lecture recordings | **Not yet sent**; hosting undecided |

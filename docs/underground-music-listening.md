@@ -10,8 +10,10 @@ album. Its line breaks were scrambled, so I rebuilt it one song per row. It
 looks like the full course listening list (the CDs students burned), and its
 order roughly follows the course from the Velvet Underground to the late-2000s
 indie bands. It overlaps with the earlier "1994-2001" list (31 songs, with
-years), so those two are now merged here: the **Year** column comes from the
-1994-2001 list where a song appears on both.
+years), so those two are merged here: the **Year** column comes from the
+1994-2001 list where a song appears on both. The master list now has 78 songs:
+the 77 from the found file plus Cursive's "A Career In Transcendence" from the
+1994-2001 list.
 
 Spellings are kept as they were in the files. Nothing here has links yet.
 
@@ -63,62 +65,60 @@ Micah's word. A question mark means I'm unsure. Micah, please correct freely.
 | 39 | Supplication | Strongarm | The Advent Of A Miracle |  | 12? |
 | 40 | Advent Of A Miracle | Strongarm | The Advent Of A Miracle |  | 12? |
 | 41 | Oh Messy Life | Cap'n Jazz | Analphabetapolothology | 1998 | 10 |
-| 42 | Semantics Of Sermon | Cursive | The Storms Of Early Summer:semantics of song |  | 10 |
-| 43 | independence day | Elliott Smith | XO | 1998 | 13 |
-| 44 | Wakingtowinter | Mineral | EndSerenading | 1998 | 9 |
-| 45 | Breakfast Of Champions | Rainer Maria | Look Now Look Again |  | 9 |
-| 46 | Quantis | Reversal of Man | Revolution Summer | 1998 | 9 |
-| 47 | Never Meant | American Football | American Football | 1999 | 9 |
-| 48 | Alabaster | Assuck | 403 Chaos |  | 9? |
-| 49 | Please Drive Faster | Braid | Movie Music Vol 1 | 1999 | 9 |
-| 50 | Victim Convenience | The Faint | Blank Wave Arcade | 1999 | 10 |
-| 51 | Welcome to Berkely | Fifteen | Lucky |  | 4 |
-| 52 | SouthEast First | Hot Water Music | No Division | 1999 | 9? |
-| 53 | Letter From A Concerned Follower | Pedro The Lion | The Only Reason I Feel Secure Is That I Am Validated By My Peers | 1999 | 12 |
-| 54 | Pattern Against User | At The Drive-In | Relationship of Command |  | 9? |
-| 55 | Sunrise, Sunset | Bright Eyes | Fevers And Mirrors | 2000 | 10 |
-| 56 | The Game of Who Needs Who the Worst | Cursive | Cursive's Domestica | 2000 | 10 |
-| 57 | Four Red Brains | Ghosts and Vodka | Precious Blood | 2000 | 10 |
-| 58 | scimitar | Floor | s/t |  | 7 |
-| 59 | Full Discosure | Fugazi | The Argument |  | 6 |
-| 60 | Sweetness | Jimmy Eat World | Bleed American | 2001 | 9 |
-| 61 | What Whorse You Wrote Id On | Owls | Owls |  | 10 |
-| 62 | For Nate's Brother Whose Name I Never Knew Or Can't Remember | Owls | Owls | 2001 | 10 |
-| 63 | Blackjack | Tortoise | Standards | 2001 | 10 |
-| 64 | Promising Light | Iron & Wine | The Creek Drank The Cradle |  | 13 |
-| 65 | The Hands of Men | Twothirtyeight | Regulate the Chemicals |  | 9? |
-| 66 | Leaf House | Animal Collective | Sung Tongs | 2004 | 13 |
-| 67 | For Kate I Wait | Ariel Pink's Haunted Graffiti | The Doldrums | 2004 | 13 |
-| 68 | It's A Sight To Behold | Devendra Banhart | Rejoicing In The Hands | 2004 | 13 |
-| 69 | Ocean Breathes Salty | Modest Mouse | Good News For People Who Like Bad News |  | 15 |
-| 70 | Reinventing Your Exit | Underoath | They're Only Chasing Safety |  | 12? |
-| 71 | An Inquest Concerning Teeth | Earth | Hex: or Printing in The Infern |  | 7 |
-| 72 | Looking For Astronauts | The National | Alligator |  | 15 |
-| 73 | The Predatory Wasp Of The Palisades Is Out To Get Us! | Sufjan Stevens | Come On Feel The Illinoise! |  | 15 |
-| 74 | No Cars Go | Arcade Fire | Neon Bible |  | 15 |
-| 75 | Skinny Love | Bon Iver | For Emma, Forever Ago |  | 15 |
-| 76 | I Feel It All | Feist | The Reminder |  | 15 |
-| 77 | The Youth | MGMT | Oracular Spectacular |  | 15 |
+| 42 | Semantics Of Sermon | Cursive | The Storms Of Early Summer:semantics of song | 1998 | 10 |
+| 43 | A Career In Transcendence | Cursive | The Storms Of Early Summer: Semantics of Song | 1998 | 10 |
+| 44 | independence day | Elliott Smith | XO | 1998 | 13 |
+| 45 | Wakingtowinter | Mineral | EndSerenading | 1998 | 9 |
+| 46 | Breakfast Of Champions | Rainer Maria | Look Now Look Again |  | 9 |
+| 47 | Quantis | Reversal of Man | Revolution Summer | 1998 | 9 |
+| 48 | Never Meant | American Football | American Football | 1999 | 9 |
+| 49 | Alabaster | Assuck | 403 Chaos |  | 9? |
+| 50 | Please Drive Faster | Braid | Movie Music Vol 1 | 1999 | 9 |
+| 51 | Victim Convenience | The Faint | Blank Wave Arcade | 1999 | 10 |
+| 52 | Welcome to Berkely | Fifteen | Lucky |  | 4 |
+| 53 | SouthEast First | Hot Water Music | No Division | 1999 | 9? |
+| 54 | Letter From A Concerned Follower | Pedro The Lion | The Only Reason I Feel Secure Is That I Am Validated By My Peers | 1999 | 12 |
+| 55 | Pattern Against User | At The Drive-In | Relationship of Command |  | 9? |
+| 56 | Sunrise, Sunset | Bright Eyes | Fevers And Mirrors | 2000 | 10 |
+| 57 | The Game of Who Needs Who the Worst | Cursive | Cursive's Domestica | 2000 | 10 |
+| 58 | Four Red Brains | Ghosts and Vodka | Precious Blood | 2000 | 10 |
+| 59 | scimitar | Floor | s/t |  | 7 |
+| 60 | Full Discosure | Fugazi | The Argument |  | 6 |
+| 61 | Sweetness | Jimmy Eat World | Bleed American | 2001 | 9 |
+| 62 | What Whorse You Wrote Id On | Owls | Owls |  | 10 |
+| 63 | For Nate's Brother Whose Name I Never Knew Or Can't Remember | Owls | Owls | 2001 | 10 |
+| 64 | Blackjack | Tortoise | Standards | 2001 | 10 |
+| 65 | Promising Light | Iron & Wine | The Creek Drank The Cradle |  | 13 |
+| 66 | The Hands of Men | Twothirtyeight | Regulate the Chemicals |  | 9? |
+| 67 | Leaf House | Animal Collective | Sung Tongs | 2004 | 13 |
+| 68 | For Kate I Wait | Ariel Pink's Haunted Graffiti | The Doldrums | 2004 | 13 |
+| 69 | It's A Sight To Behold | Devendra Banhart | Rejoicing In The Hands | 2004 | 13 |
+| 70 | Ocean Breathes Salty | Modest Mouse | Good News For People Who Like Bad News |  | 15 |
+| 71 | Reinventing Your Exit | Underoath | They're Only Chasing Safety |  | 12? |
+| 72 | An Inquest Concerning Teeth | Earth | Hex: or Printing in The Infern |  | 7 |
+| 73 | Looking For Astronauts | The National | Alligator |  | 15 |
+| 74 | The Predatory Wasp Of The Palisades Is Out To Get Us! | Sufjan Stevens | Come On Feel The Illinoise! |  | 15 |
+| 75 | No Cars Go | Arcade Fire | Neon Bible |  | 15 |
+| 76 | Skinny Love | Bon Iver | For Emma, Forever Ago |  | 15 |
+| 77 | I Feel It All | Feist | The Reminder |  | 15 |
+| 78 | The Youth | MGMT | Oracular Spectacular |  | 15 |
+
+## Decisions made
+
+- The stray "Red" after "Joan of Arc" (Melvins, *Houdini*) was dropped.
+- Both Cursive songs from *The Storms of Early Summer* are on the list.
+- Shai Hulud, "Solely Concentrating On The Negative Aspects Of Life," and Make
+  Believe, "Temping As A Shaman," from the 1994-2001 list are left off.
 
 ## Things to confirm
 
-- **Row 23:** the file reads "Joan Of Arc, Melvins, Houdini, Red." I read it as
-  the song "Joan of Arc" from the album *Houdini*, with a stray "Red" that
-  I dropped. Is "Red" a song or a leftover?
 - **Typos in the file:** "Welcome to Berkely" (Berkeley), "Full Discosure"
   (Disclosure), "What Whorse You Wrote Id On" (What Horse You Wrote Id On),
   "Teen Age Riot" (Teenage Riot, as the notes write it), and the Earth
-  album title, cut off as "Hex: or Printing in The Infern."
-- **Row 42 vs. the other list:** Cursive appears here as "Semantics Of
-  Sermon," and on the 1994-2001 list as "A Career In Transcendence," both
-  from the same album. Which one did you play?
-- **Row 49:** Braid, "Please Drive Faster," is on the album *Movie Music Vol 1*
-  here, but the 1994-2001 list gives the album as *Please Drive Faster*.
-- **On the 1994-2001 list only (not in the 77):** Shai Hulud, "Solely
-  Concentrating On The Negative Aspects Of Life" (*Hearts Once Nourished With
-  Hope And Compassion*, 1997); Cursive, "A Career In Transcendence"
-  (1998); Make Believe, "Temping As A Shaman" (*Make Believe EP*, 2004). Add
-  them to the master list?
+  album title, cut off as "Hex: or Printing in The Infern." Fix these when the
+  songs go on topic pages?
+- **Braid:** "Please Drive Faster" is on the album *Movie Music Vol 1* here, but
+  the 1994-2001 list gives the album as *Please Drive Faster*.
 - **Gaps:** The notes' "Play..." cues name songs that aren't here (for
   example Glenn Branca's Symphony No. 5, Sonic Youth's "Death Valley 69" and
   "Kool Thing," Operation Ivy's "Freeze Up"). Those are for the topic pages.
