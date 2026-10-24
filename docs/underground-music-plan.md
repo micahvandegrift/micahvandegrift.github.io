@@ -34,21 +34,21 @@ Principles:
 
 ## Where things stand
 
-Done, on the branch `claude/underground-music-scaffold` (pushed, **no pull
-request opened yet**, so nothing is live):
+Done and live (pull request 22 merged October 24, 2026):
 
 - [x] Course layout (`_layouts/class.html`) with its own small menu and the
       main site's dark-mode toggle
 - [x] Course home page: description, objectives, texts, films, themes, bands,
       promo flyer, and an automatic list of pages
-- [x] `week-01.md`: a prototype page converted from the notes, with gray
-      "old link" tags where 2009 web addresses stood
+- [x] A prototype page converted from the notes, with gray "old link" tags
+      where 2009 web addresses stood
 - [x] A saved converter for the notes (`tools/convert-notes.py`)
 - [x] All the syllabi read and merged into one topic list (16 topics)
 - [x] The listening list found, cleaned up and merged with the 1994-2001 list
 
-Week 1 is a prototype. It will become the page for topic 1 once we settle
-the page template below.
+In progress: `topic-01.md` is a first edited draft of topic 1 (the old Week 1
+prototype), using the recommended template from decision 1. Micah has not
+yet approved the template or the edits.
 
 ## What Micah has, and what's still to come
 
@@ -61,7 +61,7 @@ number.
 | Material | Status |
 |---|---|
 | Syllabi (four; that is all Micah has) | Done. Merged into the topic list |
-| Lecture notes (one Word file, about 26,000 words, one long outline) | Received. Week 1 converted. **Needed again** to do the rest |
+| Lecture notes (one Word file, about 26,000 words, one long outline) | Received again October 24, 2026. Topic 1 edited. **Needed again** in a new session to do the rest |
 | Book list, Fall 2008 | Used on the home page |
 | Listening list "1994-2001" and the found list (78 songs together) | Merged in the listening file. No links yet |
 | Promo flyer | On the site |
@@ -132,8 +132,7 @@ Each step is one small pull request, in this order. Micah reviews screenshots
 (desktop, phone, dark mode) before each one.
 
 ### Phase 0: Housekeeping
-- [ ] Open a pull request for the current branch (home page and Week 1
-      prototype). Micah says when to merge.
+- [x] Pull request for the home page and Week 1 prototype, merged
 
 ### Phase 1: Gather (done)
 - [x] Syllabi read and merged into one topic list
@@ -143,9 +142,9 @@ Each step is one small pull request, in this order. Micah reviews screenshots
 - [ ] Take topic 1 (introduction, roots and context) from raw notes to a
       finished page, editing it together. This sets the template and the
       editing rules (decision 1)
-- [ ] Rename `week-01.md` to a topic page and change the course home list to
-      show topics (in the order above) instead of weeks
-- [ ] Fold the original notes under a toggle
+- [x] Rename `week-01.md` to `topic-01.md` and change the course home list to
+      show topics instead of weeks (draft, awaiting Micah's review)
+- [x] Fold the original notes under a toggle (draft, awaiting Micah's review)
 
 ### Phase 3: Topic pages, one at a time
 Repeat for topics 2 through 16. For each page:
@@ -208,9 +207,8 @@ the table by hand.
 
 ## How the pieces work
 
-- `underground-music/index.md` is the course home. Pages named `week-XX.md`
-  in that folder are listed on it automatically (this will change to a topic
-  list in Phase 2).
+- `underground-music/index.md` is the course home. Pages named `topic-XX.md`
+  in that folder are listed on it automatically.
 - `_layouts/class.html` is the course layout. `_config.yml` applies it to
   everything in the folder and sets the `course` styling class.
 - `stylesheets/site.css` has a "Course microsite" section at the bottom for

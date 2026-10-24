@@ -403,3 +403,14 @@ footer {
   font-size: 0.8rem;
   line-height: 1.6;
 }
+
+/* "Show the original lecture notes" toggle on topic pages */
+.course details {
+  margin: 1rem 0 2rem 0;
+}
+
+.course summary {
+  cursor: pointer;
+  font-weight: 700;
+  color: var(--text-primary);
+}
