@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset='utf-8'>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='https://fonts.googleapis.com/css?family=Chivo:900,400&display=swap' rel='stylesheet' type='text/css'>
+    <title>{{ page.title }} - Underground Music in America</title>
+
+    <link rel="stylesheet" href="/stylesheets/site.css">
+    <script src="/javascripts/theme.js"></script>
+  </head>
+
+  <body>
+    <div id="container">
+      <nav class="site-nav">
+        <a href="/underground-music/"{% if page.url == "/underground-music/" %} aria-current="page"{% endif %}>Course home</a>
+        <a href="/">Micah's site</a>
+        <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark mode">🌓</button>
+      </nav>
+
+      <section id="main_content" class="prose {{ page.body_class }}">
+        {{ content }}
+      </section>
+
+      <footer>
+        An archive of a course I taught &middot; Part of <a href="/">micahvandegrift.github.io</a>
+      </footer>
+    </div>
+  </body>
+</html>
