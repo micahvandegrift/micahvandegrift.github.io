@@ -97,10 +97,11 @@ pages).
 
 Each has my recommendation. Micah decides.
 
-1. **Page template for a topic. DECIDED (October 27, 2026).** A short
-   overview in Micah's voice; class sessions; key ideas; who's who (bands,
-   dates); a summary of the era where the topic needs one; listen and watch;
-   readings; films; discussion questions (the notes have some). The original
+1. **Page template for a topic. DECIDED (October 27, 2026).** In this
+   order: a short overview in Micah's voice; listen and watch; readings;
+   discussion questions (the notes have some); class sessions; key ideas;
+   who's who (bands, dates); a summary of the era where the topic needs one;
+   films. `topic-01.md` is the model for the other pages. The original
    lecture notes are **not** published on the site: the edited page replaces
    them. (The unedited Week 1 notes were live from October 24 to 27, 2026 and
    remain in the repository's history.)

@@ -15,6 +15,38 @@ The story of this music works in and out of chronological order. There are brief
 
 The second half of the topic is context. Art is always a product of its time, so to understand it we start with the age it came from: the 1980s, which are known for two things, politics and entertainment. Underneath all of it came a reaction, an underground that was aesthetically, philosophically and politically opposed to the mainstream.
 
+## Listen and watch
+
+*Songs and clips played in class, as cued in the notes. Links to come.*
+
+* John Cage, *4'33"*
+* The Velvet Underground, "I'm Waiting for the Man"
+* The Stooges, "I Wanna Be Your Dog"
+* Glenn Branca, Symphony No. 5, fifth movement
+* Apple's "1984" commercial
+* 1980s commercials, to show the glitzy picture of the decade that the underground rejected
+
+## Readings
+
+*From the Spring 2009 syllabus.*
+
+* The Introduction in Azerrad, *Our Band Could Be Your Life*
+* The Introduction in Sinker, *We Owe You Nothing*
+* The Introduction in Greenberg, *Youth Subcultures*
+* Holly Kruse, "Telling the Story of Independent Music," pp. 5-13
+
+*Also mentioned in the notes:* Kyle Gann, *American Music in the 20th Century*; Lester Bangs, pp. 34, 39, 44 and 45 (on the Stooges).
+
+## Discussion questions
+
+*All of these come from the notes.*
+
+* Why have a course on underground music?
+* How would you define "underground," "indie" and "DIY"? These definitions will change and grow over the timeline of this music.
+* What was the socio-cultural context? What was happening in the world?
+* Who decides which values are the "fundamental values" of America?
+* Was the underground a counterculture in the beginning that became a subculture?
+
 ## Class sessions
 
 * Day 1: Introductions. Why have a course on underground music?
@@ -82,38 +114,6 @@ The second half of the topic is context. Art is always a product of its time, so
 * Reagan's campaign slogan: "It is morning in America!"
 * Bruce Springsteen released *Born in the USA*, with songs about working-class people around 35 years old facing economic or personal difficulties and a sense of better times past.
 
-## Listen and watch
-
-*Songs and clips played in class, as cued in the notes. Links to come.*
-
-* John Cage, *4'33"*
-* The Velvet Underground, "I'm Waiting for the Man"
-* The Stooges, "I Wanna Be Your Dog"
-* Glenn Branca, Symphony No. 5, fifth movement
-* Apple's "1984" commercial
-* 1980s commercials, to show the glitzy picture of the decade that the underground rejected
-
-## Readings
-
-*From the Spring 2009 syllabus.*
-
-* The Introduction in Azerrad, *Our Band Could Be Your Life*
-* The Introduction in Sinker, *We Owe You Nothing*
-* The Introduction in Greenberg, *Youth Subcultures*
-* Holly Kruse, "Telling the Story of Independent Music," pp. 5-13
-
-*Also mentioned in the notes:* Kyle Gann, *American Music in the 20th Century*; Lester Bangs, pp. 34, 39, 44 and 45 (on the Stooges).
-
 ## Films
 
 None for this topic.
-
-## Discussion questions
-
-*All of these come from the notes.*
-
-* Why have a course on underground music?
-* How would you define "underground," "indie" and "DIY"? These definitions will change and grow over the timeline of this music.
-* What was the socio-cultural context? What was happening in the world?
-* Who decides which values are the "fundamental values" of America?
-* Was the underground a counterculture in the beginning that became a subculture?
