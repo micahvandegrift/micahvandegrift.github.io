@@ -46,9 +46,9 @@ Done and live (pull request 22 merged October 24, 2026):
 - [x] All the syllabi read and merged into one topic list (16 topics)
 - [x] The listening list found, cleaned up and merged with the 1994-2001 list
 
-In progress: `topic-01.md` is a first edited draft of topic 1 (the old Week 1
-prototype), using the recommended template from decision 1. Micah has not
-yet approved the template or the edits.
+In progress: `topic-01.md` is an edited draft of topic 1 (the old Week 1
+prototype). Micah approved the template (without the original notes). The
+edits and the doubtful facts listed below are still to be confirmed.
 
 ## What Micah has, and what's still to come
 
@@ -97,19 +97,24 @@ pages).
 
 Each has my recommendation. Micah decides.
 
-1. **Page template for a topic.** Recommended: a short overview in Micah's
-   voice; key ideas; who's who (bands, dates); listen and watch; readings;
-   films; discussion questions (the notes have some); and, at the bottom, the
-   original notes folded away under a "Show the original lecture notes" toggle
-   so the archive stays faithful.
-2. **Old links (about 190).** For each gray tag Micah chooses keep or drop.
-   Recommended process: Claude produces one table with each link, the
-   sentence it sat in, and whether it still works or has a Wayback Machine
-   copy. Micah marks the table. See "Link checking" below.
+1. **Page template for a topic. DECIDED (October 27, 2026).** A short
+   overview in Micah's voice; class sessions; key ideas; who's who (bands,
+   dates); a summary of the era where the topic needs one; listen and watch;
+   readings; films; discussion questions (the notes have some). The original
+   lecture notes are **not** published on the site: the edited page replaces
+   them. (The unedited Week 1 notes were live from October 24 to 27, 2026 and
+   remain in the repository's history.)
+2. **Old links (about 190).** Since the original notes are no longer shown,
+   the old links no longer appear on the site. They still matter where a
+   song, clip or article is worth linking from a topic's Listen and watch
+   list. For those, Claude produces one table with each link, the sentence it
+   sat in, and whether it still works or has a Wayback Machine copy. Micah
+   marks the table. See "Link checking" below.
 3. **Copyrighted text pasted into the notes.** The notes include full lyrics
    (for example Bad Brains, "Pay to Cum"), a full allmusic review of "Teenage
-   Riot," and a long bio blurb. Recommended: replace with a short quote, credit
-   and a link.
+   Riot," and a long bio blurb. Since the notes aren't published, this only
+   matters if an edited page would quote them. Rule: use a short quote,
+   credit and a link, never the full text.
 4. **Recordings.** Recommended: upload to YouTube as unlisted, or Archive.org,
    and embed. Think first about whether student voices are in them, and
    whether Micah is comfortable publishing that.
@@ -140,11 +145,13 @@ Each step is one small pull request, in this order. Micah reviews screenshots
 
 ### Phase 2: Pilot one topic together
 - [ ] Take topic 1 (introduction, roots and context) from raw notes to a
-      finished page, editing it together. This sets the template and the
+      finished page, editing it together (draft done; waiting on Micah's
+      review and answers on the facts below). This sets the template and the
       editing rules (decision 1)
 - [x] Rename `week-01.md` to `topic-01.md` and change the course home list to
       show topics instead of weeks (draft, awaiting Micah's review)
-- [x] Fold the original notes under a toggle (draft, awaiting Micah's review)
+- [x] Original notes are not published (Micah's decision, October 27, 2026),
+      so no toggle
 
 ### Phase 3: Topic pages, one at a time
 Repeat for topics 2 through 16. For each page:
@@ -153,8 +160,9 @@ Repeat for topics 2 through 16. For each page:
 - [ ] Pull the "Play..." cues and this topic's songs from the listening list
       into a Listen and watch list
 - [ ] List readings and films from the topic list
-- [ ] Mark every old link with a gray tag; Micah decides keep or drop
-- [ ] Trim pasted copyrighted text (decision 3)
+- [ ] Collect old links worth keeping for the Listen and watch list; Micah
+      decides keep or drop
+- [ ] Leave out pasted copyrighted text (decision 3)
 - [ ] Build locally, check desktop, phone and dark mode, then PR
 
 ### Phase 4: Course-level pages
@@ -197,6 +205,24 @@ and the open questions in the listening file.
 - Claude can't check facts online reliably from the cloud environment.
   Micah's sources win.
 - Never turn an old link into a real link without Micah's say-so.
+
+## Facts to confirm with Micah
+
+Kept as written in the notes; Claude can't verify them from the cloud.
+
+Topic 1:
+
+- The notes call Philip Glass an inspiration to Bowie, Harry Partch, Milton
+  Babbitt, Brian Eno and John Zorn. Partch and Babbitt are older than Glass,
+  so this may be a list of the wider experimental lineage.
+- Glass and La Monte Young are called part of "the New York School," a name
+  usually used for Cage's circle.
+- The Brian Eno line about 1,000 copies of the Velvet Underground record
+  needs an exact source.
+- *Thriller* in 1982 "forced MTV to change its format": the effect may date
+  from the 1983 videos.
+- The Cage quote beginning "Faith in the liberation of the unconscious" has
+  no source in the notes.
 
 ## Link checking
 
