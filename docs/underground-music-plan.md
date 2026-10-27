@@ -165,6 +165,30 @@ Each step is one small pull request, in this order. Micah reviews screenshots
 - [x] Original notes are not published (Micah's decision, October 27, 2026),
       so no toggle
 
+### Phase 2b: Edit the text first (decided October 27, 2026)
+
+Micah wants every page to stand alone, so there are no references to "the
+notes" or the syllabus on the site. Before any more site work, the notes are
+edited into the final text, one file per topic, in `docs/underground-music-text/`
+(not published; plain Markdown with no site layout). Rules for this text:
+
+- Written as the course's own account, in Micah's voice, with no mention of
+  "the notes," "the syllabus," or where something was cued from.
+- Facts that can't be checked are marked **[CONFIRM: ...]**. Micah settles each
+  one and the marker is deleted before the text goes on the site.
+- No pasted lyrics or reviews; short quotes with credit only.
+- Sections: Overview, Listen and watch, Readings, Discussion questions, then
+  the body in readable prose under headings.
+
+Progress:
+- [x] Topic 1 (pilot, waiting for Micah's reaction to the form)
+- [ ] Topics 2 to 16
+- [ ] Pour the finished text into the site pages (topics 1 to 3 on the site
+      still have "the notes" wording and will be replaced)
+
+Site work is paused until this round is done. `topic-03.md` is drafted on the
+branch but not merged.
+
 ### Phase 3: Topic pages, one at a time
 Repeat for topics 2 through 16. For each page:
 - [ ] Convert the raw notes (`tools/convert-notes.py`)
