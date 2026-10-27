@@ -50,6 +50,17 @@ In progress: `topic-01.md` is an edited draft of topic 1 (the old Week 1
 prototype). Micah approved the template (without the original notes). The
 edits and the doubtful facts listed below are still to be confirmed.
 
+Topic 1 is live. `topic-02.md` (No Wave and Sonic Youth) is drafted and
+waiting for Micah's review.
+
+One gap found while drafting topic 2: the notes have a block, "Discussion on
+Terms of Discourse" (what "underground," "independent" and "DIY" mean, plus
+the negation questions), that sits right after the Sonic Youth section. Topic
+1's syllabus lesson list includes it, but it isn't on the topic 1 page. The
+negation and American Dream questions went into topic 2. The definitions of
+underground, independent and DIY are still to be added to topic 1 (a small
+follow-up change).
+
 ## What Micah has, and what's still to come
 
 The original files live on Micah's computer. **Files shared in a Claude session
@@ -210,6 +221,16 @@ and the open questions in the listening file.
 ## Facts to confirm with Micah
 
 Kept as written in the notes; Claude can't verify them from the cloud.
+
+Topic 2:
+
+- The notes say *Daydream Nation* was added to the Library of Congress,
+  National Recording Preservation Board, on May 24, 2007. The page says only
+  "the Library of Congress"; the exact body or list may need correcting.
+- The notes name the 1994 album only as *Experimental Jet Set*; the full
+  title may be longer.
+- The notes list Jim O'Rourke as a former member and also as a full member
+  from *SYR3*; the page lists him in both places as the notes do.
 
 Topic 1:
 
