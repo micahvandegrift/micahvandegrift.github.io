@@ -50,8 +50,8 @@ In progress: `topic-01.md` is an edited draft of topic 1 (the old Week 1
 prototype). Micah approved the template (without the original notes). The
 edits and the doubtful facts listed below are still to be confirmed.
 
-Topic 1 is live. `topic-02.md` (No Wave and Sonic Youth) is drafted and
-waiting for Micah's review.
+Topics 1 and 2 are live. `topic-03.md` (Hardcore) is drafted and waiting for
+Micah's review.
 
 The notes' "Discussion on Terms of Discourse" block (what "underground,"
 "independent" and "DIY" mean, plus the negation, Daydream Nation and American
@@ -221,6 +221,19 @@ and the open questions in the listening file.
 ## Facts to confirm with Micah
 
 Kept as written in the notes; Claude can't verify them from the cloud.
+
+Topic 3:
+
+- The notes cite "Blush, p. 16" and "p. 17" but the syllabus reading is only
+  called "American Hardcore." Is Blush's book that reading?
+- "Pay to Cum" (1979) is called a hardcore "album" in the notes; it may be a
+  single.
+- Fear's *The Record* is dated 1979 in the notes; the album may be from
+  later.
+- The *Saturday Night Live* performance by Fear is dated 1980 in the notes;
+  confirm the year.
+- The Germs "reformed recently with Shane West": the notes are from about
+  2009, so that "recently" may need a date.
 
 Topic 2:
 
