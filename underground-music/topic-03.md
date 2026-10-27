@@ -15,93 +15,54 @@ In the early 1980s, kids were looking for a style with the ferocity of punk, min
 
 ## Listen and watch
 
-*Songs and clips played in class, as cued in the notes. Links to come.*
-
-* Bad Brains, "Pay to Cum" (1979)
-* Fear, performing on *Saturday Night Live* (1980, per the notes)
+* Bad Brains, "Pay to Cum" (1980)
+* Fear, performing on *Saturday Night Live* (Halloween 1981)
 * A clip from *Dogtown*, chapters 20 and 21 (skateboard culture)
 * Excerpts from an article about the fanzine *Flipside*, read in class
-
-*From the course listening list:*
-
 * Black Flag, "Nervous Breakdown"
+
+## Films
+
+* *American Hardcore* (DVD)
 
 ## Readings
 
-*From the Spring 2009 syllabus.*
+* Steven Blush, *American Hardcore: A Tribal History* (Feral House, 2001), from the course library
 
-* "American Hardcore" (course library)
-
-*Also mentioned in the notes:* "Blush," pp. 16 and 17, cited for the meaning of "hardcore" and for a Greg Graffin quote about Rodney on the ROQ.
+Further reading: Blush, pp. 16 and 17 (the meaning of "hardcore," and a Greg Graffin quote about Rodney on the ROQ).
 
 ## Discussion questions
-
-*All of these come from the notes.*
 
 * Where Sonic Youth were considered more of an idealistic influence, what was the musical influence?
 * Where did this new sound come from?
 * Who were its progenitors, and what were they doing to make it different?
 
-## Class sessions
+## Where the word comes from
 
-* Introduction to hardcore
-* Roots of the genres
-* Skate culture
+The term "hardcore" is said to come from D.O.A.'s album *Hardcore '81*. It also took meaning from its common use, "to the most extreme." Hardcore punk "was the absolute most Punk" (Blush, p. 16).
 
-## Key ideas
+## Southern California
 
-* **A bastard child of punk rock.** Hardcore took influence from British and American punk bands, stripping bare the song structure and the fashion of the mainstream.
-* **Where the word comes from.** The term is said to come from D.O.A.'s album *Hardcore 81*. It also took meaning from its common use, "to the most extreme." Hardcore punk "was the absolute most Punk" (Blush, p. 16).
-* **Southern California, out of a middle-class utopia.** The scene started there.
-* **The British side.** Bands like 999 and Sham 69 were the underside of the Sex Pistols. They released records like "If the Kids Are United."
-* **The American side.** The Ramones and The Germs were highly influential.
-* **The first hardcore album?** On the West Coast, The Middle Class, *Out of Vogue*, 1978, on Joke Records. On the East Coast, Bad Brains, "Pay to Cum," 1979, on Bad Brains' own label. (The song's lyrics are in the original notes and are not reproduced here.)
-* **Skatecore.** Bands such as The Scoundrels (Tony Alva) and Gang Green (Boston) started the term "Skate or Die!"
+Hardcore started in Southern California, out of a middle-class utopia. Across the Atlantic, British bands like 999 and Sham 69 were the underside of the Sex Pistols, and they released records like "If the Kids Are United." On the American side, The Ramones and The Germs were highly influential.
 
-**Flipside**
+**The Germs** were Darby Crash, Pat Smear, Lorna Doom and a string of different drummers, one of them billed as Cliff Hanger. Belinda Carlisle, later of The Go-Go's, was named as an early drummer under the name Dottie Danger, though illness kept her from playing with them. They put out the bulk of their work on Slash Records. Their album *(GI)* came out on Slash in 1979, produced by Joan Jett. In 2005 they reformed with the actor Shane West as the lead singer, and he left in 2009.
 
-* A fanzine made in Whittier, California, east of Los Angeles.
-* Started by Al, Dean Dead, Larry Lash, X-8 and Pooch, students at Whittier High School and fans of punk rock. They were inspired by UK zines like *Sniffin' Glue*.
-* X-8 was the school newspaper editor and an artist.
-* It premiered in August 1977 at 25 cents, originally covering just the L.A. scene, and ran until around 2000.
-* In the mid-1980s it began putting out Flipside Video and a BBS (Bulletin Board System): a chat room and video podcast.
+**Slash Records** was founded by Bob Biggs in 1978 as an outgrowth of the Los Angeles punk zine of the same name. It also put out **Fear**'s *The Record* (1982). Fear's Lee Ving just wanted to piss everyone off. The band later featured a young bass player named Flea.
 
-**Radio and labels**
+### Flipside
 
-* Rodney on the ROQ: L.A. DJ Rodney Bingenheimer on KROQ, Sundays, 8 pm to midnight.
-* Slash Records was founded by Bob Biggs in 1978 as an outgrowth of his zine of the same name. The Germs put out the bulk of their work on Slash.
+*Flipside* was a fanzine made in Whittier, California, east of Los Angeles. It was started by a group of friends at Whittier High School, including Al, Larry Lash, X-8 and Pooch, fans of punk rock who were inspired by UK zines like *Sniffin' Glue*. X-8 was the school newspaper editor and an artist. It premiered in August 1977 at 25 cents, originally covering just the L.A. scene, and ran until the early 2000s. In the mid-1980s it began putting out Flipside Video, a series of videotapes of bands, and a BBS (Bulletin Board System), an early online chat room.
 
-**Skateboard culture**
+### Rodney on the ROQ
 
-* *Skateboarder* magazine focused on the area around San Diego and folded in 1982.
-* *Thrasher* was San Francisco-based and covered skate culture and hardcore. Brian "Pushead" Schroeder was the music editor, and his column *Puszone* was a minefield for new music.
+L.A. DJ Rodney Bingenheimer hosted a show on KROQ, *Rodney on the ROQ*, which began in 1976, on Sundays from 8 pm to midnight.
 
-## Who's who
+## Skate culture
 
-**Hardcore in Southern California**
+*Skateboarder* magazine was published in Southern California and stopped publishing in the 1980s. *Thrasher* was San Francisco-based and covered skate culture along with hardcore. Brian "Pushead" Schroeder was its music editor, and his column *Puszone* was a minefield for new music.
 
-* The Germs: Darby Crash, Pat Smear, Lorna Doom and seven different drummers, one of them named Cliff Hanger. Belinda Carlisle (of The Go-Go's) also played with them for some time. The notes say they had reformed "recently" with Shane West as the lead singer.
-* *GI* (1979), The Germs' album on Slash Records, produced by Joan Jett.
-* Fear: *The Record* (1979, Slash Records). Lee Ving just wanted to piss everyone off. They later featured a young bass player named Flea.
-* D.O.A., whose *Hardcore 81* gave the music its name.
-* The Middle Class (*Out of Vogue*, Joke Records).
-* The Scoundrels (Tony Alva), "skatecore."
+"Skatecore" bands like The Scoundrels (Tony Alva) and Gang Green (Boston) started the term "Skate or Die!"
 
-**East Coast**
+## The first hardcore record?
 
-* Bad Brains, "Pay to Cum."
-* Gang Green (Boston), "skatecore."
-
-**British punk**
-
-* 999 and Sham 69, "the underside of the Sex Pistols."
-
-**Zines and media**
-
-* *Flipside* (Whittier, CA), *Skateboarder* (San Diego area), *Thrasher* (San Francisco) and its music editor Pushead.
-* Rodney Bingenheimer, on KROQ.
-* Bob Biggs, founder of Slash Records.
-
-## Films
-
-* *American Hardcore* (DVD), shown in class.
+Two records are in the running. On the West Coast, The Middle Class's *Out of Vogue* EP (Joke Records, released in late 1978 or January 1979, depending on the source). On the East Coast, Bad Brains' "Pay to Cum" single (June 1980, on the band's own Bad Brain Records, recorded in December 1979). Steven Blush names them as the first West Coast and East Coast hardcore records.

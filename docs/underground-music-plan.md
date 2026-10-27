@@ -46,20 +46,16 @@ Done and live (pull request 22 merged October 24, 2026):
 - [x] All the syllabi read and merged into one topic list (16 topics)
 - [x] The listening list found, cleaned up and merged with the 1994-2001 list
 
-In progress: `topic-01.md` is an edited draft of topic 1 (the old Week 1
-prototype). Micah approved the template (without the original notes). The
-edits and the doubtful facts listed below are still to be confirmed.
-
-Topics 1 and 2 are live. `topic-03.md` (Hardcore) is drafted and waiting for
-Micah's review.
-
-The notes' "Discussion on Terms of Discourse" block (what "underground,"
-"independent" and "DIY" mean, plus the negation, Daydream Nation and American
-Dream questions) sits right after the Sonic Youth section but belongs to
-topic 1, as the syllabus lists it. Micah asked for it to live on topic 1, so
-the definitions are now there (a "Terms of discourse" section and the "who is
-'we'?" question). The questions about Sonic Youth and their work (negation,
-*Daydream Nation*, the American Dream) stay on topic 2, at Micah's direction.
+**October 27, 2026:** all 16 topics are written as stand-alone text and are
+in `underground-music/topic-01.md` to `topic-16.md` (pending a pull request
+and merge; until then only topics 1 to 3 older drafts are live). The text was
+edited from the lecture notes, run through a research agent (web sources only,
+no books), and finished on this basis, decided by Micah: **he accepts the risk
+that quotations and citations from his lecture notes are unverified.** Where
+the agent could only say "not confirmed," the text keeps his notes' wording;
+where the agent found evidence that a note was wrong, the text uses the
+corrected fact. The agent's work and the list of unsettled items are in
+`docs/underground-music-text/audit/`.
 
 ## What Micah has, and what's still to come
 
@@ -165,34 +161,25 @@ Each step is one small pull request, in this order. Micah reviews screenshots
 - [x] Original notes are not published (Micah's decision, October 27, 2026),
       so no toggle
 
-### Phase 2b: Edit the text first (decided October 27, 2026)
+### Phase 2b: Edit the text first (done October 27, 2026)
 
-Micah wants every page to stand alone, so there are no references to "the
-notes" or the syllabus on the site. Before any more site work, the notes are
-edited into the final text. Rules for this text:
+Micah wanted every page to stand alone, with no references to "the notes" or
+the syllabus. The notes were edited into prose, flagged for fact-checking,
+checked by a research agent, and finished (see "Where things stand").
 
-- Written as the course's own account, in Micah's voice, with no mention of
-  "the notes," "the syllabus," or where something was cued from.
-- Unchecked facts are marked `[CONFIRM Txx-yy]`, with a matching entry in a
-  queue at the end of each topic.
-- No pasted lyrics or reviews; short quotes with credit only.
-- Sections: Overview, Listen and watch, Films, Readings, Discussion questions,
-  then the body in readable prose under headings.
+- [x] All 16 topics edited (`docs/underground-music-text/all-topics.md` is the
+      version that went to the agent; the agent's prompt is `agent-prompt.md`).
+- [x] Research pass done; the agent's files are in `docs/underground-music-text/audit/`.
+- [x] Spot-check of 20 of the agent's corrections: 14 fully right, 5 right in
+      substance with a flawed detail (fixed), 1 wrong (fixed).
+- [x] Micah's decision to accept the risk on unverified quotes and citations.
+- [x] Final text poured into the site pages `topic-01.md` to `topic-16.md`.
+- [ ] Pull request and merge (waiting for Micah).
 
-Progress (October 27, 2026):
-- [x] All 16 topics edited into one file for an LLM research agent:
-      `docs/underground-music-text/all-topics.md` (225 flagged items).
-- [x] The agent's instructions: `docs/underground-music-text/agent-prompt.md`.
-- [ ] Micah gives both files to a research agent (fact-check, dates, quotes,
-      context). It returns a revised file, a change log and a sources list.
-- [ ] Micah settles the items the agent leaves unresolved, and the gaps (for
-      example, Topic 15 is thin and Topic 14 lacks Pettibon and Sinclair).
-- [ ] Split the finished file into the site's `topic-XX.md` pages, so each
-      topic is an easy-to-edit Markdown file. Topics 1 to 3 on the site still
-      have "the notes" wording and will be replaced.
-
-Site work is paused until this round is done. `topic-03.md` is drafted on the
-branch but not merged.
+Remaining content gaps, found while editing: Topic 15 is thin; Topic 14 has
+nothing on Raymond Pettibon or Scott Sinclair; Topic 7 does not cover black
+metal; Topic 16 has no symposium or readings; the "Listen and watch" lists
+have no links yet (Phase 4).
 
 ### Phase 3: Topic pages, one at a time
 Repeat for topics 2 through 16. For each page:
@@ -249,46 +236,10 @@ and the open questions in the listening file.
 
 ## Facts to confirm with Micah
 
-Kept as written in the notes; Claude can't verify them from the cloud.
-
-Topic 3:
-
-- The notes cite "Blush, p. 16" and "p. 17" but the syllabus reading is only
-  called "American Hardcore." Is Blush's book that reading?
-- "Pay to Cum" (1979) is called a hardcore "album" in the notes; it may be a
-  single.
-- Fear's *The Record* is dated 1979 in the notes; the album may be from
-  later.
-- The *Saturday Night Live* performance by Fear is dated 1980 in the notes;
-  confirm the year.
-- The Germs "reformed recently with Shane West": the notes are from about
-  2009, so that "recently" may need a date.
-
-Topic 2:
-
-- The notes say *Daydream Nation* was added to the Library of Congress,
-  National Recording Preservation Board, on May 24, 2007. The page says only
-  "the Library of Congress"; the exact body or list may need correcting.
-- The notes name the 1994 album only as *Experimental Jet Set*; the full
-  title may be longer.
-- The notes list Jim O'Rourke as a former member and also as a full member
-  from *SYR3*; the page lists him in both places as the notes do.
-
-Topic 1:
-
-- The DIY notes cite a quote from "Guy" about the 1960s, with no full
-  source.
-- The notes call Philip Glass an inspiration to Bowie, Harry Partch, Milton
-  Babbitt, Brian Eno and John Zorn. Partch and Babbitt are older than Glass,
-  so this may be a list of the wider experimental lineage.
-- Glass and La Monte Young are called part of "the New York School," a name
-  usually used for Cage's circle.
-- The Brian Eno line about 1,000 copies of the Velvet Underground record
-  needs an exact source.
-- *Thriller* in 1982 "forced MTV to change its format": the effect may date
-  from the 1983 videos.
-- The Cage quote beginning "Faith in the liberation of the unconscious" has
-  no source in the notes.
+Superseded. The research pass settled many of the earlier flags and Micah
+accepted the risk on the rest. The items still unsettled are listed in
+`docs/underground-music-text/audit/unresolved-items.md`, for anyone who later
+wants to check them against the books.
 
 ## Link checking
 

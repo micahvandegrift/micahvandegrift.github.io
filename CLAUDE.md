@@ -26,7 +26,12 @@ define it), and keep each change small and easy to review.
   with a `title` and `summary` at the top, and the course home page lists
   them automatically. It is an archive, so it is not in the main menu.
   Micah's original lecture notes are not published; each topic page is an
-  edited version of them. Web addresses from the original 2009 notes are
+  edited, stand-alone version of them, written as plain prose in Micah's lecture
+  voice, so it should never say "the notes." Micah line-edits these Markdown
+  files directly on GitHub. Their quotations and citations come from his notes
+  and were not independently verified (his decision, October 27, 2026); the
+  research pass and the list of unsettled items are in
+  `docs/underground-music-text/audit/`. Web addresses from the original 2009 notes are
   unverified, so don't turn them into links without asking (the `old-link`
   style in `site.css` shows one as a gray, non-clickable tag).
   The project plan, open decisions and task list are in
