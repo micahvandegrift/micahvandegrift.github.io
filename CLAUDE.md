@@ -22,17 +22,17 @@ define it), and keep each change small and easy to review.
 - `underground-music/` is a microsite archiving Micah's grad-school course
   "Underground Music in America: 1980 - Present". It uses its own layout,
   `_layouts/class.html` (menu: Course home, Micah's site), selected for the
-  whole folder in `_config.yml`. Each class meeting is a `week-XX.md` file
+  whole folder in `_config.yml`. Each topic is a `topic-XX.md` file
   with a `title` and `summary` at the top, and the course home page lists
   them automatically. It is an archive, so it is not in the main menu.
-  Web addresses from the original 2009 notes are shown as gray, non-clickable
-  `old-link` tags so Micah can decide which to keep; don't turn them into
-  links without asking. Lecture notes were converted from the original Word
-  files and keep their original wording and spelling.
+  Micah's original lecture notes are not published; each topic page is an
+  edited version of them. Web addresses from the original 2009 notes are
+  unverified, so don't turn them into links without asking (the `old-link`
+  style in `site.css` shows one as a gray, non-clickable tag).
   The project plan, open decisions and task list are in
   `docs/underground-music-plan.md`; read it first. Its companions in `docs/`
-  list every topic taught and the cleaned-up listening list. The plan moves the site
-  from week pages to pages by topic or theme. `tools/convert-notes.py` is a
+  list every topic taught and the cleaned-up listening list. The site is organized by topic
+  or theme, not by week. `tools/convert-notes.py` is a
   helper for converting notes (neither folder is published).
 - `images/headshot-square.jpg` is a face-centered crop of `Headshot.jpg`.
 - `stylesheets/stylesheet.css`, `github-dark.css`, `print.css`,

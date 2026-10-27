@@ -1,6 +1,6 @@
 <!--
-  Course home page. The list of sessions at the bottom builds itself:
-  every file named week-XX.md in this folder shows up automatically,
+  Course home page. The list of topics at the bottom builds itself:
+  every file named topic-XX.md in this folder shows up automatically,
   in order, using its title and summary.
 -->
 
@@ -72,9 +72,9 @@ Additional readings were shared through the course's online library.
 * Fifteen
 * Cap'n Jazz, Joan of Arc, The Owls, Make Believe, Owen, Ghosts and Vodka
 
-## Sessions
+## Topics
 
-{%- assign sessions = site.pages | where_exp: "p", "p.path contains 'underground-music/week-'" | sort: "path" %}
-{%- for session in sessions %}
-* [{{ session.title }}]({{ session.url | relative_url }}){% if session.summary %}: {{ session.summary }}{% endif %}
+{%- assign topics = site.pages | where_exp: "p", "p.path contains 'underground-music/topic-'" | sort: "path" %}
+{%- for topic in topics %}
+* [{{ topic.title }}]({{ topic.url | relative_url }}){% if topic.summary %}: {{ topic.summary }}{% endif %}
 {%- endfor %}

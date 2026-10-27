@@ -34,21 +34,21 @@ Principles:
 
 ## Where things stand
 
-Done, on the branch `claude/underground-music-scaffold` (pushed, **no pull
-request opened yet**, so nothing is live):
+Done and live (pull request 22 merged October 24, 2026):
 
 - [x] Course layout (`_layouts/class.html`) with its own small menu and the
       main site's dark-mode toggle
 - [x] Course home page: description, objectives, texts, films, themes, bands,
       promo flyer, and an automatic list of pages
-- [x] `week-01.md`: a prototype page converted from the notes, with gray
-      "old link" tags where 2009 web addresses stood
+- [x] A prototype page converted from the notes, with gray "old link" tags
+      where 2009 web addresses stood
 - [x] A saved converter for the notes (`tools/convert-notes.py`)
 - [x] All the syllabi read and merged into one topic list (16 topics)
 - [x] The listening list found, cleaned up and merged with the 1994-2001 list
 
-Week 1 is a prototype. It will become the page for topic 1 once we settle
-the page template below.
+In progress: `topic-01.md` is an edited draft of topic 1 (the old Week 1
+prototype). Micah approved the template (without the original notes). The
+edits and the doubtful facts listed below are still to be confirmed.
 
 ## What Micah has, and what's still to come
 
@@ -61,7 +61,7 @@ number.
 | Material | Status |
 |---|---|
 | Syllabi (four; that is all Micah has) | Done. Merged into the topic list |
-| Lecture notes (one Word file, about 26,000 words, one long outline) | Received. Week 1 converted. **Needed again** to do the rest |
+| Lecture notes (one Word file, about 26,000 words, one long outline) | Received again October 24, 2026. Topic 1 edited. **Needed again** in a new session to do the rest |
 | Book list, Fall 2008 | Used on the home page |
 | Listening list "1994-2001" and the found list (78 songs together) | Merged in the listening file. No links yet |
 | Promo flyer | On the site |
@@ -97,19 +97,25 @@ pages).
 
 Each has my recommendation. Micah decides.
 
-1. **Page template for a topic.** Recommended: a short overview in Micah's
-   voice; key ideas; who's who (bands, dates); listen and watch; readings;
-   films; discussion questions (the notes have some); and, at the bottom, the
-   original notes folded away under a "Show the original lecture notes" toggle
-   so the archive stays faithful.
-2. **Old links (about 190).** For each gray tag Micah chooses keep or drop.
-   Recommended process: Claude produces one table with each link, the
-   sentence it sat in, and whether it still works or has a Wayback Machine
-   copy. Micah marks the table. See "Link checking" below.
+1. **Page template for a topic. DECIDED (October 27, 2026).** In this
+   order: a short overview in Micah's voice; listen and watch; readings;
+   discussion questions (the notes have some); class sessions; key ideas;
+   who's who (bands, dates); a summary of the era where the topic needs one;
+   films. `topic-01.md` is the model for the other pages. The original
+   lecture notes are **not** published on the site: the edited page replaces
+   them. (The unedited Week 1 notes were live from October 24 to 27, 2026 and
+   remain in the repository's history.)
+2. **Old links (about 190).** Since the original notes are no longer shown,
+   the old links no longer appear on the site. They still matter where a
+   song, clip or article is worth linking from a topic's Listen and watch
+   list. For those, Claude produces one table with each link, the sentence it
+   sat in, and whether it still works or has a Wayback Machine copy. Micah
+   marks the table. See "Link checking" below.
 3. **Copyrighted text pasted into the notes.** The notes include full lyrics
    (for example Bad Brains, "Pay to Cum"), a full allmusic review of "Teenage
-   Riot," and a long bio blurb. Recommended: replace with a short quote, credit
-   and a link.
+   Riot," and a long bio blurb. Since the notes aren't published, this only
+   matters if an edited page would quote them. Rule: use a short quote,
+   credit and a link, never the full text.
 4. **Recordings.** Recommended: upload to YouTube as unlisted, or Archive.org,
    and embed. Think first about whether student voices are in them, and
    whether Micah is comfortable publishing that.
@@ -132,8 +138,7 @@ Each step is one small pull request, in this order. Micah reviews screenshots
 (desktop, phone, dark mode) before each one.
 
 ### Phase 0: Housekeeping
-- [ ] Open a pull request for the current branch (home page and Week 1
-      prototype). Micah says when to merge.
+- [x] Pull request for the home page and Week 1 prototype, merged
 
 ### Phase 1: Gather (done)
 - [x] Syllabi read and merged into one topic list
@@ -141,11 +146,13 @@ Each step is one small pull request, in this order. Micah reviews screenshots
 
 ### Phase 2: Pilot one topic together
 - [ ] Take topic 1 (introduction, roots and context) from raw notes to a
-      finished page, editing it together. This sets the template and the
+      finished page, editing it together (draft done; waiting on Micah's
+      review and answers on the facts below). This sets the template and the
       editing rules (decision 1)
-- [ ] Rename `week-01.md` to a topic page and change the course home list to
-      show topics (in the order above) instead of weeks
-- [ ] Fold the original notes under a toggle
+- [x] Rename `week-01.md` to `topic-01.md` and change the course home list to
+      show topics instead of weeks (draft, awaiting Micah's review)
+- [x] Original notes are not published (Micah's decision, October 27, 2026),
+      so no toggle
 
 ### Phase 3: Topic pages, one at a time
 Repeat for topics 2 through 16. For each page:
@@ -154,8 +161,9 @@ Repeat for topics 2 through 16. For each page:
 - [ ] Pull the "Play..." cues and this topic's songs from the listening list
       into a Listen and watch list
 - [ ] List readings and films from the topic list
-- [ ] Mark every old link with a gray tag; Micah decides keep or drop
-- [ ] Trim pasted copyrighted text (decision 3)
+- [ ] Collect old links worth keeping for the Listen and watch list; Micah
+      decides keep or drop
+- [ ] Leave out pasted copyrighted text (decision 3)
 - [ ] Build locally, check desktop, phone and dark mode, then PR
 
 ### Phase 4: Course-level pages
@@ -199,6 +207,24 @@ and the open questions in the listening file.
   Micah's sources win.
 - Never turn an old link into a real link without Micah's say-so.
 
+## Facts to confirm with Micah
+
+Kept as written in the notes; Claude can't verify them from the cloud.
+
+Topic 1:
+
+- The notes call Philip Glass an inspiration to Bowie, Harry Partch, Milton
+  Babbitt, Brian Eno and John Zorn. Partch and Babbitt are older than Glass,
+  so this may be a list of the wider experimental lineage.
+- Glass and La Monte Young are called part of "the New York School," a name
+  usually used for Cage's circle.
+- The Brian Eno line about 1,000 copies of the Velvet Underground record
+  needs an exact source.
+- *Thriller* in 1982 "forced MTV to change its format": the effect may date
+  from the 1983 videos.
+- The Cage quote beginning "Faith in the liberation of the unconscious" has
+  no source in the notes.
+
 ## Link checking
 
 The cloud environment Claude runs in blocks many websites (it couldn't reach
@@ -208,9 +234,8 @@ the table by hand.
 
 ## How the pieces work
 
-- `underground-music/index.md` is the course home. Pages named `week-XX.md`
-  in that folder are listed on it automatically (this will change to a topic
-  list in Phase 2).
+- `underground-music/index.md` is the course home. Pages named `topic-XX.md`
+  in that folder are listed on it automatically.
 - `_layouts/class.html` is the course layout. `_config.yml` applies it to
   everything in the folder and sets the `course` styling class.
 - `stylesheets/site.css` has a "Course microsite" section at the bottom for
