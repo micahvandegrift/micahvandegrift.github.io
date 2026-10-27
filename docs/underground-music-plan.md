@@ -46,9 +46,9 @@ Done and live (pull request 22 merged October 24, 2026):
 - [x] All the syllabi read and merged into one topic list (16 topics)
 - [x] The listening list found, cleaned up and merged with the 1994-2001 list
 
-**October 27, 2026:** all 16 topics are written as stand-alone text and are
-in `underground-music/topic-01.md` to `topic-16.md` (pending a pull request
-and merge; until then only topics 1 to 3 older drafts are live). The text was
+**October 27, 2026:** all 16 topics are written as stand-alone text, live at
+`underground-music/topic-01.md` to `topic-16.md` (pull request 25, merged and
+deployed). The text was
 edited from the lecture notes, run through a research agent (web sources only,
 no books), and finished on this basis, decided by Micah: **he accepts the risk
 that quotations and citations from his lecture notes are unverified.** Where
@@ -151,13 +151,11 @@ Each step is one small pull request, in this order. Micah reviews screenshots
 - [x] Syllabi read and merged into one topic list
 - [x] Listening list found and cleaned up
 
-### Phase 2: Pilot one topic together
-- [ ] Take topic 1 (introduction, roots and context) from raw notes to a
-      finished page, editing it together (draft done; waiting on Micah's
-      review and answers on the facts below). This sets the template and the
-      editing rules (decision 1)
-- [x] Rename `week-01.md` to `topic-01.md` and change the course home list to
-      show topics instead of weeks (draft, awaiting Micah's review)
+### Phase 2: Pilot one topic together (done)
+- [x] Topic 1 edited and published; it set the template and the editing rules
+      (decision 1)
+- [x] `week-01.md` renamed to `topic-01.md`; the course home page lists topics
+      instead of weeks
 - [x] Original notes are not published (Micah's decision, October 27, 2026),
       so no toggle
 
@@ -174,24 +172,20 @@ checked by a research agent, and finished (see "Where things stand").
       substance with a flawed detail (fixed), 1 wrong (fixed).
 - [x] Micah's decision to accept the risk on unverified quotes and citations.
 - [x] Final text poured into the site pages `topic-01.md` to `topic-16.md`.
-- [ ] Pull request and merge (waiting for Micah).
+- [x] Pull request 25 merged and deployed (October 27, 2026).
 
 Remaining content gaps, found while editing: Topic 15 is thin; Topic 14 has
 nothing on Raymond Pettibon or Scott Sinclair; Topic 7 does not cover black
 metal; Topic 16 has no symposium or readings; the "Listen and watch" lists
 have no links yet (Phase 4).
 
-### Phase 3: Topic pages, one at a time
-Repeat for topics 2 through 16. For each page:
-- [ ] Convert the raw notes (`tools/convert-notes.py`)
-- [ ] Edit into readable form with Micah (see ground rules)
-- [ ] Pull the "Play..." cues and this topic's songs from the listening list
-      into a Listen and watch list
-- [ ] List readings and films from the topic list
-- [ ] Collect old links worth keeping for the Listen and watch list; Micah
-      decides keep or drop
-- [ ] Leave out pasted copyrighted text (decision 3)
-- [ ] Build locally, check desktop, phone and dark mode, then PR
+### Phase 3: Topic pages (done, replaced by Phase 2b)
+
+All 16 topics were written in one round (Phase 2b) instead of one at a time.
+Left over from this phase:
+- [ ] Add links to each topic's "Listen and watch" lists (follows the Listening
+      List in Phase 4; Micah confirms each link)
+- [ ] Fill the content gaps listed under Phase 2b (Micah's call)
 
 ### Phase 4: Course-level pages
 - [ ] A Texts and readings page with links (decision 8)
