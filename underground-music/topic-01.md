@@ -46,11 +46,16 @@ The second half of the topic is context. Art is always a product of its time, so
 * What was the socio-cultural context? What was happening in the world?
 * Who decides which values are the "fundamental values" of America?
 * Was the underground a counterculture in the beginning that became a subculture?
+* In the Azerrad introduction, who is "we"?
+* Negation: how does this concept come up in other art forms and time periods?
+* What is the "Daydream Nation"?
+* How do these bands begin to challenge ideas about America? Who has access to the American Dream? What is it, and why are the youth so upset about it?
 
 ## Class sessions
 
 * Day 1: Introductions. Why have a course on underground music?
 * Day 2: Historical precedents of the underground: experimentalists, proto-punk, and the context of the 1980s.
+* Discussion of the readings: defining the terms of the discourse.
 
 ## Key ideas
 
@@ -113,6 +118,38 @@ The second half of the topic is context. Art is always a product of its time, so
 * U.S. involvement in civil wars in El Salvador and Nicaragua, banks failing, homelessness on the rise, and crack introduced to the streets.
 * Reagan's campaign slogan: "It is morning in America!"
 * Bruce Springsteen released *Born in the USA*, with songs about working-class people around 35 years old facing economic or personal difficulties and a sense of better times past.
+
+## Terms of discourse
+
+*From the class discussion of the readings.*
+
+The point of the readings was to begin introducing the language of the subculture: what it says, and how it says it. The phrases to become familiar with are DIY, indie, underground, mainstream, community, authenticity, and the responsibility of the audience.
+
+**Underground**
+
+* In the Azerrad introduction: who is "we"?
+
+**Independent**
+
+* Not released through a major distributor.
+* Developed on a grassroots level.
+* Retaining control.
+* Political radicalism.
+
+**DIY**
+
+* Modest: a moral imperative, a necessity rather than a statement.
+* Quality and importance.
+* Sticking with the vision.
+* Connection to the audience, like the 1960s (the notes cite a quote from "Guy" without a full source).
+* Purism and authenticity; idealism about the power of music; a reaction to shallow times and entertainment; populist roots commandeered by middle-class white kids.
+* The audience is as much a part of it as the producers.
+* A leap of faith.
+* Diversity in sound, which attracts a certain type of person.
+
+**Negation**
+
+* Negation is a cycle of rebellion that America experiences. The connection between the beginning of the underground and the 1960s is an important point to keep in mind.
 
 ## Films
 

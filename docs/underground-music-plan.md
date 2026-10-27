@@ -53,13 +53,12 @@ edits and the doubtful facts listed below are still to be confirmed.
 Topic 1 is live. `topic-02.md` (No Wave and Sonic Youth) is drafted and
 waiting for Micah's review.
 
-One gap found while drafting topic 2: the notes have a block, "Discussion on
-Terms of Discourse" (what "underground," "independent" and "DIY" mean, plus
-the negation questions), that sits right after the Sonic Youth section. Topic
-1's syllabus lesson list includes it, but it isn't on the topic 1 page. The
-negation and American Dream questions went into topic 2. The definitions of
-underground, independent and DIY are still to be added to topic 1 (a small
-follow-up change).
+The notes' "Discussion on Terms of Discourse" block (what "underground,"
+"independent" and "DIY" mean, plus the negation, Daydream Nation and American
+Dream questions) sits right after the Sonic Youth section but belongs to
+topic 1, as the syllabus lists it. Micah asked for it to live on topic 1, so
+the whole block is now there (a "Terms of discourse" section and four extra
+discussion questions).
 
 ## What Micah has, and what's still to come
 
@@ -234,6 +233,8 @@ Topic 2:
 
 Topic 1:
 
+- The DIY notes cite a quote from "Guy" about the 1960s, with no full
+  source.
 - The notes call Philip Glass an inspiration to Bowie, Harry Partch, Milton
   Babbitt, Brian Eno and John Zorn. Partch and Babbitt are older than Glass,
   so this may be a list of the wider experimental lineage.

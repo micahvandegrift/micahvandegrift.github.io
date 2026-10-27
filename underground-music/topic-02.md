@@ -36,9 +36,6 @@ Sonic Youth are a case study in what the underground could do. They asked to be 
 *All of these come from the notes.*
 
 * What were Sonic Youth's contributions to American underground music?
-* Negation: how does this concept come up in other art forms and time periods?
-* What is the "Daydream Nation"?
-* How do these bands begin to challenge ideas about America? Who has access to the American Dream? What is it, and why are the youth so upset about it?
 
 ## Class sessions
 
