@@ -169,22 +169,27 @@ Each step is one small pull request, in this order. Micah reviews screenshots
 
 Micah wants every page to stand alone, so there are no references to "the
 notes" or the syllabus on the site. Before any more site work, the notes are
-edited into the final text, one file per topic, in `docs/underground-music-text/`
-(not published; plain Markdown with no site layout). Rules for this text:
+edited into the final text. Rules for this text:
 
 - Written as the course's own account, in Micah's voice, with no mention of
   "the notes," "the syllabus," or where something was cued from.
-- Facts that can't be checked are marked **[CONFIRM: ...]**. Micah settles each
-  one and the marker is deleted before the text goes on the site.
+- Unchecked facts are marked `[CONFIRM Txx-yy]`, with a matching entry in a
+  queue at the end of each topic.
 - No pasted lyrics or reviews; short quotes with credit only.
-- Sections: Overview, Listen and watch, Readings, Discussion questions, then
-  the body in readable prose under headings.
+- Sections: Overview, Listen and watch, Films, Readings, Discussion questions,
+  then the body in readable prose under headings.
 
-Progress:
-- [x] Topic 1 (pilot, waiting for Micah's reaction to the form)
-- [ ] Topics 2 to 16
-- [ ] Pour the finished text into the site pages (topics 1 to 3 on the site
-      still have "the notes" wording and will be replaced)
+Progress (October 27, 2026):
+- [x] All 16 topics edited into one file for an LLM research agent:
+      `docs/underground-music-text/all-topics.md` (225 flagged items).
+- [x] The agent's instructions: `docs/underground-music-text/agent-prompt.md`.
+- [ ] Micah gives both files to a research agent (fact-check, dates, quotes,
+      context). It returns a revised file, a change log and a sources list.
+- [ ] Micah settles the items the agent leaves unresolved, and the gaps (for
+      example, Topic 15 is thin and Topic 14 lacks Pettibon and Sinclair).
+- [ ] Split the finished file into the site's `topic-XX.md` pages, so each
+      topic is an easy-to-edit Markdown file. Topics 1 to 3 on the site still
+      have "the notes" wording and will be replaced.
 
 Site work is paused until this round is done. `topic-03.md` is drafted on the
 branch but not merged.
