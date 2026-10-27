@@ -39,6 +39,8 @@ A combination of lecture and discussion, with media (music, films, slides) to pr
 
 Additional readings were shared through the course's online library.
 
+See [Texts and Readings](/underground-music/texts.html) for library links and the other books mentioned in the topics.
+
 ## Films
 
 * *American Hardcore*
@@ -46,6 +48,8 @@ Additional readings were shared through the course's online library.
 * *Instrument*
 * *Danielson: A Family Movie*
 * *Spend an Evening with Saddle Creek*
+
+See [Films](/underground-music/films.html) for directors, years and the topics where each film comes up.
 
 ## Themes to emphasize
 
