@@ -47,9 +47,6 @@ The second half of the topic is context. Art is always a product of its time, so
 * Who decides which values are the "fundamental values" of America?
 * Was the underground a counterculture in the beginning that became a subculture?
 * In the Azerrad introduction, who is "we"?
-* Negation: how does this concept come up in other art forms and time periods?
-* What is the "Daydream Nation"?
-* How do these bands begin to challenge ideas about America? Who has access to the American Dream? What is it, and why are the youth so upset about it?
 
 ## Class sessions
 

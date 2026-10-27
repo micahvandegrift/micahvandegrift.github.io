@@ -57,8 +57,9 @@ The notes' "Discussion on Terms of Discourse" block (what "underground,"
 "independent" and "DIY" mean, plus the negation, Daydream Nation and American
 Dream questions) sits right after the Sonic Youth section but belongs to
 topic 1, as the syllabus lists it. Micah asked for it to live on topic 1, so
-the whole block is now there (a "Terms of discourse" section and four extra
-discussion questions).
+the definitions are now there (a "Terms of discourse" section and the "who is
+'we'?" question). The questions about Sonic Youth and their work (negation,
+*Daydream Nation*, the American Dream) stay on topic 2, at Micah's direction.
 
 ## What Micah has, and what's still to come
 
