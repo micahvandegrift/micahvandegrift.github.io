@@ -50,6 +50,17 @@ In progress: `topic-01.md` is an edited draft of topic 1 (the old Week 1
 prototype). Micah approved the template (without the original notes). The
 edits and the doubtful facts listed below are still to be confirmed.
 
+Topic 1 is live. `topic-02.md` (No Wave and Sonic Youth) is drafted and
+waiting for Micah's review.
+
+The notes' "Discussion on Terms of Discourse" block (what "underground,"
+"independent" and "DIY" mean, plus the negation, Daydream Nation and American
+Dream questions) sits right after the Sonic Youth section but belongs to
+topic 1, as the syllabus lists it. Micah asked for it to live on topic 1, so
+the definitions are now there (a "Terms of discourse" section and the "who is
+'we'?" question). The questions about Sonic Youth and their work (negation,
+*Daydream Nation*, the American Dream) stay on topic 2, at Micah's direction.
+
 ## What Micah has, and what's still to come
 
 The original files live on Micah's computer. **Files shared in a Claude session
@@ -211,8 +222,20 @@ and the open questions in the listening file.
 
 Kept as written in the notes; Claude can't verify them from the cloud.
 
+Topic 2:
+
+- The notes say *Daydream Nation* was added to the Library of Congress,
+  National Recording Preservation Board, on May 24, 2007. The page says only
+  "the Library of Congress"; the exact body or list may need correcting.
+- The notes name the 1994 album only as *Experimental Jet Set*; the full
+  title may be longer.
+- The notes list Jim O'Rourke as a former member and also as a full member
+  from *SYR3*; the page lists him in both places as the notes do.
+
 Topic 1:
 
+- The DIY notes cite a quote from "Guy" about the 1960s, with no full
+  source.
 - The notes call Philip Glass an inspiration to Bowie, Harry Partch, Milton
   Babbitt, Brian Eno and John Zorn. Partch and Babbitt are older than Glass,
   so this may be a list of the wider experimental lineage.
