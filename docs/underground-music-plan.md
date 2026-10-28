@@ -79,7 +79,7 @@ number.
 | Book list, Fall 2008 | Used on the home page |
 | Listening list "1994-2001" and the found list (78 songs together) | Merged in the listening file. No links yet |
 | Promo flyer | On the site |
-| Two newspaper clippings (FSView, April 6, 2009, "Pop culture in the classroom") | Received, **not used** (see decisions) |
+| Two newspaper clippings (FSView, April 6, 2009, "Pop culture in the classroom") | Received, **not used** (dropped, decision 6) |
 | Lecture recordings | **Not yet sent**; hosting undecided |
 
 ## The topics
@@ -145,12 +145,13 @@ Each has my recommendation. Micah decides.
    keep it that way; link it from the homepage or Projects page; add a
    "please don't index" tag so search engines skip it. Recommended: decide
    at launch.
-6. **Newspaper clippings. DECIDED (October 28, 2026): publish the images.**
-   Waiting for Micah to add the image files (they are not in the repository).
-   Original note: The paper owns the article. Options: image on the
+6. **Newspaper clippings. DECIDED (October 28, 2026): drop them.** Micah
+   decided they aren't relevant enough to publish. (He first chose to publish
+   the images, then reversed that the same day.) Original note: The paper owns the article. Options: image on the
    site, link to the paper's own archive if one exists, or leave it in
    Micah's files.
-7. **Flyer photo credit.** Who took the stage-dive photo?
+7. **Flyer photo credit. DECIDED (October 28, 2026): Josh Mason.** Credited
+   under the flyer on the course home page.
 8. **Book links.** Bookshop.org, WorldCat, or Open Library. Currently the
    texts show ISBNs only.
 9. **The listening list. MOSTLY DECIDED (October 28, 2026).** Typos, album names
@@ -234,8 +235,8 @@ Left over from this phase:
    list for corrections.
 4. Begin Phase 2: edit topic 1 together.
 
-Optional, any time: decisions 6 to 8 (clippings, photo credit, book links),
-and the open questions in the listening file.
+The open decisions are all settled. What's left: Micah's check of the CHECK and
+WEAK listening links, then the Listen and watch links, and the content gaps.
 
 ## Ground rules for editing the notes
 
