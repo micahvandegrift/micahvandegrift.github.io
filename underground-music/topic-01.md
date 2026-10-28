@@ -5,8 +5,6 @@ summary: "Why study underground music? Its roots in American experimental music 
 
 # Introduction, Roots and Historical Context
 
-*Topic 1 of the course archive.*
-
 ## Overview
 
 Why have a course on underground music? This first topic sets up the big questions, then goes looking for the music's roots. For our purposes, underground music was born out of two distinctly American streams of music: experimental classical music and punk. It has a dual nature, both intellectual and aggressive, and it grew out of a long American habit of being experimental and progressive.
