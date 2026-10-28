@@ -119,7 +119,8 @@ Each has my recommendation. Micah decides.
    lecture notes are **not** published on the site: the edited page replaces
    them. (The unedited Week 1 notes were live from October 24 to 27, 2026 and
    remain in the repository's history.)
-2. **Old links (about 190).** Since the original notes are no longer shown,
+2. **Old links (about 190). DECIDED (October 28, 2026): skip them.** The
+   Listening List and Texts pages cover the music and readings. Original note: Since the original notes are no longer shown,
    the old links no longer appear on the site. They still matter where a
    song, clip or article is worth linking from a topic's Listen and watch
    list. For those, Claude produces one table with each link, the sentence it
@@ -130,20 +131,29 @@ Each has my recommendation. Micah decides.
    Riot," and a long bio blurb. Since the notes aren't published, this only
    matters if an edited page would quote them. Rule: use a short quote,
    credit and a link, never the full text.
-4. **Recordings.** Recommended: upload to YouTube as unlisted, or Archive.org,
+4. **Recordings. DECIDED (October 28, 2026): skip for now.** Revisit later; the
+   concern is student voices. Original note: Recommended: upload to YouTube as unlisted, or Archive.org,
    and embed. Think first about whether student voices are in them, and
    whether Micah is comfortable publishing that.
-5. **Visibility.** The microsite isn't linked from the main site. Options:
+5. **Visibility. DECIDED (October 28, 2026): link it and hide it from search.**
+   Linked from the Projects page; every course page carries a "noindex" tag
+   (in `_layouts/class.html`) asking search engines not to list it. This is a
+   request, not a lock: the repository and pages are still public. Original note: The microsite isn't linked from the main site. Options:
    keep it that way; link it from the homepage or Projects page; add a
    "please don't index" tag so search engines skip it. Recommended: decide
    at launch.
-6. **Newspaper clippings.** The paper owns the article. Options: image on the
+6. **Newspaper clippings. DECIDED (October 28, 2026): publish the images.**
+   Waiting for Micah to add the image files (they are not in the repository).
+   Original note: The paper owns the article. Options: image on the
    site, link to the paper's own archive if one exists, or leave it in
    Micah's files.
 7. **Flyer photo credit.** Who took the stage-dive photo?
 8. **Book links.** Bookshop.org, WorldCat, or Open Library. Currently the
    texts show ISBNs only.
-9. **The listening list.** Review the "likely topic" guesses and the open
+9. **The listening list. MOSTLY DECIDED (October 28, 2026).** Typos, album names
+   and versions settled; the page is live. The "likely topic" guesses are not
+   used on the site. Still open: confirm the CHECK and WEAK links. Original
+   note: Review the "likely topic" guesses and the open
    questions at the bottom of `underground-music-listening.md`.
 
 ## The plan
