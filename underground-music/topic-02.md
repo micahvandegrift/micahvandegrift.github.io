@@ -5,8 +5,6 @@ summary: "No Wave in late-1970s New York, and Sonic Youth: from experimental noi
 
 # No Wave and Sonic Youth
 
-*Topic 2 of the course archive.*
-
 ## Overview
 
 This topic starts in New York with No Wave, an offshoot of late-1970s punk that rejected melody and technique, and then follows Sonic Youth, a band that came out of punk, mixed it with No Wave and tied it to experimental music. Formed in New York in 1981, they went from dissonant tunings and "prepared" instruments to a major label deal, and one of their albums, *Daydream Nation*, was later added to the Library of Congress's National Recording Registry.

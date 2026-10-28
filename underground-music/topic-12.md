@@ -5,8 +5,6 @@ summary: "Krishnacore, Christian hardcore and Pedro the Lion: religion in the un
 
 # Religion in the Underground
 
-*Topic 12 of the course archive.*
-
 ## Overview
 
 Is the morality and ethics of underground music easily connected to religious ideas? Why is this a theme in a course on underground music? Religion is a part of American culture. Current groups are addressing similar issues. And often the language and ideals of the underground are religious in tone: believe, authenticity, morality, truth, suffering, persecution.

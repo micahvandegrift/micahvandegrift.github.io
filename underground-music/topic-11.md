@@ -5,8 +5,6 @@ summary: "Riot grrrl and queercore: gender, zines and the underground in the 199
 
 # Gender in the Underground
 
-*Topic 11 of the course archive.*
-
 ## Overview
 
 As culture changed and evolved in the 1990s, gender issues peaked in influence. Spurred by the rise of identity politics, mixed with social concerns for freedoms and rights, a new generation of feminists was born, focused on women's rights, gay rights and abortion rights. It happened in mainstream America as well as in the underground, and perhaps more radically and influentially in the underground.

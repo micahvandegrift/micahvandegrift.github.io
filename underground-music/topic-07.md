@@ -5,8 +5,6 @@ summary: "Extreme metal and its subgenres, and the Melvins: how metal spans the 
 
 # Metal
 
-*Topic 7 of the course archive.*
-
 ## Overview
 
 Between 1983 and 1984, by one widely repeated figure, heavy metal went from about an eight percent to about a twenty percent share of all recordings sold in the U.S. Magazines devoted to the genre were launched, including *Kerrang!* in 1981 and *Metal Hammer* in 1984, along with a host of fan journals. In 1985, *Billboard* declared that the metal audience was no longer the exclusive domain of male teenagers: it had become older, younger and more female.

@@ -5,8 +5,6 @@ summary: "Art Chantry, Frank Kozik, Winston Smith and Jem Cohen: high art, low a
 
 # Visual Art and Authenticity
 
-*Topic 14 of the course archive.*
-
 ## Overview
 
 The common thought, when discussing punk art, is that it is associated with the working class, a lack of skill, and carelessness about making art. That is not to say it lacks meaning for the people producing it, but viewed from the outside it does not at first come off as high art. The artists in this topic are working against that misconception. They create the visuals that accompany the subculture, sometimes affecting the mainstream culture more than the music or its messages.

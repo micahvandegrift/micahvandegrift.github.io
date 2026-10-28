@@ -12,7 +12,7 @@ Confidence column:
 - **WEAK**: a fan upload, a live recording, or a whole-album video. Better to find another.
 - **NOT FOUND**: no usable result. Needs another search, or Micah may know the song under a different title.
 
-Tally (before Micah's answers): 49 likely, 21 CHECK, 5 WEAK, 3 NOT FOUND. Since then: #49 has a link from Micah and #69 now has a candidate; only #43 (weak) and #58 remain open.
+Tally (before Micah's answers): 49 likely, 21 CHECK, 5 WEAK, 3 NOT FOUND. Since then: #49 has a link from Micah and #69 now has a candidate; Micah has also supplied links for #43 and #58, so nothing is missing a link.
 
 ## Candidates
 
@@ -60,7 +60,7 @@ Tally (before Micah's answers): 49 likely, 21 CHECK, 5 WEAK, 3 NOT FOUND. Since 
 | 40 | Advent Of A Miracle | Strongarm | [watch](https://www.youtube.com/watch?v=kToqKYVTVZo) | likely | Strongarm - The Advent Of A Miracle (title page; HIGH-ish) Alternates: `z9LYtvoysbc` |
 | 41 | Oh Messy Life | Cap'n Jazz | [watch](https://www.youtube.com/watch?v=aOjWEae_eRU) | likely | Oh Messy Life (plain) |
 | 42 | Semantics Of Sermon | Cursive | [watch](https://www.youtube.com/watch?v=kx-2f9FSV1g) | likely | Cursive - Semantics of Sermon (only result) |
-| 43 | A Career In Transcendence | Cursive | [watch](https://www.youtube.com/watch?v=_Oh-8dRZv7I) | WEAK | Album page only (Cursive - The Storms Of Early Summer: Semantics Of Song, full-album upload with A Career In Transcendence listed). No single-song upload found - LOW |
+| 43 | A Career In Transcendence | Cursive | [watch](https://www.youtube.com/watch?v=oAJZkw6NHRM) | MICAH'S LINK | Link supplied by Micah on October 28, 2026; not checked by me. |
 | 44 | independence day | Elliott Smith | [watch](https://www.youtube.com/watch?v=HM5Oo2rY59k) | likely | Independence Day · Elliott Smith (label-provided audio) Alternates: `-kbC265d-Xo` |
 | 45 | Wakingtowinter | Mineral | [watch](https://www.youtube.com/watch?v=Ned2c92rs4E) | CHECK | Mineral - Waking To Winter (list spells "Wakingtowinter") Alternates: `Ep3ewLLrqbc` |
 | 46 | Breakfast Of Champions | Rainer Maria | [watch](https://www.youtube.com/watch?v=OPz6DBaTIKI) | likely | Rainer Maria - Breakfast Of Champions Alternates: `d10_KPBgT0A` |
@@ -75,7 +75,7 @@ Tally (before Micah's answers): 49 likely, 21 CHECK, 5 WEAK, 3 NOT FOUND. Since 
 | 55 | Pattern Against User | At The Drive-In | [watch](https://www.youtube.com/watch?v=fd9LnV5mibI) | CHECK | At The Drive-In - 03 - Pattern Against User (MEDIUM) Alternates: `c8AMl9br5Qo`, `NrZ7ew8n5SU` |
 | 56 | Sunrise, Sunset | Bright Eyes | [watch](https://www.youtube.com/watch?v=e33e2fkCYK0) | likely | Bright Eyes - Sunrise,Sunset Alternates: `1aSXYNt8udc` |
 | 57 | The Game of Who Needs Who the Worst | Cursive | [watch](https://www.youtube.com/watch?v=fFSMY7vqSQg) | likely | The Game of Who Needs Who the Worst (plain) Alternates: `_y_WLB-kRLo` |
-| 58 | Four Red Brains | Ghosts and Vodka | - | NOT FOUND | NONE (zero results for Ghosts and Vodka "Four Red Brains") - Ghosts and Vodka - Four Red Brains |
+| 58 | Four Red Brains | Ghosts and Vodka | [watch](https://www.youtube.com/watch?v=hpPKe09frk0) | MICAH'S LINK | Link supplied by Micah on October 28, 2026; not checked by me. |
 | 59 | scimitar | Floor | [watch](https://www.youtube.com/watch?v=yH5yH03Tlp4) | CHECK | Floor-Scimitar (fan upload, album 2002 self-titled per listing) |
 | 60 | Full Discosure | Fugazi | [watch](https://www.youtube.com/watch?v=VzCwXbakHQ0) | CHECK | Fugazi Full Disclosure (list typo "Full Discosure") Alternates: `V9WCjEsPP0U` |
 | 61 | Sweetness | Jimmy Eat World | [watch](https://www.youtube.com/watch?v=J7y0AG4PHJc) | likely | Sweetness (plain) |
@@ -106,6 +106,4 @@ Tally (before Micah's answers): 49 likely, 21 CHECK, 5 WEAK, 3 NOT FOUND. Since 
 
 ## Still open
 
-- **Ghosts and Vodka, "Four Red Brains" (#58):** no recording or tracklist found. The band's album *Precious Blood* (2001) and its debut 7-inch *Memento Mori* exist, so the song title may be wrong in the original file. Do you remember it, or should it be dropped from the page?
-- **Cursive, "A Career in Transcendence" (#43):** only a whole-album upload turned up. Need a better link.
 - **Rows marked CHECK or WEAK:** need a listen before they go on the site.
