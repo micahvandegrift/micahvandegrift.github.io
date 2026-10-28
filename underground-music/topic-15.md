@@ -1,5 +1,5 @@
 ---
-title: "Topic 15: Is \"Underground\" Still Possible?"
+title: "Lesson 15: Is \"Underground\" Still Possible?"
 summary: "Is underground still possible? Indie, fan culture and DIY in the late 2000s."
 ---
 
@@ -29,4 +29,4 @@ By the late 2000s it could be said that there was a fan culture surrounding this
 
 For example, DIY was adopted into technology, and by the late 2000s it was coming out of it again, with a return to print zines, 7-inch records, LPs and house shows.
 
-Is it a fair assumption that the indie underground is moving more toward artistic and intellectual sensibilities, or toward aggressive ones? In certain genres, yes. The folk re-revival and New Weird America (Topic 13) are one example of the artistic direction.
+Is it a fair assumption that the indie underground is moving more toward artistic and intellectual sensibilities, or toward aggressive ones? In certain genres, yes. The folk re-revival and New Weird America (Lesson 13) are one example of the artistic direction.

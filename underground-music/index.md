@@ -1,5 +1,5 @@
 <!--
-  Course home page. The list of topics at the bottom builds itself:
+  Course home page. The list of lessons at the bottom builds itself:
   every file named topic-XX.md in this folder shows up automatically,
   in order, using its title and summary.
 -->
@@ -39,7 +39,7 @@ A combination of lecture and discussion, with media (music, films, slides) to pr
 
 Additional readings were shared through the course's online library.
 
-See [Texts and Readings](/underground-music/texts.html) for library links and the other books mentioned in the topics.
+See [Texts and Readings](/underground-music/texts.html) for library links and the other books mentioned in the lessons.
 
 ## Films
 
@@ -49,7 +49,11 @@ See [Texts and Readings](/underground-music/texts.html) for library links and th
 * *Danielson: A Family Movie*
 * *Spend an Evening with Saddle Creek*
 
-See [Films](/underground-music/films.html) for directors, years and the topics where each film comes up.
+See [Films](/underground-music/films.html) for directors, years and the lessons where each film comes up.
+
+## Listening
+
+The [Listening List](/underground-music/listening.html) has every song on the course list, with a link to a recording of each.
 
 ## Themes to emphasize
 
@@ -76,7 +80,7 @@ See [Films](/underground-music/films.html) for directors, years and the topics w
 * Fifteen
 * Cap'n Jazz, Joan of Arc, The Owls, Make Believe, Owen, Ghosts and Vodka
 
-## Topics
+## Lessons
 
 {%- assign topics = site.pages | where_exp: "p", "p.path contains 'underground-music/topic-'" | sort: "path" %}
 {%- for topic in topics %}

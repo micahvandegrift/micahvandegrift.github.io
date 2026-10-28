@@ -1,5 +1,5 @@
 ---
-title: "Topic 1: Introduction, Roots and Historical Context"
+title: "Lesson 1: Introduction, Roots and Historical Context"
 summary: "Why study underground music? Its roots in American experimental music and punk, and the 1980s it pushed back against."
 ---
 
@@ -7,11 +7,11 @@ summary: "Why study underground music? Its roots in American experimental music 
 
 ## Overview
 
-Why have a course on underground music? This first topic sets up the big questions, then goes looking for the music's roots. For our purposes, underground music was born out of two distinctly American streams of music: experimental classical music and punk. It has a dual nature, both intellectual and aggressive, and it grew out of a long American habit of being experimental and progressive.
+Why have a course on underground music? This first lesson sets up the big questions, then goes looking for the music's roots. For our purposes, underground music was born out of two distinctly American streams of music: experimental classical music and punk. It has a dual nature, both intellectual and aggressive, and it grew out of a long American habit of being experimental and progressive.
 
 The story of this music works in and out of chronological order. There are brief periods where you can see a movement, and then it disappears. We look at it over time, and now and again pause to look at the culture that grew up alongside the music. The important thing to remember is that this music is about progression, pushing the envelope and stretching the ear.
 
-The second half of the topic is context. Art is always a product of its time, so to understand it we start with the age it came from: the 1980s, which are known for two things, politics and entertainment. Underneath all of it came a reaction, an underground that was aesthetically, philosophically and politically opposed to the mainstream.
+The second half of the lesson is context. Art is always a product of its time, so to understand it we start with the age it came from: the 1980s, which are known for two things, politics and entertainment. Underneath all of it came a reaction, an underground that was aesthetically, philosophically and politically opposed to the mainstream.
 
 ## Listen and watch
 

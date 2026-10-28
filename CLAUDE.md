@@ -22,10 +22,12 @@ define it), and keep each change small and easy to review.
 - `underground-music/` is a microsite archiving Micah's grad-school course
   "Underground Music in America: 1980 - Present". It uses its own layout,
   `_layouts/class.html` (menu: Course home, Micah's site), selected for the
-  whole folder in `_config.yml`. Each topic is a `topic-XX.md` file
-  with a `title` and `summary` at the top, and the course home page lists
+  whole folder in `_config.yml`. The course units are called
+  "lessons" on the site (Micah's choice, October 28, 2026), though the files
+  keep the old name, `topic-XX.md`, so saved links don't break. Each lesson
+  file has a `title` and `summary` at the top, and the course home page lists
   them automatically. It is an archive, so it is not in the main menu.
-  Micah's original lecture notes are not published; each topic page is an
+  Micah's original lecture notes are not published; each lesson page is an
   edited, stand-alone version of them, written as plain prose in Micah's lecture
   voice, so it should never say "the notes." Micah line-edits these Markdown
   files directly on GitHub. Their quotations and citations come from his notes
@@ -36,8 +38,8 @@ define it), and keep each change small and easy to review.
   style in `site.css` shows one as a gray, non-clickable tag).
   The project plan, open decisions and task list are in
   `docs/underground-music-plan.md`; read it first. Its companions in `docs/`
-  list every topic taught and the cleaned-up listening list. The site is organized by topic
-  or theme, not by week. `tools/convert-notes.py` is a
+  list every lesson taught and the cleaned-up listening list. The site is organized by
+  lesson or theme, not by week. Say "lesson," not "topic," in anything published. `tools/convert-notes.py` is a
   helper for converting notes (neither folder is published).
 - `images/headshot-square.jpg` is a face-centered crop of `Headshot.jpg`.
 - `stylesheets/stylesheet.css`, `github-dark.css`, `print.css`,

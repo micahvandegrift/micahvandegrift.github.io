@@ -1,5 +1,5 @@
 ---
-title: "Topic 6: DIY, Indie and the Business of Music"
+title: "Lesson 6: DIY, Indie and the Business of Music"
 summary: "DIY, scene and subculture, indie versus major, and Fugazi, the band that lived by the principles."
 ---
 
@@ -7,7 +7,7 @@ summary: "DIY, scene and subculture, indie versus major, and Fugazi, the band th
 
 ## Overview
 
-This topic is about the principles of the underground: DIY, the difference between a subculture and a scene, and what it means to be independent. DIY (do it yourself) is one of the main dividers between punk and the underground. For the underground, the point was not to destroy the system but to create your own system by your own rules, and to do it well. Independence is at the core of the great debate of the subculture's growth over the past thirty years: indie versus major.
+This lesson is about the principles of the underground: DIY, the difference between a subculture and a scene, and what it means to be independent. DIY (do it yourself) is one of the main dividers between punk and the underground. For the underground, the point was not to destroy the system but to create your own system by your own rules, and to do it well. Independence is at the core of the great debate of the subculture's growth over the past thirty years: indie versus major.
 
 We close with Fugazi, the quintessential underground band, which lives by the principles of the underground.
 
@@ -22,7 +22,7 @@ We close with Fugazi, the quintessential underground band, which lives by the pr
 
 ## Films
 
-* *Instrument* (Jem Cohen's 1999 film about Fugazi; see Topic 8)
+* *Instrument* (Jem Cohen's 1999 film about Fugazi; see Lesson 8)
 
 ## Readings
 

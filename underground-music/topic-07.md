@@ -1,5 +1,5 @@
 ---
-title: "Topic 7: Metal"
+title: "Lesson 7: Metal"
 summary: "Extreme metal and its subgenres, and the Melvins: how metal spans the underground and the mainstream."
 ---
 
@@ -9,7 +9,7 @@ summary: "Extreme metal and its subgenres, and the Melvins: how metal spans the 
 
 Between 1983 and 1984, by one widely repeated figure, heavy metal went from about an eight percent to about a twenty percent share of all recordings sold in the U.S. Magazines devoted to the genre were launched, including *Kerrang!* in 1981 and *Metal Hammer* in 1984, along with a host of fan journals. In 1985, *Billboard* declared that the metal audience was no longer the exclusive domain of male teenagers: it had become older, younger and more female.
 
-So if metal is so popular, how does it fit our definition of "underground"? Metal was one of the first underground musics to span the mainstream and the underground at the same time. This topic looks at the underground end of the genre, extreme metal and its four subgenres (thrash, death, black and doom), and then at the Melvins, a band that represents underground metal differently from the extreme bands: for them it is a chance to be weird, and sometimes just plain bizarre, for the sake of enjoying the music.
+So if metal is so popular, how does it fit our definition of "underground"? Metal was one of the first underground musics to span the mainstream and the underground at the same time. This lesson looks at the underground end of the genre, extreme metal and its four subgenres (thrash, death, black and doom), and then at the Melvins, a band that represents underground metal differently from the extreme bands: for them it is a chance to be weird, and sometimes just plain bizarre, for the sake of enjoying the music.
 
 ## Listen and watch
 

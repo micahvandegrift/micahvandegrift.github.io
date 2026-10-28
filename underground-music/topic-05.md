@@ -1,5 +1,5 @@
 ---
-title: "Topic 5: Politics and Communication"
+title: "Lesson 5: Politics and Communication"
 summary: "Politics in the early underground: the Dead Kennedys, Minor Threat, and the rise of straight edge."
 ---
 
@@ -7,7 +7,7 @@ summary: "Politics in the early underground: the Dead Kennedys, Minor Threat, an
 
 ## Overview
 
-America is a country obsessed with its politics, and for good reason: democracy gives us the opportunity to choose. This topic asks how that choice filters down through different levels of society, and what it meant for the underground in the 1980s. The important shift for this subculture, again a reflection of the 1960s counterculture, is the emphasis on cultural change that would in turn change the political structures of the nation. The mere formation of an "underground" in opposition to a "mainstream" is a culturally progressive movement that affected the political ideas of everyone in it. The "damn the man" attitude carries over into politics.
+America is a country obsessed with its politics, and for good reason: democracy gives us the opportunity to choose. This lesson asks how that choice filters down through different levels of society, and what it meant for the underground in the 1980s. The important shift for this subculture, again a reflection of the 1960s counterculture, is the emphasis on cultural change that would in turn change the political structures of the nation. The mere formation of an "underground" in opposition to a "mainstream" is a culturally progressive movement that affected the political ideas of everyone in it. The "damn the man" attitude carries over into politics.
 
 We look at two kinds of politics in hardcore punk. The first is the outward-facing, satirical politics of the Dead Kennedys and their singer, Jello Biafra. The second is the "personal politics" of Minor Threat, and the straight edge movement that grew out of their songs.
 
@@ -22,7 +22,7 @@ We look at two kinds of politics in hardcore punk. The first is the outward-faci
 
 ## Films
 
-* *The Shield Around the K* (Heather Rose Dominic, 2000), a documentary about K Records (see Topic 4)
+* *The Shield Around the K* (Heather Rose Dominic, 2000), a documentary about K Records (see Lesson 4)
 
 ## Readings
 
@@ -43,7 +43,7 @@ We look at two kinds of politics in hardcore punk. The first is the outward-faci
 
 ## Politics in the early underground
 
-The political context of the 1980s is described in Topic 1: the Misery Index, Reagan, the New Conservatism, Reaganomics and the Yuppies.
+The political context of the 1980s is described in Lesson 1: the Misery Index, Reagan, the New Conservatism, Reaganomics and the Yuppies.
 
 In the punk subculture there are often stereotypical associations of political leanings that may or may not be accurate: anarchist (punk of the 1970s), left wing, radical. These labels fit some people and are complicated to define for others, especially in the political world after 1980. What "left wing" and "right wing" mean depends on the country and the period. In broad terms, the right is associated with social and moral conservatism, order, tradition and religion, and the left with redistributing wealth, equality and secularism.
 

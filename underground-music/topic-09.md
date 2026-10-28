@@ -1,5 +1,5 @@
 ---
-title: "Topic 9: Emo"
+title: "Lesson 9: Emo"
 summary: "What emo is, how technology changed the underground, and two bands that made it accessible: Jawbreaker and Sunny Day Real Estate."
 ---
 
@@ -9,7 +9,7 @@ summary: "What emo is, how technology changed the underground, and two bands tha
 
 What is emo? It can be seen as the culmination of many trends and musical styles from the 1980s and 1990s. The fragmentation of the subculture, due to changing conceptions of what is and isn't acceptable, accounts for the difficulty of explaining and defining emo culture. Over the course of the 1990s, and especially into the 2000s, emo changed hands from one generation to the next, from the underground to the mainstream, and from negative connotations to positive reinforcement.
 
-This topic asks what emo is as a history, a genre and a subculture, then looks at how technology changed the underground, from tapes to CDs and MP3s and from zines to magazines and blogs, and closes with two bands often pointed to as the ones that brought the "down to earth" emotional into emo: Jawbreaker and Sunny Day Real Estate.
+This lesson asks what emo is as a history, a genre and a subculture, then looks at how technology changed the underground, from tapes to CDs and MP3s and from zines to magazines and blogs, and closes with two bands often pointed to as the ones that brought the "down to earth" emotional into emo: Jawbreaker and Sunny Day Real Estate.
 
 ## Listen and watch
 
