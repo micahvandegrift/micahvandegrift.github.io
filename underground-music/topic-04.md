@@ -5,8 +5,6 @@ summary: "What a scene is, the labels that built the 1980s underground, and a cl
 
 # Scenes and Labels
 
-*Topic 4 of the course archive.*
-
 ## Overview
 
 Often there is a specific sound associated with a scene. This topic asks how a scene differs from a subculture, and how we construct scene identity as opposed to subcultural identity. A scene can be talked about as a collective of people, as an ideal, or as a fashion and marketing statement, and it is worth asking whether any one of these is more authentic than the others.

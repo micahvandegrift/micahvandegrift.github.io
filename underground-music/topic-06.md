@@ -5,8 +5,6 @@ summary: "DIY, scene and subculture, indie versus major, and Fugazi, the band th
 
 # DIY, Indie and the Business of Music
 
-*Topic 6 of the course archive.*
-
 ## Overview
 
 This topic is about the principles of the underground: DIY, the difference between a subculture and a scene, and what it means to be independent. DIY (do it yourself) is one of the main dividers between punk and the underground. For the underground, the point was not to destroy the system but to create your own system by your own rules, and to do it well. Independence is at the core of the great debate of the subculture's growth over the past thirty years: indie versus major.

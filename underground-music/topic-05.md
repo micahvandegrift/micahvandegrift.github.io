@@ -5,8 +5,6 @@ summary: "Politics in the early underground: the Dead Kennedys, Minor Threat, an
 
 # Politics and Communication
 
-*Topic 5 of the course archive.*
-
 ## Overview
 
 America is a country obsessed with its politics, and for good reason: democracy gives us the opportunity to choose. This topic asks how that choice filters down through different levels of society, and what it meant for the underground in the 1980s. The important shift for this subculture, again a reflection of the 1960s counterculture, is the emphasis on cultural change that would in turn change the political structures of the nation. The mere formation of an "underground" in opposition to a "mainstream" is a culturally progressive movement that affected the political ideas of everyone in it. The "damn the man" attitude carries over into politics.

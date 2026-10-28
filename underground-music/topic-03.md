@@ -5,8 +5,6 @@ summary: "Hardcore punk: where the sound came from, the zines, labels and skate 
 
 # Hardcore
 
-*Topic 3 of the course archive.*
-
 ## Overview
 
 Sonic Youth were an idealistic influence on the underground. So what was the musical influence? Where did this new sound come from, who were its progenitors, and what were they doing to make it different?

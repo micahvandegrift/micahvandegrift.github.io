@@ -5,8 +5,6 @@ summary: "From the 1980s to the 1990s: lo-fi, Hüsker Dü, Rites of Spring, and 
 
 # The Transition to the 1990s
 
-*Topic 8 of the course archive.*
-
 ## Overview
 
 The move from the 1980s to the 1990s was not only an ideological shift, with the popularity of the underground, but also a musical shift. Ideology is the ideas and manner of thinking characteristic of a group, social class or individual: an organized collection of abstract ideas, a comprehensive vision of a group. The ideology of the underground is wrapped up in its conceptions and definitions of indie and DIY.

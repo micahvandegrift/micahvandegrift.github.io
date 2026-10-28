@@ -5,8 +5,6 @@ summary: "What emo is, how technology changed the underground, and two bands tha
 
 # Emo
 
-*Topic 9 of the course archive.*
-
 ## Overview
 
 What is emo? It can be seen as the culmination of many trends and musical styles from the 1980s and 1990s. The fragmentation of the subculture, due to changing conceptions of what is and isn't acceptable, accounts for the difficulty of explaining and defining emo culture. Over the course of the 1990s, and especially into the 2000s, emo changed hands from one generation to the next, from the underground to the mainstream, and from negative connotations to positive reinforcement.

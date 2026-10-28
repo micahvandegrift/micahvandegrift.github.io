@@ -5,8 +5,6 @@ summary: "Is underground still possible? Indie, fan culture and DIY in the late 
 
 # Is "Underground" Still Possible?
 
-*Topic 15 of the course archive.*
-
 ## Overview
 
 Moving from the 1990s into the 2000s, there is again a shift in the underground, probably due to the popularization of certain elements (emo, indie) and to technological advances in music production and communication. What is the definition of indie now? Does it reflect the history of this subculture? Is "underground" still possible?
