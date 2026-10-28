@@ -12,7 +12,7 @@ Confidence column:
 - **WEAK**: a fan upload, a live recording, or a whole-album video. Better to find another.
 - **NOT FOUND**: no usable result. Needs another search, or Micah may know the song under a different title.
 
-Tally: 49 likely, 21 CHECK, 5 WEAK, 3 NOT FOUND.
+Tally (before Micah's answers): 49 likely, 21 CHECK, 5 WEAK, 3 NOT FOUND. Since then: #49 has a link from Micah and #69 now has a candidate; only #43 (weak) and #58 remain open.
 
 ## Candidates
 
@@ -66,7 +66,7 @@ Tally: 49 likely, 21 CHECK, 5 WEAK, 3 NOT FOUND.
 | 46 | Breakfast Of Champions | Rainer Maria | [watch](https://www.youtube.com/watch?v=OPz6DBaTIKI) | likely | Rainer Maria - Breakfast Of Champions Alternates: `d10_KPBgT0A` |
 | 47 | Quantis | Reversal of Man | [watch](https://www.youtube.com/watch?v=XyDx4VRSLHA) | likely | Reversal of Man - Quantis (from Revolution Summer 10in) |
 | 48 | Never Meant | American Football | [watch](https://www.youtube.com/watch?v=9pG7ipdK-q8) | likely | Never Meant (plain) Alternates: `q_MBxKPA8OE`, `_NfnXdXpjL0` |
-| 49 | Alabaster | Assuck | - | NOT FOUND | NONE (Assuck results are albums Misery Index / Anticapital / Blindspot; no "Alabaster" or "403 Chaos" found - LIKELY WRONG TITLE, ask Micah) -  |
+| 49 | Alabaster | Assuck | [watch](https://www.youtube.com/watch?v=lctx-SVucyE) | MICAH'S LINK | Link supplied by Micah on October 28, 2026; I have not checked what it is. Our title and album (403 Chaos) could not be found in search. |
 | 50 | Please Drive Faster | Braid | [watch](https://www.youtube.com/watch?v=BoOamMilf7g) | likely | Please Drive Faster (plain; Polyvinyl 1999) Alternates: `q3nV6zFGAIc` |
 | 51 | Victim Convenience | The Faint | [watch](https://www.youtube.com/watch?v=Bs0M1sUr1PA) | likely | The Faint - Victim Convenience [Official Audio] Alternates: `nGTWufWwWqs`, `hCYdcUBHWh0` |
 | 52 | Welcome to Berkely | Fifteen | [watch](https://www.youtube.com/watch?v=o_sDp9pZxqM) | likely | Welcome To Berkeley (plain; Fifteen, Lucky, Hopeless 1999) |
@@ -86,7 +86,7 @@ Tally: 49 likely, 21 CHECK, 5 WEAK, 3 NOT FOUND.
 | 66 | The Hands of Men | Twothirtyeight | [watch](https://www.youtube.com/watch?v=purKkm7Wuco) | CHECK | twothirtyeight - The Hands of Men (fan upload; opener of Regulate the Chemicals) Alternates: `vKqZF7FucrE`, `lOPfr7GL-RM` |
 | 67 | Leaf House | Animal Collective | [watch](https://www.youtube.com/watch?v=VPWR98JCCRE) | likely | Animal Collective - Leaf House Alternates: `lIbf5-BEqjA` |
 | 68 | For Kate I Wait | Ariel Pink's Haunted Graffiti | [watch](https://www.youtube.com/watch?v=Up8P1-2CnAw) | CHECK | Ariel Pink's Haunted Graffiti - For Kate I Wait. NOTE: results date The Doldrums to 2000 (AjA Records), list says 2004 (Paw Tracks reissue year) Alternates: `-qWUCvhLmk0`, `61kvYtEs2-4` |
-| 69 | It's A Sight To Behold | Devendra Banhart | [watch](https://www.youtube.com/watch?v=H_suhpnkLzk) | NOT FOUND | Only a cover ("A Sight to Behold") was found; no original upload |
+| 69 | It's A Sight To Behold | Devendra Banhart | [watch](https://www.youtube.com/watch?v=wcm9CFgy2m0) | CHECK | Real title is "A Sight to Behold" (track 2 of *Rejoicing in the Hands*, 2004, Young God). Plain-title upload; not played. Alternates: `RwdmParfW7c` |
 | 70 | Ocean Breathes Salty | Modest Mouse | [watch](https://www.youtube.com/watch?v=TPhnOKmhbBw) | likely | Modest Mouse - Ocean Breathes Salty (Official Music Video) Alternates: `1HUqreTtn-A` |
 | 71 | Reinventing Your Exit | Underoath | [watch](https://www.youtube.com/watch?v=TOdfV1EjUgg) | likely | Underoath - Reinventing Your Exit Alternates: `86qJhoBqgo8`, `TsRzyWp0Kr0` |
 | 72 | An Inquest Concerning Teeth | Earth | [watch](https://www.youtube.com/watch?v=sjSGofvo2aM) | likely | An Inquest Concerning Teeth (plain; Southern Lord, album Hex: Or Printing in the Infernal Method) |
@@ -97,10 +97,15 @@ Tally: 49 likely, 21 CHECK, 5 WEAK, 3 NOT FOUND.
 | 77 | I Feel It All | Feist | [watch](https://www.youtube.com/watch?v=g-1Gb2rxzlk) | likely | Feist - I Feel It All Alternates: `L0IO1m7ezYQ` |
 | 78 | The Youth | MGMT | [watch](https://www.youtube.com/watch?v=jgTrAfS0BD0) | likely | The Youth (plain) Alternates: `EURZuzHyWb0` |
 
-## Questions for Micah
+## Decisions (October 28, 2026)
 
-- **Assuck, "Alabaster" (#49)**: searches found only Assück's albums *Misery Index*, *Anticapital* and *Blindspot*, not a song called "Alabaster" or an album called *403 Chaos*. The title may be wrong in the original file. Do you remember the song?
-- **Ghosts and Vodka, "Four Red Brains" (#58)** and **Devendra Banhart, "It's a Sight to Behold" (#69)**: no original recording turned up. Banhart's song may be titled "A Sight to Behold."
-- **Spelling fixes**: "Pink Rock Song" (#34) is almost certainly Bad Religion's "Punk Rock Song." "Full Discosure" (#60) is "Full Disclosure," "Welcome to Berkely" (#52) is "Welcome to Berkeley," and "What Whorse You Wrote Id On" (#62) really is spelled that way on the album. OK to fix on the published page?
-- **Album fields**: a few album titles on our list don't match what the search showed (Rites of Spring, #20 and #21: Dischord lists the 1985 album as self-titled, though it is widely called *End on End*; Texas Is the Reason, #36: the album is *Do You Know Who You Are?*; Sufjan Stevens, #74: *Illinois*, also sold as *Come On Feel the Illinoise!*). Want me to correct these when the page is built?
-- **Whole-song versions**: should I prefer the original studio recording everywhere, even where the official video is easier to find?
+- **Typos:** fix "Pink Rock Song" to "Punk Rock Song," "Welcome to Berkely" to "Welcome to Berkeley," and "Full Discosure" to "Full Disclosure" on the published page. Keep Owls' "What Whorse You Wrote Id On" as the album spells it.
+- **Albums:** correct to the standard titles: Texas Is the Reason, *Do You Know Who You Are?*; Sufjan Stevens, *Illinois* (also sold as *Come On Feel the Illinoise!*); Rites of Spring, the self-titled 1985 album (widely called *End on End*). The Hüsker Dü, Beat Happening, Dead Kennedys, Sonic Youth and Possessed album fields are still marked CHECK above.
+- **Versions:** link the original studio recording wherever there is a choice.
+- **Assuck (#49):** Micah supplied the link himself (above).
+
+## Still open
+
+- **Ghosts and Vodka, "Four Red Brains" (#58):** no recording or tracklist found. The band's album *Precious Blood* (2001) and its debut 7-inch *Memento Mori* exist, so the song title may be wrong in the original file. Do you remember it, or should it be dropped from the page?
+- **Cursive, "A Career in Transcendence" (#43):** only a whole-album upload turned up. Need a better link.
+- **Rows marked CHECK or WEAK:** need a listen before they go on the site.
