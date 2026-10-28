@@ -45,9 +45,3 @@ Sponsored and facilitated a virtual creative residency to develop a VR experienc
 
 * [Project description](https://www.lib.ncsu.edu/projects/tally-tracker-explorer)
 * [Preview Tally Tracker Explorer](https://www.youtube.com/watch?v=Gbm5D0nfwJs)
-
-## Underground Music in America
-
-An archive of an undergraduate course I taught at Florida State University while in graduate school: lecture-style lessons on American underground music from 1980 to the present, with the listening list, readings, and films.
-
-* [Explore the course archive](/underground-music/)

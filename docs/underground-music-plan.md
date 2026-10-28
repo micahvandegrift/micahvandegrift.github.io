@@ -135,10 +135,13 @@ Each has my recommendation. Micah decides.
    concern is student voices. Original note: Recommended: upload to YouTube as unlisted, or Archive.org,
    and embed. Think first about whether student voices are in them, and
    whether Micah is comfortable publishing that.
-5. **Visibility. DECIDED (October 28, 2026): link it and hide it from search.**
-   Linked from the Projects page; every course page carries a "noindex" tag
-   (in `_layouts/class.html`) asking search engines not to list it. This is a
-   request, not a lock: the repository and pages are still public. Original note: The microsite isn't linked from the main site. Options:
+5. **Visibility. DECIDED (October 28, 2026): keep it unlinked and hide it from
+   search.** It is not linked from the main site or the Projects page, and
+   every course page carries a "noindex" tag (in `_layouts/class.html`) asking
+   search engines not to list it. This is a request, not a lock: the
+   repository and pages are still public, so anyone with the address can read
+   them. (Micah first chose to link it from Projects, then reversed that the
+   same day.) Original note: The microsite isn't linked from the main site. Options:
    keep it that way; link it from the homepage or Projects page; add a
    "please don't index" tag so search engines skip it. Recommended: decide
    at launch.
@@ -217,7 +220,7 @@ Left over from this phase:
 ### Phase 6: Launch
 - [ ] Final privacy sweep: no phone numbers, no email except
       `micahvandegrift (at) gmail.com`, no student names
-- [ ] Decide visibility (decision 5) and add any link from the main site
+- [x] Decide visibility (decision 5): unlinked and hidden from search (done; no link from the main site)
 - [ ] Proofread the home page and every topic page
 - [ ] Merge, then confirm the "pages build and deployment" action succeeds
 
