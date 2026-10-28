@@ -51,6 +51,10 @@ See [Texts and Readings](/underground-music/texts.html) for library links and th
 
 See [Films](/underground-music/films.html) for directors, years and the topics where each film comes up.
 
+## Listening
+
+The [Listening List](/underground-music/listening.html) has every song on the course list, with a link to a recording of each.
+
 ## Themes to emphasize
 
 * Sense of community
