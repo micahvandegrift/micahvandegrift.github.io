@@ -10,6 +10,8 @@ From Minor Threat to Mineral, underground music has moved and changed the youth 
 
 ![Course flyer: a crowd surrounds a singer at a hardcore show. Text reads "Underground Music in America, 1980-Present, AMS 3810-01".](/underground-music/images/course-flyer.jpg)
 
+*Flyer photo: Josh Mason.*
+
 This site is an archive of an undergraduate course I taught at Florida State University while I was in graduate school, for five semesters. It collects my lecture notes, the music and films we listened to and watched, and the readings.
 
 ## Course description
