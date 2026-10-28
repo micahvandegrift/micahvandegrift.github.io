@@ -1,5 +1,5 @@
 ---
-title: "Topic 13: New Weird America and the Folk Re-revival"
+title: "Lesson 13: New Weird America and the Folk Re-revival"
 summary: "Elliott Smith, New Weird America and the folk re-revival of the early 2000s."
 ---
 
@@ -7,7 +7,7 @@ summary: "Elliott Smith, New Weird America and the folk re-revival of the early 
 
 ## Overview
 
-Moving from the 1990s into the 2000s, there is again a shift in the underground. It is probably due to the popularization of certain elements (emo, indie) and to technological advances in music production and communication. This topic follows one thread of that shift: the folk re-revival. Elliott Smith is the precursor, a songwriter who took steps toward a folk revival, using songs as stories and approaching music as art. After him comes "New Weird America," the psychedelic folk movement of the early 2000s, which makes direct references and homage to the 1960s.
+Moving from the 1990s into the 2000s, there is again a shift in the underground. It is probably due to the popularization of certain elements (emo, indie) and to technological advances in music production and communication. This lesson follows one thread of that shift: the folk re-revival. Elliott Smith is the precursor, a songwriter who took steps toward a folk revival, using songs as stories and approaching music as art. After him comes "New Weird America," the psychedelic folk movement of the early 2000s, which makes direct references and homage to the 1960s.
 
 ## Listen and watch
 

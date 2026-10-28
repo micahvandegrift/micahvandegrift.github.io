@@ -1,5 +1,5 @@
 ---
-title: "Topic 16: Florida's Underground Music Scenes"
+title: "Lesson 16: Florida's Underground Music Scenes"
 summary: "Florida's underground: geography, population, and the scenes of the north, center and south."
 ---
 
@@ -7,7 +7,7 @@ summary: "Florida's underground: geography, population, and the scenes of the no
 
 ## Overview
 
-Florida has a distinct personality in the underground. It is a product of several things: geography, demography, and a history of punk that is the same as the national story but that, for some reason, the national story did not acknowledge. This topic walks through that history and the state's three regional scenes, and ends with a shift in the early 2000s from heavy music toward emo.
+Florida has a distinct personality in the underground. It is a product of several things: geography, demography, and a history of punk that is the same as the national story but that, for some reason, the national story did not acknowledge. This lesson walks through that history and the state's three regional scenes, and ends with a shift in the early 2000s from heavy music toward emo.
 
 ## Listen and watch
 

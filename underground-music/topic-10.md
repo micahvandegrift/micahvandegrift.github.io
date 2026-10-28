@@ -1,5 +1,5 @@
 ---
-title: "Topic 10: New Scenes, Labels, Clubs and Sounds"
+title: "Lesson 10: New Scenes, Labels, Clubs and Sounds"
 summary: "The labels, clubs and scenes of the mid-to-late 1990s, and a case study of Chicago and the Kinsella family of bands."
 ---
 
@@ -7,7 +7,7 @@ summary: "The labels, clubs and scenes of the mid-to-late 1990s, and a case stud
 
 ## Overview
 
-This topic covers the mid-to-late 1990s transitions in indie, emo and the underground: the labels that grew up around the music, and the clubs and scenes. The point of looking at a case study like Chicago, and of watching a film about Saddle Creek, is to see how scenes, especially in mid-1990s emo, are incestuous. The mainstream is constantly trying to put everything in one category, while a close look shows that regions still maintained specific sounds.
+This lesson covers the mid-to-late 1990s transitions in indie, emo and the underground: the labels that grew up around the music, and the clubs and scenes. The point of looking at a case study like Chicago, and of watching a film about Saddle Creek, is to see how scenes, especially in mid-1990s emo, are incestuous. The mainstream is constantly trying to put everything in one category, while a close look shows that regions still maintained specific sounds.
 
 ## Listen and watch
 

@@ -1,5 +1,5 @@
 ---
-title: "Topic 12: Religion in the Underground"
+title: "Lesson 12: Religion in the Underground"
 summary: "Krishnacore, Christian hardcore and Pedro the Lion: religion in the underground."
 ---
 
@@ -9,7 +9,7 @@ summary: "Krishnacore, Christian hardcore and Pedro the Lion: religion in the un
 
 Is the morality and ethics of underground music easily connected to religious ideas? Why is this a theme in a course on underground music? Religion is a part of American culture. Current groups are addressing similar issues. And often the language and ideals of the underground are religious in tone: believe, authenticity, morality, truth, suffering, persecution.
 
-The most obvious link to religious ideas is the connection to straight edge, a moral lifestyle. This topic follows that thread into Krishnacore, then into Christian punk and hardcore, and closes with Pedro the Lion, a band that gives voice to the questions its songwriter has about the Christian upbringing that shaped him.
+The most obvious link to religious ideas is the connection to straight edge, a moral lifestyle. This lesson follows that thread into Krishnacore, then into Christian punk and hardcore, and closes with Pedro the Lion, a band that gives voice to the questions its songwriter has about the Christian upbringing that shaped him.
 
 ## Listen and watch
 

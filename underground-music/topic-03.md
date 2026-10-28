@@ -1,5 +1,5 @@
 ---
-title: "Topic 3: Hardcore"
+title: "Lesson 3: Hardcore"
 summary: "Hardcore punk: where the sound came from, the zines, labels and skate culture around it, and the first hardcore records."
 ---
 
@@ -9,7 +9,7 @@ summary: "Hardcore punk: where the sound came from, the zines, labels and skate 
 
 Sonic Youth were an idealistic influence on the underground. So what was the musical influence? Where did this new sound come from, who were its progenitors, and what were they doing to make it different?
 
-In the early 1980s, kids were looking for a style with the ferocity of punk, minus the fashion of New Wave. Hardcore punk was the answer: a bastard child of punk rock. It took its influence from British and American punk bands, stripping bare the song structure and the fashion of the mainstream. This topic looks at where hardcore started in Southern California and the East Coast, the fanzines, record labels and radio shows that spread it, and the skateboard culture that grew up beside it.
+In the early 1980s, kids were looking for a style with the ferocity of punk, minus the fashion of New Wave. Hardcore punk was the answer: a bastard child of punk rock. It took its influence from British and American punk bands, stripping bare the song structure and the fashion of the mainstream. This lesson looks at where hardcore started in Southern California and the East Coast, the fanzines, record labels and radio shows that spread it, and the skateboard culture that grew up beside it.
 
 ## Listen and watch
 

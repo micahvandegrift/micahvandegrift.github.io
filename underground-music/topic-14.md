@@ -1,5 +1,5 @@
 ---
-title: "Topic 14: Visual Art and Authenticity"
+title: "Lesson 14: Visual Art and Authenticity"
 summary: "Art Chantry, Frank Kozik, Winston Smith and Jem Cohen: high art, low art and the look of the underground."
 ---
 
@@ -7,9 +7,9 @@ summary: "Art Chantry, Frank Kozik, Winston Smith and Jem Cohen: high art, low a
 
 ## Overview
 
-The common thought, when discussing punk art, is that it is associated with the working class, a lack of skill, and carelessness about making art. That is not to say it lacks meaning for the people producing it, but viewed from the outside it does not at first come off as high art. The artists in this topic are working against that misconception. They create the visuals that accompany the subculture, sometimes affecting the mainstream culture more than the music or its messages.
+The common thought, when discussing punk art, is that it is associated with the working class, a lack of skill, and carelessness about making art. That is not to say it lacks meaning for the people producing it, but viewed from the outside it does not at first come off as high art. The artists in this lesson are working against that misconception. They create the visuals that accompany the subculture, sometimes affecting the mainstream culture more than the music or its messages.
 
-This topic is about high art versus low art in the underground: the poster and album cover artists Art Chantry, Frank Kozik and Winston Smith, and the filmmaker Jem Cohen.
+This lesson is about high art versus low art in the underground: the poster and album cover artists Art Chantry, Frank Kozik and Winston Smith, and the filmmaker Jem Cohen.
 
 ## Listen and watch
 
@@ -20,7 +20,7 @@ This topic is about high art versus low art in the underground: the poster and a
 
 ## Films
 
-* *Instrument* (Jem Cohen's 1999 film about Fugazi; see Topics 6 and 8)
+* *Instrument* (Jem Cohen's 1999 film about Fugazi; see Lessons 6 and 8)
 
 ## Readings
 

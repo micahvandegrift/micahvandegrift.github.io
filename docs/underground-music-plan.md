@@ -46,6 +46,13 @@ Done and live (pull request 22 merged October 24, 2026):
 - [x] All the syllabi read and merged into one topic list (16 topics)
 - [x] The listening list found, cleaned up and merged with the 1994-2001 list
 
+**October 28, 2026:** the Texts and Films pages are live (pull requests 26 and
+27). A Listening List page (78 songs, a YouTube link each) is built; about 26
+of its links are marked CHECK or WEAK in
+`docs/underground-music-listening-links.md` and still need Micah's listen.
+Micah also renamed "topics" to **lessons** everywhere on the site; the files
+keep the names `topic-01.md` to `topic-16.md`.
+
 **October 27, 2026:** all 16 topics are written as stand-alone text, live at
 `underground-music/topic-01.md` to `topic-16.md` (pull request 25, merged and
 deployed). The text was
@@ -188,10 +195,10 @@ Left over from this phase:
 - [ ] Fill the content gaps listed under Phase 2b (Micah's call)
 
 ### Phase 4: Course-level pages
-- [ ] A Texts and readings page with links (decision 8)
-- [ ] A Films page
-- [ ] A full Listening List page: all songs with a YouTube link for each
-      (Micah confirms each is the right version)
+- [x] A Texts and readings page with links (decision 8)
+- [x] A Films page
+- [x] A full Listening List page: all songs with a YouTube link for each
+      (built October 28; Micah still confirms the CHECK/WEAK links)
 
 ### Phase 5: Recordings
 - [ ] Choose where they live (decision 4)

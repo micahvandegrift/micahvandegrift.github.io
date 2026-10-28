@@ -1,5 +1,5 @@
 ---
-title: "Topic 8: The Transition to the 1990s"
+title: "Lesson 8: The Transition to the 1990s"
 summary: "From the 1980s to the 1990s: lo-fi, Hüsker Dü, Rites of Spring, and 1994, the year indie rock took shape."
 ---
 
@@ -11,7 +11,7 @@ The move from the 1980s to the 1990s was not only an ideological shift, with the
 
 To describe the ideological shift: in the first three quarters of the twentieth century it was easy to sort music into a stylistic core (whatever was popular and easily accessible: Tin Pan Alley, jazz, disco) and a periphery (under the radar, different from the norm: blues, folk, heavy metal). The rise of the 1980s underground, and the transitional genres that carried it into the 1990s, complicate that model considerably. There is no longer a center and a periphery, but a hodgepodge of musics influencing and being influenced by one another.
 
-The transitional genres are second-wave punk, metal, and post-hardcore: emocore, lo-fi and indie. This topic follows them through Hüsker Dü and Rites of Spring in the 1980s, the cultural landscape of the 1990s, and 1994, the year indie rock's shape came into view.
+The transitional genres are second-wave punk, metal, and post-hardcore: emocore, lo-fi and indie. This lesson follows them through Hüsker Dü and Rites of Spring in the 1980s, the cultural landscape of the 1990s, and 1994, the year indie rock's shape came into view.
 
 ## Listen and watch
 
@@ -29,7 +29,7 @@ The transitional genres are second-wave punk, metal, and post-hardcore: emocore,
 
 ## Films
 
-* *Instrument* (Jem Cohen's 1999 film about Fugazi; see Topic 6)
+* *Instrument* (Jem Cohen's 1999 film about Fugazi; see Lesson 6)
 
 ## Readings
 

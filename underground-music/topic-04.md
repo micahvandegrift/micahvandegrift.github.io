@@ -1,5 +1,5 @@
 ---
-title: "Topic 4: Scenes and Labels"
+title: "Lesson 4: Scenes and Labels"
 summary: "What a scene is, the labels that built the 1980s underground, and a close look at Berkeley and 924 Gilman."
 ---
 
@@ -7,7 +7,7 @@ summary: "What a scene is, the labels that built the 1980s underground, and a cl
 
 ## Overview
 
-Often there is a specific sound associated with a scene. This topic asks how a scene differs from a subculture, and how we construct scene identity as opposed to subcultural identity. A scene can be talked about as a collective of people, as an ideal, or as a fashion and marketing statement, and it is worth asking whether any one of these is more authentic than the others.
+Often there is a specific sound associated with a scene. This lesson asks how a scene differs from a subculture, and how we construct scene identity as opposed to subcultural identity. A scene can be talked about as a collective of people, as an ideal, or as a fashion and marketing statement, and it is worth asking whether any one of these is more authentic than the others.
 
 We look at the major American scenes and record labels of the 1980s: Dischord in Washington, DC; SST in Southern California; Touch and Go in Michigan and Chicago; Sub Pop in Seattle; Kill Rock Stars and K Records in the Pacific Northwest; and Mordam, the distribution company that tied many of them together. Then we look closely at one scene, Berkeley, California, through the all-ages club 924 Gilman and two of its bands, Fifteen and Operation Ivy.
 

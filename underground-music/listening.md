@@ -7,7 +7,7 @@ summary: "The songs from the course listening list, with a link to a recording o
 
 These are the songs students heard in the course, roughly in the order the course covered them, from the Velvet Underground to the indie bands of the late 2000s. Each link goes to a YouTube recording. I chose the original studio recording where I could find it, and some links may be swapped out as they are checked or if a video disappears.
 
-The topic pages list the songs and clips played in each lesson. This is the whole list in one place.
+The lesson pages list the songs and clips played in each lesson. This is the whole list in one place.
 
 * I'm Waiting For The Man — The Velvet Underground, *The Velvet Underground & Nico*. [Listen](https://www.youtube.com/watch?v=YbigVkiAe0s)
 * I Wanna Be Your Dog — The Stooges, *The Stooges*. [Listen](https://www.youtube.com/watch?v=3gsWt7ey6bo)

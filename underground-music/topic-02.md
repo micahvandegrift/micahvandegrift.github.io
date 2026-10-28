@@ -1,5 +1,5 @@
 ---
-title: "Topic 2: No Wave and Sonic Youth"
+title: "Lesson 2: No Wave and Sonic Youth"
 summary: "No Wave in late-1970s New York, and Sonic Youth: from experimental noise to a major label, and what they gave the underground."
 ---
 
@@ -7,7 +7,7 @@ summary: "No Wave in late-1970s New York, and Sonic Youth: from experimental noi
 
 ## Overview
 
-This topic starts in New York with No Wave, an offshoot of late-1970s punk that rejected melody and technique, and then follows Sonic Youth, a band that came out of punk, mixed it with No Wave and tied it to experimental music. Formed in New York in 1981, they went from dissonant tunings and "prepared" instruments to a major label deal, and one of their albums, *Daydream Nation*, was later added to the Library of Congress's National Recording Registry.
+This lesson starts in New York with No Wave, an offshoot of late-1970s punk that rejected melody and technique, and then follows Sonic Youth, a band that came out of punk, mixed it with No Wave and tied it to experimental music. Formed in New York in 1981, they went from dissonant tunings and "prepared" instruments to a major label deal, and one of their albums, *Daydream Nation*, was later added to the Library of Congress's National Recording Registry.
 
 Sonic Youth are a case study in what the underground could do. They asked to be taken seriously as art, reached back before punk for influence, treated relationships and networking as currency, and brought the idea of "negation" back into rock. In the words of the reading, they were "more an inspiration than an influence."
 
@@ -27,7 +27,7 @@ Sonic Youth are a case study in what the underground could do. They asked to be 
 * Thurston Moore in Sinker, *We Owe You Nothing*
 * Sonic Youth in Azerrad, *Our Band Could Be Your Life*
 
-Further reading: Greil Marcus's 1983 *Artforum* piece on Sonic Youth. Azerrad pages cited in this topic: 232, 238, 243, 249, 254-256, 262-265 and 273.
+Further reading: Greil Marcus's 1983 *Artforum* piece on Sonic Youth. Azerrad pages cited in this lesson: 232, 238, 243, 249, 254-256, 262-265 and 273.
 
 ## Discussion questions
 

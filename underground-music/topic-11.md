@@ -1,5 +1,5 @@
 ---
-title: "Topic 11: Gender in the Underground"
+title: "Lesson 11: Gender in the Underground"
 summary: "Riot grrrl and queercore: gender, zines and the underground in the 1990s."
 ---
 
