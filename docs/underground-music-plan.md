@@ -46,6 +46,10 @@ Done and live (pull request 22 merged October 24, 2026):
 - [x] All the syllabi read and merged into one topic list (16 topics)
 - [x] The listening list found, cleaned up and merged with the 1994-2001 list
 
+**November 4, 2026:** Micah decided everything left is fine as is. The course
+archive is finished and live, with the unchecked listening links, recordings
+and content gaps left as they are. (`[-]` below means closed without doing.)
+
 **October 28, 2026:** the Texts and Films pages are live (pull requests 26 and
 27). A Listening List page (78 songs, a YouTube link each) is built; about 26
 of its links are marked CHECK or WEAK in
@@ -204,26 +208,33 @@ have no links yet (Phase 4).
 
 All 16 topics were written in one round (Phase 2b) instead of one at a time.
 Left over from this phase:
-- [ ] Add links to each topic's "Listen and watch" lists (follows the Listening
-      List in Phase 4; Micah confirms each link)
-- [ ] Fill the content gaps listed under Phase 2b (Micah's call)
+- [-] Add links to each lesson's "Listen and watch" lists. Closed November 4,
+      2026: Micah says it is fine as is. The Listening List page has the links.
+- [-] Fill the content gaps listed under Phase 2b. Closed November 4, 2026:
+      Micah says it is fine as is.
 
 ### Phase 4: Course-level pages
 - [x] A Texts and readings page with links (decision 8)
 - [x] A Films page
 - [x] A full Listening List page: all songs with a YouTube link for each
-      (built October 28; Micah still confirms the CHECK/WEAK links)
+      (built October 28. Micah decided November 4 that the links are fine as is;
+      the CHECK/WEAK list stays in `underground-music-listening-links.md` if he
+      ever wants to revisit)
 
 ### Phase 5: Recordings
-- [ ] Choose where they live (decision 4)
-- [ ] Add a Recording section to the topics they belong to
+- [-] Choose where they live (decision 4). Skipped for now (October 28, 2026).
+- [-] Add a Recording section to the lessons they belong to. Skipped for now.
 
 ### Phase 6: Launch
-- [ ] Final privacy sweep: no phone numbers, no email except
-      `micahvandegrift (at) gmail.com`, no student names
+- [-] Final privacy sweep: no phone numbers, no email except
+      `micahvandegrift (at) gmail.com`, no student names. Micah said everything
+      left is fine as is (November 4, 2026). A quick search of the published
+      files that day found no phone numbers and no email except the plain-text
+      one; names were not re-read.
 - [x] Decide visibility (decision 5): unlinked and hidden from search (done; no link from the main site)
-- [ ] Proofread the home page and every topic page
-- [ ] Merge, then confirm the "pages build and deployment" action succeeds
+- [-] Proofread the home page and every lesson page. Closed November 4, 2026.
+- [x] Merge, then confirm the "pages build and deployment" action succeeds
+      (done for every pull request through number 29)
 
 ## Start here when Micah is back at the laptop
 
